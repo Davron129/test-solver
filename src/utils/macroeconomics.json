@@ -1,0 +1,4202 @@
+[
+    {
+      "question": "Makroiqtisodiyot qanday darajadagi iqtisodiyot?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Butun milliy va jahon iqtisodiyoti;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Butun xalq xo`jaligi;"
+        },
+        {
+          "isTrue": false,
+          "answer": " Iqtisodiyotning davlat sektori;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotning kooperativ sektori;"
+        }
+      ]
+    },
+    {
+      "question": "Milliy iqtisod tarmoq tuzilishining rivojlanishiga ta’sir ko`rsatuvchi asosiy omil nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Mehnat taqsimotining chuqurlashuvi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Fan-texnika taraqqiyoti;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy integrasiya;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnat kooperasiyasi;"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiy ko`rsatgichlar yordamida nimalar taxlil qilinadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Milliy ishlab chiqarish xajmi; milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar; milliy iqtisodiyotdagi muvozanatlik va bandlik"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish xajmi; milliy iqtisodiyot faoliyat qilishiga ta’sir qiluvchi omillar"
+        },
+        {
+          "isTrue": false,
+          "answer": "milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar aniqlanadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi yotdagi muvozanatlik va bandlikka baxo beriladi;"
+        }
+      ]
+    },
+    {
+      "question": "Nima uchun jami ijtimoiy mahsulot ko`rsatgichi milliy iqtisodiyotning rivojlanish darajasini to`liq tavsiflab berolmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Oraliq mahsulotlar qiymati bir necha marta hisobga olinadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Faqat moddiy ishlab chiqarish soxalari natijalarini hisobga olish bilan cheklanadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Xizmatlar qiymatini o`z ichiga olmaydi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Bozor baxolari bo`yicha hisoblanmaydi;"
+        }
+      ]
+    },
+    {
+      "question": "Pirovard mahsulot – bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iste’mol uchun tayyor bo`lgan, sotilgan yoki sotiladigan tovar va xizmatlarning bozor baxosidagi xajmi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlov beriladigan mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Qayta ishlanadigan mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Sotish maqsadida xarid qilingan tovarlar;"
+        }
+      ]
+    },
+    {
+      "question": "Milliy boylik tushunchasiga quyidagilardan qaysi biri mos?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ajdodlar mehnati bilan yaratilgan va jamiyatda jamg‘arilib kelingan ne'matlar va tabiat in'omlari yig‘indisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "holi qo‘lida to‘plangan mablag‘lar"
+        },
+        {
+          "isTrue": false,
+          "answer": "yer osti va yer usti boyliklari"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishloq ho‘jaligida yaratilgan mahsulotlar"
+        }
+      ]
+    },
+    {
+      "question": "Ko‘rsatilganlardan qaysi biri iqtisodiy potensialning omillariga kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "jamg‘arilgan potensial"
+        },
+        {
+          "isTrue": false,
+          "answer": "mehnat potensiali"
+        },
+        {
+          "isTrue": false,
+          "answer": "ilm-ma'rifat potensiali"
+        },
+        {
+          "isTrue": false,
+          "answer": "texnologik, tabiiy potensial"
+        }
+      ]
+    },
+    {
+      "question": "Pul nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "umumiy ekvivalent vazifasini bajaruvchi mahsus tovar"
+        },
+        {
+          "isTrue": false,
+          "answer": "maxsus tovar"
+        },
+        {
+          "isTrue": false,
+          "answer": "qimmatbaho qog‘oz"
+        },
+        {
+          "isTrue": false,
+          "answer": "valyuta"
+        }
+      ]
+    },
+    {
+      "question": "Qiymat qonunining ijtimoiy taraqqiyotdagi eng muhim vazifasi nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "texnika taraqqiyotini rag‘batlantiradi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarishni tartibga solish"
+        },
+        {
+          "isTrue": false,
+          "answer": "ijtimoiy mehnat xarajatlarini tejashga undaydi"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovar ishlab chiqaruvchilarni raqobatlashtiradi"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiy maqsadlar nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiy o‘sish, ishsizlik, inflyatsiya va tashqi savdo balansi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy o‘sish, ishsizlik, inflyatsiya va korxona rentabelligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishsizlik, inflyatsiya va tashqi savdo balansi"
+        },
+        {
+          "isTrue": false,
+          "answer": "monopol bozorning tugatilishi"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiy muvozanat – bu ........",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tovar va xizmatlar, pul, sarmoya va mehnat bozoridagi muvozanat."
+        },
+        {
+          "isTrue": false,
+          "answer": "tovar va xizmatlar bozoridagi muvozanat"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul bozoridagi muvozanat"
+        },
+        {
+          "isTrue": false,
+          "answer": "sarmoya bozoridagi muvozanat"
+        }
+      ]
+    },
+    {
+      "question": "Milliy daromad quyidagicha aniqlanadi",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "SM dan egri soliqlarni ayirish orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM dan amortizatsiya xarajatlarini ayirish orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "Aholi daromadlariga to‘g‘ri soliqlarni qo‘shish orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM va SMning yig‘indisi hisoblanadi"
+        }
+      ]
+    },
+    {
+      "question": "Ouken qonuni nimani ifodalaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Inflyatsiya va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Inflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni"
+        }
+      ]
+    },
+    {
+      "question": "Fillips egrisi nimani ifodalaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Inflyatsiya va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "nflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiyot qanday darajadagi iqtisodiyot?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Butun milliy va jahon iqtisodiyoti"
+        },
+        {
+          "isTrue": false,
+          "answer": "Butun xalq xo`jaligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotning davlat sektori"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotning kooperativ sektori;"
+        }
+      ]
+    },
+    {
+      "question": "Milliy iqtisod tarmoq tuzilishining rivojlanishiga ta’sir ko`rsatuvchi asosiy omil nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Mehnat taqsimotining chuqurlashuvi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Fan-texnika taraqqiyoti;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy integrasiya;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnat kooperasiyasi;"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiy ko`rsatgichlar yordamida nimalar taxlil qilinadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Milliy ishlab chiqarish xajmi; milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "milliy iqtisodiyotdagi muvozanatlik va bandlik ishlab chiqarish xajmi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "milliy iqtisodiyot faoliyat qilishiga ta’sir qiluvchi omillar milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi omillar aniqlanadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "milliy iqtisodiyot faoliyat qilishiga ta’sir ko`rsatuvchi yotdagi muvozanatlik va bandlikka baxo beriladi;"
+        }
+      ]
+    },
+    {
+      "question": "Nima uchun jami ijtimoiy mahsulot ko`rsatgichi milliy iqtisodiyotning rivojlanish darajasini to`liq tavsiflab berolmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Oraliq mahsulotlar qiymati bir necha marta hisobga olinadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Faqat moddiy ishlab chiqarish soxalari natijalarini hisobga olish bilan cheklanadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Xizmatlar qiymatini o`z ichiga olmaydi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Bozor baxolari bo`yicha hisoblanmaydi;"
+        }
+      ]
+    },
+    {
+      "question": "Pirovard mahsulot – bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iste’mol uchun tayyor bo`lgan, sotilgan yoki sotiladigan tovar va xizmatlarning bozor baxosidagi xajmi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlov beriladigan mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Qayta ishlanadigan mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Sotish maqsadida xarid qilingan tovarlar;"
+        }
+      ]
+    },
+    {
+      "question": "Milliy boylik tushunchasiga quyidagilardan qaysi biri mos?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ajdodlar mehnati bilan yaratilgan va jamiyatda jamg‘arilib kelingan ne'matlar va tabiat in'omlari yig‘indisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "aholi qo‘lida to‘plangan mablag‘lar"
+        },
+        {
+          "isTrue": false,
+          "answer": "yer osti va yer usti boyliklari"
+        },
+        {
+          "isTrue": false,
+          "answer": "qishloq ho‘jaligida yaratilgan mahsulotlar"
+        }
+      ]
+    },
+    {
+      "question": "Qiymat qonunining ijtimoiy taraqqiyotdagi eng muhim vazifasi nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "texnika taraqqiyotini rag‘batlantiradi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarishni tartibga solish"
+        },
+        {
+          "isTrue": false,
+          "answer": "ijtimoiy mehnat xarajatlarini tejashga undaydi"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovar ishlab chiqaruvchilarni raqobatlashtiradi"
+        }
+      ]
+    },
+    {
+      "question": "Mulkiy munosabatlar deganda nimani tushunasiz? ",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "mulkni o‘zlashtirish jarayonida vujudga keladigan munosabat"
+        },
+        {
+          "isTrue": false,
+          "answer": "mulk moddiy boylik degani"
+        },
+        {
+          "isTrue": false,
+          "answer": "mulk moddiy boyliklar, kiyim-kechaklar, oziq-ovqatlar, zebi-ziynatlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "mulk biror shaxs yoki korxona, tashkilotlarga tegishli narsa"
+        }
+      ]
+    },
+    {
+      "question": "Mulkchilik ob'ektiga quyidagilarning qaysi biri kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xududiy birlashmalar, xar xil tashkilotlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "yer, suv, konlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "o‘simlik va xayvonot dunyosi"
+        },
+        {
+          "isTrue": false,
+          "answer": "mashinalar, uskunalar"
+        }
+      ]
+    },
+    {
+      "question": "Sotsial – iqtisodiy tizim qanday izoxlanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Jamiyatning sotsial-iqtisodiy tuzilishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlab chiqarishni tashkil etuvchi jarayon"
+        },
+        {
+          "isTrue": false,
+          "answer": "Jamiyatning ishlab chiqaruvchi kuchlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "Jamiyatning ishlab chiqarish munosabatlari"
+        }
+      ]
+    },
+    {
+      "question": "Mulkiy jixatdan qaraganda sotsial-iqtisodiy tizimlarni qanday toifalarga ajratish mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Monostrukturali tizim Aralash iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Natural ishlab chiqarish"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovar ishlab chiqarish"
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob yoq"
+        }
+      ]
+    },
+    {
+      "question": "Monoiqtisodiyot qanday izoxlanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Yakka mulk shakliga tayangan iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Bozor iqtisodiyotiga asoslangan iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Erkin raqobatga asoslangan iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Aralash iqtisodiyot"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagilardan qaysi biri poliiqtisodiyot tizimiga mansub?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Turli tuman mulk shaklllariga asoslangan aralash iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Bozor iqtisodiyotiga asoslangan iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Yakka mulk shakliga asoslangan iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Erkin raqobatga asoslangan iqtisodiyot"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagilardan qaysi biri totalitar rejali iqtisodiy tizimga xos emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Ko`p turli mulkchilikka asoslangan erkin iqtisodiyot"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotni davlatlashtirishning yuqori darajasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlab chiqarishni reja asosida amalga oshirish"
+        },
+        {
+          "isTrue": false,
+          "answer": "Siyosatni iqtisodiyotdan ustuvorligi."
+        }
+      ]
+    },
+    {
+      "question": "Firmaning doimiy xarajatlari  bu – ….",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "firma mahsulot ishlab chiqarmasa ham sarflanadigan xarajatlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mahsulot ishlab chiqarish hajmi o‘zgarishiga bog‘liq xarajatlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mahsulot ishlab chiqarish uchun sarflangan o‘rtacha xarajatlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "me’yoriy xarajatlar;"
+        }
+      ]
+    },
+    {
+      "question": "Bozor iqtisodiyotini xarakatga soluvchi vosita xili?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Raqobat"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ish kuchi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovarlarning xilma-xilligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Manfaatlarning ustunligi"
+        }
+      ]
+    },
+    {
+      "question": "Bozor munosabatlari iqtisodning jadal borishini ta'minlovchi qanday kuchni yuzaga chikaradi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiy faoliyat erkinligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Narxlarning liberallashuvi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy monopolizm"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotni davlat tomonidan boshqarilishi"
+        }
+      ]
+    },
+    {
+      "question": "Bozor iqtisodiyotiga o`tish yo`llarining xususiyatlariga xos belgini aniqlang:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Sotsial iqtisodiy sharoit"
+        },
+        {
+          "isTrue": false,
+          "answer": "Geografik joylashuvi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Jahon xo`jaligida tutgan o`rni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy aloqalarning rivojlanishi"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi  ko`rsatilganlardan qaysi biri O`zbekistonning bozor iqtisodiyotiga o`tishda asosiy tamoyillariga xos emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Revolyusion sakrashlar orqali tezlik bilan o`tishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotning siyosatdan ustuvorligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "qonunlarning barcha narsalardan ustun turishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Bosqichma-bosqich utishni ta'minlash"
+        }
+      ]
+    },
+    {
+      "question": "Bozor – bu …",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Ishlab chiqaruvchi va iste'molchilar o`rtasidagi aloqalarni tovar-pul orqali tashkil etilishidan iborat munosabatlar yigindisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Davlat korxonalari va jamoa xo`jaliklari o`rtasidagi munosabatlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Fermer xo`jaliklari va jamoa xo`jaliklari o`rtasidagi munosabatlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ijaraga beruvchilar va ijaraga oluvchilar o`rtasidagi munosabatlar"
+        }
+      ]
+    },
+    {
+      "question": "Bozor ob'ektining tarkibiga quyidagi lardan nimani kiritish mumkin emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yer, suv, tabiiy boyliklar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iste'mol tovarlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlab chiqarish vositalar bo`lgan tovarlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Akliy mehnat maxsuli bo`lgan tovarlar"
+        }
+      ]
+    },
+    {
+      "question": "Bozorning sub'ektlari – ishtirokchilari kimlar?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Sotuvchilar va xaridorlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Dillerlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovar birjalari"
+        },
+        {
+          "isTrue": false,
+          "answer": "Savdo dukonlari"
+        }
+      ]
+    },
+    {
+      "question": "Bozorning vazifalariga quyidagi lardan qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iste'molchilarga tovarlarni reklama qilish"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlab chiqarish bilan iste'molni boglash"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovarni qiymat shaklidan pul shakliga aylantirish"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotni tartibga solishda ishtirok etish"
+        }
+      ]
+    },
+    {
+      "question": "Monopollashgan bozorning xillariga quyidagi lardan qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Rejalashtirilgan bozor"
+        },
+        {
+          "isTrue": false,
+          "answer": "Monopol raqobatli bozor"
+        },
+        {
+          "isTrue": false,
+          "answer": "Oligopolistik bozor"
+        },
+        {
+          "isTrue": false,
+          "answer": "Sof monopoliya bozori"
+        }
+      ]
+    },
+    {
+      "question": "Ayirboshlash miqyosi jixatidan bozor bo'linadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iste'mol tovarlari va xizmatlari bozori"
+        },
+        {
+          "isTrue": false,
+          "answer": "Rejali, tartibga solinadigan bozor"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mahalliy, hududiy bozor"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tashqi bozor"
+        }
+      ]
+    },
+    {
+      "question": "Bozorning yetuklik darajasiga karab qanday darajalarga bulish mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Xozirgi zamon rivojlangan bozori"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tartiblanadigan bozor"
+        },
+        {
+          "isTrue": false,
+          "answer": "Rejalashtiriladigan bozor "
+        },
+        {
+          "isTrue": false,
+          "answer": "Kapitalistik bozor"
+        }
+      ]
+    },
+    {
+      "question": "Talab nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Tolo'vchi qobil, pul bilan ta'minlangan ehtiyoj"
+        },
+        {
+          "isTrue": false,
+          "answer": "Biron-bir ne'matlar va xizmatlarga bo`lgan extiyoj"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iste'molchilarning bozordagi xarakati"
+        },
+        {
+          "isTrue": false,
+          "answer": "Xayotiy extiyoj"
+        }
+      ]
+    },
+    {
+      "question": "Talabga ta'sir qiluvchi omillar ichiga qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Resurslar narxi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mahsulotlar narxi "
+        },
+        {
+          "isTrue": false,
+          "answer": "Xaridor didi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Xaridorlar soni"
+        }
+      ]
+    },
+    {
+      "question": "Bozorda taklif qilinadigan tovar xajmiga narxdan tashkari ta'sir kiladigan omillarga qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iste'molchilarning bozordagi xarakati"
+        },
+        {
+          "isTrue": false,
+          "answer": "Resurslar narxi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ishlab chiqarish texnologiyasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Narx o`zgarishining kutilishi"
+        }
+      ]
+    },
+    {
+      "question": "Nomukammal raqobat turiga quyidagi lardan qaysi biri kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tarmoqlararo raqobat"
+        },
+        {
+          "isTrue": false,
+          "answer": "monopolistik raqobat"
+        },
+        {
+          "isTrue": false,
+          "answer": "oligopolistik raqobat"
+        },
+        {
+          "isTrue": false,
+          "answer": "sof monopoliya raqobati"
+        }
+      ]
+    },
+    {
+      "question": "Narxni aniqlang?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tovar qiymatining puldagi ifodasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarni ayirboshlash shakli"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarga quyilgan xarajatlar miqdori"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarilgan tovarlarni aniqlovchi omil"
+        }
+      ]
+    },
+    {
+      "question": "Narx vazifalariga quyidagi larning qaysi biri kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ishlab chiqarish bilan iste‘molni boglash"
+        },
+        {
+          "isTrue": false,
+          "answer": "bozor munosabatlarini taminlash"
+        },
+        {
+          "isTrue": false,
+          "answer": "hisob-kitob, ulchov vazifasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiy regulyator"
+        }
+      ]
+    },
+    {
+      "question": "Moliyaviy resurslar turiga ko`rsat ilganlardan qaysi biri kiritilmaydi? ",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat ixtiyoridagi resurs"
+        },
+        {
+          "isTrue": false,
+          "answer": "mikroresurslar"
+        },
+        {
+          "isTrue": false,
+          "answer": "makroresurslar"
+        },
+        {
+          "isTrue": false,
+          "answer": "zaxiradagi resurs"
+        }
+      ]
+    },
+    {
+      "question": "Moliyaning vazifalariga ko`rsat ilganlardan qaysi biri kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ishlab chiqarish bilan iste’molchilarni boglash"
+        },
+        {
+          "isTrue": false,
+          "answer": "taqsimlash"
+        },
+        {
+          "isTrue": false,
+          "answer": "ragbatlantirish sotsial ximoya"
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob yoq"
+        }
+      ]
+    },
+    {
+      "question": "Davlat moliyasining tarkuibiga quyidagilardan qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "banklarda jamg‘arilgan jamg‘arlmalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat byudjeti"
+        },
+        {
+          "isTrue": false,
+          "answer": "byudjetdan tashqari uyushtirilgan pul fondlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat krediti"
+        }
+      ]
+    },
+    {
+      "question": "Davlat daromatlarining manbalarini aniqlang?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ichki va tashqi manbalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "aralash manbalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "jamg‘arlma fondlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "amortizatsiya fondlar"
+        }
+      ]
+    },
+    {
+      "question": "Soliqning vazifalariga qaysi ko‘rsatkichlar kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "taqsimlash "
+        },
+        {
+          "isTrue": false,
+          "answer": "fiskal"
+        },
+        {
+          "isTrue": false,
+          "answer": "xo`jalik faoliyatini ragbatlantirish"
+        },
+        {
+          "isTrue": false,
+          "answer": "aholi ayrim toifalarini sotsial ximoya qilish"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi lardan qaysi biri byudjet daromatlarining manbalari emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "milliy daromatning bir qismi"
+        },
+        {
+          "isTrue": false,
+          "answer": "soliqlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "aksiz yiginlari bojxona to`lovlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob yoq"
+        }
+      ]
+    },
+    {
+      "question": "Byudjet xarajatlarining ishlatilishiga qaysi omil kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "jamg‘arlish fondini tashkil qilish uchun"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarishni rivojlantirish"
+        },
+        {
+          "isTrue": false,
+          "answer": "sotsial-madaniy sarflar"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat boshqarish va mudofa sarflari"
+        }
+      ]
+    },
+    {
+      "question": "Bozor iqtisodiyotida taqsimot turiga qaysi biri kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "umumiy taqsimot"
+        },
+        {
+          "isTrue": false,
+          "answer": "taqsimotning dolzarb qoidalari"
+        },
+        {
+          "isTrue": false,
+          "answer": "noekvivalent taqsimot"
+        },
+        {
+          "isTrue": false,
+          "answer": "ekvivalent taqsimot"
+        }
+      ]
+    },
+    {
+      "question": "Taqsimot natijasida mulk egalariega bo`lmaydigan narsani aniqlang?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "obligatsiya"
+        },
+        {
+          "isTrue": false,
+          "answer": "ish haqi"
+        },
+        {
+          "isTrue": false,
+          "answer": "foyda"
+        },
+        {
+          "isTrue": false,
+          "answer": "pensiya"
+        }
+      ]
+    },
+    {
+      "question": "Tumush darajalari bu …",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ehtiyojlarni qadrlash meyorlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "kishilarning iste’mol buyumlari bilan taminlanishщi"
+        },
+        {
+          "isTrue": false,
+          "answer": "yil davomida iste’mol qilingan tovarlar va xizmatlar summasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "hozirgi kundagi iste’mol"
+        }
+      ]
+    },
+    {
+      "question": "Ish haqi nimani ifodalaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ish kuchi sohibining sarflagan mehnatining qiymatini ifodalaydi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ish kuchini ekvivalentligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "mehnat haqini"
+        },
+        {
+          "isTrue": false,
+          "answer": "ish kuchi sohibining tirikchilik vositalari narxini ifodalaydi"
+        }
+      ]
+    },
+    {
+      "question": "Turmush darajasiga tasir etuvchi omillarga qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "soliqlar vatulovlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul daromadining miqdori"
+        },
+        {
+          "isTrue": false,
+          "answer": "narx-navo darajasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlarning mo`l-ko`lligi"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi  tariflardan qaysi biri jaxon xo’jaligini tugri ifodalaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xalqaro iqtisodiy munosabatlar tizimiva ularni amalga oshirishvositalarining"
+        },
+        {
+          "isTrue": false,
+          "answer": "qo`shni mamlakatlar xo`jaligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "o`zaro shartnomalar bilan bog `liq davlatlar yigindisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "bir ijtimoiy tizimga xos mamlakatlar"
+        }
+      ]
+    },
+    {
+      "question": "Jaxon xujaligini moddiy asosini tashkil etuvchi omil?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xalqaro mehnat taqsimoti"
+        },
+        {
+          "isTrue": false,
+          "answer": "geografik muhit"
+        },
+        {
+          "isTrue": false,
+          "answer": "shartnomalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Do‘stona munosabatlar"
+        }
+      ]
+    },
+    {
+      "question": "Xalqaro iqtisodiy munosabatlarning asosiy shakllariga kiritish mumkin emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "mamlakatlarning iqtisodiy tashkilotlariga a'zo bulishlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "savdo-sotiq"
+        },
+        {
+          "isTrue": false,
+          "answer": "xalqaro kredit"
+        },
+        {
+          "isTrue": false,
+          "answer": "integratsiya alokalari"
+        }
+      ]
+    },
+    {
+      "question": "Jaxon bozorining tarkibiga qaysi ko`rsat kich kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "iste’mol tovarlari bozori"
+        },
+        {
+          "isTrue": false,
+          "answer": "xizmatlar moliya bozorlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar bozori"
+        },
+        {
+          "isTrue": false,
+          "answer": "ilmiy ishlamalar,mehnat bozori"
+        }
+      ]
+    },
+    {
+      "question": "Jaxon bozrlari orqali mamlakatlar orasida taxsimlanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pul kapitali,ish kuchi,texnologiya"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiy resurslar"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish kuchlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi milliy mahsulot"
+        }
+      ]
+    },
+    {
+      "question": "Umum jaxon krediti qanday yunalishda boradi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "odatdagi kredit,imtiyozli kredit"
+        },
+        {
+          "isTrue": false,
+          "answer": "uzoq muddatli kredit"
+        },
+        {
+          "isTrue": false,
+          "answer": "chetga kapital chiqarish"
+        },
+        {
+          "isTrue": false,
+          "answer": "qisqa muddatli kredit"
+        }
+      ]
+    },
+    {
+      "question": "Jaxon xujaligida qanday valyuta kursi ma'kul topilgan?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "suzib yuruvchi(tebranuvchi) valyuta kursi"
+        },
+        {
+          "isTrue": false,
+          "answer": "qat'iy valyuta kursi"
+        },
+        {
+          "isTrue": false,
+          "answer": "kelishilgan valyuta turi"
+        },
+        {
+          "isTrue": false,
+          "answer": "territoriyalarning uziga xos valyuta kursi"
+        }
+      ]
+    },
+    {
+      "question": "Mulkchilik sub'ektiga quyidagilardan qay birini kiritish mumkin emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yer, suv, konlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "ayrim kishilar, oilalar, aholining sotsial guruhlari "
+        },
+        {
+          "isTrue": false,
+          "answer": "hududiy birlashmalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "xar xil jamoalar, ijtimoiy, dikiy tashkilotlar"
+        }
+      ]
+    },
+    {
+      "question": "Mulkchilik shakllariga quyidagilardan qaysisini kiritib bo‘lmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat byudjeti"
+        },
+        {
+          "isTrue": false,
+          "answer": "xususiy mulk"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "jamoa mulki"
+        }
+      ]
+    },
+    {
+      "question": "Xususiy mulk nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "daromad topishga qaratilgan mulk"
+        },
+        {
+          "isTrue": false,
+          "answer": "oila a'zolarining mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "diniy tashkilotlar mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "fuqarolar mulki"
+        }
+      ]
+    },
+    {
+      "question": "O‘zbekistonda qaysi soha xususiy mulk bo‘la olmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yer, yerosti, yerusti boyliklari"
+        },
+        {
+          "isTrue": false,
+          "answer": "sanoat korxonalari"
+        },
+        {
+          "isTrue": false,
+          "answer": "xizmat ko‘satish sohasi korxonalari"
+        },
+        {
+          "isTrue": false,
+          "answer": "binolar, inshoatlar"
+        }
+      ]
+    },
+    {
+      "question": "Davlat mulki turlariga quyidagilardan qaysi biri kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "korporativ-guruxiy mulk"
+        },
+        {
+          "isTrue": false,
+          "answer": "respublika ixtiyoridagi mulk"
+        },
+        {
+          "isTrue": false,
+          "answer": "Qoraqalpog‘iston Respublikasi mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "ma'muriy-hududiy (kommunal) mulk"
+        }
+      ]
+    },
+    {
+      "question": "Aralash mulk tarkibiga quyidagilapdan qaysi biri kiritiladi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "chet-el fuqarolari, tashkilotlari mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "ijtimoiy tashkilotlar mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "korporativ-guruxiy mulk"
+        },
+        {
+          "isTrue": false,
+          "answer": "mahalla mulki"
+        }
+      ]
+    },
+    {
+      "question": "Mulkni davlat tasarrufidan chiqarishning maqsadi…",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat tomonidan mulkka nisbatan yakka hokimlikni tugatish "
+        },
+        {
+          "isTrue": false,
+          "answer": "raqobatchilik muhitini shakllantiri"
+        },
+        {
+          "isTrue": false,
+          "answer": "mulkni demokratlashtirish"
+        },
+        {
+          "isTrue": false,
+          "answer": "mulkni tarqatib yuborish"
+        }
+      ]
+    },
+    {
+      "question": "O‘zbekistondan boshqa davlatlarda uchramaydigan mulk turi qaysi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "mahalla mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "diniy tashkilotlar mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "oila mulki"
+        },
+        {
+          "isTrue": false,
+          "answer": "ijtimoiy tashkilotlar mulki"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagilardan qaysi biri taklif omili emas?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Xaridorlar miqdori"
+        },
+        {
+          "isTrue": false,
+          "answer": "mahsulotning tovarlik darajasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqaruvchilar miqdori"
+        },
+        {
+          "isTrue": false,
+          "answer": "resurslar narxi"
+        }
+      ]
+    },
+    {
+      "question": "Bozor muvozanati deb ataladi qachonki…",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "talab va taklif miqdoran hamda tarkiban mos bo`lsa"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlar past bo`lsa"
+        },
+        {
+          "isTrue": false,
+          "answer": "xaridor va sotuvchilar miqdori teng bo`lsa"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlar koniqarli darajada bo`lsa"
+        }
+      ]
+    },
+    {
+      "question": "Talab va taklif muvozanatini kim ta'minlaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "bozor mexanizmi"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat "
+        },
+        {
+          "isTrue": false,
+          "answer": "xaridorlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "sotuvchilar"
+        }
+      ]
+    },
+    {
+      "question": "Tadbirkorlik deb nimaga aytiladi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tavakkalchilik asosida, uz mol-mulki javobgarligi asosida ish yuritish"
+        },
+        {
+          "isTrue": false,
+          "answer": "foyda olish maqsadida ish yuritish"
+        },
+        {
+          "isTrue": false,
+          "answer": "foyda olish maqsadida, tavakkalchilik asosida iqtisodiy faoliyat yuritish"
+        },
+        {
+          "isTrue": false,
+          "answer": "yuqori foyda olish maqsadida qo`shimcha korxonalarni tashkil qilish"
+        }
+      ]
+    },
+    {
+      "question": "Tadbirkorlikning muxim belgilariga quyidagilardan qaysi biri kiritilmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xo`jalikni reja asosida yuritish"
+        },
+        {
+          "isTrue": false,
+          "answer": "mulkiy munosabatlarning ishtirokchisi bo`llish"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiy erkinlik"
+        },
+        {
+          "isTrue": false,
+          "answer": "foyda olish maqsadida ish yuritish"
+        }
+      ]
+    },
+    {
+      "question": "Aksionerlik korxonalarning asosiy maqsadi",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Ishlab chiqarishda band bo`lmagan mablag`larni birlashtirib, uni yangi yo`nalishlarga sarflash"
+        },
+        {
+          "isTrue": false,
+          "answer": "Barcha resurslardan samarali foydalanish"
+        },
+        {
+          "isTrue": false,
+          "answer": "Moddiy resurslardan samarali foydalanish"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnat resurslaridan samarali foydalanish"
+        }
+      ]
+    },
+    {
+      "question": "Aksiya nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Daromaddan o`z ulushini olish huquqini ta’minlovchi qimmatbaho qog`oz"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mulkdan foydalanish xuquqini beradi "
+        },
+        {
+          "isTrue": false,
+          "answer": "Mol-mulkka ega bo`ladi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Qiymatga ega emas."
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiy maqsadlar nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiy o‘sish, ishsizlik, inflyatsiya va tashqi savdo balansi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy o‘sish, ishsizlik, inflyatsiya va korxona rentabelligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishsizlik, inflyatsiya va tashqi savdo balansi"
+        },
+        {
+          "isTrue": false,
+          "answer": "monopol bozorning tugatilishi"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiy muvozanat – bu ........",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tovar va xizmatlar, pul, sarmoya va mehnat bozoridagi muvozanat."
+        },
+        {
+          "isTrue": false,
+          "answer": "tovar va xizmatlar bozoridagi muvozanat"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul bozoridagi muvozanat"
+        },
+        {
+          "isTrue": false,
+          "answer": "sarmoya bozoridagi muvozanat"
+        }
+      ]
+    },
+    {
+      "question": "Milliy daromad quyidagicha aniqlanadi.",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "SM dan egri soliqlarni ayirish orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM dan amortizatsiya xarajatlarini ayirish orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "Aholi daromadlariga to‘g‘ri soliqlarni qo‘shish orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM va SMning yig‘indisi hisoblanadi"
+        }
+      ]
+    },
+    {
+      "question": "Ouken qonuni nimani ifodalaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Inflyatsiya va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Inflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni"
+        }
+      ]
+    },
+    {
+      "question": "Fillips egrisi nimani ifodalaydi",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Inflyatsiya va ishsizlik o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy rivojlanish va inflyatsiya o‘rtasidagi munosabatni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy rivojlanish va ishsizlik o‘rtasidagi munosabatni "
+        },
+        {
+          "isTrue": false,
+          "answer": "Inflyatsiya va tashqi savdo balansi o‘rtasidagi munosabatni"
+        }
+      ]
+    },
+    {
+      "question": "Monetarizm makroiqtisodiy nazariyasining asosida .......... degan fikr yotadi",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiy islohotlarda pul massasini nazorat qilish katta ahamiyatga ega"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy islohotlarda davlat aralashuvi katta ahamiyatga ega"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy islohotlarda chet el investitsiyalari katta ahamiyatga ega"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiy islohotlarda ijtimoiy jamg‘arlmalar katta ahamiyatga ega"
+        }
+      ]
+    },
+    {
+      "question": "Kunikmaga asoslangan taxminlar – bu ......",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "oldingi bo‘lgan hodisalar ta’sirida yuzaga kelgan taxmindir."
+        },
+        {
+          "isTrue": false,
+          "answer": "oldingi xodisalarni hisobga olmagan holda bugungi hodisa"
+        },
+        {
+          "isTrue": false,
+          "answer": "taxlili asosida xosil bo‘lgan taxmindir "
+        },
+        {
+          "isTrue": false,
+          "answer": "kechikishlar asosida yuzaga kelgan taxmindir."
+        }
+      ]
+    },
+    {
+      "question": "Ratsional taxminlar – bu ......",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Oldingi hodisalarni hisobga olmagan holda bugungi hodisa"
+        },
+        {
+          "isTrue": false,
+          "answer": "taxlili asosida hosil bo‘lgan taxmindir"
+        },
+        {
+          "isTrue": false,
+          "answer": "Oldingi bo‘lgan hodisalar ta’sirida yuzaga kelgan taxmindir."
+        },
+        {
+          "isTrue": false,
+          "answer": "Kechikishlar asosida yuzaga kelgan taxmindir."
+        }
+      ]
+    },
+    {
+      "question": "Klassik elastik talab egrisining gorizontal xolatda bo‘lishiga asosiy sabab",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ish xaqining elastikligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "mehnat bozorining shaffofligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ish xaqining pastga nisbatan yopishqoqligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "investitsiya darajasining elastikligi"
+        }
+      ]
+    },
+    {
+      "question": "Real foiz darajasi – bu ......",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "nominal foiz darajasi bilan infilyatsiya o‘rtasidagi farq"
+        },
+        {
+          "isTrue": false,
+          "answer": "nominal pul massasi bilan real pul miqdori o‘rtasidagi farq"
+        },
+        {
+          "isTrue": false,
+          "answer": "kelajakda qilinadigan xarajatlar miqdori"
+        },
+        {
+          "isTrue": false,
+          "answer": "real foiz darajasi bilan infilyatsiya o‘rtasidagi farq"
+        }
+      ]
+    },
+    {
+      "question": "Qanday xususiyatga ega bo‘lgan ashyo pul vazifasini bajarishi mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "qarzni to‘lay olish qobiliyatiga ega bo‘lgan ashyo."
+        },
+        {
+          "isTrue": false,
+          "answer": "Davlat tomonidan qonuniy to‘lov vakolati berilgan."
+        },
+        {
+          "isTrue": false,
+          "answer": "Ikkilamchi bozorga ega bo‘lgan ashyo."
+        },
+        {
+          "isTrue": false,
+          "answer": "Likvidlilik darajasi yuqori bo‘lgan xar qanday ashyo."
+        }
+      ]
+    },
+    {
+      "question": "Pulning klassik funksiyalari qay biri?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "qiymat o‘lchov, ayirbosh va jamg‘arma."
+        },
+        {
+          "isTrue": false,
+          "answer": "Rag‘batlantirish, ayirbosh va qiymat o‘lchov."
+        },
+        {
+          "isTrue": false,
+          "answer": "Gegemonlik, daromadlarni qayta taqsimlovchi va rag‘batlantiruvchi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Jamg‘arma, daromadlarni qayta taqsimlovchi va rag‘batlantiruvchi."
+        }
+      ]
+    },
+    {
+      "question": "Qiymat o‘lchov funksiyasi nuqtai nazardan pul quyidagini ifodalaydi….",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Barcha tovar qiymatini o‘zida aks ettiruvchi tovardir."
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovarlarning sifati va miqdorini aks ettiradigan tovardir. "
+        },
+        {
+          "isTrue": false,
+          "answer": "qarzni to‘lay olish qobiliyatiga ega bo‘lgan tovardir."
+        },
+        {
+          "isTrue": false,
+          "answer": "O‘zaro hisob – kitoblarda tulov vositasi sifatida qatnashadigan tovardir."
+        }
+      ]
+    },
+    {
+      "question": "Pul ayirbosh vositasi funksiyasini bajarishi uchun quyidagi xususiyatlarga ega bo‘lishi kerak…",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Birlikka mos baxo, chidamlilik va bo‘linish."
+        },
+        {
+          "isTrue": false,
+          "answer": "Ixchamlilik, chidamlilik va bo‘linish."
+        },
+        {
+          "isTrue": false,
+          "answer": "Tashib yurishga qulaylilik, ixchamlilik va bo‘linish."
+        },
+        {
+          "isTrue": false,
+          "answer": "Birlikka mos baxo, qulaylilik va ixchamlik."
+        }
+      ]
+    },
+    {
+      "question": "Jamg‘arma vositasi sifatida pul vazifasini bajaruvchi ashyo ……………….. vazifani bajarishi kerak.",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "kelajakdagi to‘lovlar uchun o‘lchov"
+        },
+        {
+          "isTrue": false,
+          "answer": "boylikning qiymatini saqlash"
+        },
+        {
+          "isTrue": false,
+          "answer": "kelajakdagi  moddiy zararlarni himoyalash"
+        },
+        {
+          "isTrue": false,
+          "answer": "boylikning moddiy shaklni saqlash"
+        }
+      ]
+    },
+    {
+      "question": "Pulning zamonoviy funksiyalari bu…",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "rag‘batlantiruvchi, daromadni taqsimlovchi  va kuch-qudrat."
+        },
+        {
+          "isTrue": false,
+          "answer": "jamg‘arma, daromadni taqsimlovchi, ayirbosh."
+        },
+        {
+          "isTrue": false,
+          "answer": "qiymat o‘lchov, rag‘batlantiruvchi va jamg‘arma."
+        },
+        {
+          "isTrue": false,
+          "answer": "ixchamlik, birlikka mos baxo va jamg‘arma."
+        }
+      ]
+    },
+    {
+      "question": "Pul tizimlarining bosqichini to‘g‘ri ko‘rsatib bering?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Bir metalli, ikki metalli, qog‘oz pul va elektron pul."
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovar-pul, natural – pul, elektron pul. "
+        },
+        {
+          "isTrue": false,
+          "answer": "Bir metalli, ikki metalli, tovar – pul va natural – pul."
+        },
+        {
+          "isTrue": false,
+          "answer": "Ikki metalli, elektron pul."
+        }
+      ]
+    },
+    {
+      "question": "Naqd pul qiymatining naqdsiz pul qiymatiga nisbatan ortishiga asosiy sabab, bu….",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "«Qora bozorning» rivojlanishi va norasmiy tadbirkorlik faoliyatining ortishi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Tovar ishlab chiqarishning kamayib, iqtisodiyotga ma’muriy aralashuvning ortishi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Markaziy bank tomonidan pul massasini boshqarish instrumentlarining optimal shaklda amaliyotga kiritilmasligi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Tadbirkorlikning cheklanishi va pul massasining kamayishi."
+        }
+      ]
+    },
+    {
+      "question": "Pul siyosati deganda nimani tushunasiz va olib boruvchi mas’ul tashkilot?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Pul siyosati markaziy bank tomonidan olib borilib, pul massasini nazorat qilishga yo‘naltiriladi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Pul siyosati iqtisod vazirligi tomonidan olib borilib, budjet komamadining oldini olish maqsadida yuritiladi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Pul siyosati moliya vazirligi tomonidan amalga oshirilib, pul massasini nazorat qilishga yo‘naltiriladi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Pul siyosati markaziy bank tomonidan amalga oshirilib, budjet kamomadini nazorat qilishga yo‘naltiriladi."
+        }
+      ]
+    },
+    {
+      "question": "Friksion ishsizlik nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Yashirish ishsizlik"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ko‘ngilli ishsizlik"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ko‘ngilsiz ishsizlik"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mavsumiy ishsizlik"
+        }
+      ]
+    },
+    {
+      "question": "Ko‘ngilli ishsizlik nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Mehnatga layoqatli ishchi kuchining mehnatdan bosh tortishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnatga layoqatsiz ishchi kuchining mehnatdan bosh tortishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ish yerlari mavjud bo‘lgan holda mehnatga layoqatli ishchi kuchi tanqisligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mavsumiy ish yerlardagi ishsizlar soni"
+        }
+      ]
+    },
+    {
+      "question": "Ko‘ngilsiz ishsizlik nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Ish yerlari mavjud bo‘lgan holda mehnatga layoqatli ishchi kuchi tanqisligi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnatga layoqatli ishchi kuchining mehnatdan bosh tortishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnatga layoqatsiz ishchi kuchining mehnatdan bosh tortishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mavsumiy ish yerlardagi ishsizlar soni"
+        }
+      ]
+    },
+    {
+      "question": "Mavsumiy ishsizlik nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Mavsumiy ish yerlardagi ishsizlar soni"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnatga layoqatli ishchi kuchining mehnatdan bosh tortishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnatga layoqatsiz ishchi kuchining mehnatdan bosh tortishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ish yerlari mavjud bo‘lgan holda mehnatga layoqatli ishchi kuchi tankisligi"
+        }
+      ]
+    },
+    {
+      "question": "Inflyatsiya nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "umumiy narxlar darajasining o‘sishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "maoshlarning oshishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish hajmining kamayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlarning o‘sishi"
+        }
+      ]
+    },
+    {
+      "question": "Agar muomiladagi pul miqdori oshsa, buning sababi bo‘ladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pul multiplikatori yuqori bo‘lib, pul manbasini (bazasini) ko‘payishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tijorat banki ortiqcha zaxiralarning pasayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Aholi jami to‘lov mablag‘laridan naqd pul ulushining qisqarishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "To’gri javob yoq"
+        }
+      ]
+    },
+    {
+      "question": "Davlat budjeti defitsiti quyidagi holatlarda tashkil topadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Davlat xarajatlari summasi soliq tushumlaridan oshib ketsa"
+        },
+        {
+          "isTrue": false,
+          "answer": "Davlat aktivlarini summasi majburiyatlardan oshib ketsa "
+        },
+        {
+          "isTrue": false,
+          "answer": "Davlat xarajatlari kamayganda"
+        },
+        {
+          "isTrue": false,
+          "answer": "Davlat majburiyatlari aktivlardan oshganda"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiyotdagi asosiy sub’ektlardan biri qaysi javobda to‘g‘ri berilgan?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat"
+        },
+        {
+          "isTrue": false,
+          "answer": "uy xo‘jaliklari"
+        },
+        {
+          "isTrue": false,
+          "answer": "korxona"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tijorat banklari"
+        }
+      ]
+    },
+    {
+      "question": "Pul taklifi va narxlar darajasi o‘zgarmasdan, ishlab chiqarish hajmi oshsa, iqtisodiyotda nima o‘zgarish ro‘y beradi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pulga bo‘lgan talab va foiz stavkasi oshadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pulga bo‘lgan talab va foiz stavkasi kamayadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pulga bo‘lgan talab oshadi va foiz stavkasi kamayadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pulga bo‘lgan talab kamayadi va foiz stavkasi oshadi"
+        }
+      ]
+    },
+    {
+      "question": "Agar iqtisodiyotda bitimlar miqdori oshsa, unda:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pulga bo‘lgan transaksion talab oshadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pulga bo‘lgan transaksion talab kamayadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul taklifi oshadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul taklifi kamayadi"
+        }
+      ]
+    },
+    {
+      "question": "Iqtisodiy yuksalish davrida jami talab:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "oshadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "o‘zgarmaydi"
+        },
+        {
+          "isTrue": false,
+          "answer": "kamayadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "xam oshishi, xam kamayishi mumkin"
+        }
+      ]
+    },
+    {
+      "question": "Talab inflyatsiyasiga sabab bo‘ladigan omil qaysi javobda to‘g‘ri berilgan?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat budjeti taqchilligining oshishi "
+        },
+        {
+          "isTrue": false,
+          "answer": "neft narxlarining oshishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste’molga me’yoriy moyillikning pasayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste’molga me’yoriy moyillikning pasayishi,neft narxlarining oshishi"
+        }
+      ]
+    },
+    {
+      "question": "Taklif inflyatsiyasiga sabab bo‘ladigan omil qaysi javobda to‘g‘ri berilgan",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat budjeti taqchilligining oshishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul massasining oshishi ish xaqi - maoshlarning oshishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Narxlarning oshishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob"
+        }
+      ]
+    },
+    {
+      "question": "Bozor iqtisodiyoti sharoitida davlat vazifalariga quyidagilar kirmaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xususiy bo‘g‘inning mahsulotiga narxlar belgilash"
+        },
+        {
+          "isTrue": false,
+          "answer": "qonun chiqarish raqobatbardosh muxitni ximoya qilish"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiyotdagi muammolarni xal qilish"
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob yoq"
+        }
+      ]
+    },
+    {
+      "question": "Davlat jami xarajatlarning qaysi qismiga ta’sir qilishi mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlatning umumiy xaridlariga"
+        },
+        {
+          "isTrue": false,
+          "answer": "xususiy investitsiyalarga"
+        },
+        {
+          "isTrue": false,
+          "answer": "uy xo‘jaliklari kundalik xarajatlariga"
+        },
+        {
+          "isTrue": false,
+          "answer": "istemolga"
+        }
+      ]
+    },
+    {
+      "question": "Nominal almashtirish kursi nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xorijiy valyutaning bir birligiga teng bo‘lgan milliy valyutaning miqdori"
+        },
+        {
+          "isTrue": false,
+          "answer": "so‘mga sotib olish mumkin bo‘lgan tovar va xizmatlar hajmi"
+        },
+        {
+          "isTrue": false,
+          "answer": "import narxlar darajasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "eksport-import narxlar nisbati"
+        }
+      ]
+    },
+    {
+      "question": "Agar valyuta kursi milliy valyutaning xorijiy valyutaga nisbati tarzida aniqlansa, unda devalvatsiya:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "nominal almashtirish kursining o‘sishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "nominal almashtirish kursining kamayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "import narxlarining kamayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "eksport narxlarining oshishi"
+        }
+      ]
+    },
+    {
+      "question": "Agar valyuta kursi milliy valyutaning xorijiy valyutaga nisbati tarzida aniqlansa, unda revalvatsiya:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "nominal almashtirish kursining kamayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "nominal almashtirish kursining o‘sishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "import narxlarining kamayishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "eksport narxlarining oshishi"
+        }
+      ]
+    },
+    {
+      "question": "Iqtisodiy o‘sish qanday o‘lchanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "real YaIM ning o‘sishi orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "mehnat unumdorligining o‘sishi orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "kapital bilan ta’minlanganlikning o‘sishi orqali"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovar aylanishining o‘sishi orqali"
+        }
+      ]
+    },
+    {
+      "question": "Inflyatsiya va ishsizlik o‘rtasidagi bog‘lanishni qaysi olim tadqiq qilgan:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Filipps"
+        },
+        {
+          "isTrue": false,
+          "answer": "Fridman"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ouken"
+        },
+        {
+          "isTrue": false,
+          "answer": "Keyns"
+        }
+      ]
+    },
+    {
+      "question": "Bozor iqtisodiyotining qaysi sub’ekti iqtisodiy resurslarni yetkazib beruvchi va pirovard mahsulotlar iste’molchisi hisoblanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "uy xo‘jaliklari"
+        },
+        {
+          "isTrue": false,
+          "answer": "korxonalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat tashkilotlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat muassasalari"
+        }
+      ]
+    },
+    {
+      "question": "Davlat budjeti – bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "xukumat tasarrufida bo‘lgan markazlashgan jamg‘armalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "maxalliy organlar tasarrufidagi pul jamg‘armalari"
+        },
+        {
+          "isTrue": false,
+          "answer": "mamlakat butun pul mablag‘lari yig‘indisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul mablag‘lari yig‘indisi"
+        }
+      ]
+    },
+    {
+      "question": "Nominal YaIM qanday narxlarda hisoblanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "joriy narxlarda"
+        },
+        {
+          "isTrue": false,
+          "answer": "o‘zgarmas narxlarda"
+        },
+        {
+          "isTrue": false,
+          "answer": "chakana narxlarda"
+        },
+        {
+          "isTrue": false,
+          "answer": "ulgurji narxlarda"
+        }
+      ]
+    },
+    {
+      "question": "Qo‘shilgan qiymat qanday miqdor?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pirovard mahsulot xajmidan boshqa korxona  va firmalardan sotib olingan xom-ashyo va materiallar qiymatini chiqarib tashlangan miqdor"
+        },
+        {
+          "isTrue": false,
+          "answer": "pirovard mahsulot xajmidan ish xaqi chiqarib tashlangan miqdor"
+        },
+        {
+          "isTrue": false,
+          "answer": "pirovard mahsulot xajmidan amortizatsiya ajratmasi chiqarib tashlangan miqdor"
+        },
+        {
+          "isTrue": false,
+          "answer": "pirovard mahsulot xajmidan o‘zgaruvchi xarajatlar chiqarib tashlangan miqdor"
+        }
+      ]
+    },
+    {
+      "question": "Aralash iqtisodiyotdagi jami daromad va xarajatlarning doiraviy aylanish modelida milliy bozordagi “o‘yin qoidalari”ni kim belgilaydi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish sohasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste’mol bozori"
+        },
+        {
+          "isTrue": false,
+          "answer": "bank tizimi"
+        }
+      ]
+    },
+    {
+      "question": "Real YaIM nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "doimiy narxlarda hisoblangan YaIM"
+        },
+        {
+          "isTrue": false,
+          "answer": "joriy bozor narxlarida hisoblangan YaIM"
+        },
+        {
+          "isTrue": false,
+          "answer": "pulning o‘zgarib turuvchi kurslarida hisoblangan YaIM"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiy xarajatlar bo‘yicha hisoblangan YaIM"
+        }
+      ]
+    },
+    {
+      "question": "M0 pul agregatiga quyidagilar kiritiladi.",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Naqd pul va tangalar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Muddatsiz omonatlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Muddatli omonatlar"
+        },
+        {
+          "isTrue": false,
+          "answer": "Valyuta"
+        }
+      ]
+    },
+    {
+      "question": "Ochiq bozor operatsiyalari deganda nimani tushunasiz?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Davlat qimmatbaxo qog‘ozlarining markaziy bank tomonidan oldi – sottisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tijorat banklari tomonidan jalb qilingan mablag‘larga nisbatan majburiy ajratmalar stavkasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Kassa rejasi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Markaziy bank tomonidan kredit mablag‘lariga o‘rnatilgan foiz  stavkalari eng kam yoki eng yuqori stavkasi."
+        }
+      ]
+    },
+    {
+      "question": "Qayta moliyalash stavkasi deganda nimani tushunasiz?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Markaziy bank tomonidan kredit mablag‘lariga o‘rnatilgan foiz  stavkalari eng kam yoki eng yuqori stavkasi."
+        },
+        {
+          "isTrue": false,
+          "answer": "Davlat qimmatbaxo qog‘ozlarining markaziy bank tomonidan oldi – sottisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Tijorat banklari tomonidan jalb qilingan mablag‘larga nisbatan majburiy ajratmalar stavkasi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Kassa rejasi."
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi ko'rsatkichlardan qaysi biri sof milliy mahsulot, amortizatsiya to'lovlari va bilvosita soliqlarni qo'shish natijasida olingan qiymatga teng ekanligini ko'rsating:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yalpi ichki mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi milliy mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "qo'shimcha qiymat;"
+        },
+        {
+          "isTrue": false,
+          "answer": "sof milliy daromad"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiyotning asosiy sub'ektlari:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "uy xo'jaliklari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "markaziy bank;"
+        },
+        {
+          "isTrue": false,
+          "answer": "sanoat;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar va xizmatlar bozori;"
+        }
+      ]
+    },
+    {
+      "question": "Inflyatsiya sharoitida fuqarolarning daromadlarini o'rganish uchun tahlilning qaysi usuli qo'llaniladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "qiyosiy;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tartibga soluvchi"
+        },
+        {
+          "isTrue": false,
+          "answer": "statistik;"
+        },
+        {
+          "isTrue": false,
+          "answer": "o‘rtacha"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi ichki mahsulot (YaIM) nima?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "barcha yakuniy tovarlar va xizmatlarning bozor qiymati."
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarilgan barcha tovarlar va xizmatlar yig'indisi"
+        },
+        {
+          "isTrue": false,
+          "answer": "sotilgan barcha tovarlar va xizmatlar yig'indisi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "barcha tayyor mahsulotlar va xizmatlar yig'indisi;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi ichki mahsulot o'lchanadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "bozor narxlarida;"
+        },
+        {
+          "isTrue": false,
+          "answer": "asosiy narxlarda;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqaruvchilar narxlarida;"
+        },
+        {
+          "isTrue": false,
+          "answer": "eksport narxlarida."
+        }
+      ]
+    },
+    {
+      "question": "Yalpi ichki mahsulot deflyatori:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "nominal Yalpi ichki mahsulotning real YaMMga nisbatiga teng;"
+        },
+        {
+          "isTrue": false,
+          "answer": "real YaMMning nominal YaMMga nisbatiga teng;"
+        },
+        {
+          "isTrue": false,
+          "answer": "inflyatsiyani tezlashishi bilan kamayadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "joriy narxlarda;"
+        }
+      ]
+    },
+    {
+      "question": "Milliy daromad qiymatini aniqlash uchun quyidagilar zarur:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "YaIM qiymatini ishlatilgan asosiy qiymat amortizatsiya miqdoriga kamaytirish mablag;"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM qiymatidan bilvosita soliqlar miqdorini chegirib tashlash;"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM qiymatidan ma'lum bir davr uchun amortizatsiya to'lovlari miqdorini, bilvosita soliqlar miqdorini va hukumat subsidiyalari miqdorini chiqarib tashlash;"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIMga davlat ijtimoiy transfert to'lovlari miqdorini qo'shish"
+        }
+      ]
+    },
+    {
+      "question": "Agar mamlakatda yil davomida narxlarning umumiy darajasi sezilarli darajada o'sib borsa va tovar va xizmatlar ishlab chiqarish o'zgarmasa, unda boshqa narsalar teng bo'lganda …",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "nominal YaIM o'sadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "real yalpi ichki mahsulot (YaIM) ko'payadi; "
+        },
+        {
+          "isTrue": false,
+          "answer": "nominal YaIM kamayadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mamlakatda haqiqiy hayot darajasi ko'tariladi."
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi ko'rsatkichlardan qaysi biri sof milliy mahsulot, amortizatsiya to'lovlari va bilvosita soliqlarni qo'shish natijasida olingan qiymatga teng ekanligini ko'rsating:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yalpi ichki mahsulot"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi milliy mahsulot"
+        },
+        {
+          "isTrue": false,
+          "answer": "qo'shimcha qiymat "
+        },
+        {
+          "isTrue": false,
+          "answer": "sof milliy daromad"
+        }
+      ]
+    },
+    {
+      "question": "Milliy boylik bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ishlab chiqarish vositalari, to'plangan mulk, tabiiy resurslar, moddiy va madaniy qadriyatlar."
+        },
+        {
+          "isTrue": false,
+          "answer": "tabiiy boyliklar va madaniy qadriyatlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tabiiy resurslar va inson resurslari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "madaniy qadriyatlar"
+        }
+      ]
+    },
+    {
+      "question": "Transfer to'lovlari:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "mahsulot ishlab chiqarish va xizmatlar ko'rsatish bilan bog'liq bo'lmagan to'lovlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "kechiktirilgan to'lovlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarilgan mahsulotning daromad shakliga ega bo'lmagan qismi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ijara daromadlari. "
+        }
+      ]
+    },
+    {
+      "question": "Shaxsiy ixtiyoriy daromad bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "soliq va soliqqa tortilmagan majburiy to'lovlarni olib tashlagan holda olingan umumiy daromad"
+        },
+        {
+          "isTrue": false,
+          "answer": "hisoblangan ish haqi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "olingan umumiy daromad (ish haqi va boshqa daromadlar)"
+        },
+        {
+          "isTrue": false,
+          "answer": "real daromadlar"
+        }
+      ]
+    },
+    {
+      "question": "Ro'yxatdagi bayonotlardan quyidagilar to'g'ri",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "AD egri chizig'i salbiy nishabga ega"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat atrof-muhitni muhofaza qilish bo'yicha talablarni kuchaytirganda, bu mahsulot birligi uchun ishlab chiqarish xarajatlarining oshishiga olib keladi va yig'ma ta'minot egri chizig'ini o'ngga siljitadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "real ishlab chiqarish hajmining o'sishi narxlarning oshishi bilan birga bo'lishi mumkin emas."
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob yoq"
+        }
+      ]
+    },
+    {
+      "question": "Barcha resurslar jalb qilingan sharoitda YaMMning potentsial hajmiga erishiladi, talabning o'sishi quyidagilarni keltirib chiqaradi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "doimiy ta'minot bilan narxlarning o'sishiga"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar taklifining ko'payishiga"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar taklifining kamayishiga"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy ta'minot bilan narxlarning pasayishiga"
+        }
+      ]
+    },
+    {
+      "question": "Agar narx darajasi ko'tarilib, ishlab chiqarish pasayib ketsa, bunga quyidagilar sabab bo'ladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yig'ma ta'minot egri chizig'ining chapga siljishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi talab egri chizig'ining o'ngga siljishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi talab egri chizig'ining chapga siljishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi ta'minot egri chizig'ining o'ng tomonga siljishi"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi taklif egri chizig'idagi Keyns segmenti:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "gorizontal chiziq bilan ifodalanadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ijobiy nishabga ega"
+        },
+        {
+          "isTrue": false,
+          "answer": "salbiy nishabga ega"
+        },
+        {
+          "isTrue": false,
+          "answer": "vertikal chiziq bilan ifodalangan"
+        }
+      ]
+    },
+    {
+      "question": "Agar davlat xarajatlari va sof eksport nolga teng bo'lishi sharti bilan yalpi taklif yalpi talabdan oshsa, unda:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tejash rejalashtirilgan sarmoyadan oshib ketadi"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'mol va investitsiya xarajatlari yig'indisi jamg'armaga teng"
+        },
+        {
+          "isTrue": false,
+          "answer": "jamg'armalar investitsiyalarga teng"
+        },
+        {
+          "isTrue": false,
+          "answer": "jamg'armalar investitsiyalardan kamayadi"
+        }
+      ]
+    },
+    {
+      "question": "Iste'mol hajmi va yig'indidagi jamg'arma hajmi quyidagilarga teng:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "daromad hajmi"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiy o'sish sharoitida"
+        },
+        {
+          "isTrue": false,
+          "answer": "ko'proq daromad"
+        },
+        {
+          "isTrue": false,
+          "answer": "har doim kam daromad"
+        }
+      ]
+    },
+    {
+      "question": "Multiplikatorning ta'siri (printsipi) quyidagilarni ko'rsatadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "investitsiyalar o'zgarganda daromadning o'zgarishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "investitsiyalar ko'payishi bilan daromadning o'zgarishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "investitsiyalar kamayishi bilan daromadning o'zgarishi"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy investitsiya miqdori bilan daromadning o'zgarishi"
+        }
+      ]
+    },
+    {
+      "question": "Iqtisodiy o'sish sharoitida iste'mol va jamg'arma o'rtasidagi nisbat:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "o'zgaradi"
+        },
+        {
+          "isTrue": false,
+          "answer": "bir nechta"
+        },
+        {
+          "isTrue": false,
+          "answer": "Bir biriga teng"
+        },
+        {
+          "isTrue": false,
+          "answer": "o'zgarmaydi"
+        }
+      ]
+    },
+    {
+      "question": "Jamg'arma bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "maishiy daromadlarning ma'lum bir vaqt ichida sarflanmagan qismi"
+        },
+        {
+          "isTrue": false,
+          "answer": "uy xo'jaliklarining barcha to'plangan mulki va aholining jamg'armalari"
+        },
+        {
+          "isTrue": false,
+          "answer": "daromadlarning qimmatli qog'ozlarga qo'yilgan qismi"
+        },
+        {
+          "isTrue": false,
+          "answer": "barcha bozor sub'ektlarining naqd pul qoldiqlari"
+        }
+      ]
+    },
+    {
+      "question": "Iste'mol bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "joriy davrda tovarlar va xizmatlarni sotib olishga sarflangan uy xo'jaliklari daromadlarining bir qismi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "kelgusi davrda tovar va xizmatlarni sotib olishga mo'ljallangan daromadning bir qismi; "
+        },
+        {
+          "isTrue": false,
+          "answer": "bank hisobvaraqlarida to'plangan daromad qoldig'i"
+        },
+        {
+          "isTrue": false,
+          "answer": "barcha bozor sub'ektlarining naqd pul qoldiqlari;"
+        }
+      ]
+    },
+    {
+      "question": "Investitsiyalar:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "barcha turdagi ishlab chiqarish va noishlab chiqarish resurslariga investitsiyalar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "daromadning joriy davrda sarflanmagan qismi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ko'chmas mulkni sotib olish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uzoq muddatli mahsulotlarni, shuningdek, valyuta va oltinni sotib olish;"
+        }
+      ]
+    },
+    {
+      "question": "Teskari munosabat quyidagilar o'rtasidagi munosabatni ifodalaydi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "investitsiya xarajatlari va foiz stavkalari darajasi; "
+        },
+        {
+          "isTrue": false,
+          "answer": "jamg'arma va foiz stavkalari darajasi; "
+        },
+        {
+          "isTrue": false,
+          "answer": "investitsiya xarajatlari va milliy daromad;"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'mol xarajatlari va bir martalik daromad;"
+        }
+      ]
+    },
+    {
+      "question": "Jamg'arma mablag'laridan oshishi mumkin, agar:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "foiz stavkalari darajasi oshsa;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uzoq vaqt davomida iqtisodiyotda ortiqcha ishlab chiqarish va ishsizlik mavjud;"
+        },
+        {
+          "isTrue": false,
+          "answer": "rejali iqtisodiyot sharoitida;"
+        },
+        {
+          "isTrue": false,
+          "answer": "foiz stavkalari darajasi kamaysa;"
+        }
+      ]
+    },
+    {
+      "question": "Davlat qarzi bu miqdor:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "byudjet defitsiti, byudjet profitsiti;"
+        },
+        {
+          "isTrue": false,
+          "answer": "byudjet taqchilligi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mudofaa xarajatlari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat xarajatlari;"
+        }
+      ]
+    },
+    {
+      "question": "Davlat qarzining haqiqiy muammolaridan biri bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "milliy mahsulotning bir qismi mamlakat tashqarisiga chiqadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish samaradorligini oshirish uchun imtiyozlar ko'paymoqda;"
+        },
+        {
+          "isTrue": false,
+          "answer": "daromadlar tengsizligini kamaytiradi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "jamg'arma ulushi barcha daromad darajalarida ko'payadi;"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiyotdagi yalpi talab bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "iqtisodiyotning barcha makroiqtisodiy sub'ektlarining talabi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "korxonalarning davlat xarajatlari va investitsiya talabi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uy xo'jaliklarining talabi va sof eksport;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uy xo'jaligi talabi va korxonalarning investitsiya talabi;"
+        }
+      ]
+    },
+    {
+      "question": "Kutilayotgan inflyatsiyaning o'sishi Fillips egri chizig'ining (inflyatsiya darajasi vertikal o'qi bo'ylab) siljishiga sabab bo'ladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ushbu o'sishga teng bo'lgan miqdorda."
+        },
+        {
+          "isTrue": false,
+          "answer": "inflyatsiya o'sishiga teng miqdorda o'ngga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "inflyatsiya o'sishiga teng miqdorda chapga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ushbu o'sishga teng miqdordagi pasayish;"
+        }
+      ]
+    },
+    {
+      "question": "Uzoq muddatli istiqbolda davlat inflyatsiyaga qarshi siyosati quyidagilarga asoslanadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pul massasini cheklash."
+        },
+        {
+          "isTrue": false,
+          "answer": "faoliyatning ayrim turlari uchun mablag'larni ko'paytirish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "grantlar va subsidiyalarning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "byudjet taqchilligining o'sishi;"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi omillardan qaysi biri talab inflyatsiyasini keltirib chiqarishi mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat qimmatli qog'ozlarining defitsitining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "neft narxining ko'tarilishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'mol qilishga chekka moyillikning pasayishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "shaxsiy daromad solig'i stavkalarining o'sishi;"
+        }
+      ]
+    },
+    {
+      "question": "Agar xomashyo narxlari ko'tarilsa, ish haqi ko'tarilsa va ishlab chiqarish va bandlik pasayib ketsa, demak bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ishlab chiqarish xarajatlari inflyatsiyasi."
+        },
+        {
+          "isTrue": false,
+          "answer": "ortiqcha talab inflyatsiyasi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "stagflyatsiya;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ortiqcha taklif inflyatsiyasi;"
+        }
+      ]
+    },
+    {
+      "question": "Agar dastlab iqtisodiyot uzoq muddatli muvozanat holatida bo'lsa, u holda pul muomalasi tezligining oshishi quyidagilarga olib kelishi mumkin:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "qisqa muddatda ishlab chiqarish hajmining o'sishi va uzoq muddatda narxlarning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "qisqa muddatda mahsulotning pasayishiga va uzoq muddatda narxlarning pasayishiga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "qisqa muddatda mahsulotning pasayishi va uzoq muddatda narxlarning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uzoq muddatda ishlab chiqarish hajmining o'sishi va qisqa muddatda narxlarning o'sishi."
+        }
+      ]
+    },
+    {
+      "question": "Klassik model qoidalariga muvofiq:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yalpi talab darajasi ishlab chiqarish hajmi bilan belgilanadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlar va nominal ish haqi qat'iy;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi ta'minot egri chizig'i vertikal bo'lib, na o'ngga va na chapga siljiy olmaydi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "iqtisodiyotdagi investitsiyalar va jamg'armalar turli xil omillar bilan belgilanadi va foiz stavkasining o'zgarishi bilan muvozanatlasha olmaydi."
+        }
+      ]
+    },
+    {
+      "question": "Klassik model Yalpi ichki mahsulotning pasayishini narx darajasining pasayishi bilan izohlaydi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "bir vaqtning o'zida yalpi talab va potentsial Yalpi ichki mahsulotning pasayishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi ichki mahsulotning doimiy potentsiali bilan yalpi talabning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy yalpi talab bilan potentsial Yalpi ichki mahsulotning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "bir vaqtning o'zida yalpi talab va potentsial Yalpi ichki mahsulotning o'sish;"
+        }
+      ]
+    },
+    {
+      "question": "Narxlar darajasining ko'tarilishi va mamlakatda bir vaqtning o'zida ishsizlik darajasining ko'tarilishi ...",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yalpi taklifning pasayishi bilan bog'liq bo'lishi mumkin;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mumkin emas;"
+        },
+        {
+          "isTrue": false,
+          "answer": "faqat markazlashgan tizimda mumkin;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi talabning pasayishi natijasida yuzaga kelishi mumkin."
+        }
+      ]
+    },
+    {
+      "question": "Iqtisodiyotda uzoq vaqt davomida davlat xarajatlari ko'payishi bilan potentsial darajadagi ishlab chiqarish hajmi bilan nima sodir bo'ladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "doimiy ishlab chiqarish hajmi bilan narxlarning umumiy darajasi oshadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy narx darajasi bilan ishlab chiqarish hajmi oshadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish hajmi o'zgarmaydi, narxlarning umumiy darajasi pasayadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy narx darajasi bilan ishlab chiqarish hajmi pasayadi ;"
+        }
+      ]
+    },
+    {
+      "question": "Pul massasi o'sishining uzoq muddatli oqibatlari quyidagilarda ifodalanadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "mahsulot hajmini o'zgartirmasdan narxlar darajasining oshishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "narx darajasini o'zgartirmasdan ishlab chiqarishni ko'paytirish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlar va ishlab chiqarishning parallel o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlar darajasida ham, ishlab chiqarilgan mahsulot hajmida ham o'zgarishlarning yo'qligi;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi milliy mahsulot quyidagilarga teng ",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "C+ Ig+ G+ Xn;"
+        },
+        {
+          "isTrue": false,
+          "answer": "A + B + C + D;"
+        },
+        {
+          "isTrue": false,
+          "answer": "C + Iv + L + Xr;"
+        },
+        {
+          "isTrue": false,
+          "answer": "C + Iv + L;"
+        }
+      ]
+    },
+    {
+      "question": "Daromad bo'yicha YaMMni hisoblashda quyidagilar e'tiborga olinmaydi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "o'tkazmalar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ish haqi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "foiz;"
+        },
+        {
+          "isTrue": false,
+          "answer": "foyda;"
+        }
+      ]
+    },
+    {
+      "question": "Qanday ko'rsatkichlarni makroiqtisodiy ko'rsatkichlarga kiritish mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Inflyatsiya, ishsizlik, real yalpi ichki mahsulot;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Xarajatlar, umumiy xarajatlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "marjinal xarajatlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mehnat unumdorligi va ish haqi;"
+        }
+      ]
+    },
+    {
+      "question": "1929 yil inqirozidan keyin paydo bo'lgan makroiqtisodiyot yo'nalishi, yalpi talabni tartibga solishda hukumatning aralashuvi zarurligini tasdiqladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Keynschilar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "monetaristlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "neoklassik yo'nalish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Ratsional kutishlar nazariyasiga asoslangan yo'nalish;"
+        }
+      ]
+    },
+    {
+      "question": "Yopiq iqtisodiyotda daromadlar va xarajatlarning aylanishi shuni isbotlaydi",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "Iqtisodiyotdagi daromadlar xarajatlarga teng;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyotdagi daromad xarajatlardan kam;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Iqtisodiyot muvozanatli emas va tashqi kreditlar talab qilinadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "Mavjud jamg'armalar va kreditlar hisobiga ko'proq daromad sarflash;"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiyotga xos bo'lgan tadqiqot usullarini ayting.",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "birlashma;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ilmiy mavhumlik;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tahlil va sintez;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tarixiy va mantiqiy tadqiqotlar;"
+        }
+      ]
+    },
+    {
+      "question": "YaIM deflyatori:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "nominal YaIM, real YaIM"
+        },
+        {
+          "isTrue": false,
+          "answer": "real YaIM, nominal YaIM"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'mol narxlari indeksi"
+        },
+        {
+          "isTrue": false,
+          "answer": "Laspeyres narxlari indeksi;"
+        }
+      ]
+    },
+    {
+      "question": "Hisob-kitoblarga ko'ra Markaziy bank birlik M 2 ga teng:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "M 1 + aholining muddatli omonatlari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "M 1 + muomaladagi naqd pul;"
+        },
+        {
+          "isTrue": false,
+          "answer": "M 1 + sertifikatlari va davlat zayomlari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "M 1 + aktsiyalar va obligatsiyalar."
+        }
+      ]
+    },
+    {
+      "question": "Pulga talabni keltirib chiqaradigan sabablardan biri bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tranzaktsion motiv;"
+        },
+        {
+          "isTrue": false,
+          "answer": "transplantatsiya motivi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "transduktsiya motivi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "transliteratsiya motivi;"
+        }
+      ]
+    },
+    {
+      "question": "Makroiqtisodiyotdagi MD qisqartmasi quyidagilarni anglatadi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pulga bo'lgan talab;"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul muomalasining tezligi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "pul miqdori;"
+        },
+        {
+          "isTrue": false,
+          "answer": "naqd pul qoldiqlariga talab;"
+        }
+      ]
+    },
+    {
+      "question": "Mamlakatda umumiy narx darajasining oshishi qanday nomlanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "inflyatsiya;"
+        },
+        {
+          "isTrue": false,
+          "answer": "senaraj;"
+        },
+        {
+          "isTrue": false,
+          "answer": "stagflyatsiya;"
+        },
+        {
+          "isTrue": false,
+          "answer": "turg'unlik;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi ichki mahsulot va ishsizlik darajasi o'rtasidagi bog'liqlik qanday?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ishsizlik ko'payadi, YaIM pasayadi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishsizlik o'smoqda, YaIM o'sib bormoqda;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishsizlik ko'tariladi, YaIM o'zgarmaydi"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishsizlik o'zgarmaydi, YaIM tushadi"
+        }
+      ]
+    },
+    {
+      "question": "Iste'mol narxlari indeksi nimani ko'rsatadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ma'lum tovar va xizmatlar to'plamining narx darajasi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaIM narxlari darajasi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'molchilarning istaklari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'mol savatining tarkibi;"
+        }
+      ]
+    },
+    {
+      "question": "Tovarlar va xizmatlarga narx yoki tarifga qo'shimcha to'lovlar shaklida belgilangan soliqlar qanday nomlanadi?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "bilvosita."
+        },
+        {
+          "isTrue": false,
+          "answer": "antidemping;"
+        },
+        {
+          "isTrue": false,
+          "answer": "avtonom;"
+        },
+        {
+          "isTrue": false,
+          "answer": "import qilingan;"
+        }
+      ]
+    },
+    {
+      "question": "Byudjet taqchilligini moliyalashtirishning tashqi manbalariga quyidagilar kiradi.",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat qimmatli qog'ozlarini chiqarish yo'li bilan chet el valyutasida amalga oshiriladigan davlat ssudalari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat qimmatli qog'ozlarini chiqarish yo'li bilan amalga oshiriladigan davlat kreditlari"
+        },
+        {
+          "isTrue": false,
+          "answer": "hukumat tomonidan kredit tashkilotlaridan olingan kreditlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "xususiylashtirishdan tushadigan mablag'lar;"
+        }
+      ]
+    },
+    {
+      "question": "Ishsizlikning tabiiy darajasi bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "to'liq kunlik ishsizlik darajasi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "butun mehnatga layoqatli aholi ishlamasa;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ish bilan bandlik darajasi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "kattalar aholisining ishsiz qismining ma'lum bir foizini;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi milliy mahsulotdan (YaMM) sof milliy mahsulotga (MNP) o'tish uchun quyidagilar zarur:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "asosiy vositalar amortizatsiyasini hisobdan chiqarish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "sof investitsiya xarajatlarini qo'shish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "sof investitsiyalarni yalpi ichki mahsulotdan ushlab qolish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "YaMMga amortizatsiya qo'shish;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi ichki mahsulotning potentsial hajmiga hali erishilmagan vaziyatda barcha resurslardan foydalanilmagan bo'lsa, talabning o'sishi quyidagilarni keltirib chiqaradi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "tovarlar taklifining o'sishiga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy ta'minot bilan narxlarning o'sishiga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar taklifining kamayishiga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy ta'minot bilan narxlarning kamayishiga;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi talab egri chizig'ining o'ngga siljishi quyidagilarni aks ettirishi mumkin emas:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "narxlar darajasining o'sishi va bir vaqtning o'zida real YaIMning pasayishi "
+        },
+        {
+          "isTrue": false,
+          "answer": "bir vaqtning o'zida narxlar va real YaIM darajasining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "real YaIM o'sishi bo'lmagan taqdirda narxlar darajasining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "narxlar oshmagan taqdirda real YaIMning o'sishi;"
+        }
+      ]
+    },
+    {
+      "question": "Yalpi talab egri chizig'i quyidagilar o'rtasidagi munosabatni ifodalaydi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "narxlar darajasi va tovar va xizmatlarni sotib olishga sarflanadigan xarajatlar umumiy darajasi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "real darajadagi narxlar darajasi va ishlab chiqarilgan YaIM;"
+        },
+        {
+          "isTrue": false,
+          "answer": "xaridorlar tan oladigan narx darajasi va sotuvchilarni qoniqtiradigan narx darajasi; "
+        },
+        {
+          "isTrue": false,
+          "answer": "real qiymatda ishlab chiqarilgan va iste'mol qilingan YaIM hajm"
+        }
+      ]
+    },
+    {
+      "question": "Agar real ishlab chiqarilgan YaIM hajmi muvozanat qiymatidan kam bo'lsa, u holda ishlab chiqaruvchilar:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "kamayadi ishlab chiqarish zaxiralari va ishlab chiqarishni kengaytirish"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish zaxiralarini ko'paytirish va ishlab chiqarishni kengaytirish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish zaxiralarini ham, ishlab chiqarishni ham kamaytirish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishlab chiqarish zaxiralarini ko'paytirish va ishlab chiqarishni kamaytirish;"
+        }
+      ]
+    },
+    {
+      "question": "Barcha resurslar jalb qilinganida, YaIMning potentsial hajmiga erishiladi, yalpi talabning o'sishi quyidagilarga olib keladi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "doimiy ta'minot bilan narxlarning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar taklifining o'sishiga;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy tovar etkazib beriladigan narxlarni pasaytirish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovarlar taklifining kamayishi;"
+        }
+      ]
+    },
+    {
+      "question": "Agar biznesga soliqlar o'ssa, unda:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "AS kamayib bormoqda, lekin AD hajmi o'zgarmaydi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "AD kamayadi, lekin AS hajmi o'zgarmaydi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "AS va AD qisqartirilgan;"
+        },
+        {
+          "isTrue": false,
+          "answer": "AS va AD o'sadi;"
+        }
+      ]
+    },
+    {
+      "question": "Keynsian modeli quyidagilarni nazarda tutadi",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "potentsialdan past bo'lgan YaIM darajasiga mos keladigan narxlarning ma'lum darajasida gorizontal egri chiziq;"
+        },
+        {
+          "isTrue": false,
+          "answer": "potentsial YaIM darajasida vertikal AS egri chizig'i;"
+        },
+        {
+          "isTrue": false,
+          "answer": "foiz stavkalari ta'sirining ta'sirini aks ettiruvchi yengil ijobiy nishab bilan AS egri chizig'i;"
+        },
+        {
+          "isTrue": false,
+          "answer": "faqat AD ning chapga siljishi bilan;"
+        }
+      ]
+    },
+    {
+      "question": "Klassik model narxlar darajasini saqlab qolish bilan birga YaIMning pasayishini quyidagicha izohlaydi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "bir vaqtning o'zida yalpi talab va potentsial YaIMning pasayishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy potentsial YaIM bilan yalpi talabning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "doimiy AD bilan potentsial YaIMning o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "potentsial YaIMning pasayishi bilan ADning o'sishi."
+        }
+      ]
+    },
+    {
+      "question": "Uy xo'jaliklarining shaxsiy iste'mol xarajatlari:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "uzoq muddatli va qisqa muddatli tovarlar va xizmatlarni sotib olish uchun uy xo'jaliklari xarajatlari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uy xo'jaliklarining uzoq umr ko'riladigan tovar va xizmatlarni sotib olish uchun sarf-xarajatlari;"
+        },
+        {
+          "isTrue": false,
+          "answer": "to'lovlarni va soliqlarni o'tkazish;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tovar va xizmatlarni sotib olish uchun uy xarajatlari va shaxsiy soliqlar."
+        }
+      ]
+    },
+    {
+      "question": "Narxlar darajasining ko'tarilishi va mamlakatda bir vaqtning o'zida ishsizlik darajasining ko'tarilishi ...",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "yalpi taklifning pasayishi bilan bog'liq bo'lishi mumkin;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mumkin emas;"
+        },
+        {
+          "isTrue": false,
+          "answer": "faqat markazlashgan tizimda mumkin;"
+        },
+        {
+          "isTrue": false,
+          "answer": "yalpi talabning pasayishi natijasida yuzaga kelishi mumkin;"
+        }
+      ]
+    },
+    {
+      "question": "Iqtisodiy inqiroz tufayli ishsiz qolganlar ushbu toifaga kiradi.",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davriy ishsizlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "tarkibiy ishsizlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishqalanadigan ishsizlar;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ixtiyoriy ishsizlar;"
+        }
+      ]
+    },
+    {
+      "question": "Iqtisodiyot uchun normal bo'lgan ishsizlik bu:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ishsizlikning tabiiy darajasi."
+        },
+        {
+          "isTrue": false,
+          "answer": "yuqori ish haqi tufayli ishsizlik;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ishsizlik nafaqalarining past darajasi tufayli ishsizlik;"
+        },
+        {
+          "isTrue": false,
+          "answer": "jami talabning etishmasligi tufayli ishsizlik;"
+        }
+      ]
+    },
+    {
+      "question": "Inflyatsiya darajasining oshishi bilan belgilangan foiz stavkasi bo'lgan davlat obligatsiyalarining bozor narxi:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "pasayishga moyil bo'ladi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "o'sish tendentsiyasiga ega bo'ladi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "barqaror va nominal qiymatiga teng bo'ladi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "nolga tushadi;"
+        }
+      ]
+    },
+    {
+      "question": "Davlat tomonidan tartibga solishning iqtisodiy usullarini keng qo'llash:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "bozor mexanizmlari ta'sirini susaytirishi mumkin;"
+        },
+        {
+          "isTrue": false,
+          "answer": "bozor mexanizmini neytral qoldiradi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "bozor mexanizmiga ta'sir qilmaydi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "bozor mexanizmlari ta'sirini kuchaytirishi mumkin;"
+        }
+      ]
+    },
+    {
+      "question": "Ta'minot inflyatsiyasi quyidagilarga olib kelishi mumkin:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "ish haqi stavkalarining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "davlat byudjeti kamomadining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "mamlakat to'lov byudjeti taqchilligining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "sof eksport hajmining o'sishi;"
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi omillardan qaysi biri talab inflyatsiyasini keltirib chiqarishi mumkin?",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "davlat qimmatli qog'ozlarining defitsitining o'sishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "neft narxining ko'tarilishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "iste'mol qilishga chekka moyillikning pasayishi;"
+        },
+        {
+          "isTrue": false,
+          "answer": "shaxsiy daromad solig'i stavkalarining o'sishi;"
+        }
+      ]
+    },
+    {
+      "question": "Monetaristik kontseptsiyaga ko'ra inflyatsiya va ishsizlik o'rtasida teskari bog'liqlik mavjud:",
+      "answers": [
+        {
+          "isTrue": true,
+          "answer": "qisqa muddatda;"
+        },
+        {
+          "isTrue": false,
+          "answer": "uzoq muddatda;"
+        },
+        {
+          "isTrue": false,
+          "answer": "ham qisqa, ham uzoq muddatli istiqbolda."
+        },
+        {
+          "isTrue": false,
+          "answer": "To’g’ri javob yoq"
+        }
+      ]
+    }
+  ]
