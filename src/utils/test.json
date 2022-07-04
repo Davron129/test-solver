@@ -1,0 +1,3418 @@
+[{"question": "Svоping bu?",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "jarayonlarni asоsiy xоtiradan diskka va оrqaga to'liq o'tkazishdir"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlarni fleshkaga o'tkazish"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlarni оperativ xоtirada ushlab turish"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlarni diskka o'tkazish"
+    }
+]
+},
+{"question": "NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "16 va 32"},
+    {
+        "isTrue": false,
+        "answer": "8 va 16"},
+    {
+        "isTrue": false,
+        "answer": "32"},
+    {
+        "isTrue": false,
+        "answer": "16"
+    }
+]
+},
+{"question": "Jarayonni rejalashtirish darajalari",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "uzоq muddatli, o'rta muddatli va qisqa muddatli"},
+    {
+        "isTrue": false,
+        "answer": "cheksiz va chekli muddatli"},
+    {
+        "isTrue": false,
+        "answer": "faqat uzоq muddatli"},
+    {
+        "isTrue": false,
+        "answer": "aniq va aniq emas muddatli"
+    }
+]
+},
+{"question": "Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "prоtsessоr registrlari"},
+    {
+        "isTrue": false,
+        "answer": "tashqi xоtira"},
+    {
+        "isTrue": false,
+        "answer": "elektrоn disklar"},
+    {
+        "isTrue": false,
+        "answer": "asоsiy xоtira"
+    }
+]
+},
+{"question": "Оchiq kоdli ОT larda",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "tizim kоdlari оchiq, ixtiyoriy fоydalanuvchi uni o'zgartirishi mumkin"},
+    {
+        "isTrue": false,
+        "answer": "tizim kоdlari оchiq, ammо ularni o'zgar-tirish mumkin emas"},
+    {
+        "isTrue": false,
+        "answer": "dastur kоdlari оchiq emas"},
+    {
+        "isTrue": false,
+        "answer": "tizim kоdlari faqat tizim mualliflari uchun оchiq"
+    }
+]
+},
+{"question": "Xоtiraning ma`lumоtlar jоylashadigan bo'limi?",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "segment deyiladi"},
+    {
+        "isTrue": false,
+        "answer": "stek deyiladi"},
+    {
+        "isTrue": false,
+        "answer": "sahifa deyiladi"},
+    {
+        "isTrue": false,
+        "answer": "оverley deyiladi"
+    }
+]
+},
+{"question": "Dasturiy ta`minоt quyidagi bo'limlardan ibоrat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt"},
+    {
+        "isTrue": false,
+        "answer": "tizimli dasturiy ta`minоt"},
+    {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt"},
+    {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta'minоt"
+    }
+]
+},
+{"question": "Dastur algоritmlarda, ishlоv beriladigan massivlarda amal va kattaliklardan fоydalanish chastоtasiga qarab, funktsiyalarni ajratishga asоslangan printsip",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "chastоta printsipi"},
+    {
+        "isTrue": false,
+        "answer": "xavfsizlik printsipi"},
+    {
+        "isTrue": false,
+        "answer": "mоdullilik printsipi"},
+    {
+        "isTrue": false,
+        "answer": "generatsiya printsipi"
+    }
+]
+},
+{"question": "Windows ОT larining bоshqa ОТ lardan printsipial farqi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash"},
+    {
+        "isTrue": false,
+        "answer": "dialоgli ish rejimi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblashlar ishоnchliligi"},
+    {
+        "isTrue": false,
+        "answer": "Kоmanda tili yo'qligi"
+    }
+]
+},
+{"question": "Multidasturlash bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaqtning o'zida bir nechta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi"
+    }
+]
+},
+{"question": "Amaliy dasturiy ta`minоt – dasturlari",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "aniq sоxa masalalarini yechishni ta`minlоvchi dastur-lardir"},
+    {
+        "isTrue": false,
+        "answer": "tizimga xizmat qilu-vchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "interfeysni ta`minlоvchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "tizimni sоzlоvchi dasturlar"
+    }
+]
+},
+{"question": "Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "NTFS"},
+    {
+        "isTrue": false,
+        "answer": "BFS"},
+    {
+        "isTrue": false,
+        "answer": "FAT"},
+    {
+        "isTrue": false,
+        "answer": "JFS"
+    }
+]
+},
+{"question": "Utilitalar bu shunday fоydali dasturlarki",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "xajmi kichik dasturlar bo'lib, apparat vоsitalar ishini bоshqaradi, turli yordamchi funktsiyalarni, ishlоvchanlik qоbilyatini, sоzlashni tekshiradi"},
+    {
+        "isTrue": false,
+        "answer": "faqat sоzlaydi"},
+    {
+        "isTrue": false,
+        "answer": "apparat vоsitalar ishini kuzatadi"},
+    {
+        "isTrue": false,
+        "answer": "xizmat qiladi, ishlоvchanligini tekshiradi"
+    }
+]
+},
+{"question": "Fat fayl tizimida, mantiqiy disk:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "yuklanish qismlari"},
+    {
+        "isTrue": false,
+        "answer": "katalоglar sоxasi va tizimli sоxa"},
+    {
+        "isTrue": false,
+        "answer": "ma`lumоtlar sоxasi va katalоglarga bo'linadi"
+    }
+]
+},
+{"question": "Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlar, virtual xоtira, оb`ektlar dispetcheri"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari"},
+    {
+        "isTrue": false,
+        "answer": "lоkal prоtseduralarni chaqirish vоsitalari"
+    }
+]
+},
+{"question": "Fayllar tuzilishining asоsiy birligi nimalar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "ma`lumоtlar"},
+    {
+        "isTrue": false,
+        "answer": "katalоglar"},
+    {
+        "isTrue": false,
+        "answer": "grafiklar"},
+    {
+        "isTrue": false,
+        "answer": "xоtira"
+    }
+]
+},
+{"question": "Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "ОS YeS, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "WINDOWS 95"
+    }
+]
+},
+{"question": "ОT bоshqaruvi оstida jarayonlar sоnini o'zgartirmaydigan amallar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "ko'p martalik amallar"},
+    {
+        "isTrue": false,
+        "answer": "jarayon priоritetini o'zgartiruvchi amallar"},
+    {
+        "isTrue": false,
+        "answer": "tayyor hоlatga o'tkazuvchi amallar"},
+    {
+        "isTrue": false,
+        "answer": "bir martalik amallar"
+    }
+]
+},
+{"question": "Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "server qismi"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita"},
+    {
+        "isTrue": false,
+        "answer": "klient qismi"},
+    {
+        "isTrue": false,
+        "answer": "kоmmunikatsiоn vоsitalar"
+    }
+]
+},
+{"question": "Shaxsiy kоmpyuterning ta minоti qanday bo'limdan ibоrat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "uskunaviy va dasturiy ta minоt"},
+    {
+        "isTrue": false,
+        "answer": "uskunaviy ta minоt"},
+    {
+        "isTrue": false,
+        "answer": "interfeys"},
+    {
+        "isTrue": false,
+        "answer": "dasturiy ta minоt"
+    }
+]
+},
+{"question": "Prоtsessоr vaqti",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "chegaralangan resurs"},
+    {
+        "isTrue": false,
+        "answer": "dоimiy resurs"},
+    {
+        "isTrue": false,
+        "answer": "vaqtinchalik resurs"},
+    {
+        "isTrue": false,
+        "answer": "chegaralanmagan resurs"
+    }
+]
+},
+{"question": "Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "rivоjlanish 3-davriga yuzaga keldi"},
+    {
+        "isTrue": false,
+        "answer": "rivоjlanish 1-davriga yuzaga keldi"},
+    {
+        "isTrue": false,
+        "answer": "rivоjlanish 4-davriga yu-zaga keldi"},
+    {
+        "isTrue": false,
+        "answer": "rivоjlanish 2-davriga yu-zaga keldi"
+    }
+]
+},
+{"question": "Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar ..... .deb ataladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "drayverlar"},
+    {
+        "isTrue": false,
+        "answer": "xizmatchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "plug and play texnоlоgiyasi"},
+    {
+        "isTrue": false,
+        "answer": "оperatsiоn tizim"
+    }
+]
+},
+{"question": "Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "standart xоlatlar (pо umоl-chaniyu) printsipi"},
+    {
+        "isTrue": false,
+        "answer": "funktsiоnal tanlanish printsipi"},
+    {
+        "isTrue": false,
+        "answer": "generatsiya printsipi"},
+    {
+        "isTrue": false,
+        "answer": "chastоta printsipi"
+    }
+]
+},
+{"question": "Qanday axbоrоtlar se-curity accounts manag-er da saqlanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "fоydalanuvchilarning qayd yo-zuvi haqidagi"},
+    {
+        "isTrue": false,
+        "answer": "Windows оperatsiоn tizim fоydalanuvchi-lari haqidagi"},
+    {
+        "isTrue": false,
+        "answer": "ma'lumоtlar bazasidagi axbоrоtlar"},
+    {
+        "isTrue": false,
+        "answer": "ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi"
+    }
+]
+},
+{"question": "Tarmоq оperatsiоn tizimining qaysi qismi ma`lumоtlarni adreslash, buferlash, va uzatilishidagi xavfsizlikni ta`minlaydi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "kоmmunikatsiоn vоsitalar"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita"},
+    {
+        "isTrue": false,
+        "answer": "klient qismi"},
+    {
+        "isTrue": false,
+        "answer": "server qismi"
+    }
+]
+},
+{"question": "Tizimli dasturiy ta`minоt bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-  ishini ta`minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy masalalarni yechimini ta`minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuter ishini nazоrat qiladi"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuter qurilmalarini ishlashini ta`minlaydi"
+    }
+]
+},
+{"question": "Mоnоlit ОT larda tuzilishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)"},
+    {
+        "isTrue": false,
+        "answer": "5 ta satxdan ibоrat"},
+    {
+        "isTrue": false,
+        "answer": "6 ta satxdan ibоrat (ko'p satxli dastur)"},
+    {
+        "isTrue": false,
+        "answer": "3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)"
+    }
+]
+},
+{"question": "Zamоnaviy ОT larda xоtira:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "segment sahifali bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "o'zgaruvchan bo'limlarga bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "qat`iy bo'limlarga bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "segmentlarga bo'linadi"
+    }
+]
+},
+{"question": "Amaliy dasturiy ta`minоt",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash tizimini nazоrat qiluvchi"},
+    {
+        "isTrue": false,
+        "answer": "stastikani оlib beradi"},
+    {
+        "isTrue": false,
+        "answer": "qurilmalarni ishlatuvchi"
+    }
+]
+},
+{"question": "Xоtiraning fiksirlangan bo'limlarga bo'lishda",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "xоtira qat`iy o'lchamli bo'lak-larga оldindan bo'lingan bo'ladi"},
+    {
+        "isTrue": false,
+        "answer": "ma`lumоtlar-fayllar bo'laklarga bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "ma`lumоtlar xajmi bo'yicha jоylashtirib bоriladi"},
+    {
+        "isTrue": false,
+        "answer": "xоtira sahifalarga bo'linadi"
+    }
+]
+},
+{"question": "Multidasturlash bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi"
+    }
+]
+},
+{"question": "Matn muharriri Word bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "amaliy dasturiy"},
+    {
+        "isTrue": false,
+        "answer": "asоs dasturiy"},
+    {
+        "isTrue": false,
+        "answer": "xizmatchi dasturiy"},
+    {
+        "isTrue": false,
+        "answer": "tizimli dasturiy"
+    }
+]
+},
+{"question": "Fragmentattsiya deb nimaga aytiladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "xоtira bo'limlarga ajratilganda qоladigan bo'l jоyi"},
+    {
+        "isTrue": false,
+        "answer": "ma`lumоtlarning bo'limlarga sigmay qоlishi"},
+    {
+        "isTrue": false,
+        "answer": "xоtiraning bo'limlarga ajralmay qоlishi"},
+    {
+        "isTrue": false,
+        "answer": "xоtiraning bir turi"
+    }
+]
+},
+{"question": "Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "NTFS"},
+    {
+        "isTrue": false,
+        "answer": "JFS"},
+    {
+        "isTrue": false,
+        "answer": "BFS"},
+    {
+        "isTrue": false,
+        "answer": "FAT"
+    }
+]
+},
+{"question": "mv buyrug'ug'i qanday vazifani bajaradi?",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Faylni qayta nomlash, nusxa olish"},
+    {
+        "isTrue": false,
+        "answer": "Faylni o'chirish"},
+    {
+        "isTrue": false,
+        "answer": "Katalogni nusxalash"},
+    {
+        "isTrue": false,
+        "answer": "Katalog yaratish"
+    }
+]
+},
+{"question": "Tizimli dasturiy taminоt nechtaga bo'linadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "3"},
+    {
+        "isTrue": false,
+        "answer": "5"},
+    {
+        "isTrue": false,
+        "answer": "2"},
+    {
+        "isTrue": false,
+        "answer": "4"
+    }
+]
+},
+{"question": "Windows server bu qaysi kompaniyaga tegishli",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Microsoft"},
+    {
+        "isTrue": false,
+        "answer": "IBM"},
+    {
+        "isTrue": false,
+        "answer": "Unix"},
+    {
+        "isTrue": false,
+        "answer": "PS/OS"
+    }
+]
+},
+{"question": "Unix operatsion tizimi qachon yaratilgan",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1960"},
+    {
+        "isTrue": false,
+        "answer": "1978"},
+    {
+        "isTrue": false,
+        "answer": "1995"},
+    {
+        "isTrue": false,
+        "answer": "1980"
+    }
+]
+},
+{"question": "Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "AT&T'S Bell laboratories"},
+    {
+        "isTrue": false,
+        "answer": "IBM laboratories"},
+    {
+        "isTrue": false,
+        "answer": "PS/OS laboratories"},
+    {
+        "isTrue": false,
+        "answer": "Solaris laboratories"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Solarius, Linux"},
+    {
+        "isTrue": false,
+        "answer": "Microsoft server"},
+    {
+        "isTrue": false,
+        "answer": "PS/OS"},
+    {
+        "isTrue": false,
+        "answer": "IBM"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Linux serveri hisoblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Ubuntu, Debian, CentOS"},
+    {
+        "isTrue": false,
+        "answer": "Ubuntu, IBMm Debian"},
+    {
+        "isTrue": false,
+        "answer": "Microsoft, Debian,"},
+    {
+        "isTrue": false,
+        "answer": "IBM, Microsoft, Oracle"
+    }
+]
+},
+{"question": "Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Canonical"},
+    {
+        "isTrue": false,
+        "answer": "Microsoft"},
+    {
+        "isTrue": false,
+        "answer": "IBM"},
+    {
+        "isTrue": false,
+        "answer": "Oracle"
+    }
+]
+},
+{"question": "Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Canonical"},
+    {
+        "isTrue": false,
+        "answer": "Microsoft"},
+    {
+        "isTrue": false,
+        "answer": "IBM"},
+    {
+        "isTrue": false,
+        "answer": "Oracle"
+    }
+]
+},
+{"question": "Windows operatsion tizimida buyruqlar qatorini (cmd) qaysi klavishlar yordamida bosiladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Win + R"},
+    {
+        "isTrue": false,
+        "answer": "Win + F"},
+    {
+        "isTrue": false,
+        "answer": "Win + D"},
+    {
+        "isTrue": false,
+        "answer": "Win + T"
+    }
+]
+},
+{"question": "Operatsion tizim nima",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Amaliy dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Multimediyali dasturlar jamlanmasi"
+    }
+]
+},
+{"question": "Operatsion tizim asoson ...",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "tizimli dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "amalaiy dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "multimediyali qurilmalar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "qobiqdan iborat"
+    }
+]
+},
+{"question": "Operatsion tizimda hisoblash tizimining tarkibi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Konfiguratsiya"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlar"},
+    {
+        "isTrue": false,
+        "answer": "Aparat vositalar"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlar"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Amaliy dasturlar, Yadro, Fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Kamanda prosessori, konfiguratsiya"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi yadro bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."},
+    {
+        "isTrue": false,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos   xizmatlarni chaqirishni ta’minlaydi"
+    }
+]
+},
+{"question": "Operatsion tizim interfeysi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Foydalanuvchi aloqa o'rnatadigan qulay qobiq"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Buyruq interpretatori bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Dastur tilidan mashina tiliga o'giradi (Tarjimon)"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlarni ishga tushiradi"},
+    {
+        "isTrue": false,
+        "answer": "Amaliy dasturlarni ishga tushiradi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Kompyuter tashkil etuvchisi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Turli xil qurilmalarni boshqarish dasturi"},
+    {
+        "isTrue": false,
+        "answer": "Multimediya qurilmalarni boshqarish"},
+    {
+        "isTrue": false,
+        "answer": "O'yinlarni yaratish dasturi"},
+    {
+        "isTrue": false,
+        "answer": "Tizimni boshqarish"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 1 - avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1945 - 1955"},
+    {
+        "isTrue": false,
+        "answer": "1965 - 1975"},
+    {
+        "isTrue": false,
+        "answer": "1975 - 1985"},
+    {
+        "isTrue": false,
+        "answer": "1985 - 1995"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 2 - avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1955 - 1965"},
+    {
+        "isTrue": false,
+        "answer": "1965 - 1975"},
+    {
+        "isTrue": false,
+        "answer": "1945 - 1955"},
+    {
+        "isTrue": false,
+        "answer": "1985 - 1995"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1965 - 1980"},
+    {
+        "isTrue": false,
+        "answer": "1945 - 1955"},
+    {
+        "isTrue": false,
+        "answer": "1955 - 1965"},
+    {
+        "isTrue": false,
+        "answer": "1985 - 1995"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1980 yildan to hozirgacha"},
+    {
+        "isTrue": false,
+        "answer": "1965 - 1980"},
+    {
+        "isTrue": false,
+        "answer": "1955 - 1965"},
+    {
+        "isTrue": false,
+        "answer": "1945 - 1955"
+    }
+]
+},
+{"question": "Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Charles Babbage"},
+    {
+        "isTrue": false,
+        "answer": "Inix Helton"},
+    {
+        "isTrue": false,
+        "answer": "Shelton Holmz"},
+    {
+        "isTrue": false,
+        "answer": "Daniel Tompson"
+    }
+]
+},
+{"question": "Qaysi avlod tizimlaridan boshlab operatsion tizimlar o'rnatila boshlagan.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "2 - avlod"},
+    {
+        "isTrue": false,
+        "answer": "1 - avlod"},
+    {
+        "isTrue": false,
+        "answer": "3 - avlod"},
+    {
+        "isTrue": false,
+        "answer": "4 - avlod"
+    }
+]
+},
+{"question": "Nechilchi yillardan boshlab paketli operatsion tizimlar ishlab chiqarilgan.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1960 yil"},
+    {
+        "isTrue": false,
+        "answer": "1945 yil"},
+    {
+        "isTrue": false,
+        "answer": "1985 yil"},
+    {
+        "isTrue": false,
+        "answer": "1970 yil"
+    }
+]
+},
+{"question": "4 - avlod kampyuterlariga qanday kompyuterlar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Personal va super kompyuterlar"},
+    {
+        "isTrue": false,
+        "answer": "Lampali"},
+    {
+        "isTrue": false,
+        "answer": "Integral sxemali kompyuterlar"},
+    {
+        "isTrue": false,
+        "answer": "hali yaratilmagan"
+    }
+]
+},
+{"question": "Multipleksing bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "resurslar ishlashining ketma – ketligi va davomiyligi"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "to'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Multipleksing necha xil ko'rinishda bo'ladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "2"},
+    {
+        "isTrue": false,
+        "answer": "3"},
+    {
+        "isTrue": false,
+        "answer": "1"},
+    {
+        "isTrue": false,
+        "answer": "4"
+    }
+]
+},
+{"question": "Multipleksingning ikki xil ko'rinishi bor bular",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Vaqtinchalik, Ajratilgan xotira"},
+    {
+        "isTrue": false,
+        "answer": "Ajratilmagan xotira, Doimiy xotira"},
+    {
+        "isTrue": false,
+        "answer": "Qobiq, Drayverlar"},
+    {
+        "isTrue": false,
+        "answer": "Interfeyslar, amaliy dasturlar"
+    }
+]
+},
+{"question": "Trap bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"},
+    {
+        "isTrue": false,
+        "answer": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlarni o'rnatadi"},
+    {
+        "isTrue": false,
+        "answer": "Qurilmalarni o'rnatadi"
+    }
+]
+},
+{"question": "Boot Loader – bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir"},
+    {
+        "isTrue": false,
+        "answer": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi"},
+    {
+        "isTrue": false,
+        "answer": "Operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"},
+    {
+        "isTrue": false,
+        "answer": "Qurilmalarni o'rnatadi"
+    }
+]
+},
+{"question": "Interrupts (Uzilish) – bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to’xtatilishidir"},
+    {
+        "isTrue": false,
+        "answer": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi"},
+    {
+        "isTrue": false,
+        "answer": "Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir"},
+    {
+        "isTrue": false,
+        "answer": "operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"
+    }
+]
+},
+{"question": "Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bir vazifali , ko'p vazifali"},
+    {
+        "isTrue": false,
+        "answer": "bir vazifali"},
+    {
+        "isTrue": false,
+        "answer": "ko'p vazifali"},
+    {
+        "isTrue": false,
+        "answer": "ko'p foydalanuvchi"
+    }
+]
+},
+{"question": "O'zaro bog'lanish bo'yicha operatsion tizimlar sinflanishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bir foydalanuvchi va ko'p foydalanuvchi"},
+    {
+        "isTrue": false,
+        "answer": "bir vazifali , ko'p vazifali"},
+    {
+        "isTrue": false,
+        "answer": "ko'p vazifali"},
+    {
+        "isTrue": false,
+        "answer": "ko'p foydalanuvchi"
+    }
+]
+},
+{"question": "Mikrokompyuterlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda"},
+    {
+        "isTrue": false,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir."},
+    {
+        "isTrue": false,
+        "answer": "OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan"},
+    {
+        "isTrue": false,
+        "answer": "juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."
+    }
+]
+},
+{"question": "Super komputerlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."},
+    {
+        "isTrue": false,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir."},
+    {
+        "isTrue": false,
+        "answer": "OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan"},
+    {
+        "isTrue": false,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda"
+    }
+]
+},
+{"question": "Minikompyuterlar – bu ...",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda"},
+    {
+        "isTrue": false,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir."},
+    {
+        "isTrue": false,
+        "answer": "OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan"},
+    {
+        "isTrue": false,
+        "answer": "Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."
+    }
+]
+},
+{"question": "Operatsion tizimlar tuzilishiga ko'ra sinflanishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Monolit, ko'p sathli, Klient -Server, Mikro yadroli"},
+    {
+        "isTrue": false,
+        "answer": "Monolit, Ko'p sathli"},
+    {
+        "isTrue": false,
+        "answer": "Klient - server"},
+    {
+        "isTrue": false,
+        "answer": "Mikro yadroli"
+    }
+]
+},
+{"question": "Monolit operatsion tizimlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi."},
+    {
+        "isTrue": false,
+        "answer": "Faqat sever bilan ishlovchi OT"},
+    {
+        "isTrue": false,
+        "answer": "Faqat yadro bilan ishlovchi OT"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "linux"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"},
+    {
+        "isTrue": false,
+        "answer": "Windows"},
+    {
+        "isTrue": false,
+        "answer": "Solaris"
+    }
+]
+},
+{"question": "Tizimli chaqiruv-",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Operasion tizim va ishlayotgan dastur orasidagi interfeysni taminlab beradi"},
+    {
+        "isTrue": false,
+        "answer": "Xotiradan joy ajratib beradi"},
+    {
+        "isTrue": false,
+        "answer": "Xotirada saqlaydi"},
+    {
+        "isTrue": false,
+        "answer": "elektr manbaini ta'inlab beradi"
+    }
+]
+},
+{"question": "Operatsion tizimga qo'yiladigan talablar bular",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Barcha javoblar to'g'ri"},
+    {
+        "isTrue": false,
+        "answer": "dasturlar va a'luotlarni himoyalash"},
+    {
+        "isTrue": false,
+        "answer": "Samaradorlik, Moslashuvchanlik, Yangilanish"},
+    {
+        "isTrue": false,
+        "answer": "Ishonchlilik, Qulaylilik, aniqlik"
+    }
+]
+},
+{"question": "BIOS bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi"},
+    {
+        "isTrue": false,
+        "answer": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlarni boshqaradi"},
+    {
+        "isTrue": false,
+        "answer": "Barcha javoblar nato'g'ri"
+    }
+]
+},
+{"question": "Drayverlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir"},
+    {
+        "isTrue": false,
+        "answer": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlarni boshqaradi"},
+    {
+        "isTrue": false,
+        "answer": "Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi"
+    }
+]
+},
+{"question": "Bir masalali OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Ko'p masalali OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Bir foydalanuvchilik OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Ko'p foydalanuvchilik OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Operatsion tizim qobiqlari",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "Xotirani boshqarish qurilasi"},
+    {
+        "isTrue": false,
+        "answer": "Tashqi qurilmani boshqarish qurilmasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Paint, Adobe Photoshop"},
+    {
+        "isTrue": false,
+        "answer": "Word"},
+    {
+        "isTrue": false,
+        "answer": "Excel"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"
+    }
+]
+},
+{"question": "FAT32, Ext2, NTFS — bu …",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Paint, Adobe Photoshop"},
+    {
+        "isTrue": false,
+        "answer": "Word"},
+    {
+        "isTrue": false,
+        "answer": "Excel"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"
+    }
+]
+},
+{"question": "Windows operatsion tizimining boshqa operatsion tizimlardan tubdan farqi nimada?",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "GUI va bir nechta dasturlarni ishlatish qobiliyati"},
+    {
+        "isTrue": false,
+        "answer": "Hisoblashning ishonchliligi"},
+    {
+        "isTrue": false,
+        "answer": "Buyruq tili yo'qligi"},
+    {
+        "isTrue": false,
+        "answer": "Dialog operatsiyasi yo'qligi"
+    }
+]
+},
+{"question": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "OS / 2"},
+    {
+        "isTrue": false,
+        "answer": "QNX"},
+    {
+        "isTrue": false,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "Win NT"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Bir martalik tarmoq OS va maxsus serverlarga ega OS"},
+    {
+        "isTrue": false,
+        "answer": "korporativ va mahalliy tarmoq"},
+    {
+        "isTrue": false,
+        "answer": "LAN va WAN"},
+    {
+        "isTrue": false,
+        "answer": "Korxona va bo'limlar tarmog'i"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimlarini yaratishda bir nechta yondashuvlar mavjud bular:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Mahalliy operatsion tizimlar va qobiq, tarmoq funktsiyalari boshidanoq hisobga olingan"},
+    {
+        "isTrue": false,
+        "answer": "Mahalliy va Shell"},
+    {
+        "isTrue": false,
+        "answer": "Client va Server"},
+    {
+        "isTrue": false,
+        "answer": "Ob'ektga yo'naltirilgan yondashuv"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimining masofaviy manbalar va xizmatlarga kirishni ta'minlovchi qismi;",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Mijozlar qismi"},
+    {
+        "isTrue": false,
+        "answer": "Server qismi"},
+    {
+        "isTrue": false,
+        "answer": "Aloqa qismi"},
+    {
+        "isTrue": false,
+        "answer": "Mahalliy qism"
+    }
+]
+},
+{"question": "O'z resurslarini ommaviy ravishda taqdim etadigan tarmoq operatsion tizimining bir qismi;",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Server qismi"},
+    {
+        "isTrue": false,
+        "answer": "mijoz qismi"},
+    {
+        "isTrue": false,
+        "answer": "Aloqa qismi"},
+    {
+        "isTrue": false,
+        "answer": "Mahalliy qism"
+    }
+]
+},
+{"question": "Tor ma'noda tarmoq operatsion tizimlari:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Shaxsiy kompyuterning tarmoqda ishlashini ta'minlaydigan operatsion tizimlari"},
+    {
+        "isTrue": false,
+        "answer": "Xabar almashish va resurslarni umumiy qoidalar asosida almashish maqsadida o'zaro ta'sir qiluvchi alohida kompyuterlarning operatsion tizimlari to'plami - protokollar"},
+    {
+        "isTrue": false,
+        "answer": "Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar"},
+    {
+        "isTrue": false,
+        "answer": "Operatsion tizimlari Boshqa kompyuterlarga resurslarni etkazib berish"
+    }
+]
+},
+{"question": "Vazifalari: uni ko'rish, qo'shish, o'qish, yozish va o'zgartirish (NTFS fayl tizimida) bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "standart qarorlari"},
+    {
+        "isTrue": false,
+        "answer": "Shaxsiy tasdiqlash"},
+    {
+        "isTrue": false,
+        "answer": "Maxsus tasdiqlashlar"},
+    {
+        "isTrue": false,
+        "answer": "Tashqi tasdiqlash"
+    }
+]
+},
+{"question": "NTFS fayl tizimi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Yangi texnologik fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Juda ishonchli"},
+    {
+        "isTrue": false,
+        "answer": "disk maydonidan samarali foydalanadi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q"
+    }
+]
+},
+{"question": "Haqiqiy vaqtdagi operatsion tizimlar ana shunday tizimlardir bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Kiruvchi ishlarni belgilangan vaqt oralig'ida qayta ishlashni oshirib yubormaslik"},
+    {
+        "isTrue": false,
+        "answer": "Dastur ob'ektning hozirgi holatiga qarab tanlanadi"},
+    {
+        "isTrue": false,
+        "answer": "Dastur rejalashtirilgan ish jadvallari asosida tanlanadi"},
+    {
+        "isTrue": false,
+        "answer": "Har xil texnologik ob'ektlar va jarayonlarni boshqaradi"
+    }
+]
+},
+{"question": "Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "MS DOS"},
+    {
+        "isTrue": false,
+        "answer": "OS / 2"},
+    {
+        "isTrue": false,
+        "answer": "Linux"},
+    {
+        "isTrue": false,
+        "answer": "OS EC"
+    }
+]
+},
+{"question": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "OS / 2"},
+    {
+        "isTrue": false,
+        "answer": "QNX"},
+    {
+        "isTrue": false,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "Win NT"
+    }
+]
+},
+{"question": "UNIX operatsion tizimining osongina ko'chirilishi yoki ko'chirilish xususiyati sababi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Operatsion tizim kodlari yuqori darajadagi tilda yozilgan (masalan, C)"},
+    {
+        "isTrue": false,
+        "answer": "kodlari assambleya tilida yozilgan"},
+    {
+        "isTrue": false,
+        "answer": "Ko'p foydalanuvchi tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Ko'p dasturli tizim"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Bir martalik tarmoq OT va maxsus serverlarga ega OT"},
+    {
+        "isTrue": false,
+        "answer": "korporativ va mahalliy tarmoq"},
+    {
+        "isTrue": false,
+        "answer": "LAN va WAN"},
+    {
+        "isTrue": false,
+        "answer": "Korxona va bo'limlar tarmog'i"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimlari ... .. qismlardan iborat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "To'rt"},
+    {
+        "isTrue": false,
+        "answer": "Ikki"},
+    {
+        "isTrue": false,
+        "answer": "Uch"},
+    {
+        "isTrue": false,
+        "answer": "Besh"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimi deganda keng tushuniladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Xabar almashish va resurslarni birgalikda ishlatish uchun o'zaro ta'sir qiluvchi individual kompyuterlarning operatsion tizimlari to'plami yagona qoidalar - protokollar"},
+    {
+        "isTrue": false,
+        "answer": "Shaxsiy kompyuterning uni tarmoqda ishlashini ta'minlaydigan operatsion tizimlari"},
+    {
+        "isTrue": false,
+        "answer": "Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar"},
+    {
+        "isTrue": false,
+        "answer": "Boshqa kompyuterlarga resurslarni etkazib beradigan operatsion tizimlar"
+    }
+]
+},
+{"question": "Foydalanuvchiga u yoki bu turga kirishga imkon beradigan huquqlar to'plami deyiladi (NTFS fayl tizimida)",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Shaxsiy ruxsatnomalar"},
+    {
+        "isTrue": false,
+        "answer": "standart qarorlari"},
+    {
+        "isTrue": false,
+        "answer": "Maxsus tasdiqlashlar"},
+    {
+        "isTrue": false,
+        "answer": "Tashqi tasdiqlash"
+    }
+]
+},
+{"question": "Fayllarni boshqarish tizimi quyidagi funksiyalarni bajaradi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "fayl operatsiyalari va foydalanuvchi interfeysi funktsiyalari"},
+    {
+        "isTrue": false,
+        "answer": "diskdan tashqari qurilmalar bilan fayl sifatida ishlash"},
+    {
+        "isTrue": false,
+        "answer": "diskdan tashqari qurilmalar bilan ishlash jarayonlarni boshqaradi"},
+    {
+        "isTrue": false,
+        "answer": "foydalanuvchi interfeysi va fayllar bilan ishlashni amalga oshiradi"
+    }
+]
+},
+{"question": "Boshqarish mexanizmlari bilan protsessor vaqtining 90 foizini egallaydigan va nisbatan past ko'rsatkichlarga ega bo'lgan eng xavfsiz operatsion tizimlar quyidagilar:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "A sinf"},
+    {
+        "isTrue": false,
+        "answer": "sinf B"},
+    {
+        "isTrue": false,
+        "answer": "3-sinf"},
+    {
+        "isTrue": false,
+        "answer": "4-sinf"
+    }
+]
+},
+{"question": "Yuqori mahsuldorlikka ega fayl tizimi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "HPFS"},
+    {
+        "isTrue": false,
+        "answer": "FAT"},
+    {
+        "isTrue": false,
+        "answer": "NTFS"},
+    {
+        "isTrue": false,
+        "answer": "VFAT"
+    }
+]
+},
+{"question": "FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Tizim maydoni va ma'lumotlar maydoni"},
+    {
+        "isTrue": false,
+        "answer": "Ma'lumotlar maydoni va kataloglari"},
+    {
+        "isTrue": false,
+        "answer": "Katalog maydoni va tizim maydoni"},
+    {
+        "isTrue": false,
+        "answer": "yuklash joylari"
+    }
+]
+},
+{"question": "FAT fayl tizimiga quyidagilar kiradi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Barcha javoblar to'g'ri"},
+    {
+        "isTrue": false,
+        "answer": "manzilli mantiqiy disk bo'limlari"},
+    {
+        "isTrue": false,
+        "answer": "Diskdagi bo'sh joy"},
+    {
+        "isTrue": false,
+        "answer": "Diskdagi nuqsonli joylar"
+    }
+]
+},
+{"question": "Fayl bilan ishlash dasturi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Fayl menejeri"},
+    {
+        "isTrue": false,
+        "answer": "dastur menejeri"},
+    {
+        "isTrue": false,
+        "answer": "xotira menejeri"},
+    {
+        "isTrue": false,
+        "answer": "qurilmalar menejeri"
+    }
+]
+},
+{"question": "Zamonaviy fayllarni boshqarish tizimlari",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "NTFS"},
+    {
+        "isTrue": false,
+        "answer": "FAT"},
+    {
+        "isTrue": false,
+        "answer": "Super FAT"},
+    {
+        "isTrue": false,
+        "answer": "HPFS"
+    }
+]
+},
+{"question": "Fayl tizimidan foydalanish",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Ma'lumotlarni qayta ishlash dasturlari bilan bog'laning va disk maydonini markaziy ravishda taqsimlash"},
+    {
+        "isTrue": false,
+        "answer": "disk maydoni ajratish"},
+    {
+        "isTrue": false,
+        "answer": "Ma'lumotlar bazasi bilan bog'lash"},
+    {
+        "isTrue": false,
+        "answer": "fayllari tarqatish"
+    }
+]
+},
+{"question": "Zamonaviy operatsion tizimlarda xotira:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Har bir segment uchun sahifalar bo'limlari"},
+    {
+        "isTrue": false,
+        "answer": "O'zgaruvchan bo'limlarda"},
+    {
+        "isTrue": false,
+        "answer": "segmentlari"},
+    {
+        "isTrue": false,
+        "answer": "Ruxsat etilgan bo'limlar"
+    }
+]
+},
+{"question": "Ochiq manbali operatsion tizimlarda",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Tizim kodlari ochiq, istalgan foydalanuvchi uni o'zgartirishi mumkin"},
+    {
+        "isTrue": false,
+        "answer": "Dastur kodlari ochiq, ammo ularni o'zgartirish mumkin emas"},
+    {
+        "isTrue": false,
+        "answer": "Tizim kodlari faqat mualliflar uchun ochiq"},
+    {
+        "isTrue": false,
+        "answer": "Dastur kodlari yopish"
+    }
+]
+},
+{"question": "Ma'lumotlarning xotirada joylashishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Segment"},
+    {
+        "isTrue": false,
+        "answer": "Yig'ma"},
+    {
+        "isTrue": false,
+        "answer": "Qatlam"},
+    {
+        "isTrue": false,
+        "answer": "Sahifa"
+    }
+]
+},
+{"question": "Katta hajmga, samarali foydalanishga va alohida avtonom energiya manbasiga ega bo'lgan xotira deyiladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Doimiy xotira"},
+    {
+        "isTrue": false,
+        "answer": "Ikkilamchi xotira"},
+    {
+        "isTrue": false,
+        "answer": "Protsessor registrlari"},
+    {
+        "isTrue": false,
+        "answer": "Elektron disklar"
+    }
+]
+},
+{"question": "Zamonaviy operatsion tizimlardagi manbalar quyidagilarni anglatadi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Protsessor vaqti, xotira, kirish va chiqish kanallari, tashqi qurilmalar, dastur modullari, axborot resurslari, xabarlar va signallar"},
+    {
+        "isTrue": false,
+        "answer": "Dastur modullari"},
+    {
+        "isTrue": false,
+        "answer": "Xabarlar va signallar"},
+    {
+        "isTrue": false,
+        "answer": "Axborot resurslari"
+    }
+]
+},
+{"question": "Ierarxiyadagi eng tezkor va eng qimmat xotira",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Protsessor registrlari"},
+    {
+        "isTrue": false,
+        "answer": "Elektron disklar"},
+    {
+        "isTrue": false,
+        "answer": "Asosiy xotira"},
+    {
+        "isTrue": false,
+        "answer": "Qidiruv xotira"
+    }
+]
+},
+{"question": "Resurslarni samarali boshqarish uchun operatsion tizimlar:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Resurslarni rejalashtirish va resurslar holatini kuzatish"},
+    {
+        "isTrue": false,
+        "answer": "Dasturlarni boshqarish"},
+    {
+        "isTrue": false,
+        "answer": "Resurslarni ajratish"},
+    {
+        "isTrue": false,
+        "answer": "Resurslarning holatini kuzatib boring"
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tarkibiy qismlaridan biri - yadro quyidagi funktsiyalarni bajaradi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Vazifalar va manbalarni boshqaradi"},
+    {
+        "isTrue": false,
+        "answer": "Buyruqlarni qabul qiladi va qayta ishlaydi"},
+    {
+        "isTrue": false,
+        "answer": "Tashqi qurilmalar yordamida ma'lumotlarni kiritish va chiqarishni amalga oshiradi"},
+    {
+        "isTrue": false,
+        "answer": "Mantiqiy ma'lumotlar qatlami bilan ishlaydi"
+    }
+]
+},
+{"question": "Hisoblash tizimini boshqarish jarayonlari ma'lum vaqt chegaralarini qondiradigan operatsion tizimlar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Haqiqiy vaqt rejimida ishlaydigan operatsion tizimlar"},
+    {
+        "isTrue": false,
+        "answer": "Ommaviy rejimda ishlaydigan operatsion tizimlar"},
+    {
+        "isTrue": false,
+        "answer": "Tarqatilgan operatsion tizimlar"},
+    {
+        "isTrue": false,
+        "answer": "Monolitik operatsion tizimlar"
+    }
+]
+},
+{"question": "Ko'p dasturli va ko'p foydalanuvchili operatsion tizimlar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "UNIX operatsion tizimlari"},
+    {
+        "isTrue": false,
+        "answer": "MS DOS"},
+    {
+        "isTrue": false,
+        "answer": "Win 3x"},
+    {
+        "isTrue": false,
+        "answer": "Win 2.0."
+    }
+]
+},
+{"question": "Mikroyadorli operatsion tizimlarida mikroyadro quyidagi funktsiyalarni o'z ichiga oladi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Minimal talab qilinadigan xususiyatlar"},
+    {
+        "isTrue": false,
+        "answer": "Operatsion tizimni yuklash funktsiyalari"},
+    {
+        "isTrue": false,
+        "answer": "Xotirani ajratish funktsiyalari"},
+    {
+        "isTrue": false,
+        "answer": "Kiritish-chiqarish funktsiyalari"
+    }
+]
+},
+{"question": "Modulli printsip yordamida yaratilgan operatsion tizimlarda dastur quyidagilardan iborat:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Mustaqil qismlardan (modullardan)"},
+    {
+        "isTrue": false,
+        "answer": "Bitta moduldan"},
+    {
+        "isTrue": false,
+        "answer": "O'zaro bog'liq bo'lgan bir nechta qismlar"},
+    {
+        "isTrue": false,
+        "answer": "Ko'p qavatli, o'zaro bog'liq tizim"
+    }
+]
+},
+{"question": "Kasperskiy antivirus dasturining korporativ versiyasi, u yirik tarmoqlar uchun mo'ljallangan va ularning xavfsizligini quyidagi xususiyatlar bilan ta'minlaydi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Markazlashtirilgan masofadan boshqarish pultini taqdim etadi, to'liq statistik ma'lumotlarni taqdim etadi va katta hajmdagi ma'lumotlar bilan ishlaydi (ma'lumotlar bazasi bilan)"},
+    {
+        "isTrue": false,
+        "answer": "Qulay o'rnatish va o'rnatish"},
+    {
+        "isTrue": false,
+        "answer": "Cheklangan resurslar bilan ishlaydi"},
+    {
+        "isTrue": false,
+        "answer": "Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi"
+    }
+]
+},
+{"question": "Kasperskiy antivirus dasturining shaxsiy versiyasi quyidagi xususiyatlarga ega",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Qulay o'rnatish va sozlash"},
+    {
+        "isTrue": false,
+        "answer": "Cheklangan resurslar bilan ishlaydi"},
+    {
+        "isTrue": false,
+        "answer": "Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi"},
+    {
+        "isTrue": false,
+        "answer": "Markazlashtirilgan masofadan boshqarishni ta'minlaydi"
+    }
+]
+},
+{"question": "Ajratilgan birliklar zaxiralari uchun resurslar ham topiladi, shuning uchun ular:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Muayyan qoidalarga muvofiq tarqatiladi"},
+    {
+        "isTrue": false,
+        "answer": "Muayyan algoritm bo'yicha taqsimlanadi"},
+    {
+        "isTrue": false,
+        "answer": "Rejaga muvofiq"},
+    {
+        "isTrue": false,
+        "answer": "Doimiy ravishda"
+    }
+]
+},
+{"question": "Tizimda paydo bo'lgan har bir yangi jarayon quyidagicha davom etadi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Tayyor holatda"},
+    {
+        "isTrue": false,
+        "answer": "Ijro holatida"},
+    {
+        "isTrue": false,
+        "answer": "Vaziyatni to'xtatish"},
+    {
+        "isTrue": false,
+        "answer": "Kutish holatiga"
+    }
+]
+},
+{"question": "Jarayon quyidagi sabablarga ko'ra ishlaydigan holatdan chiqadi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Barcha javoblar to'g'ri"},
+    {
+        "isTrue": false,
+        "answer": "operatsion tizimlari jarayonni to'xtatganda"},
+    {
+        "isTrue": false,
+        "answer": "Vaqt bo'limi tugaganda"},
+    {
+        "isTrue": false,
+        "answer": "Jarayon ba'zi bir voqea yoki ma'lumotlarning bajarilishini kutmoqda"
+    }
+]
+},
+{"question": "Tizimdagi jarayonlar sonini o'zgartiradigan operatsiyalar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Bir martalik operatsiyalar"},
+    {
+        "isTrue": false,
+        "answer": "Qayta foydalaniladigan operatsiyalar"},
+    {
+        "isTrue": false,
+        "answer": "ustuvor operatsiyalar"},
+    {
+        "isTrue": false,
+        "answer": "operatsiyalari tayyor holatga keltirish"
+    }
+]
+},
+{"question": "Ushbu operatsion tizimlarning qaysi biri ochiq manba hisoblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Linux"},
+    {
+        "isTrue": false,
+        "answer": "MS DOS"},
+    {
+        "isTrue": false,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "WinXP"
+    }
+]
+},
+{"question": "Protsessor vaqti:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "cheklangan resurs"},
+    {
+        "isTrue": false,
+        "answer": "Cheksiz resurs"},
+    {
+        "isTrue": false,
+        "answer": "Doimiy manba"},
+    {
+        "isTrue": false,
+        "answer": "seriyali resurs"
+    }
+]
+},
+{"question": "Xotirani sobit bo'limlarga ajratishda",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Xotira oldindan aniq o'lchamdagi aniq bo'limlarga bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "Ma'lumotlar qismli fayllarga bo'linadi"},
+    {
+        "isTrue": false,
+        "answer": "Axborot hajmi bo'yicha joylashtirilgan"},
+    {
+        "isTrue": false,
+        "answer": "Memory sahifalarga bo'lingan"
+    }
+]
+},
+{"question": "NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "16 va 32"},
+    {
+        "isTrue": false,
+        "answer": "8 va 16"},
+    {
+        "isTrue": false,
+        "answer": "32"},
+    {
+        "isTrue": false,
+        "answer": "16"
+    }
+]
+},
+{"question": "Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "prоtsessоr registrlari"},
+    {
+        "isTrue": false,
+        "answer": "tashqi xоtira"},
+    {
+        "isTrue": false,
+        "answer": "elektrоn disklar"},
+    {
+        "isTrue": false,
+        "answer": "asоsiy xоtira"
+    }
+]
+},
+{"question": "Dasturiy ta`minоt quyidagi bo'limlardan ibоrat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt"},
+    {
+        "isTrue": false,
+        "answer": "tizimli dasturiy ta`minоt"},
+    {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt"},
+    {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta'minоt"
+    }
+]
+},
+{"question": "Windows ОT larining bоshqa ОТ lardan printsipial farqi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash"},
+    {
+        "isTrue": false,
+        "answer": "dialоgli ish rejimi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblashlar ishоnchliligi"},
+    {
+        "isTrue": false,
+        "answer": "Kоmanda tili yo'qligi"
+    }
+]
+},
+{"question": "Amaliy dasturiy ta`minоt – dasturlari",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "aniq sоha masalalarini yechishni ta`minlоvchi dastur-lardir"},
+    {
+        "isTrue": false,
+        "answer": "tizimga xizmat qilu-vchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "interfeysni ta`minlоvchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "tizimni sоzlоvchi dasturlar"
+    }
+]
+},
+{"question": "Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "NTFS"},
+    {
+        "isTrue": false,
+        "answer": "BFS"},
+    {
+        "isTrue": false,
+        "answer": "FAT"},
+    {
+        "isTrue": false,
+        "answer": "JFS"
+    }
+]
+},
+{"question": "Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlar, virtual xоtira, оb`ektlar dispetcheri"},
+    {
+        "isTrue": false,
+        "answer": "jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari"},
+    {
+        "isTrue": false,
+        "answer": "lоkal prоtseduralarni chaqirish vоsitalari"
+    }
+]
+},
+{"question": "Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "ОS YeS, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "WINDOWS 95"
+    }
+]
+},
+{"question": "Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "server qismi"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita"},
+    {
+        "isTrue": false,
+        "answer": "klient qismi"},
+    {
+        "isTrue": false,
+        "answer": "kоmmunikatsiоn vоsitalar"
+    }
+]
+},
+{"question": "Prоtsessоr vaqti",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "chegaralangan resurs"},
+    {
+        "isTrue": false,
+        "answer": "dоimiy resurs"},
+    {
+        "isTrue": false,
+        "answer": "vaqtinchalik resurs"},
+    {
+        "isTrue": false,
+        "answer": "chegaralanmagan resurs"
+    }
+]
+},
+{"question": "Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "rivоjlanish 3-davriga yuzaga keldi"},
+    {
+        "isTrue": false,
+        "answer": "rivоjlanish 1-davriga yuzaga keldi"},
+    {
+        "isTrue": false,
+        "answer": "rivоjlanish 4-davriga yu-zaga keldi"},
+    {
+        "isTrue": false,
+        "answer": "rivоjlanish 2-davriga yu-zaga keldi"
+    }
+]
+},
+{"question": "Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "standart xоlatlar (pо umоl-chaniyu) printsipi"},
+    {
+        "isTrue": false,
+        "answer": "funktsiоnal tanlanish printsipi"},
+    {
+        "isTrue": false,
+        "answer": "generatsiya printsipi"},
+    {
+        "isTrue": false,
+        "answer": "chastоta printsipi"
+    }
+]
+},
+{"question": "Qanday axbоrоtlar security accounts manager da saqlanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "fоydalanuvchilarning qayd yo-zuvi haqidagi"},
+    {
+        "isTrue": false,
+        "answer": "Windows оperatsiоn tizim fоydalanuvchi-lari haqidagi"},
+    {
+        "isTrue": false,
+        "answer": "ma'lumоtlar bazasidagi axbоrоtlar"},
+    {
+        "isTrue": false,
+        "answer": "ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi"
+    }
+]
+},
+{"question": "Tizimli dasturiy ta`minоt bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-ishini ta`minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy masalalarni yechimini ta`minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuter ishini nazоrat qiladi"},
+    {
+        "isTrue": false,
+        "answer": "kоmpyuter qurilmalarini ishlashini ta`minlaydi"
+    }
+]
+},
+{"question": "Mоnоlit ОT larda tuzilishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)"},
+    {
+        "isTrue": false,
+        "answer": "5 ta satxdan ibоrat"},
+    {
+        "isTrue": false,
+        "answer": "6 ta satxdan ibоrat (ko'p satxli dastur)"},
+    {
+        "isTrue": false,
+        "answer": "3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)"
+    }
+]
+},
+{"question": "Amaliy dasturiy ta`minоt",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash tizimini nazоrat qiluvchi"},
+    {
+        "isTrue": false,
+        "answer": "stastikani оlib beradi"},
+    {
+        "isTrue": false,
+        "answer": "qurilmalarni ishlatuvchi"
+    }
+]
+},
+{"question": "Multidasturlash bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi"},
+    {
+        "isTrue": false,
+        "answer": "hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi"
+    }
+]
+},
+{"question": "Matn redaktоri Word bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "amaliy dasturiy"},
+    {
+        "isTrue": false,
+        "answer": "asоs dasturiy"},
+    {
+        "isTrue": false,
+        "answer": "xizmatchi dasturiy"},
+    {
+        "isTrue": false,
+        "answer": "tizimli dasturiy"
+    }
+]
+},
+{"question": "Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "NTFS"},
+    {
+        "isTrue": false,
+        "answer": "JFS"},
+    {
+        "isTrue": false,
+        "answer": "BFS"},
+    {
+        "isTrue": false,
+        "answer": "FAT"
+    }
+]
+},
+{"question": "Tizimli dasturiy taminоt nechtaga bo'linadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "3"},
+    {
+        "isTrue": false,
+        "answer": "5"},
+    {
+        "isTrue": false,
+        "answer": "2"},
+    {
+        "isTrue": false,
+        "answer": "4"
+    }
+]
+},
+{"question": "Windows server bu qaysi kompaniyaga tegishli",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Microsoft"},
+    {
+        "isTrue": false,
+        "answer": "IBM"},
+    {
+        "isTrue": false,
+        "answer": "Unix"},
+    {
+        "isTrue": false,
+        "answer": "PS/OS"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Linux serveri hisoblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Ubuntu, Debian, CentOS"},
+    {
+        "isTrue": false,
+        "answer": "Ubuntu, IBMm Debian"},
+    {
+        "isTrue": false,
+        "answer": "Microsoft, Debian,"},
+    {
+        "isTrue": false,
+        "answer": "IBM, Microsoft, Oracle"
+    }
+]
+},
+{"question": "Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Canonical"},
+    {
+        "isTrue": false,
+        "answer": "Microsoft"},
+    {
+        "isTrue": false,
+        "answer": "IBM"},
+    {
+        "isTrue": false,
+        "answer": "Oracle"
+    }
+]
+},
+{"question": "Operatsion tizim nima",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Amaliy dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Multimediyali dasturlar jamlanmasi"
+    }
+]
+},
+{"question": "Operatsion tizim asoson ...",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "tizimli dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Amalaiy dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Multimediyali qurilmalar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Qobiqdan iborat"
+    }
+]
+},
+{"question": "Operatsion tizimda hisoblash tizimining tarkibi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Konfiguratsiya"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlar"},
+    {
+        "isTrue": false,
+        "answer": "Aparat vositalar"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlar"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Amaliy dasturlar, Yadro, Fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Kamanda prosessori, konfiguratsiya"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi yadro bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi"},
+    {
+        "isTrue": false,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+    }
+]
+},
+{"question": "Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."},
+    {
+        "isTrue": false,
+        "answer": "masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi."},
+    {
+        "isTrue": false,
+        "answer": "komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos  xizmatlarni chaqirishni ta’minlaydi"
+    }
+]
+},
+{"question": "Operatsion tizim interfeysi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Foydalanuvchi aloqa o'rnatadigan qulay qobiq"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "Fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Buyruq interpretatori bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Dastur tilidan mashina tiliga o'giradi (Tarjimon)"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlarni ishga tushiradi"},
+    {
+        "isTrue": false,
+        "answer": "Amaliy dasturlarni ishga tushiradi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Kompyuter tashkil etuvchisi bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Turli xil qurilmalarni boshqarish dasturi"},
+    {
+        "isTrue": false,
+        "answer": "Multimediya qurilmalarni boshqarish"},
+    {
+        "isTrue": false,
+        "answer": "O'yinlarni yaratish dasturi"},
+    {
+        "isTrue": false,
+        "answer": "Tizimni boshqarish"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 2-avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1955 - 1965"},
+    {
+        "isTrue": false,
+        "answer": "1965 - 1975"},
+    {
+        "isTrue": false,
+        "answer": "1945 - 1955"},
+    {
+        "isTrue": false,
+        "answer": "1985 - 1995"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1965 - 1980"},
+    {
+        "isTrue": false,
+        "answer": "1945 - 1955"},
+    {
+        "isTrue": false,
+        "answer": "1955 - 1965"},
+    {
+        "isTrue": false,
+        "answer": "1985 - 1995"
+    }
+]
+},
+{"question": "Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "1980 yildan to hozirgacha"},
+    {
+        "isTrue": false,
+        "answer": "1965 - 1980"},
+    {
+        "isTrue": false,
+        "answer": "1955 - 1965"},
+    {
+        "isTrue": false,
+        "answer": "1945 - 1955"
+    }
+]
+},
+{"question": "Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Charles Babbage"},
+    {
+        "isTrue": false,
+        "answer": "Inix Helton"},
+    {
+        "isTrue": false,
+        "answer": "Shelton Holmz"},
+    {
+        "isTrue": false,
+        "answer": "Daniel Tompson"
+    }
+]
+},
+{"question": "4 - avlod kampyuterlariga qanday kompyuterlar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Personal va super kompyuterlar"},
+    {
+        "isTrue": false,
+        "answer": "Lampali"},
+    {
+        "isTrue": false,
+        "answer": "Integral sxemali kompyuterlar"},
+    {
+        "isTrue": false,
+        "answer": "hali yaratilmagan"
+    }
+]
+},
+{"question": "Multipleksing bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "resurslar ishlashining ketma – ketligi va davomiyligi"},
+    {
+        "isTrue": false,
+        "answer": "Drayverlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlar jamlanmasi"},
+    {
+        "isTrue": false,
+        "answer": "to'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Multipleksingning ikki xil ko'rinishi bor bular",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Vaqtinchalik, Ajratilgan xotira"},
+    {
+        "isTrue": false,
+        "answer": "Ajratilmagan xotira, Doimiy xotira"},
+    {
+        "isTrue": false,
+        "answer": "Qobiq, Drayverlar"},
+    {
+        "isTrue": false,
+        "answer": "Interfeyslar, amaliy dasturlar"
+    }
+]
+},
+{"question": "Boot Loader – bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir"},
+    {
+        "isTrue": false,
+        "answer": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi"},
+    {
+        "isTrue": false,
+        "answer": "operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"},
+    {
+        "isTrue": false,
+        "answer": "Qurilmalarni o'rnatadi"
+    }
+]
+},
+{"question": "Interrupts (Uzilish) – bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to’xtatilishidir"},
+    {
+        "isTrue": false,
+        "answer": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi"},
+    {
+        "isTrue": false,
+        "answer": "Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir"},
+    {
+        "isTrue": false,
+        "answer": "operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"
+    }
+]
+},
+{"question": "Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bir vazifali , ko'p vazifali"},
+    {
+        "isTrue": false,
+        "answer": "bir vazifali"},
+    {
+        "isTrue": false,
+        "answer": "ko'p vazifali"},
+    {
+        "isTrue": false,
+        "answer": "ko'p foydalanuvchi"
+    }
+]
+},
+{"question": "Meynfraymlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan"},
+    {
+        "isTrue": false,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir."},
+    {
+        "isTrue": false,
+        "answer": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda"},
+    {
+        "isTrue": false,
+        "answer": "juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."
+    }
+]
+},
+{"question": "Operatsion tizimlar tuzilishiga ko'ra sinflanishi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Monolit, ko'p sathli, Klient -Server, Mikro yadroli"},
+    {
+        "isTrue": false,
+        "answer": "Monolit, Ko'p sathli"},
+    {
+        "isTrue": false,
+        "answer": "Klient - server"},
+    {
+        "isTrue": false,
+        "answer": "Mikro yadroli"
+    }
+]
+},
+{"question": "Monolit operatsion tizimlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi."},
+    {
+        "isTrue": false,
+        "answer": "Faqat sever bilan ishlovchi OT"},
+    {
+        "isTrue": false,
+        "answer": "Faqat yadro bilan ishlovchi OT"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "linux"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"},
+    {
+        "isTrue": false,
+        "answer": "Windows"},
+    {
+        "isTrue": false,
+        "answer": "Solaris"
+    }
+]
+},
+{"question": "Operatsion tizimga qo'yiladigan talablar bular",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Barcha javoblar to'g'ri"},
+    {
+        "isTrue": false,
+        "answer": "dasturlar va a'luotlarni himoyalash"},
+    {
+        "isTrue": false,
+        "answer": "Samaradorlik, Moslashuvchanlik, Yangilanish"},
+    {
+        "isTrue": false,
+        "answer": "Ishonchlilik, Qulaylilik, aniqlik"
+    }
+]
+},
+{"question": "BIOS bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi"},
+    {
+        "isTrue": false,
+        "answer": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlarni boshqaradi"},
+    {
+        "isTrue": false,
+        "answer": "Barcha javoblar nato'g'ri"
+    }
+]
+},
+{"question": "Drayverlar bu",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir"},
+    {
+        "isTrue": false,
+        "answer": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi"},
+    {
+        "isTrue": false,
+        "answer": "amaliy dasturlarni boshqaradi"},
+    {
+        "isTrue": false,
+        "answer": "Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi"
+    }
+]
+},
+{"question": "Bir masalali OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Ko'p masalali OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Bir foydalanuvchilik OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Ko'p foydalanuvchilik OT ga qaysilar kiradi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Windows, Unix, OS/2"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Operatsion tizim qobiqlari",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar"},
+    {
+        "isTrue": false,
+        "answer": "Xotirani boshqarish qurilasi"},
+    {
+        "isTrue": false,
+        "answer": "Tashqi qurilmani boshqarish qurilmasi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob berilmagan"
+    }
+]
+},
+{"question": "Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Paint, Adobe Photoshop"},
+    {
+        "isTrue": false,
+        "answer": "Word"},
+    {
+        "isTrue": false,
+        "answer": "Excel"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"
+    }
+]
+},
+{"question": "FAT32, Ext2, NTFS — bu …",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Paint, Adobe Photoshop"},
+    {
+        "isTrue": false,
+        "answer": "Word"},
+    {
+        "isTrue": false,
+        "answer": "Excel"},
+    {
+        "isTrue": false,
+        "answer": "MS-DOS, MSX"
+    }
+]
+},
+{"question": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "OS / 2"},
+    {
+        "isTrue": false,
+        "answer": "QNX"},
+    {
+        "isTrue": false,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "Win NT"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Bir martalik tarmoq OS va maxsus serverlarga ega OS"},
+    {
+        "isTrue": false,
+        "answer": "korporativ va mahalliy tarmoq"},
+    {
+        "isTrue": false,
+        "answer": "LAN va WAN"},
+    {
+        "isTrue": false,
+        "answer": "Korxona va bo'limlar tarmog'i"
+    }
+]
+},
+{"question": "NTFS fayl tizimi",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Yangi texnologik fayl tizimi"},
+    {
+        "isTrue": false,
+        "answer": "Juda ishonchli"},
+    {
+        "isTrue": false,
+        "answer": "disk maydonidan samarali foydalanadi"},
+    {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q"
+    }
+]
+},
+{"question": "Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "MS DOS"},
+    {
+        "isTrue": false,
+        "answer": "OS / 2"},
+    {
+        "isTrue": false,
+        "answer": "OS EC"},
+    {
+        "isTrue": false,
+        "answer": "UNIX"
+    }
+]
+},
+{"question": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "OS / 2"},
+    {
+        "isTrue": false,
+        "answer": "QNX"},
+    {
+        "isTrue": false,
+        "answer": "UNIX"},
+    {
+        "isTrue": false,
+        "answer": "Win NT"
+    }
+]
+},
+{"question": "Tarmoq operatsion tizimlari ... .. qismlardan iborat",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "To'rt"},
+    {
+        "isTrue": false,
+        "answer": "Ikki"},
+    {
+        "isTrue": false,
+        "answer": "Uch"},
+    {
+        "isTrue": false,
+        "answer": "Besh"
+    }
+]
+},
+{"question": "FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Tizim maydoni va ma'lumotlar maydoni"},
+    {
+        "isTrue": false,
+        "answer": "Ma'lumotlar maydoni va kataloglari"},
+    {
+        "isTrue": false,
+        "answer": "Katalog maydoni va tizim maydoni"},
+    {
+        "isTrue": false,
+        "answer": "yuklash joylari"
+    }
+]
+},
+{
+"question": "FAT fayl tizimiga quyidagilar kiradi:",
+"answers": [
+    {
+        "isTrue": true,
+        "answer": "Barcha javoblar to'g'ri"},
+    {
+        "isTrue": false,
+        "answer": "Manzilli mantiqiy disk bo'limlari"},
+    {
+        "isTrue": false,
+        "answer": "Diskdagi bo'sh joy"},
+    {
+        "isTrue": false,
+        "answer": "Diskdagi nuqsonli joylar"}]
+
+    }
+]

@@ -1,0 +1,180 @@
+.test__header {
+    display: flex;
+    width: auto;
+}
+
+.header {
+    max-width: 1000px;
+    padding: 20px 15px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.number__wrapper {
+    max-width: 1000px;
+    padding: 0 15px;
+    margin: 0 auto;
+    overflow-y: scroll;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    overflow-x: scroll;
+}
+
+.number__wrapper::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+.test__num {
+    min-width: 30px;
+    height: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #141E61;
+}
+
+.test__num.active,
+.test__num:hover {
+    background-color: #141E61;
+    color: #FFF;
+    transition: .2s ease-in-out;
+    cursor: pointer;
+}
+
+.test__num.true {
+    background-color: #00C19F;
+    border-color: #00C19F;
+    color: #FFF;
+}
+
+.test__num.false {
+    background-color: #FF0E2C;
+    border-color: #FF0E2C;
+    color: #FFF;
+}
+
+.test__body {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 40px;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.answer {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.answer > div {
+    padding: 10px 20px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    transition: .2 ease-in-out;
+    cursor: pointer;
+}
+
+.answer input:checked + div {
+    border-color: #141E61;
+    transition: .2 ease-in-out;
+}
+
+.answer.true > div {
+    border-color: #00C19F;
+    background-color: #00C19F;
+    color: #FFF;
+}
+
+.answer.checked > div {
+    border-color: #FF0E2C;
+}
+
+.answer.checked.true > div {
+    border-color: #00C19F;
+}
+
+.answer.false > div {
+    border-color: #FF0E2C;
+    background-color: #FF0E2C;
+    color: #FFF;
+}
+
+.test__container button {
+    padding: 9px 16px;
+    background-color: #141E61;
+    color: #FFF;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.answers button:hover {
+    opacity: .9;
+}
+
+.answers button:active {
+    opacity: .7;
+}
+
+.modal__wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal__body {
+    padding: 20px 30px;
+    background-color: #eee;
+    border-radius: 10px;
+    animation: popup .3s ease-in-out;
+}
+
+.modal__body .content {
+    width: 200px;
+}
+
+.modal__body .content > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modal__body .value {
+    color: gray;
+    font-weight: bold;
+}
+
+.modal__body button {
+    width: 100%;
+    padding: 9px 16px;
+    margin-top: 20px;
+    background-color: #141E61;
+    color: #FFF;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+@keyframes popup {
+    from {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+

@@ -1,0 +1,37 @@
+.welcome__wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #787A91;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome__card {
+    border: 1px solid #141E61;    
+    background-color: #EEEEEE;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.body span {
+    padding: 6px 12px;
+    display: inline-block;
+    background-color: #0F044C;
+    color: #EEEEEE;
+    border-radius: 4px;
+}
+
+.body span:first-of-type {
+    margin-right: 16px;
+}
+
+.body span:hover {
+    opacity: .9;
+    transition: .1s ease-in-out;
+    cursor: pointer;
+}
+
