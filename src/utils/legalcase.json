@@ -1,0 +1,4202 @@
+[
+  {
+    "question": "1.Qanday xat vazirliklar, elchixonalar, vakolatxonalar o‘rtasidagi yozishma bo'lib, biror mansabdor shaxs nomidan yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Rasmiy xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tabrik xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iltimos xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Da'vo xat"
+      }
+    ]
+  },
+  {
+    "question": "2.Biror mamlakatning davlat ahamiyatiga ega masalalar yuzasidan bergan murojaatnomasi nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bayonot"
+      },
+      {
+        "isTrue": false,
+        "answer": "Farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Buyruq"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      }
+    ]
+  },
+  {
+    "question": "3. Diplomatik hujjatlarda hujjat yuborilayotgan mamlakatning nomlanishida, shaxsning lavozimi, ismi, familiyasi va otaismini yozishda, unga murojaat shakllarida biron-bir xatoga yo‘l qo‘yish mumkinmi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "mumkin emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "mumkin"
+      },
+      {
+        "isTrue": false,
+        "answer": "ba'zi xollarda"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "4. Jo‘natilgan iltimos va so‘rov xatlarga javob olinmasa, shuningdek, tuzilgan shartnomalar muddati buzilganida yoki unga amal qilinmagan hollarda qanday xat yuboriladi.?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "eslatma xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "yozma xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "da'vo xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "tabrik xat"
+      }
+    ]
+  },
+  {
+    "question": "5. M a’lum bir muassasa tomonidan yuborilgan iltimos va so‘rovlarga javob tarzida yoziladigan xatlarning bir turi nimadeb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasdiq xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "shikoyat xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "da'vo xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "taklif xati"
+      }
+    ]
+  },
+  {
+    "question": "6. Telegrammaning har bir so‘zi uchun pul to‘lanadimi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ha"
+      },
+      {
+        "isTrue": false,
+        "answer": "yo'q"
+      },
+      {
+        "isTrue": false,
+        "answer": "ba'zan"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "7. Xizmat telegrammalari  necha nusxada tayyorlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ikki"
+      },
+      {
+        "isTrue": false,
+        "answer": "uch"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir "
+      },
+      {
+        "isTrue": false,
+        "answer": "to'rt"
+      }
+    ]
+  },
+  {
+    "question": "8. Muayyan vaqt uchun rejalashtirilgan ish yoki vazifa, topshiriqlaming bajarilishi, amaliy dolzarb ishlar, xizmat va ilmiy safarlar yakuni haqida ma’lumot beruvchi hujjatnima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hisobot"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qonun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bildirgi"
+      }
+    ]
+  },
+  {
+    "question": "9. Tavsifnoma matni nechinchi shaxs tilidan bayon qilinadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "uchinchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkinchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "birinchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "10. M a’lumotnoma o‘z xususiyati va mazmuniga ko‘ra nechiga  bo‘linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "xizmat ma’lumotnomasi va shaxsiy ma’lumotnomaga"
+      },
+      {
+        "isTrue": false,
+        "answer": "yuridik ma’lumotnomasi va shaxsiy ma’lumotnomaga"
+      },
+      {
+        "isTrue": false,
+        "answer": " idoraviy ma’lumotnomasi va shaxsiy ma’lumotnomaga"
+      },
+      {
+        "isTrue": false,
+        "answer": "qonuniy ma’lumotnomasi va shaxsiy ma’lumotnomaga"
+      }
+    ]
+  },
+  {
+    "question": "11.  Qanday ishonchnomalar mulkni boshqarish bilan aloqador turli-tuman ishlarni amalga oshirish huquqini beradi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Umumiy ishonchnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "huquqiy ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yuridik ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtinchalik beriladigan ishonchnomalar"
+      }
+    ]
+  },
+  {
+    "question": "12. Muayyan davr davomida bir qancha bir turdagi vazifalami bajarish vakolatini beruvchi ishonchnomalar nima  deyiladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "maxsus ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "rasmiy ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "huquqiy ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yuridik ishonchnomalar"
+      }
+    ]
+  },
+  {
+    "question": "13. Rasmiy ishonchnomalarda ulaming amal qilish (o‘z kuchini saqlash) muddati ko‘rsatilgan bo‘ladimi?.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ko'rsatilgan bo'ladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'rsatilgan bo'lmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Muddat belgilanmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "14. Qanday ishonchnomalar davlat muassasalari, kasaba uyushmasi, fermer xo‘jaligi, jamoat tashkilotlari muayyan lavozimli shaxsga uning muayyan tashkilot tomonidan ish yuritishga vakil qilinganini bildirish uchun beriladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Rasmiy (xizmat sohasidagi) ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Avtomashina boshqarish uchun ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uy joy oldi sottisini amalga oshirish uchun ishonchnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "15. Vasiyat qiluvchi yoki meros qoldiruvchi vasiyatnoma tuzilganidan keyin uni istagan paytda bekor qilish va o‘zgartirish borasida erkin bo‘lib, bunda u bekor qilish yoki o‘zgartirish sabablarini ko‘rsatishga majburmi? ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "majbur emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "majbur"
+      },
+      {
+        "isTrue": false,
+        "answer": "ba'zi xollarda majbur"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "16. Kim o‘z mol-mulkini (uning bir qismini) bir yoki bir necha merosxo‘rga, shu bilan birga, yuridik shaxslarga, davlatga yoki fuqarolaming o‘zini o‘zi boshqarish idoralariga vasiyat qilish huquqiga ega?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Vasiyat qiluvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sotib oluvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ruxsat beruvchi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishga oluvchi"
+      }
+    ]
+  },
+  {
+    "question": "17.  Nima bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Vasiyatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ruxsatnoma"
+      }
+    ]
+  },
+  {
+    "question": "18. Kimga yo'llanganiga qarab bildirishnoma qanday turlarga ajraladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ichki va tashqi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sodda va murakkab"
+      },
+      {
+        "isTrue": false,
+        "answer": "yozma va og'zaki"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma'lum va noma'lum"
+      }
+    ]
+  },
+  {
+    "question": "19. Fuqarolar o‘zlarining amaldagi qonunchilikda belgilab qo‘yilgan huquq va majburiyatlarini himoya qilish yoki ulaming ijro qilinishini talab etib, da’vo, iltimos yoki shikoyat mazmunidagi arizalami yozadilar. Shuning uchun ham bunday arizalaming aksariyati qanday arizalar deb yuritiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "da’vo arizalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "buyruq arizalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "iltimos ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "ariza"
+      }
+    ]
+  },
+  {
+    "question": "20. Farmoyishda muayyan xodimga uning xizmat lavozimi vazifalariga kirmaydigan ishlar yuklatilsa, «qanday» so‘z qo‘llanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tavsiya etaman"
+      },
+      {
+        "isTrue": false,
+        "answer": "buyuraman"
+      },
+      {
+        "isTrue": false,
+        "answer": "iltimos qilaman"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasdiqlayman"
+      }
+    ]
+  },
+  {
+    "question": "21.  Buyruqdan kо ‘chirma  elektron shaklda olinganda, qanday imzo yoki QR kod bilan yoxud boshqa himoya vositalari bilan ham tasdiqlanishi mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elektron raqamli imzo"
+      },
+      {
+        "isTrue": false,
+        "answer": "oddiy imzo"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasdiq imzo"
+      },
+      {
+        "isTrue": false,
+        "answer": "qonuniy imzo"
+      }
+    ]
+  },
+  {
+    "question": "22. Buyruqdan ko‘chirma, odatda, blankaga yozilib, tasdiqlab beriladi: «qaysi» jumla bilan kotib (yoki buyruqdan ko‘chirma beruvchi shaxs) imzo chekadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Asliga to‘g‘ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri ko'chirilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri yuritilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri yozilgan"
+      }
+    ]
+  },
+  {
+    "question": "23.  Qanday buyruqlar biror xodim ishga qabul qilinganda yoki bo‘shatilganda, boshqa bo‘limga o‘tkazilganda, shuningdek, muayyan xodim mukofotlanganda, mehnat ta’tiliga chiqqanda va shu kabi hollarda beriladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kadrlarning shaxsiy tarkibiga oid buyruq yoki individual buyruqlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shaxsiy buyruqlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Jamoaviy buyruqlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlash uchun buyruqlar"
+      }
+    ]
+  },
+  {
+    "question": "24. Uy-joy ijarasi haqidagi shartnoma muayyan uy-joy yaqinidagi qaysi idora tomonidan tasdiqlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "notarial idora"
+      },
+      {
+        "isTrue": false,
+        "answer": "adliya idorasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "arxiv idorasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "moliya idorasi"
+      }
+    ]
+  },
+  {
+    "question": "25. Pul mablag'lari va moddiy-tovar boyliklarini saqlash uchun mas’ul bo'lgan shaxslar bilan nima  haqida yozma shartnoma tuziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to‘liq shaxsiy moddiy javobgarlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsiy bitim"
+      },
+      {
+        "isTrue": false,
+        "answer": "mehnat bitimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "idoraviy bitim"
+      }
+    ]
+  },
+  {
+    "question": "26.  Nima muayyan munosabat doirasidagi faoliyat yoki biror davlat organi, tashkilot, muassasaning tuzilishi, vazifasini yo‘naltirib turadigan asosiy nizom va qoidalar majmuidir?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ustav"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bitim"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yo'riqnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Guvohnoma"
+      }
+    ]
+  },
+  {
+    "question": "27. Xizmat guvohnomasi ishga qabul qilish to‘g‘risidagi buyruq va kimning qarori asosida belgilanadi hamda kadrlar bilan ishlash xizmatlari yoki boshqa xizmatlar tomonidan beriladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "birinchi rahbar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yuridik shaxs"
+      },
+      {
+        "isTrue": false,
+        "answer": "jismoniy shaxs"
+      },
+      {
+        "isTrue": false,
+        "answer": "xolis odam"
+      }
+    ]
+  },
+  {
+    "question": "28. Xizmat guvohnomasi xodimning pasporti о'rnini bosadimi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yo'q"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ha"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ba'zi xollarda"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "29. Nima davlat va xo‘jalik boshqaruvi organlari, mahalliy davlat hokimiyati organlari xodimlariga beriladi hamda xodimning shaxsi va lavozimini tasdiqlaydigan hujjat hisoblanadi.?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Xizmat guvohnomasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mehnat bitimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Rasmiy hujjat"
+      }
+    ]
+  },
+  {
+    "question": "30. Hujjatlarning elektron shakldagi nusxalari 0 ‘zbekiston Respublikasi Qonun hujjatlari ma’lumotlari milliy bazasi -keltirilgan qatorni aniqlang!",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "lex.uz"
+      },
+      {
+        "isTrue": false,
+        "answer": "mib.uz"
+      },
+      {
+        "isTrue": false,
+        "answer": "gov.uz"
+      },
+      {
+        "isTrue": false,
+        "answer": "dtm.uz"
+      }
+    ]
+  },
+  {
+    "question": "31. Hujjatlar matniga qo‘yiladigan eng muhim talablardan biri - nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "xolislik"
+      },
+      {
+        "isTrue": false,
+        "answer": "samimiylik"
+      },
+      {
+        "isTrue": false,
+        "answer": "qonuniylik"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishonchlilik"
+      }
+    ]
+  },
+  {
+    "question": "32. Kim arxivdagi hujjatlar va hujjatlar yig‘majildlarining o‘z vaqtida qaytarilishini nazorat qilib boradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Arxiv mudiri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Arxiv qo'riqchisi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Arxiv xodimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yurist"
+      }
+    ]
+  },
+  {
+    "question": "33. Arxivdan olingan hujjatlar zarurat tugashi bilanoq, biroq nechi kundan kechiktirmasdan, arxivga qaytarilishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "15 kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "1 kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "3 kun"
+      }
+    ]
+  },
+  {
+    "question": "34. Hujjatlar va hujjatlar yig‘majildlari arxivda 0 ‘zbekiston Respublikasi qaysi idorasi tomonidan belgilangan tartibda saqlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0 ‘zarxiv agentligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adliya vazirligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Oliy majlis"
+      },
+      {
+        "isTrue": false,
+        "answer": "Davlat idoralari"
+      }
+    ]
+  },
+  {
+    "question": "35. Kim hujjatlarni va hujjatlar yig‘majildlarini qabul qilishda ularning to‘g‘ri to'ldirilganligini tekshiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Idoraviy arxiv mudiri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kassir"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mudir"
+      },
+      {
+        "isTrue": false,
+        "answer": "Direktor"
+      }
+    ]
+  },
+  {
+    "question": "36. O’zbekiston Respublikasi qaysi hujjatida ham Davlat tilining maqomi huquqiy jihatdan mustahkamlab qo’yildi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Konstitutsiyasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnomasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shartnomasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "Farmoyishida"
+      }
+    ]
+  },
+  {
+    "question": "37. Nechinchi yil  «Davlat tili haqida»gi Qonun qabul qilinib, o’zbek tiliga Davlat tili maqomi berildi.?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1989 yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "1999 yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "2000 yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "1992 yil"
+      }
+    ]
+  },
+  {
+    "question": "38. Biron-bir tadbir haqida xabardor qilish uchun qo‘llanuvchi yozma axborot nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "e’lon"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirishnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "qonun"
+      }
+    ]
+  },
+  {
+    "question": "39. Hujjatlar matniga qo‘yiladigan eng muhim talablardan biri qaysi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "xolislik"
+      },
+      {
+        "isTrue": false,
+        "answer": "qisqalik"
+      },
+      {
+        "isTrue": false,
+        "answer": "soddalik"
+      },
+      {
+        "isTrue": false,
+        "answer": "mazmundorlik"
+      }
+    ]
+  },
+  {
+    "question": "40. Qanday hollarda nutq to'g'ri bo'lmasligi mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Adabiy til normalari buzilsa."
+      },
+      {
+        "isTrue": false,
+        "answer": "Talaffuz normalari buzilsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adabiy til normalariga rioya qilinganda"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talaffuz normalariga rioya qilinsa"
+      }
+    ]
+  },
+  {
+    "question": "41. Rasmiy xat turlari berilgan qatorni belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "iltimos xat, eslatma xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "ilova xat, tabrik xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish xat, tilxat  "
+      },
+      {
+        "isTrue": false,
+        "answer": "kafolat xati, tushuntirish xati "
+      }
+    ]
+  },
+  {
+    "question": "42. Hujjatlar  matni  qanday  talablar  asosida  ko`riladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha  javoblar  to`g`ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "xoslik , aniqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "ixchamlik , lo`ndalik"
+      },
+      {
+        "isTrue": false,
+        "answer": "mazmu`niy  to`liqlik "
+      }
+    ]
+  },
+  {
+    "question": "43. Xodim to`g`risidagi ma`lumotlar mehnat daftarchasining nechinchi betiga yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Birinchi betiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkinchi betiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uchinchi betiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "To`g`ri javob yo`q"
+      }
+    ]
+  },
+  {
+    "question": "44. Mehnat daftarchasiga kiritiladigan ma`lumotlar ehtiyotkorlik bilan qaysi rangdagi siyoh bilan yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Qora, ko`k va binafsha"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qora va qizil"
+      },
+      {
+        "isTrue": false,
+        "answer": "Faqat qora"
+      },
+      {
+        "isTrue": false,
+        "answer": "Faqat ko`k"
+      }
+    ]
+  },
+  {
+    "question": "45. Mehnat shartnomasi bekor qilingan kuni ish beruvchi mehnat kodeksining qaysi moddasiga binoan xodimga uning mehnat daftarchasi va mehnat shartnomasini bekor qilish to`g`risidagi buyruqning nusxasini berishi shart?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "108-moddaga binoan"
+      },
+      {
+        "isTrue": false,
+        "answer": "107-moddaga binoan"
+      },
+      {
+        "isTrue": false,
+        "answer": "103-moddaga binoan"
+      },
+      {
+        "isTrue": false,
+        "answer": "89-moddaga binoan"
+      }
+    ]
+  },
+  {
+    "question": "46. Qachon xodimga mehnat shartnomasini berish taqiqlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ish davomida"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uyda vaqti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko`chada vaqti"
+      },
+      {
+        "isTrue": false,
+        "answer": "To`g`ri javob yo`q"
+      }
+    ]
+  },
+  {
+    "question": "47. Quyidagilardan qaysi biri mehnat daftarchasiga yozilmaydi:? 1-intizomiy jazolar to`g`risidagi ma`lumotlar; 2-mehnat shartnomasini bekor qilish asoslari ya`ni sabablari haqidagi ma`lumotlar; 3-xodimning tug`ilgan yili va sanasi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1 va 2"
+      },
+      {
+        "isTrue": false,
+        "answer": "1 va 3"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 va 3"
+      },
+      {
+        "isTrue": false,
+        "answer": "Faqat 3"
+      }
+    ]
+  },
+  {
+    "question": "48.Yo`riqnoma talabiga asosan, ish beruvchi mehnat daftarchasiga kiritilgan har qanmday yozuv haqida daftarcha egasini necha kun muddat ichida tanishtirishi lozim?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Uch kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Besh kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yeti-o`n kun"
+      }
+    ]
+  },
+  {
+    "question": "49.Mehnat stajiga ega bo`lmagan xodimlarga muassasada necha kun ishlaganlaridan keyin mehnat daftarchasi yuritilishi lozim?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Besh kun ishlagandan keyin"
+      },
+      {
+        "isTrue": false,
+        "answer": "Birinchi ish kunidan"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uchinchi ish kunidan"
+      },
+      {
+        "isTrue": false,
+        "answer": "50.Ish staji yo`q xodimga mehnat daftarchasi tutilmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Mehnat bitimi kamida nechta nusxada tuziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ikki nusxada"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uch nusxada"
+      },
+      {
+        "isTrue": false,
+        "answer": "To`rt nusxada"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bitta nusxada"
+      }
+    ]
+  },
+  {
+    "question": "51. ...shartnoma turlaridan biri bo‘lib, u orqali muassasalar bilan ularning hisobida turmaydigan xodim(lar) o‘rtasidagi o‘zaro munosabatlar rasmiylashtiriladi.?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "mehnat bitimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "yo’riqnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma"
+      }
+    ]
+  },
+  {
+    "question": "52. Qanday hujjat muayyan bir shart yoki va’dani tasdiqlash maqsadida tuziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kafolat xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "nizom"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "53. Xizmat sohasidagi, xizmatga aloqador masalani, uning ayrim jihatlarini yozma izohlovchi va muassasa I (bo‘lim) rahbariga (ichki) yoki yuqori tashkilotga (tashqi) yo‘llanuvchi hujjat nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tushuntirish xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tavsifnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "nizom"
+      }
+    ]
+  },
+  {
+    "question": "54. Ma’lum bir shaxsdan yoki muassasadan pul, hujjat, qimmatbaho buyumlar yoxud boshqa biror narsa olinganligini tasdiqlovchi rasmiy yozma hujjat nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tilxat"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to'g'ri"
+      }
+    ]
+  },
+  {
+    "question": "55. Biror shaxsni ma’lum lavozimga yoki ijtimoiy-siyosiy tashkilotlarga a’zo bo‘lish uchun tavsiya etuvchi rasmiy hujjat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tavsiyanoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tarjimayi hol"
+      },
+      {
+        "isTrue": false,
+        "answer": "tilxat"
+      }
+    ]
+  },
+  {
+    "question": "56. Hujjatlarda tilning ikki vazifasi bor, bular qaysilar?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "informativ va volyuntativ"
+      },
+      {
+        "isTrue": false,
+        "answer": "informativ va buyruq"
+      },
+      {
+        "isTrue": false,
+        "answer": "informativ va iqtisodiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "to’g’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "57. ___ ikki yoki undan ortiq masalani o’z ichiga oladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "murakkab xujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "sodda hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumot-axborot, tashkiliy va farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "xat"
+      }
+    ]
+  },
+  {
+    "question": "58. ___ muayyan bir masalani o’z ichiga oladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sodda hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "murakkab xujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "bayonnomalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumot-axborot, tashkiliy va farmoyish"
+      }
+    ]
+  },
+  {
+    "question": "59. Shartnoma qanday munosabatlarni individual huquqiy tartibga solishning eng muhim vositasi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mulkiy va nomulkiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Pulli va pulsiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "Aloqali va aloqasiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qonuniy va noqonuniy"
+      }
+    ]
+  },
+  {
+    "question": "60. Nima ishlab chiqarish va iste'mol o'rtasidagi eng samarali va moslashuvchan aloqa vositasi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qonun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xat"
+      }
+    ]
+  },
+  {
+    "question": "61. Shartnomalar tomonlar kelishuvga erishgandan so'ng kuchga kirganda qanday deb hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Konsensiv"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kooperativ"
+      },
+      {
+        "isTrue": false,
+        "answer": "Koldan"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qonun"
+      }
+    ]
+  },
+  {
+    "question": "62. Nazorat hujjatlari va topshiriqlar ijrosi haqidagi ma’lumotlar har oyning nechinchi sanasi xolatiga ko’ra umumlashtiriladi va raxbariyatga ma’lum qilinadi.?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Birinchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkinchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ahamiyatsiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uchinchi"
+      }
+    ]
+  },
+  {
+    "question": "63. Davlat organi sud, korxona,  muassasa,  tashkilotga,  jamoat birlashmasiva fuqarolarning o‘z-o‘zini boshqarish organlarigabiron-bir masala boʻyicha yakka tartibda yoki jamoa boʻlib ogʻzaki yoxud yozma ravishda qilingan shikoyat – nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Shaxsiy ariza "
+      },
+      {
+        "isTrue": false,
+        "answer": "Arxiv hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iltimos xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talabnoma"
+      }
+    ]
+  },
+  {
+    "question": "64. Hujjatlarning yo‘qolib ketmasligi va ularning talab etilgan jismoniy holatda bo‘lishi uchun hujjatlar saqlanishiga maqbul shart-sharoitlar yaratish, me’yorlarga rioya etish va hujjatlar saqlanishini ta’minlash kabi tadbirlar majmuasi nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hujjatlarni saqlanishini ta’minlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xodimlarni ish bilan ta'minlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Jismoniy shaxslar bilan ishlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuridik xizmat ko'rsatish"
+      }
+    ]
+  },
+  {
+    "question": "65. Arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiradigan tashkilotning tarkibiy bo‘linmasi nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Idoraviy arxiv bo'linmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hujjatlar bilan ishlash bo'linmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xodimlar bilan ishlash bo'linmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Jismoniy shaxslar bilan ishlash bo'linmasi"
+      }
+    ]
+  },
+  {
+    "question": "66. Arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiradigan muassasa – bu?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Arxiv"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosmaxona"
+      },
+      {
+        "isTrue": false,
+        "answer": "kutubxona"
+      },
+      {
+        "isTrue": false,
+        "answer": "Asliya vazirligi"
+      }
+    ]
+  },
+  {
+    "question": "67. Ichki hujjat nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Muassasa yoki korxonani o‘zida tuziladigan va shu korxona ichida foydalaniladigan hujjatlardir"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korxonaga, boshqa tash-kilot va ayrim shaxslardan keladigan hujjatlardir."
+      },
+      {
+        "isTrue": false,
+        "answer": "Yakka shaxs tomonidan yoziladigan, ularning xizmat faoliyatlaridan tashqaridagi yoki jamoat ishlarini bajarish bilan bog‘liq masalalarga tegishli bo‘ladigan hujjatlardir."
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki yoki undan ortiq tomonning fuqarolik huquqlari va majburiyatlarini belgilash, o‘zgartirish yoki to`xtatish yo`lidagi kelishuvidir."
+      }
+    ]
+  },
+  {
+    "question": "68. Nizomning asosiy zaruriy qismlari qaysilar?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tasdiqlash ustxati, muassasa nomi, hujjat nomi, hujjat matni, sana va joy."
+      },
+      {
+        "isTrue": false,
+        "answer": "Muassasa nomi, hujjat nomi, hujjat matni, sana va joy shaxsiy varraqa"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasdiqlash ustxati, muassasa nomi, hujjat matni, sana va joy iltimos xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasdiqlash ustxati, muassasa nomi, hujjat nomi, hujjat matni, sana va joy, elektron pochta manzili, O‘zbekiston Respublikasining gerbi."
+      }
+    ]
+  },
+  {
+    "question": "69. Rekvizit deb nimaga aytiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hujjatni rasmiylashtirishning majburiy elementiga aytiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat."
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot."
+      },
+      {
+        "isTrue": false,
+        "answer": "Faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjatga aytiladi."
+      }
+    ]
+  },
+  {
+    "question": "70. Dalolatnoma, buyruq va farmoyishlar hujjat yuritishning qaysi munosabatlariga doir?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Idoraviy-ma’muriy munosabatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Diplomatik munosabatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Huquqiy munosabatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shahsiy munosabatlar"
+      }
+    ]
+  },
+  {
+    "question": "71. Bayonot, nota, bitim, memorandum hujjatlari qaysi munosabatlarga doir?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Diplomatik munosabatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Idoraviy-ma’muriy munosabatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Huquqiy munosabatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shaxsiy munosabatlar"
+      }
+    ]
+  },
+  {
+    "question": "72. Ish yuritish huijatlari qo‘llanish doirasi, maqsad va vazifalariga ko‘ra qaysi guruhlarga bo‘linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tashkiliy, farmoyish, ma’lumot-axborot hujjatlari va xizmat yozishmalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shaxsiy va rasmiy hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Soda va murakkab hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Barcha javoblar to’g’ri"
+      }
+    ]
+  },
+  {
+    "question": "73. “Davlat tili haqida”gi Qonunning qaysi moddasida davlat hokimiyati va boshqaruv organlarida ishning davlat tilida yuritilishi va zaruriyatga qarab boshqa tillarga tarjima qilinishi ta'kidlab o‘tilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "9-moddasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "1-moddasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "19-moddasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "10-moddasida"
+      }
+    ]
+  },
+  {
+    "question": "74. Tashkilot yoki uning tarkibiy bo‘linmalari tuzilishi, huquqlari, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydigan huquqiy hujjat.........",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "nizom"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "qonun"
+      },
+      {
+        "isTrue": false,
+        "answer": "buyruq"
+      }
+    ]
+  },
+  {
+    "question": "75. Yo’riqnomalar kim tomonidan tuziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "davlat organlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "jismoniy shaxslar"
+      },
+      {
+        "isTrue": false,
+        "answer": "xususiy tashkilotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "76.  Boshqarish jarayonini amalga oshirish uchun zarur bo’lgan faktlar – bu?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Manba"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kitob"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ma’lumot"
+      }
+    ]
+  },
+  {
+    "question": "77. Ish yuritish asosi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Nozom"
+      },
+      {
+        "isTrue": false,
+        "answer": "Farmoish"
+      }
+    ]
+  },
+  {
+    "question": "78. Guvohnomani qaysi turi moliyaviy hujjat hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " xizmat safari guvohnomasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "yuridik faktlarni tasdiqlaydigan guvohnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsning biron ishga oid vakolatini ko'rsatadigan guvohnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to'g'ri"
+      }
+    ]
+  },
+  {
+    "question": "79. Guvohnoma vazifasi noto'g'ri ko'rsatilgan qatorni ko'rsating:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " muassasa yoki uning tarkibiy bo'linmalarining tuzilishi, huquqi, vazifalari, burchlari, ishni tashkil qilishlari tartibotini belgilaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "muayyan shaxsning biron ishga (masalan, taftish o'tkazishga) oid vakolatini ko'rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "muayyan shaxsning xizmat va boshqa holatlarni ko’rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "xodimga safar vaqtida yuklatilgan xizmat vazifasini bajarishga vakolat beradi"
+      }
+    ]
+  },
+  {
+    "question": "80. Shartnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "ichki mehnat tartiboti, ya‘ni unda ishni tashkil etish, xodimlar bilan ma’muriyat o'rtasidagi majburiyatlar, ta'tillar berish tartibi, ichki tartib aks ettiradigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot"
+      }
+    ]
+  },
+  {
+    "question": "81. Taklifnoma, telegramma, xatlar qo‘llanish doirasi, maqsad va vazifalariga ko‘ra qaysi hujjat guruhiga kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " xizmat yozishmalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkiliy hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumot-axborot hujjatlar"
+      }
+    ]
+  },
+  {
+    "question": "82. Buyruqning farmoyish qismi yangi satrdan qanday so‘zini bosh harflar bilan ikki nuqta qo‘yib yozishdan boshlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Buyuraman"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qilishingizni so'rayman"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qaror qilindi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Aytaman"
+      }
+    ]
+  },
+  {
+    "question": "83. Guvohnoma, yo‘riqnoma, nizom qoida, ustav, shartnomalar qanday hujjatlar sirasiga kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Tashkiliy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Oddiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Me'yoriy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ixtioriy"
+      }
+    ]
+  },
+  {
+    "question": "84. Sud qarori qanday deb nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " xususiy ajrim"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ozgartirilmas"
+      },
+      {
+        "isTrue": false,
+        "answer": "final qaror"
+      },
+      {
+        "isTrue": false,
+        "answer": "tog’ri javob yoq"
+      }
+    ]
+  },
+  {
+    "question": "85. Buyruq qanday qismlardan tarkib topkan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " asosiy matni asoslovchi (kirish) va farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "asosiy matni asoslovchi (kirish)"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "tog’ri javob yoq"
+      }
+    ]
+  },
+  {
+    "question": "86. “Davlat organi yoki mansabdor shaxsning oʻz vakolati doirasida muayyan maqsadga erishish yoʻlida qabul qiladigan va biror oqibat keltirib chiqaradigan hujjati” bu nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Qaror"
+      },
+      {
+        "isTrue": false,
+        "answer": "Farmon"
+      },
+      {
+        "isTrue": false,
+        "answer": "Nizom"
+      },
+      {
+        "isTrue": false,
+        "answer": "Buyruq"
+      }
+    ]
+  },
+  {
+    "question": "87. Qonunlar rasman e’lon qilingandan nechi kun o’tgach kuchga kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " 10 kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "7 kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "3 kun"
+      },
+      {
+        "isTrue": false,
+        "answer": "1 kun"
+      }
+    ]
+  },
+  {
+    "question": "88. Yo’riqnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " qonun yoki boshqa me’yoriy hujjatlami tanishtirish maqsadida chiqariladigan huquqiy hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "faoliyatning har xil turlari yoki ularning natijalariga doir qoidalar, umumiy tamoyillar va xususiyatlarni belgilab beruvchi hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "muassasa yoki korxonani o‘zida tuziladigan va shu korxona ichida foydalaniladigan hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikki yoki undan ortiq tomonning biron bir munosabatlar o'rnatish haqidagi kelishuvini qayd etuvchi va munosabatlami tartibga soluvchi hujjat"
+      }
+    ]
+  },
+  {
+    "question": "89. Ma’lumotnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Bo‘lgan voqea yoki mavjud holatlarni bildirish-axborot berish mazmunida ifodalaydigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "yuridik faktlarni tasdiqlaydigan guvohnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsning biron ishga oid vakolatini ko'rsatadigan guvohnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat"
+      }
+    ]
+  },
+  {
+    "question": "90. Ishonchnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat."
+      },
+      {
+        "isTrue": false,
+        "answer": "Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat."
+      },
+      {
+        "isTrue": false,
+        "answer": "korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot"
+      }
+    ]
+  },
+  {
+    "question": "91. Dalolatnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat."
+      },
+      {
+        "isTrue": false,
+        "answer": "ichki mehnat tartiboti, ya‘ni unda ishni tashkil etish, xodimlar bilan ma’muriyat o'rtasidagi majburiyatlar, ta'tillar berish tartibi, ichki tartib aks ettiradigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "korxonaga, boshqa tashkilot va ayrim shaxslardan keladigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va hujjatni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot"
+      }
+    ]
+  },
+  {
+    "question": "92. Vasiyatnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir."
+      },
+      {
+        "isTrue": false,
+        "answer": "ichki mehnat tartibi qoidalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkilot, korxona muassasa o‘rtasida xizmat aloqalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "asosiy faoliyatga oid buyruqlar ishni tashkil qilish"
+      }
+    ]
+  },
+  {
+    "question": "93. Bildirishnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Muayyan muassasa (tarkibiy qism) rahbariga xizmat faoliyati bilan aloqador muhim masalalar yuzasidan yoki yuqori idora, mansabdor shaxsga biron-bir voqea va hodisa haqida xabardor qilish zarurati tug‘ilganda taqdim etiladigan mufassal yozma axborot."
+      },
+      {
+        "isTrue": false,
+        "answer": "Tashkiliy hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Farmoyish hujjati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ma’lumot-axborot hujjatlarga kiruvchi ma’lumot"
+      }
+    ]
+  },
+  {
+    "question": "94. Bayonnoma  nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Turli yig‘ilish, kengash va boshqa tur anjumanlarning borishini, majlis qatnashchilarining chiqishlari va ular qabul qilgan qarorlarni aniq, siqiq holda qayd qiluvchi rasmiy hujjat "
+      },
+      {
+        "isTrue": false,
+        "answer": "Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir."
+      },
+      {
+        "isTrue": false,
+        "answer": "Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat."
+      }
+    ]
+  },
+  {
+    "question": "95. Ariza nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " muayyan muassasa yoki mansabdor shaxs nomiga biror iltimos mazmunida yoziladigan rasmiy hujjat, eng koʻp tarqalgan ish qogʻozi."
+      },
+      {
+        "isTrue": false,
+        "answer": "bir shaxsning (vasiyat qiluvchining), u vafot qilgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo‘yicha xohish-irodasi bayon qilingan hujjatdir."
+      },
+      {
+        "isTrue": false,
+        "answer": "Muassasa yoki ayrim shaxslar faoliyati bilan bog‘liq biron-bir bo‘lib o‘tgan (sodir bo‘lgan) voqea, hodisa, ish-harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat."
+      },
+      {
+        "isTrue": false,
+        "answer": "Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat."
+      }
+    ]
+  },
+  {
+    "question": "96. Tashkiliy hujjatlar nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " mazmunan tashkilot, muassasa va korxonalarning xuquqiy maqomi, tarkibiy tarmoqlari va xodimlari, boshqaruv jarayonining borishida jamoa ishtirokining qayd qilinishi, boshqa tashkilotlar bilan aloqalarning xuquqiy tomonlari kabi masalalarini aks ettiradi."
+      },
+      {
+        "isTrue": false,
+        "answer": "har qanday hujjatning asli, birinchi rasmiy nusxasidir. Asl nusxaning aynan qayta ko'chirilgan shakli nusxa deb yuritiladi, odatda nusxaning o'ng tomonidagi Yuqoridagi burchagiga \"nusxa\"- degan belgi qo'yiladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha \"yozmoq\" emas, balki \"to'ldirmoq\" so'zi ishlatiladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar."
+      }
+    ]
+  },
+  {
+    "question": "97. Asl nusxa nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " har qanday hujjatning asli, birinchi rasmiy nusxasidir. Asl nusxaning aynan qayta ko'chirilgan shakli nusxa deb yuritiladi, odatda nusxaning o'ng tomonidagi Yuqoridagi burchagiga \"nusxa\"- degan belgi qo'yiladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha \"yozmoq\" emas, balki \"to'ldirmoq\" so'zi ishlatiladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar."
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqa tashkilotlardan keladigan hujjatlar."
+      }
+    ]
+  },
+  {
+    "question": "98. Qolipli hujjatlar nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " odatda, oldindan tayyorlangan bosma ish qogozlariga yoziladi, bunday hujjatlarda ikki turli axborotlar aks etadi. yangi, o'zgarmas va o'zgaruvchi axborotlar, shu ning uchun bu turdagi hujjatlarga nisbatan ko'pincha \"yozmoq\" emas, balki \"to'ldirmoq\" so'zi ishlatiladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqa tashkilotlardan keladigan hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "99. Namunaviy hujjatlar nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " boshqaruvning muayyan bir xil vaziyatlari bilan bog'lik, bir-biriga o'xshash va ko'p takrorlanadigan masalalar yuzasidan tuzilgan matnlarni o'z ichiga oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqa tashkilotlardan keladigan hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "100. Sodda hujjatlar –nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " tashkilotning ichida tuzilib, boshqaruv jarayonida xodimlar tomonidan foydalaniladigan hujjatlar. "
+      },
+      {
+        "isTrue": false,
+        "answer": "muayyan bir soda masalani o'z ichiga oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqa tashkilotlardan keladigan hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "to'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "101. Tashdiq xatida A4 qog’ozning yuqori o’ng burchagida qanday ma’lumotlar bo’lishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Adresat ma'lumotlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "O’z tashkilotingiz haqidagi ma’lumot"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hech narsa yozilmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Faqat sana yoziladi"
+      }
+    ]
+  },
+  {
+    "question": "102. Tasdiq xatida A4 qog’ozning yuqori chap burchagida qanday ma’lumotlar bo’lishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " O’z tashkilotingiz haqidagi ma’lumot"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adresat ma'lumotlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hech narsa yozilmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Faqat sana yoziladi"
+      }
+    ]
+  },
+  {
+    "question": "103. So’rov xati imkon qadar qanday bo’lishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Qisqa va aniq"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tushunarli va sodda"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzun va tushunarli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bo’yoqdor va tushunarli"
+      }
+    ]
+  },
+  {
+    "question": "104. So’rov xati uchun quyidagilardan qaysi biriga yo’l qo’ymaslik kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Iltifot so’zlardan foydalanmaslik"
+      },
+      {
+        "isTrue": false,
+        "answer": "So’rovni asoslash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tan olish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hamdardlik so’zlardan foydalanish"
+      }
+    ]
+  },
+  {
+    "question": "105. Shaxsiy hujjatlar qaysi qatorda to‘g‘ri yozilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " shaxsiy arizalar, shikoyat arizalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ilova xat, eslatma xat, axborot xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasdiq xat, so‘rov xat, ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishonchnoma, so‘rov xat,"
+      }
+    ]
+  },
+  {
+    "question": "106. Qaysi qatorda javob talab qilinmaydigan hujjatlar yozilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Tasdiq xat, ilova xat, eslatma xat, axborot xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasdiq xat, so‘rov xat, da’vo xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "ilova xat, da’vo xat, tasdiq xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hammasi to‘g‘ri"
+      }
+    ]
+  },
+  {
+    "question": "107. Muassasa yoki ayrim shaxslar faoliyati bian bog‘liq biron– bir sodir bo‘lgan voqea, hodisa, ish– harakatni yoki mavjud holatni tasdiqlash, unga guvohlik berish maqsadida bir necha kishi tomonidan tuzilgan hujjat– bu…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tilxat"
+      },
+      {
+        "isTrue": false,
+        "answer": "tushuntirish xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirgi"
+      }
+    ]
+  },
+  {
+    "question": "108. Xizmat sohasidagi, xizmatga aloqador masalani, uning ba’zi bir jihatlarini yozma izohlovchi va muassasa rahbariga yoki yuqori tashkilotga yo‘llanuvchi hujjat —",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " bildirgi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tushuntirish xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "tilxat"
+      }
+    ]
+  },
+  {
+    "question": "109. Qaysi hujjatda xodimning ijobiy va salbiy xislatlari ko‘rsatiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " tavsifnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bildirgi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tushuntirish xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "tarjimayi hol"
+      }
+    ]
+  },
+  {
+    "question": "110. Tarjimayi holda fe’llarning qaysi zamon shakli qo‘llanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " hozirgi va o‘tgan zamon "
+      },
+      {
+        "isTrue": false,
+        "answer": "faqat hozirgi zamon"
+      },
+      {
+        "isTrue": false,
+        "answer": "hozirgi va kelasi zamon"
+      },
+      {
+        "isTrue": false,
+        "answer": "faqat o‘tgan zamon"
+      }
+    ]
+  },
+  {
+    "question": "111. Ish yuritish hujjatining xizmat yozishmalari guruhiga taalluqli bo‘lmagan turini toping.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " taklifnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Telegramma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tilxat"
+      }
+    ]
+  },
+  {
+    "question": "112. Xizmat xatining muallifi – ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " xatni jo‘natadigan tashkilot"
+      },
+      {
+        "isTrue": false,
+        "answer": "xatni tayyorlagan xodim"
+      },
+      {
+        "isTrue": false,
+        "answer": "xatni jo‘natgan xodim"
+      },
+      {
+        "isTrue": false,
+        "answer": "xatni imzolagan rahbar"
+      }
+    ]
+  },
+  {
+    "question": "113. Adressga yuborilayotgan hujjatlar haqida xabar beruvchi xat turini ko‘rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " eslatma xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "yo‘llanma xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasdiq xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "kafolat xati"
+      }
+    ]
+  },
+  {
+    "question": "114. Xizmat xatlari odatda quyidagi jumla bilan tugaydi: …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " hurmat bilan"
+      },
+      {
+        "isTrue": false,
+        "answer": "sizning iltimosingizga binoan"
+      },
+      {
+        "isTrue": false,
+        "answer": "sizning takliflaringiz ko‘rib chiqildi"
+      },
+      {
+        "isTrue": false,
+        "answer": "… munosabati bilan"
+      }
+    ]
+  },
+  {
+    "question": "115. Kafolat xati bu – …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " biror narsa yoki ish uchun haq to‘lanishiga ishontiradigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "biror narsaning muddati tugayotganligini ma’lum qiladigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "tadbirga taklif qiladigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "qimmatbaho buyumning yetkazilganligini tasdiqlovchi hujjat"
+      }
+    ]
+  },
+  {
+    "question": "116. Hujjat tuzilgan joy qaysi hujjatda qo‘yilmaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " farmoyishda"
+      },
+      {
+        "isTrue": false,
+        "answer": "Buyruqda"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bildirgida"
+      },
+      {
+        "isTrue": false,
+        "answer": "majlis bayonida"
+      }
+    ]
+  },
+  {
+    "question": "117. Dalolatnomada qaysi sana qo‘yiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " tekshiruv o‘tkazilgan sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat tuzilgan sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat imzolangan sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat bilan tanishtirilgan sana"
+      }
+    ]
+  },
+  {
+    "question": "118. Majlis bayonida qaysi sana qo‘yiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " yig‘ilish o‘tkazilgan sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat rasmiylashtirilgan sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat imzolangan sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjat tasdiqlangan sana"
+      }
+    ]
+  },
+  {
+    "question": "119, Hujjatning qaysi turida hujjat nomi ko‘rsatilmaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "majlis bayonidan ko‘chirma"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirgi"
+      },
+      {
+        "isTrue": false,
+        "answer": "hisobot"
+      }
+    ]
+  },
+  {
+    "question": "120. Axborot qayd etilgan hamda uni vaqt va makonda uzatish imkonini beruvchi moddiy obyekt bu– …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "  hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Guvohnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalil"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xat"
+      }
+    ]
+  },
+  {
+    "question": "121. Hujjatning qaysi turida ma’lum bir davr mobaynidagi faoliyat natijalari aks ettiriladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " hisobot"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirgi"
+      },
+      {
+        "isTrue": false,
+        "answer": "majlis bayoni"
+      }
+    ]
+  },
+  {
+    "question": "122. Hujjatlar tegishlilik jihatidan qanday hujjatlarga bo‘linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " rasmiy yoki shaxsiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "xizmat yoki rasmiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsiy yoki xizmat"
+      },
+      {
+        "isTrue": false,
+        "answer": "idoraviy yoki rasmiy"
+      }
+    ]
+  },
+  {
+    "question": "123. Qanday hollarda nutq to'g'ri bo'lmasligi mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " Adabiy til normalari buzilsa. Talaffuz normalari buzilsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adabiy til normalariga rioya qilinganda"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talaffuz normalariga rioya qilinsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q"
+      }
+    ]
+  },
+  {
+    "question": "124. Qaysi holatlarda bildirishnoma yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " voqea– hodisalar haqida xabardor qilish, ayrim masalalarga xulosa va takliflar berishda;"
+      },
+      {
+        "isTrue": false,
+        "answer": "talab qilingan voqea– hodisalar haqida axborot berishda;"
+      },
+      {
+        "isTrue": false,
+        "answer": "voqea, hodisalar yoki mavjud holatni huquqiy jihatdan isbotlash yoki tasdiqlashda;"
+      },
+      {
+        "isTrue": false,
+        "answer": "sodir etilgan ba’zi hatti– harakatlar isbotlab tushuntirilganda;"
+      }
+    ]
+  },
+  {
+    "question": "125. Qaysi hujjat turlari yozilish shakliga ko‘ra o‘xshash?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": " tavsifnoma, tavsiyanoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "buyruq, bayonnoma, farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma, da’vo arizasi, shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tilxat, ishonchnoma, ma’lumotnoma"
+      }
+    ]
+  },
+  {
+    "question": "126. Mansabdor shaxsning talabi bilan yoziladigan hujjat nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "talabnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tushintirish xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "buyruq"
+      }
+    ]
+  },
+  {
+    "question": "127. Bosma ish qog‘oziga yoziladigan hujjatlar berilgan qatorni aniqlang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ma’lumotnoma, shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolatnoma, buyruq"
+      },
+      {
+        "isTrue": false,
+        "answer": "bayonnoma, xizmat yozishmalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishonchnoma, farmoyish"
+      }
+    ]
+  },
+  {
+    "question": "128. ”Tavsiya qilaman”,”Ruxsat beraman” kabi iboralar qaysi hujjatga tegishli?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hisobot"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tilxat"
+      }
+    ]
+  },
+  {
+    "question": "129. Kadrlarning shaxsiy tarkibiga oid buyruqlar qanchagacha muddatga saqlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "40 yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "20 yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "30 yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "50 yil"
+      }
+    ]
+  },
+  {
+    "question": "130. Xizmat arizalari bilan da’vo arizalari o’rtasida qanday farq bor?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Da’vo arizasida to’rtburchakchak muhrini bo’lmasligi bilan."
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosma ish qog’oziga yoziladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosma ish qog’oziga yozilmaydi."
+      },
+      {
+        "isTrue": false,
+        "answer": "Da’vo arizasida to’rtburchakchak muhrini bo’lishligi bilan."
+      }
+    ]
+  },
+  {
+    "question": "131. Ish yuritishning tarixdagi dastlabki nomi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "munshaot"
+      },
+      {
+        "isTrue": false,
+        "answer": "qolipli hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "muhrdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "munshiy"
+      }
+    ]
+  },
+  {
+    "question": "132. Hujjatlar yaratilish o’rniga ko’ra qanday hujjatlarga bo’linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ichki va tashqi hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Oddiy hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xususiy hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Murakkab hujjatlar"
+      }
+    ]
+  },
+  {
+    "question": "133.Hujjatlarni o’zbek tilida yuritish haqidagi qonun qachon qabul qilindi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1994– yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "1993-yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "1989– yil"
+      },
+      {
+        "isTrue": false,
+        "answer": "1991– yil"
+      }
+    ]
+  },
+  {
+    "question": "134. Diolog qaysi uslubga xos?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "so’zlashuv va badiiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "so’zlashuv va ommabop"
+      },
+      {
+        "isTrue": false,
+        "answer": "so’zlashuv va ilm"
+      },
+      {
+        "isTrue": false,
+        "answer": "badiiy"
+      }
+    ]
+  },
+  {
+    "question": "135. Ritorika qanday ilm?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "notiqlik san’atining nazariy asoslari"
+      },
+      {
+        "isTrue": false,
+        "answer": "yozma nutq haqida ma’lumot beruvchi ilm"
+      },
+      {
+        "isTrue": false,
+        "answer": "nutq uslublari haqida fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "nutq madaniyati haqida fan"
+      }
+    ]
+  },
+  {
+    "question": "136. Notiqning eng muhim vazifasi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "real voqelikni tinglovchiga chiroyli uslubda yetkazish"
+      },
+      {
+        "isTrue": false,
+        "answer": "tinglovchini ishontirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "chiroyli so’zlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Notiqning eng muhim vazifasi nima?"
+      }
+    ]
+  },
+  {
+    "question": "137. Xizmat yozishmalarida qanday qoliplashgan so‘zlardan foydalanish mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "“Sizga ...ni ma’lum qilamiz” “Sizga ...ni eslatamiz”"
+      },
+      {
+        "isTrue": false,
+        "answer": "“Sizga ...ni ma’lum qilamiz”"
+      },
+      {
+        "isTrue": false,
+        "answer": "“Sizga ...ni eslatamiz”"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘g‘ri javob berilmagan"
+      }
+    ]
+  },
+  {
+    "question": "138. Sharqda X– XIX asrlarda keng qo‘llangan hujjatlar qatorini belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yorliq, bitimlar, arznoma, vasiqa, tilxat"
+      },
+      {
+        "isTrue": false,
+        "answer": "noma, tilxat, arznoma, vasiyatnoma, farmon"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirgi, bitimlar, vasiqa, tilxat, vasiyatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tilxat, arznoma, bitimlar, dalolatnoma"
+      }
+    ]
+  },
+  {
+    "question": "139. Rasmiy uslubda qaysi so`z turkumidagi so`zlardan keng foydalaniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ot"
+      },
+      {
+        "isTrue": false,
+        "answer": "fe`l"
+      },
+      {
+        "isTrue": false,
+        "answer": "sifat"
+      },
+      {
+        "isTrue": false,
+        "answer": "olmosh"
+      }
+    ]
+  },
+  {
+    "question": "140. Qolibli hujjatlarga qaysi hujjat kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "xizmat safari guvohnomasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma`lumotnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "dalolarnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tavsifnoma"
+      }
+    ]
+  },
+  {
+    "question": "141. Ikki yoki undan ortiq masalani o`z ichiga oladigan hujjat qaysi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "murakkab hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "sodda hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashqi hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "ichki hujjat"
+      }
+    ]
+  },
+  {
+    "question": "142. Tavsiyanomaning oxirgi zaruriy qismi qaysi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "muhr"
+      },
+      {
+        "isTrue": false,
+        "answer": "Imzo"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "Matn"
+      }
+    ]
+  },
+  {
+    "question": "143. Qanday nutqni boy deyish mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tilning ifoda vositalaridan foydalanilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "So'zlarni o'z o'rniga qo'yishni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Nutq hamma vaqt aniq, ravshan bo'lishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Rasmiy nutqni"
+      }
+    ]
+  },
+  {
+    "question": "144. Munshaot nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ish yuritish"
+      },
+      {
+        "isTrue": false,
+        "answer": "xat turi"
+      },
+      {
+        "isTrue": false,
+        "answer": "munosabat turi"
+      },
+      {
+        "isTrue": false,
+        "answer": "rasmiy uslub"
+      }
+    ]
+  },
+  {
+    "question": "145. Bayonnomaning birinchi zaruriy qismi qaysi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "muassa nomi"
+      },
+      {
+        "isTrue": false,
+        "answer": "shartli raqam"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjatning nomi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sarlavha"
+      }
+    ]
+  },
+  {
+    "question": "146. So`zlashuv uslubi nechaga bo`linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2 ga"
+      },
+      {
+        "isTrue": false,
+        "answer": "4 ga "
+      },
+      {
+        "isTrue": false,
+        "answer": "3 ga"
+      },
+      {
+        "isTrue": false,
+        "answer": "5 ga"
+      }
+    ]
+  },
+  {
+    "question": "147. O`zbekiston Respublikasi Konistitutsiasining nechanchi moddasi davlat tili to`g`risida yozilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "4 – moddasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "6 – moddasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "3 – moddasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "5 – moddasi"
+      }
+    ]
+  },
+  {
+    "question": "148. Yotoqxonada yashovchilar belgilangan tartib – intizom va tozalikka rioya qilmagan taqdirda yotoqxonadan chiqariladi. Ushbu gap nutq uslublarining qaysi turiga mansub",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "rasmiy – idoraviy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Badiiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Publisistik"
+      },
+      {
+        "isTrue": false,
+        "answer": "so`zlashuv"
+      }
+    ]
+  },
+  {
+    "question": "149. Oqsil juda murakkab yuqori molekulali birikmadir. Suv molekulasi uch atom vodoroddan iborat. Bu qaysi uslubda yozilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ilmiy uslub"
+      },
+      {
+        "isTrue": false,
+        "answer": "Badiiy uslub"
+      },
+      {
+        "isTrue": false,
+        "answer": "Publitsistik uslub"
+      },
+      {
+        "isTrue": false,
+        "answer": "So'zlashuv uslubi"
+      }
+    ]
+  },
+  {
+    "question": "150. Badiiy uslubga xos xususiyat qaysi javobda berilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Obrazlilik, estetik ta'sir etish vazifasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Soddalik, tantanavorlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Badiiylik, atamalarni qo'llash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasviriy vositalarni qo'llamaslik"
+      }
+    ]
+  },
+  {
+    "question": "151.Ilmiy uslubga xos xususiyatni belgilang?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "So'z va atamalarni ko'proq qo'llash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'chma ma'noli so'zlarni qo'llash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eskirgan so'zlarni qo'llash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Neologizmlarni qo'llash"
+      }
+    ]
+  },
+  {
+    "question": "152. Publitsistik uslubga xos xususiyatni toping?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mantiqiylik, izchillik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ilmiylik, soddalik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tantanavorlik, jo'shqinlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ilmiylik"
+      }
+    ]
+  },
+  {
+    "question": "153. Rasmiy uslubda qanday matnlar tuziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hujjatlar, ish yuritish qog'ozlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qarorlar, idorahujjatlari,.dostonlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "E'lonlar, she'rlar, romanlar."
+      },
+      {
+        "isTrue": false,
+        "answer": "E'lonlar, qarorlar, qonunlar"
+      }
+    ]
+  },
+  {
+    "question": "154. So'zlashuv uslubining asosiy belgilari qaysi javobda berilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Oddiylik, betakalluflik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Oddiylik, tantanavorlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Betakalluflik, ilmiylik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Oddiylik, betakalluflik, hayajonlilik"
+      }
+    ]
+  },
+  {
+    "question": "155. Hujjatlar tegishlilik jihatidan qanday hujjatlarga bo‘linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "rasmiy yoki shaxsiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "idoraviy yoki rasmiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsiy yoki xizmat"
+      },
+      {
+        "isTrue": false,
+        "answer": "xizmat yoki rasmiy"
+      }
+    ]
+  },
+  {
+    "question": "156. Lotin yozuvidagi “O`zbek tilining asosiy imlo qoidalari “ qachon tasdiqlangan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1995 yil 24 avgust"
+      },
+      {
+        "isTrue": false,
+        "answer": "1940 yil 8 may"
+      },
+      {
+        "isTrue": false,
+        "answer": "1956 yil 4 aprel"
+      },
+      {
+        "isTrue": false,
+        "answer": "1993 yil 2 sentabr"
+      }
+    ]
+  },
+  {
+    "question": "157. Kirill yozuvidagi “O`zbek tilining asosiy imlo qoidalari “ qachon tasdiqlangan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1994 yil 24 avgust"
+      },
+      {
+        "isTrue": false,
+        "answer": "1993 yil 2 sentabr"
+      },
+      {
+        "isTrue": false,
+        "answer": "1956 yil 4 aprel"
+      },
+      {
+        "isTrue": false,
+        "answer": "1940 yil 8may"
+      }
+    ]
+  },
+  {
+    "question": "158. “ Davlat tili haqida “gi qonunning nechanchi moddasida “O`zbekiston Respublikasining Davlat tili – o`zbek tilidir “deb yozilgan ?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1– moddasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "2– moddasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "3– moddasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "4– moddasida"
+      }
+    ]
+  },
+  {
+    "question": "159. Hujjat matni qaysi shaxs tilidan yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1,3"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,1"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,3"
+      },
+      {
+        "isTrue": false,
+        "answer": "1,2"
+      }
+    ]
+  },
+  {
+    "question": "160. Tarjimayi holga qo‘yiladigan qaysi talablar noto‘g‘ri?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha talablar to‘g‘ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "hikoya uslubida bo‘lib, I shaxs tilidan yoziladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlar xronologiya asosida, aniq sanalar bilan beriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "u bilan tanishgan kishi muallifning hayot yo‘li va faoliyati haqida tasavvurga ega bo‘lishi kerak"
+      }
+    ]
+  },
+  {
+    "question": "161. Qanday hujjat turi kotib tomonidan rasmiylashtiriladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bayonnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tavsifnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotnoma"
+      }
+    ]
+  },
+  {
+    "question": "162. Buyruq, ko‘rsatma, farmoyish kabi hujjatlar xizmat mavqeyiga ko‘ra qanday hujjatlar hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "farmoyish hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkiliy hujjatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotsimon"
+      },
+      {
+        "isTrue": false,
+        "answer": "axborot hujjatlar"
+      }
+    ]
+  },
+  {
+    "question": "163. Biror narsa olinganligini tasdiqlovchi rasmiy hujjat nima deyiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasdiq xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tilxat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bildirishnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishonchnoma"
+      }
+    ]
+  },
+  {
+    "question": "164. Muassasaning asosiy va kundalik vazifalarini hal etish maqsadida qo‘llaniladigan hujjat nima deyiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "buyruq deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bayonnoma deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "hisobot deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish deyiladi"
+      }
+    ]
+  },
+  {
+    "question": "165. Ko‘chirma olinadigan hujjat turini belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "buyruq, bayonnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tilxat, ishonchnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish, dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tavsifnoma, tavsiyanoma"
+      }
+    ]
+  },
+  {
+    "question": "166. Rasmiy xat turlari berilgan qatorni belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "iltimos xat, eslatma xat"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish xat, tilxat"
+      },
+      {
+        "isTrue": false,
+        "answer": "ilova xat, tabrik xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "kafolat xati, tushuntirish xati"
+      }
+    ]
+  },
+  {
+    "question": "167. Tavsifnoma nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ma’muriyat yoki shaxs tomonidan beriladigan, shaxsning xususiyatlari qayd etiladigan rasmiy hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shaxsning mehnat va ijtimoiy faoliyati o‘ziga xos xislat va fazilatni aks ettiruvchi hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "o‘z shaxsiy hayoti va faoliyatini bayon qiladigan hujjat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Muassasa tomonidan fuqarolarning turmushi va ish faoliyatidagi voqea– hodisalar va holatlarni tasdiqlab beruvshi rasmiy hujjat"
+      }
+    ]
+  },
+  {
+    "question": "168. O‘z nomidan ish ko‘rish uchun yoziladigan vakolatli hujjat nima deb yuritiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "kafolat xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirishnoma"
+      }
+    ]
+  },
+  {
+    "question": "169. Qaysi javobda nom to`gri yozilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Osiyo Taraqqiyot Banki"
+      },
+      {
+        "isTrue": false,
+        "answer": "Osiyo taraqqiyot banki"
+      },
+      {
+        "isTrue": false,
+        "answer": "osiyo taraqqiyot banki"
+      },
+      {
+        "isTrue": false,
+        "answer": "osiyo Taraqqiyot banki"
+      }
+    ]
+  },
+  {
+    "question": "170. Xizmat xatlari nechta zaruriy qismni o`z ichiga oladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "24 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "19 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "16 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "22 ta"
+      }
+    ]
+  },
+  {
+    "question": "171. Quyidagi hujjatlarning qaysi biri rasmiy uslubning diplomatik uslubda yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "konversiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qonun"
+      },
+      {
+        "isTrue": false,
+        "answer": "jinoiy doklat"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirgi"
+      }
+    ]
+  },
+  {
+    "question": "172. Shaxsiy yoki mulkiy sug`urta shartnomasi, zarurat tug`ilganda sug`urtachiga qarshi davo qo`zg`atib zararni undirish uchun sudga taqdim etiladigan rasmiy hujjat qaysi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "polis"
+      },
+      {
+        "isTrue": false,
+        "answer": "Investitsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Aksiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "lizing "
+      }
+    ]
+  },
+  {
+    "question": "173. Qaysi javobda publitistik uslubga to`g`ri tarif berilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ommaviy axborot vositalari uslubi"
+      },
+      {
+        "isTrue": false,
+        "answer": "voqiylikni badiiy tasvir vositalari orqali ifodalash uslubi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ish yuritish qog`ozlari uslubi"
+      },
+      {
+        "isTrue": false,
+        "answer": "atamalarga tayanib fikrni aniq va ixcham shaklda bayon qiluvchi uslub"
+      }
+    ]
+  },
+  {
+    "question": "174. Adabiy me`yor saqlangan so`zlar qatorini belgilang",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yarmi, bag`ri, ayrilmoq, ikkala"
+      },
+      {
+        "isTrue": false,
+        "answer": "artis, grip, dramma, darax"
+      },
+      {
+        "isTrue": false,
+        "answer": "pasay, chopdas, qayrilmoq, sanalmoq"
+      },
+      {
+        "isTrue": false,
+        "answer": "giyohvan, xojir, g`ish, mas"
+      }
+    ]
+  },
+  {
+    "question": "175. 1995 – yilda qabul qilingan imlo qoidasiga ko`ra quyidagi so`zlarning qaysi biri qo`shib yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kir sovun"
+      },
+      {
+        "isTrue": false,
+        "answer": "tarjimayi xol"
+      },
+      {
+        "isTrue": false,
+        "answer": "liq to`la"
+      },
+      {
+        "isTrue": false,
+        "answer": "och sariq"
+      }
+    ]
+  },
+  {
+    "question": "176. Talabalarning o`quv – tadqiqot ishlarini nomlang….",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "nazorat ish, referat, kurs ishi, bitiruv malakaviy ish"
+      },
+      {
+        "isTrue": false,
+        "answer": "risola, anatatsiya, maqola"
+      },
+      {
+        "isTrue": false,
+        "answer": "tezis, taqriz, maqola"
+      },
+      {
+        "isTrue": false,
+        "answer": "ilmiy ma’ruza, axborot, xisobot"
+      }
+    ]
+  },
+  {
+    "question": "177. Referatda yagona fikr hukmronlik qiladimi yoki fikrlar majmui beriladimi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "fikrlar majmui beriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "kamida beshta fikr aytiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "yagona fikr fukmronlik qilinadi va u to`liq isbot etiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "faqatgina tanqidiy fikr beriladi"
+      }
+    ]
+  },
+  {
+    "question": "178. ”Taqriz,, qaysi tilning atamasi va u qanday ma`nolarni beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "arabcha so`z bayon qilish so`zlash , tasdiqlash ma`nolarini beradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tojikcha so`z asarning qimmatini belgilash,"
+      },
+      {
+        "isTrue": false,
+        "answer": "forscha so`z asarni tahlil etish,"
+      },
+      {
+        "isTrue": false,
+        "answer": "forscha– tojikcha so`z asarning o`rnini aniqlash,"
+      }
+    ]
+  },
+  {
+    "question": "179. Rasmiy ishonchnoma nechta zaruriy qismdan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "8 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "10 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "11 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "12 ta"
+      }
+    ]
+  },
+  {
+    "question": "180. Ma`lumot – axborot hujjatlari dan Ariza nechta zaruriy qismdan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "7 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "9 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "11 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "10 ta"
+      }
+    ]
+  },
+  {
+    "question": "181. O`zbek tili qaysi til oilasiga kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "oltoy tillari oilasining turkiy turkumiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "hind– yevropa tillari oilasining eron tillari turkumiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "hind– yevropa tillari oilasining slavyan tillari turkumiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "oltoy tillari oilasining eron turkumiga"
+      }
+    ]
+  },
+  {
+    "question": "182. Qaysi hujjat turi kun tartibi, qaror kabi qismlardan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bayonnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hisobot"
+      }
+    ]
+  },
+  {
+    "question": "183. Jamiyatning barcha a’zolari yozishi mumkin bo‘lgan hujjat turlarini belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ishonchnoma, tilxat, ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirishnoma, e’lon, tavsiyanoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "tushuntirish xati, tilxat, hisobot"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotnoma, ariza, e’lon"
+      }
+    ]
+  },
+  {
+    "question": "184. Iltimos, taklif yoki shikoyat mazmunida yoziladigan hujjat nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishonchnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "bildirishnoma"
+      }
+    ]
+  },
+  {
+    "question": "185. Tarixiy hujjatlar berilgan qatorni toping.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tilxat, farmon, bitim, patta"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish, ko‘rsatma, bildirishnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "yo‘riqnoma, nizom, da’vo xati"
+      },
+      {
+        "isTrue": false,
+        "answer": "kafolat xati, bayonnoma, tuzilma"
+      }
+    ]
+  },
+  {
+    "question": "186. Ish qog‘ozlari qanday yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barcha javoblar to‘g‘ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "matn I shaxs yoki III shaxs tilidan yoziladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjatning nomi yoki sarlavha to‘lig‘icha bosh harflar bilan yoziladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "qisqa, ravon, aniq va mantiqli bayon etiladi."
+      }
+    ]
+  },
+  {
+    "question": "187. Hujjatga aloqador bo‘lmagan hukmni aniqlang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha hukm to‘g‘ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "xabar beruvchi yoki buyuruvshi yozma vosita"
+      },
+      {
+        "isTrue": false,
+        "answer": "rasmiy munosabatlarni ifodalovshi va qayd etuvchi rasmiy vosita"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsning hayoti davomidagi faoliyatini qayd etib boruvchi yozma vosita"
+      }
+    ]
+  },
+  {
+    "question": "188. Qaysi javobda hujjatga aloqador bo‘lmagan qismlar keltirilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "hujjat matnini izohlashga ko‘mak beruvchi grafik shakllar va rasmlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasdiqlash ustxati, shartli raqam (indeks), sana"
+      },
+      {
+        "isTrue": false,
+        "answer": "sarlavha, tasdiqlovchi imzo, muhr"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjatning nomi, ilova mavjudligi haqidagi qayd"
+      }
+    ]
+  },
+  {
+    "question": "189. Hujjat matnlarida nimalar bayon etiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yozilish sabablari ko‘rsatiladi, taklif va xulosalar beriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "rasmiy munosabatlarni ifodalaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "axborot, voqea– hodisalar badiiy vositalar orqali bayon etiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "rasmiy xarakterda bo`lmaydi"
+      }
+    ]
+  },
+  {
+    "question": "190. Ma`lumot – axborot hujjatlar guruhiga qaysi hujjatlar kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ariza, bayonnoma, bildirishnoma, dalolatnoma,"
+      },
+      {
+        "isTrue": false,
+        "answer": "e`lon, hisobot, buyruq, ariza"
+      },
+      {
+        "isTrue": false,
+        "answer": "guvohnoma, hisobot, tilxat, buyruq"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma`lumotnoma, shartnoma, e`lon, vasiyatnoma"
+      }
+    ]
+  },
+  {
+    "question": "191. Lotin yozuviga asoslangan yangi o`zbek alifbosi joriy etish to`g`risidagi qonun qachon qabul qilingan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1993 –yil 2– sentabr kuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "1992– yil 3– mart kuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "1989 –yil 21– mart kuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "1993 –yil 6– may kuni"
+      }
+    ]
+  },
+  {
+    "question": "192. Mamuriy boshqaruv faoliyatida xizmat mavqeiga ko`ra hujjatlar qanday guruhlarga bo`linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha javoblar to`g`ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "hizmat yozishmalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma`lumot – axborot hujjatlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashkiliy , farmoyish hujjatlari"
+      }
+    ]
+  },
+  {
+    "question": "193. Hujjatlar tayyorlanish xususiyatiga ko‘ra qanday bo‘ladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "hujjatlar asl nusxada bo‘lib, zarurat tug‘ilganda nusxa olinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qoralama, asl nusxa, nusxa, ko‘chirma"
+      },
+      {
+        "isTrue": false,
+        "answer": "asl nusxa, ikkinchi nusxa"
+      },
+      {
+        "isTrue": false,
+        "answer": "qoralama, asl nusxa, nusxa, ikkinchi nusxa, ko‘chirmа"
+      }
+    ]
+  },
+  {
+    "question": "194. Farmoyish hujjatlari guruhiga qanday hujjatlar kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "buyruq , ko`rsatma , farmoyish"
+      },
+      {
+        "isTrue": false,
+        "answer": "guvohnoma , yo`riqnoma , dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "farmoyish , ariza , bayonnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "hisobot , buyruq , dalolatnoma"
+      }
+    ]
+  },
+  {
+    "question": "195. Qonun matnllari, farmonlar, buyruqlar, ariza, hujjatlar qaysi uslubda yoziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "rasmiy uslub"
+      },
+      {
+        "isTrue": false,
+        "answer": "ilmiy uslub"
+      },
+      {
+        "isTrue": false,
+        "answer": "so`zlashuv uslubi"
+      },
+      {
+        "isTrue": false,
+        "answer": "badiiy uslub"
+      }
+    ]
+  },
+  {
+    "question": "196. Hujjatlar matni qanday talablar asosida ko`riladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha javoblar to`g`ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "mazmuniy to`liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "ixchamlik , lo`ndalik"
+      },
+      {
+        "isTrue": false,
+        "answer": "xoslik , aniqlik"
+      }
+    ]
+  },
+  {
+    "question": "197. Tashkiliy hujjatlarga qaysilar kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Buyruq, buyruqdan ko`chirma, farmoyish, ko`rsatma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ariza , bayonnoma , bildirishnoma , dalolatnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Guvohnoma, yo`riqnoma, nizom, ustav, shartnoma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adres, taklifnoma, xatlar, teligramma"
+      }
+    ]
+  },
+  {
+    "question": "198. Hujjatlar tuzilishiga ko`ra nechta turga bo`linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sodda va murakkab"
+      },
+      {
+        "isTrue": false,
+        "answer": "ichki va tashqi"
+      },
+      {
+        "isTrue": false,
+        "answer": "namunaviy va qolipli"
+      },
+      {
+        "isTrue": false,
+        "answer": "rasmiy va shaxsiy"
+      }
+    ]
+  },
+  {
+    "question": "199. Rasmiy uslubda, qanday matnlar tuziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "e`lonlar, qonunlar, qarorlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "hujjatlar, ish yuritish qog`ozlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "qaror, idora hujjatlari, doston"
+      },
+      {
+        "isTrue": false,
+        "answer": "e`lon, she`r, zamon"
+      }
+    ]
+  },
+  {
+    "question": "200. Bayonnoma nechta asosiy zaruriy qismdan iborat ?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "11 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "9 ta "
+      },
+      {
+        "isTrue": false,
+        "answer": "8 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "3 ta"
+      }
+    ]
+  }
+]

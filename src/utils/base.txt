@@ -1,0 +1,1199 @@
+"Ekonometrika" tushunchasiga qaysi ta’rif mos keladi?
+bu iqtisodiy xodisalar va jarayonlar o’zaro bog’liqligining miqdoriy ifodasini o’rganuvchi fan
+bu joy va vaqtning muayyan sharoitida yalpi ijtimoiy-iqtisodiy xodisalar va jarayonlarning miqdoriy tomonini o’rganuvchi fan
+bu tasodifiy xodisalarning umumiy qonuniyatlari va tasodifiy omillarning ta’sirini miqdoriy baxolash usullarini o’rganuvchi fan
+bu iqtisodiyot va matematikaning birlshmasidan hosil bo’lgan fan
+
+Ekonometrikaning maqsadi nimadan iborat?
+real iqtisodiy ob’ektlarni modellashtirish va miqdoriy taxlil qilish usullarini ishlab chiqish
+iqtisodiy ma’lumotlarni yaqqol ko’rinishda ifodalash
+statistik ma’lumotlarni to’plash va guruxlash usullarini belgilash
+iqtisodiy xodisalarning sifatiy jixatlarini o’rganish
+
+Modelni tasniflash - bu:
+empirik taxlil qilish maqsadida ekonometrik modellarni tuzish
+tadqiqot maqsadini belgilash va iqtisodiy o’zgaruvchi modellarni tanlash
+modelni statistik taxlil qilish va parametrlarining sifatini baxolash
+zarur statistik axborotni to’plash
+
+Ekonometrikaning qaysi vazifasi modelni parametrlash vazifasi xisoblanadi?
+model parametrlarining va umuman modelning o’zini sifatini tekshirish
+ekonometrik modellashtirish natijalariga ko’ra muayyan iqtisodiy xodisalar uchun prognozni tuzish va tavsiyalarni ishlab chiqish
+modelni tuzish parametrlarini baxolash
+empirik taxlil qilish uchun ekonometrik modellarni tuzish
+
+Model sifatini aniqlash - bu:
+model parametrlarining va umuman modelning sifatini tekshirish
+iqtisodiy modelning turini aniqlash, uning o’zgaruvchilari o’rtasidagi o’zaro bog’liqlikni matematik shaklda ifodalash
+modelning dastlabki shart-sharoitlari va cheklovlarini aniqlash
+o’rganilayotgan iqtisodiy xodisalarni taxlil qilish
+
+Quyida sanab o’tilgan modellar ichidan bir tenglamali regression modelni tanlang? 1) yetkazib berish xajmidan narx modeli; 2) talab va taklif modeli; 3) trend va mavsumiylik modeli; 4) ishlab chiqarish xajmining ishlab chitsarish omillariga bog’liqligi modeli
+1,4
+2,4
+2, 3
+barchasi
+
+Turli obyektlar xaqida bir davr (vaqt) uchun olingan ma’lumotlar to’plami qanday nomlanadi?
+makonga ko’ra ma’lumotlar
+vaqtga ko’ra ma’lumotlar
+davriy ma’lumotlar
+o’zgarmas ma’lumotlar
+
+“Mustaqil o’zgaruvchi” tushunchasining o’xshashini tanlang?
+omil
+endogen o’zgaruvchi
+natija
+ekzogen o’zgaruvchi
+
+Ovqatlanish xarajatlari umumiy miqdorining tasarrufdagi shaxsiy daromadga (x) va oziq-ovqat maxsulotlarining narxiga (r) bog’liqligi modelini ko’rib chiqing: u=a0+a1x+a2r+s. Model sinfini va modelning o’zgaruvchilari turini aniqlang?
+bir tenglamali regression model; endogen o’zgaruvchi - ovqatlanish xarajatlari, ekzogen o’zgaruvchi - tasarrufdagi shaxsiy daromad va oziq-ovqat maxsulotlarining narxi
+bir tenglamali regression model; endogen o’zgaruvchi - ovqatlanish xarajatlari, ekzogen o’zgaruvchi - tasarrufdagi shaxsiy daromad, oldindan belgilangan o’zgaruvchi - oziq-ovqat maxsulotlarining narxi
+vaqt qatori modeli; endogen o’zgaruvchi - ovqatlanish xarajatlari, lag o’zgaruvchi - tasarrufdagi shaxsiy daromad va oziq-ovqat maxsulotlarining narxi
+To’g’ri javob keltirilmagan
+
+Ekonometrik modellashtirish bosqichlarining to’g’ri ketma-ketligini toping?
+masalani qo’yish, aprior, parametrlash, axborot, identifikatsiyalash, verifikatsiyalash
+masalani qo’yish, aprior, axborot, parametrlash, identifikatsiyalash, verifikatsiyalash
+axborot, masalani qo’yish, aprior, parametrlash, verifikatsiyalash, identifikatsiyalash
+ma’lumotlani to’plash, 
+
+Qanday xolatda bog’liqlik korrelyatsion deb aytiladi?
+agar omilning har bir qiymatiga natijali belgining ko’plab qiymatlari, ya’ni muayyan statistik taqsimot mos kelsa
+agar omilning har bir qiymatiga natijaviy omilning muayyan tasodifiy qiymati mos kelsa
+agar omilning har bir qiymatiga natijaviy omil qiymatlarining butun bir taqsimoti mos kelsa
+agar omilli belgining har bir qiymatiga natijali belgining muayyan belgilangan qiymati mos kelsa
+
+Tahliliy ifodaga ko’ra bog’liqlik qanday turlarga bo’linadi?
+Chiziqli va chiziqsiz
+To’gri va teskari
+Egri chiziqli
+Toq va juft
+
+Regression tahlil nimani aniqlashdan iborat?
+bog’liqlikning taxliliy shaklini, unda natijaviy omilning o’zgarishi bir yoki bir necha omillarning ta’siri bilan shartlangan, natijaviy omilga ta’sir ko’rsatuvchi barcha boshqa omillar ko’pligi esa doimiy va o’rtacha qiymatlar sifatida qabul qilinadi
+ikkita omil o’rtasidagi (juft bog’liqlikda) xamda natijaviy omil bilan omillar ko’pligi o’rtasidagi (ko’p omilli bog’liqlikda) bog’liqlikning jipsligini
+ikkita tasodifiy o’zgaruvchi o’zaro ta’sirining statistik o’lchovini
+tartibli o’zgaruvchilar o’rtasidagi statistik bog’liqlik darajasini
+
+Alohida korrelyatsiya deganda nima tushuniladi?
+boshqa omillar qiymati qat’iy belgilangan hollarda natijaviy omil va bitta omil o’rtasidagi bog’liqlik
+natijaviy omil hamda tadqiqotga kiritilgan ikki yoki undan ko’p omillarning bog’liqlikdagi
+ikkita omil (natijaviy va omillar yoki ikkita omil) o’rtasidagi bog’liqlik
+sifatiy omillar o’rtasidagi bog’liqlik
+
+Quyidagi qiymatlardan qaysi biri korrelyatsiyaning juft koeffitsiyentini qabul qila olmaydi?
+1,111
+-0,973
+0,005
+0,721
+
+Korrelyatsiya chiziqli koeffitsiyentining qaysi qiymatida Y va X omillar o’rtasidagi bog’liqlikni jips (kuchli) deb xisoblash mumkin?
+0,657
+-0,975
+-0,111
+0,421
+
+Agar Y va X omillar o’rtasidagi korrelyatsiya juft koeffitsiyenti 1 ga teng bo’lsa, u nimani anglatadi?
+to’g’ri funksional bog’liqlikning mavjudligi
+bog’liqlikning yo’qligi
+teskari korrelyatsion bog’liqlikning mavjudligi
+teskari funksional bog’liqlikning mavjudligi
+
+Regressiya parametrlarining baholari (eng kichik kvadratlar usuli baholarining xususiyatlari) qanday bo’lishi kerak?
+siljimagan
+geteroskedatik
+samarali
+asoslangan
+
+Chiziqli juft regressiya tenglamasida a1 parametr nimani anglatadi?
+agar x o’zgaruvchi bir o’lchov birligiga oshirilsa, u natijaviy omilni o’rtacha qancha miqdorga o’zgarishini
+natijaviy omil hisobga olinmagan (tadqiqot uchun ajratilmagan) omillarning o’rtacha holatga keltirilgan ta’sirini
+omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini
+u natijaviy omil belgi variatsiyasining qanday ulushi modelda hisobga olinganligini va u x o’zgaruvchining ta’siri bilan shartlanganligini
+
+Regressiya tenglamasi yx = 2,02 ± 0,78x ko’rinishga ega. Agar x o’zining bir o’lchov birligiga oshirilsa, u o’rtacha o’zining qancha o’lchov birligiga o’zgaradi
+0,78 ga oshadi
+2,02 ga oshadi
+2,80 ga oshadi
+o’zgarmaydi
+
+Regressiya tenglamasining ahamiyatliligini baholash uchun qanday mezondan foydalaniladi?
+Fisherning F-mezoni
+Styudentning t mezoni
+Pirson mezoni
+Darbin-Uotsonning J-mezoni
+
+Omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini qanday koeffitsiyent belgilab beradi?
+elastiklik koeffitsiyenti
+regressiya koeffitsiyenti
+determinatsiya koeffitsiyenti
+korrelyatsiya koeffitsiyenti
+
+Xususiy korrelyatsiya koeffitsiyenti nimani baholaydi?
+qolgan omillarning qat’iy belgilangan qiymatida ikkita o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi
+ikkita o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi
+uchta o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi
+barcha o’zgaruvchilar o’rtasidagi bog’liqlikning jipsligini baholaydi
+
+x argument (erkin o’zgaruvchi) 1 foizga oshirilganda u natijaviy omil o’zgarishining foizini o’rtacha darajada qaysi koeffitsiyent ko’rsatadi?
+determinatsiya koeffitsiyenti
+regressiya koeffitsiyenti
+elastiklik koeffitsiyenti
+beta-koeffitsiyent
+
+a0 chiziqli trend parametrining to’g’ri tavsifini ko’rsating
+sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi
+tahlil qilinayotgan xodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi
+vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati
+
+eksponentsial trend parametrining to’g’ri tavsifini ko’rsating
+vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi
+sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi
+
+a2 parabolik trend koeffitsiyentini nima tavsiflaydi?
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi
+sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi
+vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati
+
+a1 chiziqli trend koeffitsiyentini nima tavsiflaydi?
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi
+tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi
+sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi
+vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati
+
+Trendning tenglashtirilgan darajalaridan og’ishlarni korrelyatsiyalash nima uchun o’tkaziladi?
+xaqiqiy darajalarning trendni aks ettiruvchi tenglashtirilgan darajalardan og’ishlari o’rtasidagi bog’liqlikning jipsligini aniqlash uchun
+avtokorrelyatsiya mavjud bo’lmagan xollarda dinamika qatorlari o’rtasidagi bog’liqlikning jipsligini aniqlash uchun
+avtokorrelyatsiyaning ta’sirini istisno etish uchun
+umumiy tendensiya belgisining o’zgaruvchiligiga ta’sirini istisno etish uchun
+
+Qanday holatda kointegratsiya xodisasi ishtirok etadi?
+agar vaqt qatori uzoq davom etadigan vaqt oralig’ida doimiy dispersiyaga ega bo’lsa
+agar vaqt qatorida taxlil etilayotgan ko’rsatkichning doimiy o’rtacha sur’ati ishtirok etsa
+agar vaqt qatorida ikki va undan ortiq darajalar tendensiyasi mos kelsa (yoki qarama-qarshi yo’nalishga ega bo’lsa)
+agar vaqt qatorida vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati ishtirok etsa
+
+Bog’langan vaqt qatorlarining darajalari o’rtasidagi bog’liqlikni o’rganish qanday usul yordamida o’tkaziladi?
+ketma-ket ayirmalarni korrelyatsiyalash
+dinamika qatori darajalarini korrelyatsiyalash
+xaqiqiy darajalarning trenddan og’ishlarini korrelyatsiyalash
+avtoregression o’zgartirishlarni korrelyatsiyalash
+
+Bog’langan qatorlarning to’g’ri ta’rifini ko’rsating?
+natijali belgining bir yoki bir necha omilli belgiga bog’liqligini ko’rsatuvchi
+ikki yoki undan ortiq vaqt qatorining darajalaridagi sabab-oqibatli bog’liqlik bo’lib, ular tendensiyalari va tasodifiy o’zgaruvchining mos kelishida yoki qarama-qarshi yo’nalishga ega bo’lishida o’z ifodasini topadi
+avtokorrelyatsiya koeffitsiyenti qiymatlari lagining kattaligi qiymatlariga bog’liqligi
+vaqt qatori darajalarining dastlabki xolatga nisbatan  vaqt lahzalariga siljishi
+
+O’zgaruvchilarning lag qiymatlari bevosita qaysi modelga kiritilgan?
+avtoregressiya
+adaptiv kutishlar
+taqsimlangan lagli
+to’liqsiz (qisman) tuzatishlar kiritish
+
+Avtoregressiya modellari shu bilan tavsiflanadiki, ular:
+omilli o’zgaruvchilar sifatida natijaviy omilning lag qiymatlariga ega
+(t+1) davrda omilning istalgan qiymatini hisobga oladi
+(t+1) davrda natijaviy omilning istalgan (kutilayotgan) qiymatini hisobga oladi
+(t–1) davrda natijaviy omilning istalgan (kutilayotgan) qiymatini hisobga oladi
+
+Natijaviy omil omilning kutilayotgan qiymatlariga bog’liq
+adaptiv kutishlar modelining uzoq muddatli funksiyasida
+adaptiv kutishlar modelining qisqa muddatli funksiyasida
+qisman tuzatishlar kiritish modelining uzoq muddatli funksiyasida
+qisman tuzatishlar kiritish modelining qisqa muddatli funksiyasida
+
+"Ishlab chiqarishning uch omili" g'oyasini ilgari surgan iqtisodchi olim - ...
+J.B.Sey
+J.M.Keyns
+J.B.Klark
+D.Rikardo
+
+“Ish bilan bandlik, foiz va pulning umumiy nazariyasi” nomli kitobning muallifi kim?
+Jon Meynard Keyns
+Adam Smit
+Antuan Monkreten
+Fransua Kene
+
+40-60 yil mobaynida takrorlanib turadigan sikl qanday nomlanadi?
+Kondratev sikli
+Kitchin sikli
+Juglar sikli
+Kuznes sikli
+
+Agar talab elastikligi 1 dan katta bo'lsa, bunday elastiklik nima deb normlanadi?
+elastik
+noelastik
+birlik elastik
+o'zgarmas
+
+Doimo takrorlanib turadigan, iqtisodiy jarayonlar va real hodisalarning ayrim tomonlarini ifoda etuvchi ilmiy-nazariy tushuncha nima deb ataladi?
+iqtisodiy kategoriya
+induktsiya
+abstraktsiya
+deduktsiya
+
+Iqtisodiy inqiroz davrida iqtisodiyotning qaysi sohalari kamroq yo'qotishga uchraydi?
+qisqa muddatli foydalaniladigan iste'molchilik tovarlari ishlab chiqaruvchi tarmoqlari
+uzoq muddatli foydalaniladigan iste'molchilik tovarlari ishlab chiqaruvchi sanoat tarmoqlari
+investision tovar ishlab chiqaruvchi sanoat tarmoqlari
+og'ir sanoat
+
+Iqtisodiy o'sish sur'ati bilan bog'liq holda YaIMni necha yilda 2 barobarga ortishini iqtisodchilar tomonidan qo'llaniluvchi qoidani nomini toping.
+70 miqdor qoidasi
+90 sifat qoidasi
+50 talab qoidasi
+bunday qoida mavjud emas
+
+Iqtisodiy o'sishning mazmuni ifodalab bering
+real yalpi ichki mahsulot hajmining mutloq va aholi jon boshiga nisbatan o'sib borishi
+yalpi ichki mahsulot hajmining aholi jon boshiga kamayib borishi
+yalpi investisiyalarning ko'payishi
+byudjet daromadi hajmining ko'payishi
+
+Insonlarning iqtisodiy faoliyat turlari yoki ishlab chiqarish natijalari bo'yicha o'zaro almashish jarayoni nima deb ataladi?
+ayirboshlash jarayoni
+taqsimlash
+ishlatish
+iste'mol
+
+Ishlab chiqarish xarajatlari - bu…
+tovar va xizmatlarni ishlab chiqarish va iste'molchilarga yetkazib berishgacha qilinadigan barcha sarflar
+yalpi pul tushumidan barcha xarajatlar chiqarib tashlangandan keyin qolgan qismi
+ko'payib boruvchi ehtiyojlarni qondiruvchi manba
+asosiy kapitalni kengaytirish va uni takror ishlab chiqarishga qilinadigan sarflar
+
+Ishlab chiqarishning avvalgi texnikaviy asosi saqlanib qolgan holda ishlab chiqarish omillari miqdorining ko'payishi tufayli … iqtisodiy o'sishga erishiladi ?
+Ekstensiv
+Intensiv
+Mukammal
+Nomukammal
+
+Ishlab chiqarishning har bir darajasida doimiy va o'zgaruvchi xarajatlar yig'indisi qanday xarajatlarni tashkil qiladi?
+umumiy xarajatlarni
+xususiy xarajatlarni
+ob'ektiv xarajatlarni
+sub'ektiv xarajatlarni
+
+Ishchi kuchi 12,5 mln. kishini, ishsizlar 1,3 mln. kishini tashkil qilsa, ishsizlik darajasi necha foizni tashkil qiladi?
+10,4 foiz
+13,8 foiz
+11,2 foiz
+9,6 foiz
+
+K.Menger, F.Vizer, Bem-Baverk kabi Avstriya iqtisodiy maktabining namoyandalari qaysi iqtisodiy ta'limot vakillari bo'lib hisoblanishadi?
+marjinalizm ta'limoti
+fiziokratlar
+liberalizm
+merkantilizm
+
+Qaysi omil aholi iste'moli va pul jamg'armalari darajasini belgilaydi?
+milliy daromad
+soliqlar darajasi
+foiz stavkasi
+ish haqi
+
+Qimmatli qog'ozlar oldi-sotdisi bo'yicha rasmiy jihatdan tashkil etilgan va muntazam amal qiluvchi bozor shakli birjaning qanday turiga kiradi?
+fond birjasi
+valyuta birjasi
+mehnat birjasi 
+tovar birjasi
+
+Qishloq xo'jaligini qo'llab quvvatlash ta'limotchilari
+Fiziokratlar
+merkantilistlar
+klassiklar
+keynschilar
+
+Laffer egri chizig'i:
+davlat byudjeti daromadlari va soliq stavkasi o'rtasidagi bog'liqlikni ifodalaydi
+ishsizlik va inflyasiya o'rtasidagi teskari bog'lanishni ifodalaydi
+baho bilan taklif o'rtasidagi to'g'ri bog'lanishni ifodalaydi
+baho bilan taklif o'rtasidagi teskari bog'lanishni ifodalaydi
+
+Tarkibiy o'zgarishlar deganida nimani tushunasiz?
+Iqtisodiyot tarmoqlari ichida va tarmoqlararo nisbatlarni sifat jihatidan bir-biriga yaqinlashtirish
+Ijtimoiy islohotlar o'tkazish
+Moliyaviy islohotlar o'tkazish
+Iqtisodiy islohotlar o'tkazish
+
+Foyda nima?
+yalpi daromad minus yalpi xarajatlar
+yalpi daromad minus o'zgaruvchan xarajatlar
+yalpi daromad minus doimiy xarajatlar
+yalpi daromadning narxga nisbati
+
+Foyda normasi nima?
+foyda massasining ishlab chiqarish xarajatlariga nisbatining foizda ifodalanishi
+doimiy xarajatlar minus o'zgaruvchan xarajatlar
+ishlab chiqarilgan mahsulot umumiy miqdorining bir birlik mahsulot narxiga nisbati
+yalpi daromad minus yalpi xarajatlar
+
+Avtokorrelyatsiya mavjudligini tekshirish uchun quyidagi mezonlardan qaysi biri qo'llanadi?
+DW mezoni
+Goldfelda-Kvandt testi
+Spirmen testi
+Gleyzer testi
+
+Agar biror bir mahsulotga taklifning baho bo'yicha elastikligi 1,2 ga teng bo'lsa:
+Ushbu mahsulot elastik bo'ladi
+Ushbu mahsulot noelastik bo'ladi
+Ushbu mahsulot birga teng elastik bo'ladi
+Ushbu mahsulotni kamroq ishlab chiqarish kerak
+
+Agar mamlakat miqyosida umumiy baholar o'sishi kuzatilsa:
+Inflyatsiya bo'ladi
+Ishsizlik bo'ladi
+Ishsizlik, inflyatsiya,
+Ishsizlik, iqtisodiy o'sish
+
+Asosiy fondlar bo'yicha yalpi mahsulotning elastiklik koeffitsiyenti nimani ko'rsatadi?
+Fondlar qiymati bir foizga o'zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o'zgarishini ko'rsatadi
+Fondlar qiymati bir birlikka o'zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o'zgarishini ko'rsatadi
+Fondlar qiymati bir foizga o'zgarganda, mahsulot ishlab chiqarish qiymati o'zgarmasligini ko'rsatadi
+Fondlar qiymati bir birlikka o'zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o'zgarishini ko'rsatadi
+
+Baho bilan talab o'rtasida bog'lanish
+Talab qonuni deyiladi
+Taklif qonuni deyiladi
+Qiymat qonuni deyiladi
+Elastiklik koyeffitsiyenti qonuni deyiladi
+
+Vaqtli qatorlarni tekislashda qaysi usullardan foydalaniladi:
+Eng kichik kvadratlar usuli
+O'rtacha sirg'aluvchilar usuli
+Eksponentsial tekislash usuli
+Yuqoridagi barcha usullar
+
+Makroiqtisodiy jarayonlar – bu:
+Ishsizlik, inflyatsiya, iqtisodiy o'sish
+Korxona foydasi va zarari, moliyaviy natijalari
+Ishsizlik, bankrotlik
+Inflyatsiya, bankrotlik
+
+Regressiya tenglamasi – bu:
+Natijaviy omil va unga ta'sir etuvchi omillar orasidagi bog'lanishning shakli
+Ta'sir etuvchi omillar orasidagi munosabati
+Asosiy omil va unga ta'sir etuvchi omillar orasidagi bog'lanish zichligi
+Omillar orasidagi munosabatni ko'rsatmaydi
+
+Ta'sir etuvchi omilning 1 %ga o'zgarishi, natijaviy omilning qanchaga o'zgarishini ko'rsatadi
+elastiklik koeffitsiyenti
+Regressiya koeffitsiyenti
+Student koeffitsiyenti
+Korrelyatsiya koeffitsiyenti
+
+Ta'sir etuvchi omilning bir birlikka o'zgarishi, natijaviy omilning qanchaga o'zgarishini ko'rsatadi koeffitsiyent
+Regressiya koeffitsiyenti
+Regressiya tenglamasi
+Student koeffitsiyenti
+Korrelyatsiya koeffitsiyenti
+
+Trend – bu:
+Vaqt bo'yicha qatorni barqaror tendensiyasi bo'lib, ozmi-ko'pmi tasodifiy tebranishlar ta'siridan ozodidr
+Vaqt bo'yicha qatorni barqaror tendensiyasi
+Tenglama
+Vaqtga bog’liq bo’lmagan o’zgarishlarni ifodalaydi
+
+Trend tiplari:
+To'g'ri chiziqli, parabola, giperbola, logarifmik, eksponentsial
+To'g'ri chiziqli, parabola, 
+Chiziqli, aylana tipidagi
+Chiziqli, giperbolik, logarifmik, elliptik
+
+O'rtacha mehnat unumdorligi ko'rsatadi:
+Mehnat harajati oshib borganda o'rtacha mehnat unumdorligi pasayib boradi
+Mehnat harajati oshib borganda o'rtacha mehnat unumdorligi o'zgarmaydi
+Mehnat harajati oshib borganda o'rtacha mehnat unumdorligi oshadi
+O'rtacha mehnat unumdorligi oshib borganda mehnat harajati pasayib boradi
+
+Fisher mezoni quyidagini ko'rsatadi:
+Olingan modelning o'rganilayotgan jarayonga mosligini
+Omillar orasidagi bog'lanish zichligini
+Olingan modeldagi koeffitsiyentlarning ahamiyatliligini
+Korrelyatsiya koeffitsiyentining ishonchliligini
+
+Ekzogen – bu
+Qiymati tashqaridan beriladigan, ta'sir etuvchi X o'zgaruvchilar
+Tizim ichida aniqlanuvchi, bog'liqli Y o'zgaruvcghi
+Qiymati tashqaridan beriladigan, o'zgaruvchilar
+Y o'zgaruvcghi
+
+Ekonometrik model – bu:
+Tenglamalar va tengsizliklar tizimi
+Balansli matritsalar
+Axborotlar tizimi
+Matematik belgilar tizimi
+
+Ekonometrik modellar iqtisodiy jarayonlarini:
+iqdosotiy va sifat jihatdan o'rganadi
+Sifat jihatdan o'rganadi
+Analitik jihatdan o'rganadi
+Yechimlarning aniqligi jihatidan o’rganadi
+
+Ekonometrik modellashtirish bosqichlaridan birinchi bosqichni aniqlang:
+Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko'rsatkichlar aniqlanadi
+Bosqichda izlanayotgan noma'lum o'zgaruvchilar nima, qanday maqsadni ko'zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo'lishi kerak
+Modellashtirilayotgan jarayonning iqtisodiy-matematik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi
+Tuzilgan iqtisodiy-matematik modelning miqdoriy yechimini aniqlaydigan usul tanlanadi
+
+Ekonometrik modellashtirish bosqichlaridan ikkinchi bosqichni aniqlang:
+Bosqichda izlanayotgan noma'lum o'zgaruvchilar nima, qanday maqsadni ko'zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo'lishi kerak
+Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko'rsatkichlar aniqlanadi
+Modellashtirilayotgan jarayonning iqtisodiy-matematik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi
+Tuzilgan iqtisodiy-matematik modelning miqdoriy yechimini aniqlaydigan usul tanlanadi
+
+Ekonometrik modelning shaklini tanlashda qo'llanadigan usul
+Regression tahlil usuli
+Korrelyatsion tahlil usuli
+Ekstrapolyatsiya usuli
+Prognoz usuli
+
+Ekonometrik usullaridan biri:
+Vaqtli qatorlar tahlili
+Indeksli tahlil
+Klasterli tahlil
+SWOT tahlili
+
+Ekonometrika– bu:
+Matematika, iqtisodiyot va statistika sintezi
+Matematika va iqtisodiyot sintezi
+Matematika va statistika sintezi
+Ehtimollar nazariyasi va iqtisodiyot sintezi
+
+Ekonometrikaning asosiy maqsadi:
+Omillararo bog'lanishlarni, o'zgarish qonuniyatlarni va tendentsiyalarni o'rganish
+Tarmoqlararo modellarni o'rganish
+Optimallashtirish masalalarni o'rganish
+Ehtimollarni o'rganish
+
+Ekonometrikaning vazifalari:
+Modelni identsifikatsiyalash, verifikatsiyalash, prognoz qilish
+Modelni tanlash va optimallashtirish
+Tajribalar qilish va natijalar olish
+Mantiqiy tahlil qilish va modellashtirish
+
+Ekonometrikaning maqsadi:
+Real iqtisodiy obyektlarni modellashtirish va miqdoriy tahlil qilishning usullarini ishlab chiqish
+Axborotlarni qayta ishlash
+Fizik ob'ektlarni modellashtirish
+Sifatli, psixologik miqdoriy tahlil qilishning usullarini ishlab chiqish
+
+Ekstropalyatsiya usuli qo'llaniladi
+Statistik prognozda
+Eng kichik kvadratlar usuli
+O'rtacha sirg'aluvchilar usuli
+Eksponetsial tekislash usuli
+
+Eng kichik kvadratlar usuli … xizmat qiladi:
+Dinamik qatorlarni tekislash uchun
+Omillar orasidagi bog'lanish zichligini aniqlash uchun
+Dinamik qatorlardagi o'rtacha qiymatlarni aniqlash uchun
+Omillarning o'rtacha kvadrat chetlanishini aniqlash uchun
+
+Farovonlik va rivojlanish indeksi qaysi tashkilot tomonidan belgilanadi?
+Legatum instituti tomonidan
+Menejment instituti tomonidan
+BMT tomonidan
+Jahon banki tomonidan
+
+Korxonaning sof foydasi qanday hisoblanadi?
+Foydadan soliqlar chegirgandan so'ng qolgan qismi
+Daromaddan ishlab chiqarish harajatlarni ayirgandan qolgan qismi
+Daromaddan harajatni ayirgandan qolgan qismi
+Daromaddan daromad solig’i ayirmasi
+
+Investitsion qarorlar qabul qilishda quyidagilardan qaysi biri asos bo'lib hisoblanadi?
+foizning real stavkasi
+foizning nominal stavkasi
+soliqlar darajasi
+pul taklifi
+
+Narx indeksi qanday hisoblanadi?
+joriy yildagi iste'mol tovarlari narxini bazis yildagi iste'mol tovarlari narxiga taqqoslash orqali
+nominal YaMM hajmini real YaMM hajmiga ko'paytmasi olinadi
+YaMMdan yillik amortizatsiya summasining ayirmasi
+YaMMdan sof eksport ayirmasi
+
+Nominal YaIM nima?
+joriy narxlarda hisoblangan YaIM
+nisbiy narxlarda hisoblangan YaIM
+o'zgaruvchan va nisbiy narxlarda hisoblangan YaIM
+o'zgaruvchan narxlarda hisoblangan YaIM
+
+Iqtisodiy sikl nechta fazadan iborat?
+4 ta
+2 ta
+3 ta
+5 ta
+
+Iqtisodiy siklning inqiroz fazasida yuzaga keladigan ishsizlik qanday nomlanadi?
+tsiklik ishsizlik
+tabiiy ishsizlik
+turg'un ishsizlik
+texnologik ishsizlik
+
+Mamlakatning iqtisodiy o'sish sur'atini tavsiflaydigan ko'rsatkichlar:
+real YaIM va aholi jon boshiga real YaIMning o'sishi
+yalpi talab va yalpi taklif
+Iste'mol va jamg'arma
+investisiyalar miqdori
+
+Ishsizlik darajasi bilan YaIM o'rtasidagi bog'liqlikni ifodalovchi qonun qanday nomlanadi?
+Ouken qonuni
+Fillips qonuni
+Laffer qonuni
+Nufus qonuni
+
+Foiz stavkasi nima asosida belgilanadi?
+muomaladagi pul massasi asosida
+jamg'arma
+depozitlar
+kreditlar
+
+X tasodifiy o'zgaruvchini ifodalanishining universal usuli uning ... taqsimotini shaklida ifodalanishidir
+funktsiya
+qator
+zichlik
+poligon
+
+Diskret tasodifiy o'zgaruvchi - ...
+bu alohida, izolyatsiya qilingan qiymatlarni oladi
+Sonli oraliqni to’ldiruvchi qiymatlar to'plami
+taqsimot zichligi bilan beriladi
+taqsimot ko'pburchagi bilan beriladi
+
+Juftlangan chiziqli regressiya modelida Y ...
+Tasodifiy emas
+O’zgarmas
+Tasodifiy
+musbat
+
+Geometrik jihatdan tasodifiy miqdorning matematik kutilishi taqsimotning ...
+Markazi
+markaz bo'yicha dispersiya o'lchovi
+nosimmetrikning normadan og'ish o'lchovi
+simmetriyadan og'ish o'lchovi
+
+Agar tasodifiy o'zgaruvchilar mustaqil bo'lsa, u holda nazariy kovariatsiya ...
+nolga teng
+musbat
+manfiy
+nolga teng emas
+
+Tanlangan regressiya tenglamasidagi regressiya koeffitsientlari (a, b) ... usul(lar) bilan aniqlanadi.
+eng kichik kvadratlar
+vaznli eng kichik kvadratlar
+daqiqalar
+gradient
+
+Vaqt qatorlari - bu vaqt ichida ... moment(lar)ini tavsiflovchi ma'lumotlar
+bir obyektning har xil
+turli xil obyektlarning aynan bir 
+bitta obyektning bitta
+turli xil ob'ektlarning turli
+
+Statistik munosabat ... .
+tasodifiy omillar ta'sirini hisobga olmasdan o'zgaruvchilar munosabati
+o'zgaruvchilarga tegishli aniq formula
+tasodifiy omillar ta'sirida qo'shiladigan o'zgaruvchilar munosabati
+o'zgaruvchilarning har qanday bog'lanishi
+
+X tasodifiy miqdorni ifodalanishining universal usuli uning taqsimot … orqali ifodalanishidir
+funksiyasi
+qatori
+zichlik
+ko‘pburchak
+
+Diskret tasodifiy miqdor ...
+alohida, izolyatsiya qilingan qiymatlarni oladi
+qiymatlar to'plami raqamli bo'shliqni to'ldiradi
+taqsimot koʻpburchagi bilan berilgan
+taqsimot zichligi bilan beriladi
+
+Namuna o‘rtachasi...
+umumiy oʻrtachaning xolis baholovchisi
+umumiy dispersiyani xolis baholash
+umumiy o'rtacha qiymatning noxolis bahosi
+umumiy dispersiyani noxolis baholash
+
+Namuna dispersiyasi ...
+umumiy dispersiyani xolis baholovchisi
+umumiy oʻrtachaning xolis baholovchisi
+umumiy dispersiyani noxolis baholovchisi
+umumiy oʻrtacha qiymatning noxolis bahosi
+
+Juftlangan chiziqli regressiya modelida Y qiymati ...
+tasodifiy emas
+oʻzgarmas
+tasodifiy
+musbat
+
+Juftlangan chiziqli regressiya modelida A qiymati ...
+oʻzgarmas
+tasodifiy
+tasodifiy boʻlmagan
+Musbat
+
+Tasodifiy hadning normal taqsimlanishi haqidagi faraz ... uchun zarurdir.
+regressiya parametrlarining ahamiyatini sinash va ularning intervalini baholash
+determinatsiya koeffitsientini hisoblash
+determinatsiya koeffitsientining ahamiyatini tekshirish
+regressiya parametrlarini hisoblash
+
+Ekonometrika - bu ... oʻrganadigan fan.
+matematik statistika usullari orqali iqtisodiyotdagi qonuniyatlar va oʻzaro bogʻliqliklarni
+iqtisodiy ko‘rsatkichlar xossalari haqidagi farazlarni tekshirishni
+iqtisodiy qonunlarning empirik kelib chiqishini
+iqtisodiy modellarni qurishni
+
+M(X) va D(X) ...
+umumiy to’plamning sonli xarakteristikalari
+chiziqli funksiyalar
+xususiyatlari
+chiziqli boʻlmagan funksiyalar
+
+Qanday holatda bog’liqlik korrelyatsion deb aytiladi?
+agar omilning har bir qiymatiga natijali belgining ko’plab qiymatlari, ya’ni muayyan statistik taqsimot mos kelsa
+agar omilning har bir qiymatiga natijaviy omilning muayyan tasodifiy qiymati mos kelsa
+agar omilning har bir qiymatiga natijaviy omil qiymatlarining butun bir taqsimoti mos kelsa
+agar omilli belgining har bir qiymatiga natijali belgining muayyan belgilangan qiymati mos kelsa
+
+Standart ahamiyatlilik darajalari …% va …% ga teng
+5 / 1
+4 / 3
+3 / 2
+10 / 0.1
+
+Agar mezonning kuzatilgan qiymati kritik qiymatdan katta bo'lsa, u holda gipoteza ...
+H0 rad etiladi
+H1 rad etiladi
+H1 qabul qilinadi
+H0 qabul qilinadi
+
+Alohida korrelyatsiya deganda nima tushuniladi?
+boshqa omillar qiymati qat’iy belgilangan hollarda natijaviy omil va bitta omil o’rtasidagi bog’liqlik
+natijaviy omil hamda tadqiqotga kiritilgan ikki yoki undan ko’p omillarning bog’liqlikdagi
+ikkita omil (natijaviy va omillar yoki ikkita omil) o’rtasidagi bog’liqlik
+sifatiy omillar o’rtasidagi bog’liqlik
+
+Statistik bogliqlik deb ... aytiladi.
+tasodifiy omillar ta'sirini hisobga olmasdan o'zgaruvchilar munosabatiga
+o'zgaruvchilarga tegishli aniq formula
+tasodifiy omillar ta'sirida qo'shiladigan o'zgaruvchilar munosabatiga
+o'zgaruvchilarning har qanday bog'lanishiga
+
+Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar oʻrtasida bogʻlanishning korrelyatsion shaklini aniqlash usuli bu -
+Eng kichik kvadratlar usuli
+Eng kata kvadratlar usuli
+Interpolyatsiya
+Ekstrapolyatsiya
+
+Hodisa yoki jarayonlarning kelgusidagi mumkin bolgan holatini ilmiy asoslangan holda bilish bu – 
+Prognozlash
+Interpolyatsiya
+oʻrtachasini hisoblash 
+Avtokorrelyatsiya
+
+Belgi bu – 
+bu toʻplam birligining alomatlari, xislati va h.k.
+Barcha toʻplamlar uchun umumiy xossalar
+Elementlarning alohida qismi
+Toʻplamning alohida qismi
+
+Omil belgining 1% ga o‘zgarganda natija qancha foizga o‘zgarishini aniqlaydigan koeffitsient – ….
+Elastiklik koeffitsienti
+Ta’sir koeffitsienti
+Xususiy regressiya koeffitsienti
+Korrelyatsiya koeffitsienti
+
+Umumiy muvozanatlik bu – 
+barcha bozorlarning o‘zaro bir-biriga ta’siri natijasida o‘rnatiladigan muvozanatlik. Barcha bozorlarni muvozanat holatda bo‘lishi. Bunda biror bozorda muvozanatlik buzulsa boshqa bozorlarda ham muvozanatlilik buziladi
+bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol
+ishlab chiqarishda foydalaniladigan resurslar miqdorini oshirish yoki texnologiyani takomillashtirish orqali jamiyatning ishlab chiqarish imkoniyatlarini kengaytiradi
+bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi
+
+… – taqsimot bo‘yicha cho‘ziluvchanlik yoki yassilik bo‘lib, uning me‘yori to‘rtinchi momentning to‘rtinchi darajali kvadratik o‘rtacha tafovutga nisbatidan iborat.
+Ekstsess
+Styudentning t mezoni
+Pirson mezoni
+Darbin-Uotsonning J-mezoni
+
+Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar o‘rtasida bog‘lanishning korrelyatsion shaklini aniqlash usuli – 
+Eng kichik kvadratlar usuli
+Eng katta kvadratlar usuli
+To’g’ri chiziqlar usuli
+Korrelyatsiya usuli
+
+Eng kichik kvadratlar usuli – 
+Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar o‘rtasida bog‘lanishning korrelyatsion shaklini aniqlash usulidir.
+natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul.
+keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyadir.
+barcha o’zgaruvchilar o’rtasidagi bog’liqlikning jipsligini baholaydi
+
+Vaqtli qatorlarni tekislashda qaysi usullardan foydalaniladi?
+Berilgan barcha usullar 
+O‘rtacha sirg‘aluvchilar usuli
+Eng kichik kvadratlar usuli
+Eksponetsial tekislash usuli
+
+Chiziqsiz ko‘rinishdagi ekonometrik model – 
+Parabola, giperbola, darajali funksiya, ko‘rsatkichli funksiya, trigonometrik funksiya ko‘rinishida bo‘lishi mumkin
+Chiziqli, parabola, giperbola, darajali funksiya ko‘rinishida bo‘lishi mumkin
+Fure qatorlari, chiziqli, parabola, giperbola, darajali funksiya ko‘rinishida bo‘lishi mumkin
+Fure qatorlari, chiziqli, parabola ko‘rinishida bo‘lishi mumkin
+
+Endogen o‘zgaruvchi – bu:
+Model ichida aniqlanadi
+Model tashqarisida aniqlanadi
+Modelga kiritiladigan qo‘shimcha o‘zgaruvchi
+Modelga ta’sir ko‘rsatmaydigan o‘zgaruvchi
+
+Ekonometrik modelda qatnashadigan omillarni tanlashda qo‘llanadigan usulni ko‘rsating.
+Korrelyatsion tahlil usuli
+Ekstrapolyatsiya usuli
+Prognoz usuli
+Regression tahlil usuli
+
+To‘plam ko‘rsatkichlarini topishda qatnashadigan hech qanday bog‘lovchi shartlarga ega bo‘lmagan erkin miqdorlar soni – 
+Erkinlik darajalar soni
+Korrelyatsiya soni
+Uzluksiz tasodifiy miqdor
+Tasodifiy miqdor
+
+Erkinlik darajalar soni – …
+to‘plam ko‘rsatkichlarini topishda qatnashadigan hech qanday bog‘lovchi shartlarga ega bo‘lmagan erkin miqdorlar sonidir.
+muayyan omilning natijaviy belgi variatsiyasiga ta’sirini omillar o‘zaro bog‘lanishidan «tozalangan» holda o‘lchaydi.
+qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oraliqni tashkil qiluvchi miqdor
+to„plamda kuzatish talab etiladigan elementlar sonidir
+
+Qanday holatda kointegratsiya xodisasi ishtirok etadi?
+agar vaqt qatori uzoq davom etadigan vaqt oralig’ida doimiy dispersiyaga ega bo’lsa
+agar vaqt qatorida taxlil etilayotgan ko’rsatkichning doimiy o’rtacha sur’ati ishtirok etsa
+agar vaqt qatorida ikki va undan ortiq darajalar tendensiyasi mos kelsa (yoki qarama-qarshi yo’nalishga ega bo’lsa)
+agar vaqt qatorida vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati ishtirok etsa
+
+Bog’langan vaqt qatorlarining darajalari o’rtasidagi bog’liqlikni o’rganish qanday usul yordamida o’tkaziladi?
+ketma-ket ayirmalarni korrelyatsiyalash
+dinamika qatori darajalarini korrelyatsiyalash
+xaqiqiy darajalarning trenddan og’ishlarini korrelyatsiyalash
+avtoregression o’zgartirishlarni korrelyatsiyalash
+
+… – talab va taklifga ta’sir qiluvchi omillarning o‘zgarishi natijasida ularni qanchaga o‘zgarishi tushuniladi
+Elastiklik
+Talab funksiyasi
+Taklif funksiyasi
+Chiziqlilik koeffitsienti 
+
+… – muayyan omilning natijaviy belgi variatsiyasiga ta’sirini omillar o‘zaro bog‘lanishidan «tozalangan» holda o‘lchaydi.
+Xususiy regressiya koeffitsienti
+Determinatsiya koeffitsienti
+Korelyatsiya koeffitsienti
+Tanlanma koeffitsienti
+
+… – bu shunday to‘liq bog‘lanishki, unda bir belgi yoki belgilar o‘zgarish qiymatiga har doim natijaning ma’lum me’yorda o‘zgarishi mos keladi.
+Funksional bog‘lanish
+Korrelyatsion bog‘lanish
+Regression bog‘lanish 
+Tasodifiy bog‘lanish
+
+Uzluksiz tasodifiy miqdor – 
+qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oralikni tashkil qiluvchi miqdor
+bu alohida, izolyatsiya qilingan qiymatlarni oladi
+taqsimot ko‘pburchagi bilan beriladi
+qabul qiladigan chekli qiymatlari sonlar o‘qidagi biror cheksiz oraliqni tashkil qiluvchi miqdor
+
+To‘plamda kuzatish talab etiladigan element –
+To‘plam birligi
+Tanlanma
+Bosh to‘plam
+Kuzatuv
+
+Taqsimot qatorlari bu – 
+to‘plam birliklarini ma’lum belgilar asosida guruhlarga (qismlarga) bo‘linishi
+to‘plamda kuzatish talab etiladigan elementlardan tuzilgan miqdorlar
+qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oralikni tashkil qiluvchi miqdorlar
+bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatorlari
+
+Sinov natijasida ro‘y berishi yoki ro‘y bermasligi mumkin bo‘lgan har qanday fakt – 
+Tasodifiy hodisa
+Tasodifiy miqdor
+Tanlanma
+Tajriba
+
+Tasodifiy miqdor qabul qilishi mumkin bo‘lgan qiymatlari bilan ularning mos ehtimollarini bog‘laydigan biror munosabat …… deyiladi.
+Tasodifiy miqdorning taqsimot qonuni
+Korrelyatsion-regression model 
+Multikollinearlik
+Stoxastik yoki statistik qonunlar
+
+Tasodifiy miqdorning taqsimot qonuni – 
+tasodifiy miqdor qabul qilishi mumkin bo‘lgan qiymatlari bilan ularning mos ehtimollarini bog‘laydigan biror munosabat
+bu bir turli hodisalarni ommaviy takrorlanishida namoyon bo‘ladigan qonunlar
+ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlardir
+taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin
+
+Sinov natijasida, avvaldan e’tiborga olib bo‘lmaydigan tasodifga bog‘liq holda, o‘zining mumkin bo‘lgan qiymatlaridan birini qabul qiladigan o‘zgaruvchi bu – 
+Tasodifiy miqdor
+Bosh to‘plam
+Tasodifiy hodisa
+Tajriba 
+
+Tasodifiy miqdor bu – 
+sinov natijasida, avvaldan e’tiborga olib bo‘lmaydigan tasodifga bog‘liq holda, o‘zining mumkin bo‘lgan qiymatlaridan birini qabul qiladigan o‘zgaruvchi tushuniladi
+bu o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementidir.
+sinov natijasida ro‘y berishi yoki ro‘y bermasligi mumkin bo‘lgan har qanday fakt
+o‘rganiladigan ko‘p hajmli birliklar majmuasi
+
+… – o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementidir.
+Tanlanma
+Bosh to‘plam 
+Belgi
+To‘plam birligi
+
+Tanlanma deganda nima tushuniladi?
+o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementi.
+to‘plamda kuzatish talab etiladigan element
+qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oraliqni tashkil qiluvchi miqdor
+o‘rganiladigan ko‘p hajmli birliklar majmuasi
+
+Talabga ta’sir diluvchi omillar miqdori bilan talab miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik bog‘liqlik
+Talab funksiyasi
+Talab elastikligi
+Taklif funksiyasi
+Ehtiyojlar funksiyasi
+
+Talab bu – 
+Berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori
+Ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori
+Iste’mol savatchasidagi mahsulotlarni xarid qilish uchun sarflanadigan mablag‘
+Aholining tovar va xizmatlarga bo’lgan ehtiyoji
+
+Berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori bu – 
+Talab
+Ehtiyojlar
+Taklif
+Xaridlar
+
+Taklifga ta’sir qiluvchi omillar miqdori bilan taklif miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik bog‘liqlik – 
+Taklif funksiyasi
+Talab funksiyasi
+Ishlab chiqarish funksiyasi 
+Taklif elastikligi
+
+Ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori bu –
+Taklif
+Talab
+Ishlab chiqarish funksiyasi
+Narx funksiyasi
+
+Taklif bu – 
+bu ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori
+berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori
+barcha bozorlarning o‘zaro bir-biriga ta’siri natijasida o‘rnatiladigan muvozanat
+Narxning bir birlik o‘zgarishiga talabning necha birlik o‘zgarishi to‘g‘ri kelishi
+
+Bir turli hodisalarni ommaviy takrorlanishida namoyon bo‘ladigan qonunlar –
+Stoxastik yoki statistik qonunlar
+Funksional qonunlar
+Tsiklik qonun qoidalar
+Dinamik qonunlar
+
+Tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmin –
+Statistik gipoteza
+Asosiy model
+Alternativ gipoteza
+Ikkilamchi gipoteza
+
+Statistik gipoteza bu – 
+tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmindir.
+hodisa yoki jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslangan holda bilish
+taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin
+hech narsaga asoslanmagan taxmin
+
+Natijaviy belgiga ta‟sir etuvchi omillarning samaradorligini aniqlab beruvchi usul –
+Regression tahlil
+Korrelyatsion tahlil
+Variatsion tahlil
+Dispersion tahlil
+
+Regression tahlil bu – 
+natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul.
+hodisalar orasidagi bog‘lanish zichlik darajasini baholash usulidir
+vaqtga bog’liq bo’lmagan o’zgarishlarni ifodalaydigan usul
+vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich
+
+Umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik – 
+multikollinearlikdir
+funksional bog’liqlikdir
+statistik bog’liqlikdir
+avtokorrelyatsiya
+
+Multikollinearlik bu – 
+umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik.
+modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi
+natijaviy belgiga ta’sir etuvchi omillarning samaradorligi
+bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir.
+
+Modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi
+Modelning adekvatligi
+Modelning murakkabligi
+Modelning informativligi
+Modelning to’liqligi
+
+Modelning adekvatligi – 
+modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi
+model formulalarining to’g’ri berilganligi
+modellashtirilayotgan obyektning murakkablik darajasi
+model turini aniqlash usulining ketma-ketligi 
+
+Model – 
+lotincha modulus so‘zidan olingan bo‘lib, o‘lchov, me’yor degan ma’nolarni anglatadi
+lotincha modelus so‘zidan olingan bo‘lib, nusxa ko’chirish degan ma’noni anglatadi
+lotincha madelus so‘zidan olingan bo‘lib, kishiklashtirish degan ma’noni anglatadi
+lotincha modolus so‘zidan olingan bo‘lib, chegara, masofa degan ma’nolarni anglatadi
+
+To‘plamda eng ko‘p uchraydigan belgi qiymati – … deb nomlanadi.
+Moda 
+Meidana 
+O‘rta arifmetik qiymat
+Matematik kutilma
+
+Moda bu – 
+to‘plamda eng ko‘p uchraydigan belgi qiymatidir
+to‘plamni teng ikki qismga bo‘luvchi belgi qiymatidir
+to‘plamdagi belgilar qiymatlarining o‘rta arifmetik qiymati
+to‘plamdagi eng katta va eng kishik qiymatlar farqidir
+
+To‘plamni teng ikki qismga bo‘luvchi belgi qiymati – 
+Mediana
+Moda
+O‘rtacha
+Matematik kutilma 
+
+Mediana bu – 
+to‘plamni teng ikki qismga bo‘luvchi belgi qiymatidir
+to‘plamda eng ko‘p uchraydigan belgi qiymatidir
+to‘plamdagi belgilar qiymatlarining o‘rta arifmetik qiymati
+to‘plamdagi eng katta va eng kishik qiymatlar farqidir
+
+Ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlar – 
+mavsumiy tebranish
+trend
+bozor muvozanatining buzilishi
+trenddagi o’zgarishlar
+
+Mavsumiy tebranish – 
+ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlardir
+har qanday sabablardan kelib chiqadigan tebranishlar
+makonga bog‘liq bo‘lgan tebranishlar
+barcha tsiklik tebranishlar
+
+Korrelyatsion tahlil – 
+hodisalar orasidagi bog‘lanish zichlik darajasini baholash usulidir.
+natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul.
+vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich
+vaqtga bog’liq bo’lmagan o’zgarishlarni ifodalaydigan usul
+
+O‘rganilayotgan hodisalar orasidagi bog‘lanishni natijaviy belgi bilan muhim omillar o‘rtasidagi ishonchli miqdoriy nisbatlari – 
+Korrelyatsion-regression model
+Variatsiya
+Dispersiya
+Iqtisodiy o’sish modeli
+
+Korrelyatsion-regression model – 
+bu o‘rganilayotgan hodisalar orasidagi bog‘lanishni natijaviy belgi bilan muhim omillar o‘rtasidagi ishonchli miqdoriy nisbatlar
+umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik.
+bu shunday to‘liq bog‘lanishki, unda bir belgi yoki belgilar o‘zgarish qiymatiga har doim natijaning ma’lum me’yorda o‘zgarishi mos keladi.
+chiziqli va kvadratik bog‘lanishlar
+
+Omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladigan to‘liqsiz bog‘lanish bu – 
+Korrelyatsion bog‘lanish
+Regression bog‘lanish
+Kovariatsion bog‘lanish
+Kollinear bog‘lanish
+
+Korrelyatsion bog‘lanish bu – 
+bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi
+umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik.
+iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan darajali ko‘rinishidagi funktsiya.
+bir o‘zgaruvchining ikkinchisiga chiziqli bog‘lanishi
+
+Iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan darajali ko‘rinishidagi funktsiya.
+Kobb-Duglas ishlab chiqarish funktsiyasi
+Ishlab chiqarish imkoniyatlari funktsiyasi
+Fisher ishlab chiqarish funktsiyasi
+Populyatsiya funktsiyasi
+
+Kobb-Duglas ishlab chiqarish funktsiyasi – 
+iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan darajali ko‘rinishidagi funktsiya.
+iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan logarifmik ko‘rinishidagi funktsiya.
+iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan sinusoidal ko‘rinishidagi funktsiya.
+iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan chiziqli ko‘rinishidagi funktsiya.
+
+Ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya – 
+Ishlab chiqarish funksiyasi
+Taklif funksiyasi
+Ishlab chiqarish imkoniyatlari egrisi
+Bozor muvozanati funksiyasi
+
+Ishlab chiqarish funktsiyasi …
+ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya
+Vaqt davomida ishlab chiqarilgan mahsulot hajmining o’zgarishini ifodalovchi matematik funktsiya
+Ishlab chiqarish xarajatlarining o’zgarishini ifodalovchi matematik funksiya
+taklifga ta’sir qiluvchi omillar miqdori bilan taklif miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik formula
+
+Iqtisodiy obyektlarning soddalashtirilgan nusxasi nima deb ataladi?
+Iqtisodiy model
+Ishlab chiqarish funksiyasi
+Iqtisodiy jarayon
+Bozor munosabatlari
+
+Iqtisodiy modelning umumiy ta’rifini belgilang. 
+iqtisodiy obyektlarning soddalashtirilgan nusxasi
+jarayonlarning matematik formulalar bilan berilgan nusxasi 
+bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi ifoda
+faqat ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya
+
+Qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachasi  – …
+Dispersiya
+Variatsiya 
+Variatsiya kengligi
+Kutilma 
+
+Dispersiya bu – 
+bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir
+ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlardir
+bu to‘plamni teng ikki qismga bo‘luvchi belgi qiymatidir
+taqsimot qatorining eng katta va eng kichik variantalari orasidagi farqdir
+
+Hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatori bu – 
+Dinamik qator
+Statik qator
+O‘zgarmas qator
+Belgilar qatori
+
+Dinamik qator – 
+bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatori
+bu hodisani vaqt bo‘yicha o‘zgarmaydigan kattaliklarni ko‘rsatuvchi sonlar qatori
+bu hodisani koordinatalar bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatori
+bu hodisani koordinaralar bo‘yicha o‘zgarmas qiymatlarini ko‘rsatuvchi sonlar qatori
+
+Natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadigan koeffitsient – 
+Determinatsiya koeffitsienti
+Kovariatsiya koeffitsienti
+Korrelyatsiya koeffitsienti
+Regressiya koeffitsienti
+
+Determinatsiya koeffitsienti …
+natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadi
+vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich
+Dinamik qatorlardagi o'rtacha qiymatlarni aniqlash uchun ishlatiladi
+Omillarning o'rtacha kvadrat chetlanishini aniqlash uchun foydalaniladi
+
+Vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich
+Darbin-Uotson mezoni
+Xi kvadrat mezoni
+Styudent mezoni
+Fisher mezoni
+
+Darbin-Uotson mezoni …
+vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich
+natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta‘siri ostida vujudga kelishini ko‘rsatadi
+bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir
+modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishini tekshiradi
+
+Taqsimot qatorining eng katta va eng kichik variantalari orasidagi farq … deyiladi.
+Variatsiya kengligi
+Tanlanma yoyilmasi
+Dispersiya
+Mediana
+
+Variatsiya kengligi – 
+taqsimot qatorining eng katta va eng kichik variantalari orasidagi farqdir
+taqsimot qatorining eng katta va eng kichik variantalari yig‘indisidir
+taqsimot qatorining eng katta va eng kichik variantalari ko‘paytmasidir
+taqsimot qatorining eng katta va eng kichik variantalari bo‘linmasidir
+
+Qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligi …dir.
+Variatsiya
+Dispersiya
+Kovariatsiya
+Regressiya 
+
+Variatsiya bu – 
+bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir.
+natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadi
+bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir
+muayyan omilning natijaviy belgi variatsiyasiga ta’sirini omillar o‘zaro bog‘lanishidan «tozalangan» holda o‘lchaydi.
+
+O‘rganiladigan ko‘p hajmli birliklar majmuasi – … dir.
+Bosh to‘plam
+Tanlanma
+Ikkilamchi to‘plam
+Tasodifiy miqdor
+
+Bosh to‘plam bu – 
+o‘rganiladigan ko‘p hajmli birliklar majmuasidir.
+barcha elementlarni o‘z ichiga olgan to‘plam
+umuman elementlari mavjud bo‘lmagan to‘plam
+bir nechta to‘plamlar kesishmasidan tashkil topgan to‘plamlar majmuasi
+
+Bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol … deyiladi
+Bozor muvozanati
+Bozor to‘yinishi 
+Bozor qonuni
+Kelishuv
+
+Bozor muvozanati bu –
+bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol
+bozorda taklif miqdorining talab miqdoridan katta teng bo‘lgan holi.
+bozorda taklif miqdorining talab miqdoridan kam bo‘lgan holi.
+bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol
+
+Belgi bu – 
+bu to‘plam birligining alomatlari, xislati va h.k.
+o‘rganiladigan ko‘p hajmli birliklar majmuasidir
+modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi
+vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich
+
+Prognozlash bu – 
+hodisa yoki jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslangan holda bilish
+tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmindir.
+jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslanmagan holda bilishga harakat qilish
+bo‘lib o‘tgan lekin u haqda bizda ma’lumot bo‘lmagan jarayonlarni tahmin qilish usulidir
+
+Hodisa yoki jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslangan holda bilish
+Prognozlash
+Taxmin qilish
+Fol ochish
+Ekstrapolyatsiya
+
+Alternativ (muqobil) gipoteza bu –
+taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin.
+tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmindir.
+bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir.
+tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lmagan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmin (faraz)dir.
+
+Taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin.
+Alternativ (muqobil) gipoteza
+Asosiy gipoteza
+Dastlabki gipoteza
+Yagona gipoteza
+
+Avtokorrelyatsiya bu – 
+Keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyasi
+bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir.
+bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir
+bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi
+
+Keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyasi - 
+Avtokorrelyatsiya
+Kovariatsiya
+Regressiya
+Variatsiya

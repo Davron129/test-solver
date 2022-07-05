@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-fs.readFile('macro.json', 'utf-8', (err, data) => {
+fs.readFile('legalcase.txt', 'utf-8', (err, data) => {
     if(err) {
         console.log(err)
         return 
@@ -33,9 +33,8 @@ fs.readFile('macro.json', 'utf-8', (err, data) => {
 
         result.push(obj)
     }
-    // navigator.clipboard.write(result)
 
-    fs.writeFile('macroeconimics.json', JSON.stringify(result, null, 2), (err) => {
+    fs.writeFile('legalcase.json', JSON.stringify(result, null, 2), (err) => {
         console.log(JSON.stringify(result, null, 2))
         if(err) {
             console.log(err)

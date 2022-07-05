@@ -1,0 +1,4202 @@
+[
+  {
+    "question": "\"Ekonometrika\" tushunchasiga qaysi ta’rif mos keladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu iqtisodiy xodisalar va jarayonlar o’zaro bog’liqligining miqdoriy ifodasini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu joy va vaqtning muayyan sharoitida yalpi ijtimoiy-iqtisodiy xodisalar va jarayonlarning miqdoriy tomonini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu tasodifiy xodisalarning umumiy qonuniyatlari va tasodifiy omillarning ta’sirini miqdoriy baxolash usullarini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu iqtisodiyot va matematikaning birlshmasidan hosil bo’lgan fan"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning maqsadi nimadan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "real iqtisodiy ob’ektlarni modellashtirish va miqdoriy taxlil qilish usullarini ishlab chiqish"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy ma’lumotlarni yaqqol ko’rinishda ifodalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "statistik ma’lumotlarni to’plash va guruxlash usullarini belgilash"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy xodisalarning sifatiy jixatlarini o’rganish"
+      }
+    ]
+  },
+  {
+    "question": "Modelni tasniflash - bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "empirik taxlil qilish maqsadida ekonometrik modellarni tuzish"
+      },
+      {
+        "isTrue": false,
+        "answer": "tadqiqot maqsadini belgilash va iqtisodiy o’zgaruvchi modellarni tanlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelni statistik taxlil qilish va parametrlarining sifatini baxolash"
+      },
+      {
+        "isTrue": false,
+        "answer": "zarur statistik axborotni to’plash"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning qaysi vazifasi modelni parametrlash vazifasi xisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "model parametrlarining va umuman modelning o’zini sifatini tekshirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "ekonometrik modellashtirish natijalariga ko’ra muayyan iqtisodiy xodisalar uchun prognozni tuzish va tavsiyalarni ishlab chiqish"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelni tuzish parametrlarini baxolash"
+      },
+      {
+        "isTrue": false,
+        "answer": "empirik taxlil qilish uchun ekonometrik modellarni tuzish"
+      }
+    ]
+  },
+  {
+    "question": "Model sifatini aniqlash - bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "model parametrlarining va umuman modelning sifatini tekshirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy modelning turini aniqlash, uning o’zgaruvchilari o’rtasidagi o’zaro bog’liqlikni matematik shaklda ifodalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelning dastlabki shart-sharoitlari va cheklovlarini aniqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’rganilayotgan iqtisodiy xodisalarni taxlil qilish"
+      }
+    ]
+  },
+  {
+    "question": "Quyida sanab o’tilgan modellar ichidan bir tenglamali regression modelni tanlang? 1) yetkazib berish xajmidan narx modeli; 2) talab va taklif modeli; 3) trend va mavsumiylik modeli; 4) ishlab chiqarish xajmining ishlab chitsarish omillariga bog’liqligi modeli",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1,4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2, 3"
+      },
+      {
+        "isTrue": false,
+        "answer": "barchasi"
+      }
+    ]
+  },
+  {
+    "question": "Turli obyektlar xaqida bir davr (vaqt) uchun olingan ma’lumotlar to’plami qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "makonga ko’ra ma’lumotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtga ko’ra ma’lumotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "davriy ma’lumotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’zgarmas ma’lumotlar"
+      }
+    ]
+  },
+  {
+    "question": "“Mustaqil o’zgaruvchi” tushunchasining o’xshashini tanlang?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "omil"
+      },
+      {
+        "isTrue": false,
+        "answer": "endogen o’zgaruvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "natija"
+      },
+      {
+        "isTrue": false,
+        "answer": "ekzogen o’zgaruvchi"
+      }
+    ]
+  },
+  {
+    "question": "Ovqatlanish xarajatlari umumiy miqdorining tasarrufdagi shaxsiy daromadga (x) va oziq-ovqat maxsulotlarining narxiga (r) bog’liqligi modelini ko’rib chiqing: u=a0+a1x+a2r+s. Model sinfini va modelning o’zgaruvchilari turini aniqlang?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bir tenglamali regression model; endogen o’zgaruvchi - ovqatlanish xarajatlari, ekzogen o’zgaruvchi - tasarrufdagi shaxsiy daromad va oziq-ovqat maxsulotlarining narxi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir tenglamali regression model; endogen o’zgaruvchi - ovqatlanish xarajatlari, ekzogen o’zgaruvchi - tasarrufdagi shaxsiy daromad, oldindan belgilangan o’zgaruvchi - oziq-ovqat maxsulotlarining narxi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori modeli; endogen o’zgaruvchi - ovqatlanish xarajatlari, lag o’zgaruvchi - tasarrufdagi shaxsiy daromad va oziq-ovqat maxsulotlarining narxi"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri javob keltirilmagan"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modellashtirish bosqichlarining to’g’ri ketma-ketligini toping?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "masalani qo’yish, aprior, parametrlash, axborot, identifikatsiyalash, verifikatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "masalani qo’yish, aprior, axborot, parametrlash, identifikatsiyalash, verifikatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "axborot, masalani qo’yish, aprior, parametrlash, verifikatsiyalash, identifikatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlani to’plash, "
+      }
+    ]
+  },
+  {
+    "question": "Qanday xolatda bog’liqlik korrelyatsion deb aytiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar omilning har bir qiymatiga natijali belgining ko’plab qiymatlari, ya’ni muayyan statistik taqsimot mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omilning muayyan tasodifiy qiymati mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omil qiymatlarining butun bir taqsimoti mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilli belgining har bir qiymatiga natijali belgining muayyan belgilangan qiymati mos kelsa"
+      }
+    ]
+  },
+  {
+    "question": "Tahliliy ifodaga ko’ra bog’liqlik qanday turlarga bo’linadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Chiziqli va chiziqsiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’gri va teskari"
+      },
+      {
+        "isTrue": false,
+        "answer": "Egri chiziqli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Toq va juft"
+      }
+    ]
+  },
+  {
+    "question": "Regression tahlil nimani aniqlashdan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bog’liqlikning taxliliy shaklini, unda natijaviy omilning o’zgarishi bir yoki bir necha omillarning ta’siri bilan shartlangan, natijaviy omilga ta’sir ko’rsatuvchi barcha boshqa omillar ko’pligi esa doimiy va o’rtacha qiymatlar sifatida qabul qilinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita omil o’rtasidagi (juft bog’liqlikda) xamda natijaviy omil bilan omillar ko’pligi o’rtasidagi (ko’p omilli bog’liqlikda) bog’liqlikning jipsligini"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita tasodifiy o’zgaruvchi o’zaro ta’sirining statistik o’lchovini"
+      },
+      {
+        "isTrue": false,
+        "answer": "tartibli o’zgaruvchilar o’rtasidagi statistik bog’liqlik darajasini"
+      }
+    ]
+  },
+  {
+    "question": "Alohida korrelyatsiya deganda nima tushuniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "boshqa omillar qiymati qat’iy belgilangan hollarda natijaviy omil va bitta omil o’rtasidagi bog’liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy omil hamda tadqiqotga kiritilgan ikki yoki undan ko’p omillarning bog’liqlikdagi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita omil (natijaviy va omillar yoki ikkita omil) o’rtasidagi bog’liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "sifatiy omillar o’rtasidagi bog’liqlik"
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi qiymatlardan qaysi biri korrelyatsiyaning juft koeffitsiyentini qabul qila olmaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1,111"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0,973"
+      },
+      {
+        "isTrue": false,
+        "answer": "0,005"
+      },
+      {
+        "isTrue": false,
+        "answer": "0,721"
+      }
+    ]
+  },
+  {
+    "question": "Korrelyatsiya chiziqli koeffitsiyentining qaysi qiymatida Y va X omillar o’rtasidagi bog’liqlikni jips (kuchli) deb xisoblash mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,657"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0,975"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0,111"
+      },
+      {
+        "isTrue": false,
+        "answer": "0,421"
+      }
+    ]
+  },
+  {
+    "question": "Agar Y va X omillar o’rtasidagi korrelyatsiya juft koeffitsiyenti 1 ga teng bo’lsa, u nimani anglatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to’g’ri funksional bog’liqlikning mavjudligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bog’liqlikning yo’qligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "teskari korrelyatsion bog’liqlikning mavjudligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "teskari funksional bog’liqlikning mavjudligi"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya parametrlarining baholari (eng kichik kvadratlar usuli baholarining xususiyatlari) qanday bo’lishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "siljimagan"
+      },
+      {
+        "isTrue": false,
+        "answer": "geteroskedatik"
+      },
+      {
+        "isTrue": false,
+        "answer": "samarali"
+      },
+      {
+        "isTrue": false,
+        "answer": "asoslangan"
+      }
+    ]
+  },
+  {
+    "question": "Chiziqli juft regressiya tenglamasida a1 parametr nimani anglatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar x o’zgaruvchi bir o’lchov birligiga oshirilsa, u natijaviy omilni o’rtacha qancha miqdorga o’zgarishini"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy omil hisobga olinmagan (tadqiqot uchun ajratilmagan) omillarning o’rtacha holatga keltirilgan ta’sirini"
+      },
+      {
+        "isTrue": false,
+        "answer": "omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini"
+      },
+      {
+        "isTrue": false,
+        "answer": "u natijaviy omil belgi variatsiyasining qanday ulushi modelda hisobga olinganligini va u x o’zgaruvchining ta’siri bilan shartlanganligini"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya tenglamasi yx = 2,02 ± 0,78x ko’rinishga ega. Agar x o’zining bir o’lchov birligiga oshirilsa, u o’rtacha o’zining qancha o’lchov birligiga o’zgaradi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,78 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,02 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,80 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’zgarmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya tenglamasining ahamiyatliligini baholash uchun qanday mezondan foydalaniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Fisherning F-mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Styudentning t mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Pirson mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Darbin-Uotsonning J-mezoni"
+      }
+    ]
+  },
+  {
+    "question": "Omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini qanday koeffitsiyent belgilab beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elastiklik koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "korrelyatsiya koeffitsiyenti"
+      }
+    ]
+  },
+  {
+    "question": "Xususiy korrelyatsiya koeffitsiyenti nimani baholaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "qolgan omillarning qat’iy belgilangan qiymatida ikkita o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "uchta o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha o’zgaruvchilar o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      }
+    ]
+  },
+  {
+    "question": "x argument (erkin o’zgaruvchi) 1 foizga oshirilganda u natijaviy omil o’zgarishining foizini o’rtacha darajada qaysi koeffitsiyent ko’rsatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "determinatsiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "elastiklik koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "beta-koeffitsiyent"
+      }
+    ]
+  },
+  {
+    "question": "a0 chiziqli trend parametrining to’g’ri tavsifini ko’rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan xodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      }
+    ]
+  },
+  {
+    "question": "eksponentsial trend parametrining to’g’ri tavsifini ko’rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi"
+      }
+    ]
+  },
+  {
+    "question": "a2 parabolik trend koeffitsiyentini nima tavsiflaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      }
+    ]
+  },
+  {
+    "question": "a1 chiziqli trend koeffitsiyentini nima tavsiflaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      }
+    ]
+  },
+  {
+    "question": "Trendning tenglashtirilgan darajalaridan og’ishlarni korrelyatsiyalash nima uchun o’tkaziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "xaqiqiy darajalarning trendni aks ettiruvchi tenglashtirilgan darajalardan og’ishlari o’rtasidagi bog’liqlikning jipsligini aniqlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "avtokorrelyatsiya mavjud bo’lmagan xollarda dinamika qatorlari o’rtasidagi bog’liqlikning jipsligini aniqlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "avtokorrelyatsiyaning ta’sirini istisno etish uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy tendensiya belgisining o’zgaruvchiligiga ta’sirini istisno etish uchun"
+      }
+    ]
+  },
+  {
+    "question": "Qanday holatda kointegratsiya xodisasi ishtirok etadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar vaqt qatori uzoq davom etadigan vaqt oralig’ida doimiy dispersiyaga ega bo’lsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar vaqt qatorida taxlil etilayotgan ko’rsatkichning doimiy o’rtacha sur’ati ishtirok etsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar vaqt qatorida ikki va undan ortiq darajalar tendensiyasi mos kelsa (yoki qarama-qarshi yo’nalishga ega bo’lsa)"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar vaqt qatorida vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati ishtirok etsa"
+      }
+    ]
+  },
+  {
+    "question": "Bog’langan vaqt qatorlarining darajalari o’rtasidagi bog’liqlikni o’rganish qanday usul yordamida o’tkaziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ketma-ket ayirmalarni korrelyatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "dinamika qatori darajalarini korrelyatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "xaqiqiy darajalarning trenddan og’ishlarini korrelyatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "avtoregression o’zgartirishlarni korrelyatsiyalash"
+      }
+    ]
+  },
+  {
+    "question": "Bog’langan qatorlarning to’g’ri ta’rifini ko’rsating?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "natijali belgining bir yoki bir necha omilli belgiga bog’liqligini ko’rsatuvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikki yoki undan ortiq vaqt qatorining darajalaridagi sabab-oqibatli bog’liqlik bo’lib, ular tendensiyalari va tasodifiy o’zgaruvchining mos kelishida yoki qarama-qarshi yo’nalishga ega bo’lishida o’z ifodasini topadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "avtokorrelyatsiya koeffitsiyenti qiymatlari lagining kattaligi qiymatlariga bog’liqligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalarining dastlabki xolatga nisbatan  vaqt lahzalariga siljishi"
+      }
+    ]
+  },
+  {
+    "question": "O’zgaruvchilarning lag qiymatlari bevosita qaysi modelga kiritilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "avtoregressiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "adaptiv kutishlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimlangan lagli"
+      },
+      {
+        "isTrue": false,
+        "answer": "to’liqsiz (qisman) tuzatishlar kiritish"
+      }
+    ]
+  },
+  {
+    "question": "Avtoregressiya modellari shu bilan tavsiflanadiki, ular:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "omilli o’zgaruvchilar sifatida natijaviy omilning lag qiymatlariga ega"
+      },
+      {
+        "isTrue": false,
+        "answer": "(t+1) davrda omilning istalgan qiymatini hisobga oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "(t+1) davrda natijaviy omilning istalgan (kutilayotgan) qiymatini hisobga oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "(t–1) davrda natijaviy omilning istalgan (kutilayotgan) qiymatini hisobga oladi"
+      }
+    ]
+  },
+  {
+    "question": "Natijaviy omil omilning kutilayotgan qiymatlariga bog’liq",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "adaptiv kutishlar modelining uzoq muddatli funksiyasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "adaptiv kutishlar modelining qisqa muddatli funksiyasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "qisman tuzatishlar kiritish modelining uzoq muddatli funksiyasida"
+      },
+      {
+        "isTrue": false,
+        "answer": "qisman tuzatishlar kiritish modelining qisqa muddatli funksiyasida"
+      }
+    ]
+  },
+  {
+    "question": "\"Ishlab chiqarishning uch omili\" g'oyasini ilgari surgan iqtisodchi olim - ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "J.B.Sey"
+      },
+      {
+        "isTrue": false,
+        "answer": "J.M.Keyns"
+      },
+      {
+        "isTrue": false,
+        "answer": "J.B.Klark"
+      },
+      {
+        "isTrue": false,
+        "answer": "D.Rikardo"
+      }
+    ]
+  },
+  {
+    "question": "“Ish bilan bandlik, foiz va pulning umumiy nazariyasi” nomli kitobning muallifi kim?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Jon Meynard Keyns"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adam Smit"
+      },
+      {
+        "isTrue": false,
+        "answer": "Antuan Monkreten"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fransua Kene"
+      }
+    ]
+  },
+  {
+    "question": "40-60 yil mobaynida takrorlanib turadigan sikl qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kondratev sikli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kitchin sikli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Juglar sikli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuznes sikli"
+      }
+    ]
+  },
+  {
+    "question": "Agar talab elastikligi 1 dan katta bo'lsa, bunday elastiklik nima deb normlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elastik"
+      },
+      {
+        "isTrue": false,
+        "answer": "noelastik"
+      },
+      {
+        "isTrue": false,
+        "answer": "birlik elastik"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgarmas"
+      }
+    ]
+  },
+  {
+    "question": "Doimo takrorlanib turadigan, iqtisodiy jarayonlar va real hodisalarning ayrim tomonlarini ifoda etuvchi ilmiy-nazariy tushuncha nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "iqtisodiy kategoriya"
+      },
+      {
+        "isTrue": false,
+        "answer": "induktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "abstraktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "deduktsiya"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy inqiroz davrida iqtisodiyotning qaysi sohalari kamroq yo'qotishga uchraydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "qisqa muddatli foydalaniladigan iste'molchilik tovarlari ishlab chiqaruvchi tarmoqlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "uzoq muddatli foydalaniladigan iste'molchilik tovarlari ishlab chiqaruvchi sanoat tarmoqlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "investision tovar ishlab chiqaruvchi sanoat tarmoqlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "og'ir sanoat"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy o'sish sur'ati bilan bog'liq holda YaIMni necha yilda 2 barobarga ortishini iqtisodchilar tomonidan qo'llaniluvchi qoidani nomini toping.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "70 miqdor qoidasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "90 sifat qoidasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "50 talab qoidasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bunday qoida mavjud emas"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy o'sishning mazmuni ifodalab bering",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "real yalpi ichki mahsulot hajmining mutloq va aholi jon boshiga nisbatan o'sib borishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi ichki mahsulot hajmining aholi jon boshiga kamayib borishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi investisiyalarning ko'payishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "byudjet daromadi hajmining ko'payishi"
+      }
+    ]
+  },
+  {
+    "question": "Insonlarning iqtisodiy faoliyat turlari yoki ishlab chiqarish natijalari bo'yicha o'zaro almashish jarayoni nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ayirboshlash jarayoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishlatish"
+      },
+      {
+        "isTrue": false,
+        "answer": "iste'mol"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarish xarajatlari - bu…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tovar va xizmatlarni ishlab chiqarish va iste'molchilarga yetkazib berishgacha qilinadigan barcha sarflar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi pul tushumidan barcha xarajatlar chiqarib tashlangandan keyin qolgan qismi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ko'payib boruvchi ehtiyojlarni qondiruvchi manba"
+      },
+      {
+        "isTrue": false,
+        "answer": "asosiy kapitalni kengaytirish va uni takror ishlab chiqarishga qilinadigan sarflar"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarishning avvalgi texnikaviy asosi saqlanib qolgan holda ishlab chiqarish omillari miqdorining ko'payishi tufayli … iqtisodiy o'sishga erishiladi ?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ekstensiv"
+      },
+      {
+        "isTrue": false,
+        "answer": "Intensiv"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mukammal"
+      },
+      {
+        "isTrue": false,
+        "answer": "Nomukammal"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarishning har bir darajasida doimiy va o'zgaruvchi xarajatlar yig'indisi qanday xarajatlarni tashkil qiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "umumiy xarajatlarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "xususiy xarajatlarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "ob'ektiv xarajatlarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "sub'ektiv xarajatlarni"
+      }
+    ]
+  },
+  {
+    "question": "Ishchi kuchi 12,5 mln. kishini, ishsizlar 1,3 mln. kishini tashkil qilsa, ishsizlik darajasi necha foizni tashkil qiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "10,4 foiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "13,8 foiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "11,2 foiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "9,6 foiz"
+      }
+    ]
+  },
+  {
+    "question": "K.Menger, F.Vizer, Bem-Baverk kabi Avstriya iqtisodiy maktabining namoyandalari qaysi iqtisodiy ta'limot vakillari bo'lib hisoblanishadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "marjinalizm ta'limoti"
+      },
+      {
+        "isTrue": false,
+        "answer": "fiziokratlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "liberalizm"
+      },
+      {
+        "isTrue": false,
+        "answer": "merkantilizm"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi omil aholi iste'moli va pul jamg'armalari darajasini belgilaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "milliy daromad"
+      },
+      {
+        "isTrue": false,
+        "answer": "soliqlar darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "foiz stavkasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ish haqi"
+      }
+    ]
+  },
+  {
+    "question": "Qimmatli qog'ozlar oldi-sotdisi bo'yicha rasmiy jihatdan tashkil etilgan va muntazam amal qiluvchi bozor shakli birjaning qanday turiga kiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "fond birjasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "valyuta birjasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "mehnat birjasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "tovar birjasi"
+      }
+    ]
+  },
+  {
+    "question": "Qishloq xo'jaligini qo'llab quvvatlash ta'limotchilari",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Fiziokratlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "merkantilistlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "klassiklar"
+      },
+      {
+        "isTrue": false,
+        "answer": "keynschilar"
+      }
+    ]
+  },
+  {
+    "question": "Laffer egri chizig'i:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "davlat byudjeti daromadlari va soliq stavkasi o'rtasidagi bog'liqlikni ifodalaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishsizlik va inflyasiya o'rtasidagi teskari bog'lanishni ifodalaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "baho bilan taklif o'rtasidagi to'g'ri bog'lanishni ifodalaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "baho bilan taklif o'rtasidagi teskari bog'lanishni ifodalaydi"
+      }
+    ]
+  },
+  {
+    "question": "Tarkibiy o'zgarishlar deganida nimani tushunasiz?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iqtisodiyot tarmoqlari ichida va tarmoqlararo nisbatlarni sifat jihatidan bir-biriga yaqinlashtirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ijtimoiy islohotlar o'tkazish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Moliyaviy islohotlar o'tkazish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iqtisodiy islohotlar o'tkazish"
+      }
+    ]
+  },
+  {
+    "question": "Foyda nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yalpi daromad minus yalpi xarajatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi daromad minus o'zgaruvchan xarajatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi daromad minus doimiy xarajatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi daromadning narxga nisbati"
+      }
+    ]
+  },
+  {
+    "question": "Foyda normasi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "foyda massasining ishlab chiqarish xarajatlariga nisbatining foizda ifodalanishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "doimiy xarajatlar minus o'zgaruvchan xarajatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishlab chiqarilgan mahsulot umumiy miqdorining bir birlik mahsulot narxiga nisbati"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi daromad minus yalpi xarajatlar"
+      }
+    ]
+  },
+  {
+    "question": "Avtokorrelyatsiya mavjudligini tekshirish uchun quyidagi mezonlardan qaysi biri qo'llanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "DW mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Goldfelda-Kvandt testi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Spirmen testi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Gleyzer testi"
+      }
+    ]
+  },
+  {
+    "question": "Agar biror bir mahsulotga taklifning baho bo'yicha elastikligi 1,2 ga teng bo'lsa:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ushbu mahsulot elastik bo'ladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ushbu mahsulot noelastik bo'ladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ushbu mahsulot birga teng elastik bo'ladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ushbu mahsulotni kamroq ishlab chiqarish kerak"
+      }
+    ]
+  },
+  {
+    "question": "Agar mamlakat miqyosida umumiy baholar o'sishi kuzatilsa:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Inflyatsiya bo'ladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishsizlik bo'ladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishsizlik, inflyatsiya,"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishsizlik, iqtisodiy o'sish"
+      }
+    ]
+  },
+  {
+    "question": "Asosiy fondlar bo'yicha yalpi mahsulotning elastiklik koeffitsiyenti nimani ko'rsatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Fondlar qiymati bir foizga o'zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o'zgarishini ko'rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fondlar qiymati bir birlikka o'zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o'zgarishini ko'rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fondlar qiymati bir foizga o'zgarganda, mahsulot ishlab chiqarish qiymati o'zgarmasligini ko'rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fondlar qiymati bir birlikka o'zgarganda, mahsulot ishlab chiqarish qiymati necha foizga o'zgarishini ko'rsatadi"
+      }
+    ]
+  },
+  {
+    "question": "Baho bilan talab o'rtasida bog'lanish",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Talab qonuni deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif qonuni deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qiymat qonuni deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Elastiklik koyeffitsiyenti qonuni deyiladi"
+      }
+    ]
+  },
+  {
+    "question": "Vaqtli qatorlarni tekislashda qaysi usullardan foydalaniladi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Eng kichik kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "O'rtacha sirg'aluvchilar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eksponentsial tekislash usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqoridagi barcha usullar"
+      }
+    ]
+  },
+  {
+    "question": "Makroiqtisodiy jarayonlar – bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ishsizlik, inflyatsiya, iqtisodiy o'sish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korxona foydasi va zarari, moliyaviy natijalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishsizlik, bankrotlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Inflyatsiya, bankrotlik"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya tenglamasi – bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Natijaviy omil va unga ta'sir etuvchi omillar orasidagi bog'lanishning shakli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ta'sir etuvchi omillar orasidagi munosabati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Asosiy omil va unga ta'sir etuvchi omillar orasidagi bog'lanish zichligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Omillar orasidagi munosabatni ko'rsatmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Ta'sir etuvchi omilning 1 %ga o'zgarishi, natijaviy omilning qanchaga o'zgarishini ko'rsatadi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elastiklik koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Student koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya koeffitsiyenti"
+      }
+    ]
+  },
+  {
+    "question": "Ta'sir etuvchi omilning bir birlikka o'zgarishi, natijaviy omilning qanchaga o'zgarishini ko'rsatadi koeffitsiyent",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regressiya tenglamasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Student koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya koeffitsiyenti"
+      }
+    ]
+  },
+  {
+    "question": "Trend – bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Vaqt bo'yicha qatorni barqaror tendensiyasi bo'lib, ozmi-ko'pmi tasodifiy tebranishlar ta'siridan ozodidr"
+      },
+      {
+        "isTrue": false,
+        "answer": "Vaqt bo'yicha qatorni barqaror tendensiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tenglama"
+      },
+      {
+        "isTrue": false,
+        "answer": "Vaqtga bog’liq bo’lmagan o’zgarishlarni ifodalaydi"
+      }
+    ]
+  },
+  {
+    "question": "Trend tiplari:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'ri chiziqli, parabola, giperbola, logarifmik, eksponentsial"
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri chiziqli, parabola, "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli, aylana tipidagi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli, giperbolik, logarifmik, elliptik"
+      }
+    ]
+  },
+  {
+    "question": "O'rtacha mehnat unumdorligi ko'rsatadi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mehnat harajati oshib borganda o'rtacha mehnat unumdorligi pasayib boradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mehnat harajati oshib borganda o'rtacha mehnat unumdorligi o'zgarmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mehnat harajati oshib borganda o'rtacha mehnat unumdorligi oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "O'rtacha mehnat unumdorligi oshib borganda mehnat harajati pasayib boradi"
+      }
+    ]
+  },
+  {
+    "question": "Fisher mezoni quyidagini ko'rsatadi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Olingan modelning o'rganilayotgan jarayonga mosligini"
+      },
+      {
+        "isTrue": false,
+        "answer": "Omillar orasidagi bog'lanish zichligini"
+      },
+      {
+        "isTrue": false,
+        "answer": "Olingan modeldagi koeffitsiyentlarning ahamiyatliligini"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya koeffitsiyentining ishonchliligini"
+      }
+    ]
+  },
+  {
+    "question": "Ekzogen – bu",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Qiymati tashqaridan beriladigan, ta'sir etuvchi X o'zgaruvchilar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizim ichida aniqlanuvchi, bog'liqli Y o'zgaruvcghi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qiymati tashqaridan beriladigan, o'zgaruvchilar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Y o'zgaruvcghi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik model – bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tenglamalar va tengsizliklar tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Balansli matritsalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotlar tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Matematik belgilar tizimi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modellar iqtisodiy jarayonlarini:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "iqdosotiy va sifat jihatdan o'rganadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sifat jihatdan o'rganadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Analitik jihatdan o'rganadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yechimlarning aniqligi jihatidan o’rganadi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modellashtirish bosqichlaridan birinchi bosqichni aniqlang:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko'rsatkichlar aniqlanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosqichda izlanayotgan noma'lum o'zgaruvchilar nima, qanday maqsadni ko'zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo'lishi kerak"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modellashtirilayotgan jarayonning iqtisodiy-matematik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tuzilgan iqtisodiy-matematik modelning miqdoriy yechimini aniqlaydigan usul tanlanadi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modellashtirish bosqichlaridan ikkinchi bosqichni aniqlang:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bosqichda izlanayotgan noma'lum o'zgaruvchilar nima, qanday maqsadni ko'zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo'lishi kerak"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko'rsatkichlar aniqlanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modellashtirilayotgan jarayonning iqtisodiy-matematik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tuzilgan iqtisodiy-matematik modelning miqdoriy yechimini aniqlaydigan usul tanlanadi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modelning shaklini tanlashda qo'llanadigan usul",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Regression tahlil usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsion tahlil usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ekstrapolyatsiya usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Prognoz usuli"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik usullaridan biri:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Vaqtli qatorlar tahlili"
+      },
+      {
+        "isTrue": false,
+        "answer": "Indeksli tahlil"
+      },
+      {
+        "isTrue": false,
+        "answer": "Klasterli tahlil"
+      },
+      {
+        "isTrue": false,
+        "answer": "SWOT tahlili"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrika– bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Matematika, iqtisodiyot va statistika sintezi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Matematika va iqtisodiyot sintezi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Matematika va statistika sintezi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ehtimollar nazariyasi va iqtisodiyot sintezi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning asosiy maqsadi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Omillararo bog'lanishlarni, o'zgarish qonuniyatlarni va tendentsiyalarni o'rganish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tarmoqlararo modellarni o'rganish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Optimallashtirish masalalarni o'rganish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ehtimollarni o'rganish"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning vazifalari:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Modelni identsifikatsiyalash, verifikatsiyalash, prognoz qilish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modelni tanlash va optimallashtirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tajribalar qilish va natijalar olish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mantiqiy tahlil qilish va modellashtirish"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning maqsadi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Real iqtisodiy obyektlarni modellashtirish va miqdoriy tahlil qilishning usullarini ishlab chiqish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotlarni qayta ishlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fizik ob'ektlarni modellashtirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sifatli, psixologik miqdoriy tahlil qilishning usullarini ishlab chiqish"
+      }
+    ]
+  },
+  {
+    "question": "Ekstropalyatsiya usuli qo'llaniladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Statistik prognozda"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eng kichik kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "O'rtacha sirg'aluvchilar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eksponetsial tekislash usuli"
+      }
+    ]
+  },
+  {
+    "question": "Eng kichik kvadratlar usuli … xizmat qiladi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dinamik qatorlarni tekislash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Omillar orasidagi bog'lanish zichligini aniqlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dinamik qatorlardagi o'rtacha qiymatlarni aniqlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Omillarning o'rtacha kvadrat chetlanishini aniqlash uchun"
+      }
+    ]
+  },
+  {
+    "question": "Farovonlik va rivojlanish indeksi qaysi tashkilot tomonidan belgilanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Legatum instituti tomonidan"
+      },
+      {
+        "isTrue": false,
+        "answer": "Menejment instituti tomonidan"
+      },
+      {
+        "isTrue": false,
+        "answer": "BMT tomonidan"
+      },
+      {
+        "isTrue": false,
+        "answer": "Jahon banki tomonidan"
+      }
+    ]
+  },
+  {
+    "question": "Korxonaning sof foydasi qanday hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Foydadan soliqlar chegirgandan so'ng qolgan qismi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Daromaddan ishlab chiqarish harajatlarni ayirgandan qolgan qismi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Daromaddan harajatni ayirgandan qolgan qismi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Daromaddan daromad solig’i ayirmasi"
+      }
+    ]
+  },
+  {
+    "question": "Investitsion qarorlar qabul qilishda quyidagilardan qaysi biri asos bo'lib hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "foizning real stavkasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "foizning nominal stavkasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "soliqlar darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "pul taklifi"
+      }
+    ]
+  },
+  {
+    "question": "Narx indeksi qanday hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "joriy yildagi iste'mol tovarlari narxini bazis yildagi iste'mol tovarlari narxiga taqqoslash orqali"
+      },
+      {
+        "isTrue": false,
+        "answer": "nominal YaMM hajmini real YaMM hajmiga ko'paytmasi olinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "YaMMdan yillik amortizatsiya summasining ayirmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "YaMMdan sof eksport ayirmasi"
+      }
+    ]
+  },
+  {
+    "question": "Nominal YaIM nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "joriy narxlarda hisoblangan YaIM"
+      },
+      {
+        "isTrue": false,
+        "answer": "nisbiy narxlarda hisoblangan YaIM"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchan va nisbiy narxlarda hisoblangan YaIM"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchan narxlarda hisoblangan YaIM"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy sikl nechta fazadan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "4 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "3 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "5 ta"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy siklning inqiroz fazasida yuzaga keladigan ishsizlik qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tsiklik ishsizlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "tabiiy ishsizlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "turg'un ishsizlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "texnologik ishsizlik"
+      }
+    ]
+  },
+  {
+    "question": "Mamlakatning iqtisodiy o'sish sur'atini tavsiflaydigan ko'rsatkichlar:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "real YaIM va aholi jon boshiga real YaIMning o'sishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "yalpi talab va yalpi taklif"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iste'mol va jamg'arma"
+      },
+      {
+        "isTrue": false,
+        "answer": "investisiyalar miqdori"
+      }
+    ]
+  },
+  {
+    "question": "Ishsizlik darajasi bilan YaIM o'rtasidagi bog'liqlikni ifodalovchi qonun qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ouken qonuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fillips qonuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Laffer qonuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Nufus qonuni"
+      }
+    ]
+  },
+  {
+    "question": "Foiz stavkasi nima asosida belgilanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "muomaladagi pul massasi asosida"
+      },
+      {
+        "isTrue": false,
+        "answer": "jamg'arma"
+      },
+      {
+        "isTrue": false,
+        "answer": "depozitlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "kreditlar"
+      }
+    ]
+  },
+  {
+    "question": "X tasodifiy o'zgaruvchini ifodalanishining universal usuli uning ... taqsimotini shaklida ifodalanishidir",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "funktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "qator"
+      },
+      {
+        "isTrue": false,
+        "answer": "zichlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "poligon"
+      }
+    ]
+  },
+  {
+    "question": "Diskret tasodifiy o'zgaruvchi - ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu alohida, izolyatsiya qilingan qiymatlarni oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sonli oraliqni to’ldiruvchi qiymatlar to'plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot zichligi bilan beriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot ko'pburchagi bilan beriladi"
+      }
+    ]
+  },
+  {
+    "question": "Juftlangan chiziqli regressiya modelida Y ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tasodifiy emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "O’zgarmas"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "musbat"
+      }
+    ]
+  },
+  {
+    "question": "Geometrik jihatdan tasodifiy miqdorning matematik kutilishi taqsimotning ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Markazi"
+      },
+      {
+        "isTrue": false,
+        "answer": "markaz bo'yicha dispersiya o'lchovi"
+      },
+      {
+        "isTrue": false,
+        "answer": "nosimmetrikning normadan og'ish o'lchovi"
+      },
+      {
+        "isTrue": false,
+        "answer": "simmetriyadan og'ish o'lchovi"
+      }
+    ]
+  },
+  {
+    "question": "Agar tasodifiy o'zgaruvchilar mustaqil bo'lsa, u holda nazariy kovariatsiya ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "nolga teng"
+      },
+      {
+        "isTrue": false,
+        "answer": "musbat"
+      },
+      {
+        "isTrue": false,
+        "answer": "manfiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "nolga teng emas"
+      }
+    ]
+  },
+  {
+    "question": "Tanlangan regressiya tenglamasidagi regressiya koeffitsientlari (a, b) ... usul(lar) bilan aniqlanadi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "eng kichik kvadratlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaznli eng kichik kvadratlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "daqiqalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "gradient"
+      }
+    ]
+  },
+  {
+    "question": "Vaqt qatorlari - bu vaqt ichida ... moment(lar)ini tavsiflovchi ma'lumotlar",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bir obyektning har xil"
+      },
+      {
+        "isTrue": false,
+        "answer": "turli xil obyektlarning aynan bir "
+      },
+      {
+        "isTrue": false,
+        "answer": "bitta obyektning bitta"
+      },
+      {
+        "isTrue": false,
+        "answer": "turli xil ob'ektlarning turli"
+      }
+    ]
+  },
+  {
+    "question": "Statistik munosabat ... .",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasodifiy omillar ta'sirini hisobga olmasdan o'zgaruvchilar munosabati"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarga tegishli aniq formula"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy omillar ta'sirida qo'shiladigan o'zgaruvchilar munosabati"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarning har qanday bog'lanishi"
+      }
+    ]
+  },
+  {
+    "question": "X tasodifiy miqdorni ifodalanishining universal usuli uning taqsimot … orqali ifodalanishidir",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qatori"
+      },
+      {
+        "isTrue": false,
+        "answer": "zichlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "ko‘pburchak"
+      }
+    ]
+  },
+  {
+    "question": "Diskret tasodifiy miqdor ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "alohida, izolyatsiya qilingan qiymatlarni oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qiymatlar to'plami raqamli bo'shliqni to'ldiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot koʻpburchagi bilan berilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot zichligi bilan beriladi"
+      }
+    ]
+  },
+  {
+    "question": "Namuna o‘rtachasi...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "umumiy oʻrtachaning xolis baholovchisi"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy dispersiyani xolis baholash"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy o'rtacha qiymatning noxolis bahosi"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy dispersiyani noxolis baholash"
+      }
+    ]
+  },
+  {
+    "question": "Namuna dispersiyasi ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "umumiy dispersiyani xolis baholovchisi"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy oʻrtachaning xolis baholovchisi"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy dispersiyani noxolis baholovchisi"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy oʻrtacha qiymatning noxolis bahosi"
+      }
+    ]
+  },
+  {
+    "question": "Juftlangan chiziqli regressiya modelida Y qiymati ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasodifiy emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "oʻzgarmas"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "musbat"
+      }
+    ]
+  },
+  {
+    "question": "Juftlangan chiziqli regressiya modelida A qiymati ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "oʻzgarmas"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy boʻlmagan"
+      },
+      {
+        "isTrue": false,
+        "answer": "Musbat"
+      }
+    ]
+  },
+  {
+    "question": "Tasodifiy hadning normal taqsimlanishi haqidagi faraz ... uchun zarurdir.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "regressiya parametrlarining ahamiyatini sinash va ularning intervalini baholash"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsientini hisoblash"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsientining ahamiyatini tekshirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya parametrlarini hisoblash"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrika - bu ... oʻrganadigan fan.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "matematik statistika usullari orqali iqtisodiyotdagi qonuniyatlar va oʻzaro bogʻliqliklarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy ko‘rsatkichlar xossalari haqidagi farazlarni tekshirishni"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy qonunlarning empirik kelib chiqishini"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy modellarni qurishni"
+      }
+    ]
+  },
+  {
+    "question": "M(X) va D(X) ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "umumiy to’plamning sonli xarakteristikalari"
+      },
+      {
+        "isTrue": false,
+        "answer": "chiziqli funksiyalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "xususiyatlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "chiziqli boʻlmagan funksiyalar"
+      }
+    ]
+  },
+  {
+    "question": "Qanday holatda bog’liqlik korrelyatsion deb aytiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar omilning har bir qiymatiga natijali belgining ko’plab qiymatlari, ya’ni muayyan statistik taqsimot mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omilning muayyan tasodifiy qiymati mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omil qiymatlarining butun bir taqsimoti mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilli belgining har bir qiymatiga natijali belgining muayyan belgilangan qiymati mos kelsa"
+      }
+    ]
+  },
+  {
+    "question": "Standart ahamiyatlilik darajalari …% va …% ga teng",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "5 / 1"
+      },
+      {
+        "isTrue": false,
+        "answer": "4 / 3"
+      },
+      {
+        "isTrue": false,
+        "answer": "3 / 2"
+      },
+      {
+        "isTrue": false,
+        "answer": "10 / 0.1"
+      }
+    ]
+  },
+  {
+    "question": "Agar mezonning kuzatilgan qiymati kritik qiymatdan katta bo'lsa, u holda gipoteza ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "H0 rad etiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "H1 rad etiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "H1 qabul qilinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "H0 qabul qilinadi"
+      }
+    ]
+  },
+  {
+    "question": "Alohida korrelyatsiya deganda nima tushuniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "boshqa omillar qiymati qat’iy belgilangan hollarda natijaviy omil va bitta omil o’rtasidagi bog’liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy omil hamda tadqiqotga kiritilgan ikki yoki undan ko’p omillarning bog’liqlikdagi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita omil (natijaviy va omillar yoki ikkita omil) o’rtasidagi bog’liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "sifatiy omillar o’rtasidagi bog’liqlik"
+      }
+    ]
+  },
+  {
+    "question": "Statistik bogliqlik deb ... aytiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasodifiy omillar ta'sirini hisobga olmasdan o'zgaruvchilar munosabatiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarga tegishli aniq formula"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy omillar ta'sirida qo'shiladigan o'zgaruvchilar munosabatiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarning har qanday bog'lanishiga"
+      }
+    ]
+  },
+  {
+    "question": "Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar oʻrtasida bogʻlanishning korrelyatsion shaklini aniqlash usuli bu -",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Eng kichik kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eng kata kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Interpolyatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ekstrapolyatsiya"
+      }
+    ]
+  },
+  {
+    "question": "Hodisa yoki jarayonlarning kelgusidagi mumkin bolgan holatini ilmiy asoslangan holda bilish bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Prognozlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Interpolyatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "oʻrtachasini hisoblash "
+      },
+      {
+        "isTrue": false,
+        "answer": "Avtokorrelyatsiya"
+      }
+    ]
+  },
+  {
+    "question": "Belgi bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu toʻplam birligining alomatlari, xislati va h.k."
+      },
+      {
+        "isTrue": false,
+        "answer": "Barcha toʻplamlar uchun umumiy xossalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Elementlarning alohida qismi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʻplamning alohida qismi"
+      }
+    ]
+  },
+  {
+    "question": "Omil belgining 1% ga o‘zgarganda natija qancha foizga o‘zgarishini aniqlaydigan koeffitsient – ….",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elastiklik koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ta’sir koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xususiy regressiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya koeffitsienti"
+      }
+    ]
+  },
+  {
+    "question": "Umumiy muvozanatlik bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha bozorlarning o‘zaro bir-biriga ta’siri natijasida o‘rnatiladigan muvozanatlik. Barcha bozorlarni muvozanat holatda bo‘lishi. Bunda biror bozorda muvozanatlik buzulsa boshqa bozorlarda ham muvozanatlilik buziladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishlab chiqarishda foydalaniladigan resurslar miqdorini oshirish yoki texnologiyani takomillashtirish orqali jamiyatning ishlab chiqarish imkoniyatlarini kengaytiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi"
+      }
+    ]
+  },
+  {
+    "question": "… – taqsimot bo‘yicha cho‘ziluvchanlik yoki yassilik bo‘lib, uning me‘yori to‘rtinchi momentning to‘rtinchi darajali kvadratik o‘rtacha tafovutga nisbatidan iborat.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ekstsess"
+      },
+      {
+        "isTrue": false,
+        "answer": "Styudentning t mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Pirson mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Darbin-Uotsonning J-mezoni"
+      }
+    ]
+  },
+  {
+    "question": "Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar o‘rtasida bog‘lanishning korrelyatsion shaklini aniqlash usuli – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Eng kichik kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eng katta kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri chiziqlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya usuli"
+      }
+    ]
+  },
+  {
+    "question": "Eng kichik kvadratlar usuli – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar o‘rtasida bog‘lanishning korrelyatsion shaklini aniqlash usulidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul."
+      },
+      {
+        "isTrue": false,
+        "answer": "keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyadir."
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha o’zgaruvchilar o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      }
+    ]
+  },
+  {
+    "question": "Vaqtli qatorlarni tekislashda qaysi usullardan foydalaniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Berilgan barcha usullar "
+      },
+      {
+        "isTrue": false,
+        "answer": "O‘rtacha sirg‘aluvchilar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eng kichik kvadratlar usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Eksponetsial tekislash usuli"
+      }
+    ]
+  },
+  {
+    "question": "Chiziqsiz ko‘rinishdagi ekonometrik model – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Parabola, giperbola, darajali funksiya, ko‘rsatkichli funksiya, trigonometrik funksiya ko‘rinishida bo‘lishi mumkin"
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli, parabola, giperbola, darajali funksiya ko‘rinishida bo‘lishi mumkin"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fure qatorlari, chiziqli, parabola, giperbola, darajali funksiya ko‘rinishida bo‘lishi mumkin"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fure qatorlari, chiziqli, parabola ko‘rinishida bo‘lishi mumkin"
+      }
+    ]
+  },
+  {
+    "question": "Endogen o‘zgaruvchi – bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Model ichida aniqlanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Model tashqarisida aniqlanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modelga kiritiladigan qo‘shimcha o‘zgaruvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modelga ta’sir ko‘rsatmaydigan o‘zgaruvchi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modelda qatnashadigan omillarni tanlashda qo‘llanadigan usulni ko‘rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Korrelyatsion tahlil usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ekstrapolyatsiya usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Prognoz usuli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regression tahlil usuli"
+      }
+    ]
+  },
+  {
+    "question": "To‘plam ko‘rsatkichlarini topishda qatnashadigan hech qanday bog‘lovchi shartlarga ega bo‘lmagan erkin miqdorlar soni – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Erkinlik darajalar soni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya soni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzluksiz tasodifiy miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy miqdor"
+      }
+    ]
+  },
+  {
+    "question": "Erkinlik darajalar soni – …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to‘plam ko‘rsatkichlarini topishda qatnashadigan hech qanday bog‘lovchi shartlarga ega bo‘lmagan erkin miqdorlar sonidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "muayyan omilning natijaviy belgi variatsiyasiga ta’sirini omillar o‘zaro bog‘lanishidan «tozalangan» holda o‘lchaydi."
+      },
+      {
+        "isTrue": false,
+        "answer": "qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oraliqni tashkil qiluvchi miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "to„plamda kuzatish talab etiladigan elementlar sonidir"
+      }
+    ]
+  },
+  {
+    "question": "Qanday holatda kointegratsiya xodisasi ishtirok etadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar vaqt qatori uzoq davom etadigan vaqt oralig’ida doimiy dispersiyaga ega bo’lsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar vaqt qatorida taxlil etilayotgan ko’rsatkichning doimiy o’rtacha sur’ati ishtirok etsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar vaqt qatorida ikki va undan ortiq darajalar tendensiyasi mos kelsa (yoki qarama-qarshi yo’nalishga ega bo’lsa)"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar vaqt qatorida vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati ishtirok etsa"
+      }
+    ]
+  },
+  {
+    "question": "Bog’langan vaqt qatorlarining darajalari o’rtasidagi bog’liqlikni o’rganish qanday usul yordamida o’tkaziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ketma-ket ayirmalarni korrelyatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "dinamika qatori darajalarini korrelyatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "xaqiqiy darajalarning trenddan og’ishlarini korrelyatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "avtoregression o’zgartirishlarni korrelyatsiyalash"
+      }
+    ]
+  },
+  {
+    "question": "… – talab va taklifga ta’sir qiluvchi omillarning o‘zgarishi natijasida ularni qanchaga o‘zgarishi tushuniladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elastiklik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talab funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqlilik koeffitsienti "
+      }
+    ]
+  },
+  {
+    "question": "… – muayyan omilning natijaviy belgi variatsiyasiga ta’sirini omillar o‘zaro bog‘lanishidan «tozalangan» holda o‘lchaydi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Xususiy regressiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Determinatsiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korelyatsiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tanlanma koeffitsienti"
+      }
+    ]
+  },
+  {
+    "question": "… – bu shunday to‘liq bog‘lanishki, unda bir belgi yoki belgilar o‘zgarish qiymatiga har doim natijaning ma’lum me’yorda o‘zgarishi mos keladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Funksional bog‘lanish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsion bog‘lanish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regression bog‘lanish "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy bog‘lanish"
+      }
+    ]
+  },
+  {
+    "question": "Uzluksiz tasodifiy miqdor – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oralikni tashkil qiluvchi miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu alohida, izolyatsiya qilingan qiymatlarni oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot ko‘pburchagi bilan beriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qabul qiladigan chekli qiymatlari sonlar o‘qidagi biror cheksiz oraliqni tashkil qiluvchi miqdor"
+      }
+    ]
+  },
+  {
+    "question": "To‘plamda kuzatish talab etiladigan element –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To‘plam birligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tanlanma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosh to‘plam"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuzatuv"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimot qatorlari bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to‘plam birliklarini ma’lum belgilar asosida guruhlarga (qismlarga) bo‘linishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamda kuzatish talab etiladigan elementlardan tuzilgan miqdorlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oralikni tashkil qiluvchi miqdorlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatorlari"
+      }
+    ]
+  },
+  {
+    "question": "Sinov natijasida ro‘y berishi yoki ro‘y bermasligi mumkin bo‘lgan har qanday fakt – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tasodifiy hodisa"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tanlanma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tajriba"
+      }
+    ]
+  },
+  {
+    "question": "Tasodifiy miqdor qabul qilishi mumkin bo‘lgan qiymatlari bilan ularning mos ehtimollarini bog‘laydigan biror munosabat …… deyiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tasodifiy miqdorning taqsimot qonuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsion-regression model "
+      },
+      {
+        "isTrue": false,
+        "answer": "Multikollinearlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Stoxastik yoki statistik qonunlar"
+      }
+    ]
+  },
+  {
+    "question": "Tasodifiy miqdorning taqsimot qonuni – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasodifiy miqdor qabul qilishi mumkin bo‘lgan qiymatlari bilan ularning mos ehtimollarini bog‘laydigan biror munosabat"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu bir turli hodisalarni ommaviy takrorlanishida namoyon bo‘ladigan qonunlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlardir"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin"
+      }
+    ]
+  },
+  {
+    "question": "Sinov natijasida, avvaldan e’tiborga olib bo‘lmaydigan tasodifga bog‘liq holda, o‘zining mumkin bo‘lgan qiymatlaridan birini qabul qiladigan o‘zgaruvchi bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tasodifiy miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosh to‘plam"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy hodisa"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tajriba "
+      }
+    ]
+  },
+  {
+    "question": "Tasodifiy miqdor bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sinov natijasida, avvaldan e’tiborga olib bo‘lmaydigan tasodifga bog‘liq holda, o‘zining mumkin bo‘lgan qiymatlaridan birini qabul qiladigan o‘zgaruvchi tushuniladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "sinov natijasida ro‘y berishi yoki ro‘y bermasligi mumkin bo‘lgan har qanday fakt"
+      },
+      {
+        "isTrue": false,
+        "answer": "o‘rganiladigan ko‘p hajmli birliklar majmuasi"
+      }
+    ]
+  },
+  {
+    "question": "… – o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementidir.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tanlanma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosh to‘plam "
+      },
+      {
+        "isTrue": false,
+        "answer": "Belgi"
+      },
+      {
+        "isTrue": false,
+        "answer": "To‘plam birligi"
+      }
+    ]
+  },
+  {
+    "question": "Tanlanma deganda nima tushuniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementi."
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamda kuzatish talab etiladigan element"
+      },
+      {
+        "isTrue": false,
+        "answer": "qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oraliqni tashkil qiluvchi miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "o‘rganiladigan ko‘p hajmli birliklar majmuasi"
+      }
+    ]
+  },
+  {
+    "question": "Talabga ta’sir diluvchi omillar miqdori bilan talab miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik bog‘liqlik",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Talab funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talab elastikligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ehtiyojlar funksiyasi"
+      }
+    ]
+  },
+  {
+    "question": "Talab bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iste’mol savatchasidagi mahsulotlarni xarid qilish uchun sarflanadigan mablag‘"
+      },
+      {
+        "isTrue": false,
+        "answer": "Aholining tovar va xizmatlarga bo’lgan ehtiyoji"
+      }
+    ]
+  },
+  {
+    "question": "Berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Talab"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ehtiyojlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xaridlar"
+      }
+    ]
+  },
+  {
+    "question": "Taklifga ta’sir qiluvchi omillar miqdori bilan taklif miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik bog‘liqlik – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Taklif funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talab funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish funksiyasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif elastikligi"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Taklif"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talab"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Narx funksiyasi"
+      }
+    ]
+  },
+  {
+    "question": "Taklif bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori"
+      },
+      {
+        "isTrue": false,
+        "answer": "berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha bozorlarning o‘zaro bir-biriga ta’siri natijasida o‘rnatiladigan muvozanat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Narxning bir birlik o‘zgarishiga talabning necha birlik o‘zgarishi to‘g‘ri kelishi"
+      }
+    ]
+  },
+  {
+    "question": "Bir turli hodisalarni ommaviy takrorlanishida namoyon bo‘ladigan qonunlar –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stoxastik yoki statistik qonunlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Funksional qonunlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tsiklik qonun qoidalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dinamik qonunlar"
+      }
+    ]
+  },
+  {
+    "question": "Tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmin –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Statistik gipoteza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Asosiy model"
+      },
+      {
+        "isTrue": false,
+        "answer": "Alternativ gipoteza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkilamchi gipoteza"
+      }
+    ]
+  },
+  {
+    "question": "Statistik gipoteza bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmindir."
+      },
+      {
+        "isTrue": false,
+        "answer": "hodisa yoki jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslangan holda bilish"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin"
+      },
+      {
+        "isTrue": false,
+        "answer": "hech narsaga asoslanmagan taxmin"
+      }
+    ]
+  },
+  {
+    "question": "Natijaviy belgiga ta‟sir etuvchi omillarning samaradorligini aniqlab beruvchi usul –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Regression tahlil"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsion tahlil"
+      },
+      {
+        "isTrue": false,
+        "answer": "Variatsion tahlil"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dispersion tahlil"
+      }
+    ]
+  },
+  {
+    "question": "Regression tahlil bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul."
+      },
+      {
+        "isTrue": false,
+        "answer": "hodisalar orasidagi bog‘lanish zichlik darajasini baholash usulidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtga bog’liq bo’lmagan o’zgarishlarni ifodalaydigan usul"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich"
+      }
+    ]
+  },
+  {
+    "question": "Umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "multikollinearlikdir"
+      },
+      {
+        "isTrue": false,
+        "answer": "funksional bog’liqlikdir"
+      },
+      {
+        "isTrue": false,
+        "answer": "statistik bog’liqlikdir"
+      },
+      {
+        "isTrue": false,
+        "answer": "avtokorrelyatsiya"
+      }
+    ]
+  },
+  {
+    "question": "Multikollinearlik bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik."
+      },
+      {
+        "isTrue": false,
+        "answer": "modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy belgiga ta’sir etuvchi omillarning samaradorligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir."
+      }
+    ]
+  },
+  {
+    "question": "Modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Modelning adekvatligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modelning murakkabligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modelning informativligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modelning to’liqligi"
+      }
+    ]
+  },
+  {
+    "question": "Modelning adekvatligi – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "model formulalarining to’g’ri berilganligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "modellashtirilayotgan obyektning murakkablik darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "model turini aniqlash usulining ketma-ketligi "
+      }
+    ]
+  },
+  {
+    "question": "Model – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "lotincha modulus so‘zidan olingan bo‘lib, o‘lchov, me’yor degan ma’nolarni anglatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "lotincha modelus so‘zidan olingan bo‘lib, nusxa ko’chirish degan ma’noni anglatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "lotincha madelus so‘zidan olingan bo‘lib, kishiklashtirish degan ma’noni anglatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "lotincha modolus so‘zidan olingan bo‘lib, chegara, masofa degan ma’nolarni anglatadi"
+      }
+    ]
+  },
+  {
+    "question": "To‘plamda eng ko‘p uchraydigan belgi qiymati – … deb nomlanadi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Moda "
+      },
+      {
+        "isTrue": false,
+        "answer": "Meidana "
+      },
+      {
+        "isTrue": false,
+        "answer": "O‘rta arifmetik qiymat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Matematik kutilma"
+      }
+    ]
+  },
+  {
+    "question": "Moda bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to‘plamda eng ko‘p uchraydigan belgi qiymatidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamni teng ikki qismga bo‘luvchi belgi qiymatidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamdagi belgilar qiymatlarining o‘rta arifmetik qiymati"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamdagi eng katta va eng kishik qiymatlar farqidir"
+      }
+    ]
+  },
+  {
+    "question": "To‘plamni teng ikki qismga bo‘luvchi belgi qiymati – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mediana"
+      },
+      {
+        "isTrue": false,
+        "answer": "Moda"
+      },
+      {
+        "isTrue": false,
+        "answer": "O‘rtacha"
+      },
+      {
+        "isTrue": false,
+        "answer": "Matematik kutilma "
+      }
+    ]
+  },
+  {
+    "question": "Mediana bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to‘plamni teng ikki qismga bo‘luvchi belgi qiymatidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamda eng ko‘p uchraydigan belgi qiymatidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamdagi belgilar qiymatlarining o‘rta arifmetik qiymati"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamdagi eng katta va eng kishik qiymatlar farqidir"
+      }
+    ]
+  },
+  {
+    "question": "Ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlar – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "mavsumiy tebranish"
+      },
+      {
+        "isTrue": false,
+        "answer": "trend"
+      },
+      {
+        "isTrue": false,
+        "answer": "bozor muvozanatining buzilishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "trenddagi o’zgarishlar"
+      }
+    ]
+  },
+  {
+    "question": "Mavsumiy tebranish – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlardir"
+      },
+      {
+        "isTrue": false,
+        "answer": "har qanday sabablardan kelib chiqadigan tebranishlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "makonga bog‘liq bo‘lgan tebranishlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha tsiklik tebranishlar"
+      }
+    ]
+  },
+  {
+    "question": "Korrelyatsion tahlil – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "hodisalar orasidagi bog‘lanish zichlik darajasini baholash usulidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul."
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtga bog’liq bo’lmagan o’zgarishlarni ifodalaydigan usul"
+      }
+    ]
+  },
+  {
+    "question": "O‘rganilayotgan hodisalar orasidagi bog‘lanishni natijaviy belgi bilan muhim omillar o‘rtasidagi ishonchli miqdoriy nisbatlari – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Korrelyatsion-regression model"
+      },
+      {
+        "isTrue": false,
+        "answer": "Variatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dispersiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iqtisodiy o’sish modeli"
+      }
+    ]
+  },
+  {
+    "question": "Korrelyatsion-regression model – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu o‘rganilayotgan hodisalar orasidagi bog‘lanishni natijaviy belgi bilan muhim omillar o‘rtasidagi ishonchli miqdoriy nisbatlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik."
+      },
+      {
+        "isTrue": false,
+        "answer": "bu shunday to‘liq bog‘lanishki, unda bir belgi yoki belgilar o‘zgarish qiymatiga har doim natijaning ma’lum me’yorda o‘zgarishi mos keladi."
+      },
+      {
+        "isTrue": false,
+        "answer": "chiziqli va kvadratik bog‘lanishlar"
+      }
+    ]
+  },
+  {
+    "question": "Omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladigan to‘liqsiz bog‘lanish bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Korrelyatsion bog‘lanish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regression bog‘lanish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kovariatsion bog‘lanish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kollinear bog‘lanish"
+      }
+    ]
+  },
+  {
+    "question": "Korrelyatsion bog‘lanish bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy natijaga birgalikda ta’sir etuvchi omillar o‘rtasidagi zich korrelyatsion bog‘liqlik."
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan darajali ko‘rinishidagi funktsiya."
+      },
+      {
+        "isTrue": false,
+        "answer": "bir o‘zgaruvchining ikkinchisiga chiziqli bog‘lanishi"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan darajali ko‘rinishidagi funktsiya.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kobb-Duglas ishlab chiqarish funktsiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish imkoniyatlari funktsiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fisher ishlab chiqarish funktsiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Populyatsiya funktsiyasi"
+      }
+    ]
+  },
+  {
+    "question": "Kobb-Duglas ishlab chiqarish funktsiyasi – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan darajali ko‘rinishidagi funktsiya."
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan logarifmik ko‘rinishidagi funktsiya."
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan sinusoidal ko‘rinishidagi funktsiya."
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiyot rivojlanishini tahlil qilishda foydalaniladigan chiziqli ko‘rinishidagi funktsiya."
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ishlab chiqarish funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish imkoniyatlari egrisi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bozor muvozanati funksiyasi"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarish funktsiyasi …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Vaqt davomida ishlab chiqarilgan mahsulot hajmining o’zgarishini ifodalovchi matematik funktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish xarajatlarining o’zgarishini ifodalovchi matematik funksiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "taklifga ta’sir qiluvchi omillar miqdori bilan taklif miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik formula"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy obyektlarning soddalashtirilgan nusxasi nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iqtisodiy model"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iqtisodiy jarayon"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bozor munosabatlari"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy modelning umumiy ta’rifini belgilang. ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "iqtisodiy obyektlarning soddalashtirilgan nusxasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "jarayonlarning matematik formulalar bilan berilgan nusxasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi ifoda"
+      },
+      {
+        "isTrue": false,
+        "answer": "faqat ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya"
+      }
+    ]
+  },
+  {
+    "question": "Qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachasi  – …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dispersiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Variatsiya "
+      },
+      {
+        "isTrue": false,
+        "answer": "Variatsiya kengligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kutilma "
+      }
+    ]
+  },
+  {
+    "question": "Dispersiya bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir"
+      },
+      {
+        "isTrue": false,
+        "answer": "ayrim fasl va oylarda ko‘p yillik qatorlarda muntazam ravishda kuzatiladigan barqaror tebranishlardir"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu to‘plamni teng ikki qismga bo‘luvchi belgi qiymatidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot qatorining eng katta va eng kichik variantalari orasidagi farqdir"
+      }
+    ]
+  },
+  {
+    "question": "Hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatori bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dinamik qator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Statik qator"
+      },
+      {
+        "isTrue": false,
+        "answer": "O‘zgarmas qator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Belgilar qatori"
+      }
+    ]
+  },
+  {
+    "question": "Dinamik qator – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatori"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu hodisani vaqt bo‘yicha o‘zgarmaydigan kattaliklarni ko‘rsatuvchi sonlar qatori"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu hodisani koordinatalar bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatori"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu hodisani koordinaralar bo‘yicha o‘zgarmas qiymatlarini ko‘rsatuvchi sonlar qatori"
+      }
+    ]
+  },
+  {
+    "question": "Natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadigan koeffitsient – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Determinatsiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kovariatsiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya koeffitsienti"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regressiya koeffitsienti"
+      }
+    ]
+  },
+  {
+    "question": "Determinatsiya koeffitsienti …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dinamik qatorlardagi o'rtacha qiymatlarni aniqlash uchun ishlatiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Omillarning o'rtacha kvadrat chetlanishini aniqlash uchun foydalaniladi"
+      }
+    ]
+  },
+  {
+    "question": "Vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Darbin-Uotson mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xi kvadrat mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Styudent mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fisher mezoni"
+      }
+    ]
+  },
+  {
+    "question": "Darbin-Uotson mezoni …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta‘siri ostida vujudga kelishini ko‘rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishini tekshiradi"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimot qatorining eng katta va eng kichik variantalari orasidagi farq … deyiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Variatsiya kengligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tanlanma yoyilmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dispersiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mediana"
+      }
+    ]
+  },
+  {
+    "question": "Variatsiya kengligi – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "taqsimot qatorining eng katta va eng kichik variantalari orasidagi farqdir"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot qatorining eng katta va eng kichik variantalari yig‘indisidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot qatorining eng katta va eng kichik variantalari ko‘paytmasidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot qatorining eng katta va eng kichik variantalari bo‘linmasidir"
+      }
+    ]
+  },
+  {
+    "question": "Qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligi …dir.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Variatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dispersiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kovariatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regressiya "
+      }
+    ]
+  },
+  {
+    "question": "Variatsiya bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir"
+      },
+      {
+        "isTrue": false,
+        "answer": "muayyan omilning natijaviy belgi variatsiyasiga ta’sirini omillar o‘zaro bog‘lanishidan «tozalangan» holda o‘lchaydi."
+      }
+    ]
+  },
+  {
+    "question": "O‘rganiladigan ko‘p hajmli birliklar majmuasi – … dir.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bosh to‘plam"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tanlanma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkilamchi to‘plam"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy miqdor"
+      }
+    ]
+  },
+  {
+    "question": "Bosh to‘plam bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "o‘rganiladigan ko‘p hajmli birliklar majmuasidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha elementlarni o‘z ichiga olgan to‘plam"
+      },
+      {
+        "isTrue": false,
+        "answer": "umuman elementlari mavjud bo‘lmagan to‘plam"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir nechta to‘plamlar kesishmasidan tashkil topgan to‘plamlar majmuasi"
+      }
+    ]
+  },
+  {
+    "question": "Bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol … deyiladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bozor muvozanati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bozor to‘yinishi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bozor qonuni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kelishuv"
+      }
+    ]
+  },
+  {
+    "question": "Bozor muvozanati bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol"
+      },
+      {
+        "isTrue": false,
+        "answer": "bozorda taklif miqdorining talab miqdoridan katta teng bo‘lgan holi."
+      },
+      {
+        "isTrue": false,
+        "answer": "bozorda taklif miqdorining talab miqdoridan kam bo‘lgan holi."
+      },
+      {
+        "isTrue": false,
+        "answer": "bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol"
+      }
+    ]
+  },
+  {
+    "question": "Belgi bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu to‘plam birligining alomatlari, xislati va h.k."
+      },
+      {
+        "isTrue": false,
+        "answer": "o‘rganiladigan ko‘p hajmli birliklar majmuasidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelning modellashtirilayotgan obyekt yoki jarayonga mos kelishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich"
+      }
+    ]
+  },
+  {
+    "question": "Prognozlash bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "hodisa yoki jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslangan holda bilish"
+      },
+      {
+        "isTrue": false,
+        "answer": "tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmindir."
+      },
+      {
+        "isTrue": false,
+        "answer": "jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslanmagan holda bilishga harakat qilish"
+      },
+      {
+        "isTrue": false,
+        "answer": "bo‘lib o‘tgan lekin u haqda bizda ma’lumot bo‘lmagan jarayonlarni tahmin qilish usulidir"
+      }
+    ]
+  },
+  {
+    "question": "Hodisa yoki jarayonlarning kelgusidagi mumkin bo‘lgan holatini ilmiy asoslangan holda bilish",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Prognozlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taxmin qilish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fol ochish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ekstrapolyatsiya"
+      }
+    ]
+  },
+  {
+    "question": "Alternativ (muqobil) gipoteza bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin."
+      },
+      {
+        "isTrue": false,
+        "answer": "tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lgan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmindir."
+      },
+      {
+        "isTrue": false,
+        "answer": "bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "tanlanma ma’lumotlari asosida tekshirish mumkin bo‘lmagan bosh to‘plam xossasi haqida oldindan aytilgan ilmiy taxmin (faraz)dir."
+      }
+    ]
+  },
+  {
+    "question": "Taqqoslanayotgan ikkita to‘plam ko‘rsatkichlari orasida muhim farq mavjud deb aytilgan taxmin.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Alternativ (muqobil) gipoteza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Asosiy gipoteza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dastlabki gipoteza"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yagona gipoteza"
+      }
+    ]
+  },
+  {
+    "question": "Avtokorrelyatsiya bu – ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu qator hadlarining tebranuvchanligi, varianta qiymatlarining o‘zgaruvchanligidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "bu qator variantalari qiymatlari bilan ularning arifmetik o‘rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o‘rtachadir"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi"
+      }
+    ]
+  },
+  {
+    "question": "Keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyasi - ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Avtokorrelyatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kovariatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Regressiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Variatsiya"
+      }
+    ]
+  }
+]

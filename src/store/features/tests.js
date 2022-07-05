@@ -1,6 +1,8 @@
 import { createSlice } from "@reduxjs/toolkit";
-const tests = require('../../utils/test.json')
-const macro = require('../../utils/macroeconomics.json')
+// const tests = require('../../utils/test.json')
+// const macro = require('../../utils/macroeconomics.json')
+// const econometrika = require('../../utils/econometrika.json')
+const legalcase = require('../../utils/legalcase.json')
 
 const getRandAnswers = (answers) => {
     const result = []
@@ -17,38 +19,29 @@ const getRandAnswers = (answers) => {
 }
 
 const getRandomOrder = (arr) => {
-    // const result = []
+    const result = []
     
-    // while(result.length !== 25) {
-    //     let rand = parseInt(Math.random() * arr.length)
+    while(result.length !== 25) {
+        let rand = parseInt(Math.random() * arr.length)
 
-    //     if(!result.includes(rand)) {
-    //         result.push(rand)
-    //     }
-    // }
+        if(!result.includes(rand)) {
+            result.push(rand)
+        }
+    }
 
-    // console.log(result)
-    // console.log(new Set(result))
+    console.log(result)
+    console.log(new Set(result))
 
-    // return result.map(el => ({
-    //         question: arr[el].question,
-    //         isChecked: null,
-    //         answers: getRandAnswers(arr[el].answers),
-    //         trueIndex: null
-    //     }))
-
-    let random = parseInt(Math.random() * 8)
-
-    return arr.slice(random*25, (random + 1)*25).map(el => ({
-        question: el.question,
-        isChecked: null,
-        answers: getRandAnswers(el.answers),
-        trueIndex: null
-    }))
+    return result.map(el => ({
+            question: arr[el].question,
+            isChecked: null,
+            answers: getRandAnswers(arr[el].answers),
+            trueIndex: null
+        }))
 }
 
 const initialState = {
-    data: getRandomOrder(macro),
+    data: getRandomOrder(legalcase),
     finishedCount: 0,
 }
 
