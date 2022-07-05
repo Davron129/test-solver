@@ -1,0 +1,1000 @@
+O’rnatilgan tizimlar apparat tashkil etuvchilari personal yoki superkompyuterlarga nisbatan ...
+ko’proq cheklangan
+ko’proq cheklanmagan
+nisbatan quvvatilroq
+juda tezroq
+O’rnatilgan tizimlar dasturiy tashkil etuvchilari personal yoki superkompyuterlarga nisbatan ...
+ko’proq cheklangan
+nisbatan quvvatilroq
+ko’proq cheklanmagan
+juda tezroq
+O’rnatilgan tizimlar ... bajarish uchun loyihalashtiriladi.
+tayinlangan funktsiyalarni 
+tayinlanmagan funktsiyalarni
+ixtiyoriy vazifalarni
+umumiy vazifalarni
+O’rnatilgan tizim namunasini ko’rsating
+smartfon
+noutbuk
+netbuk
+personal kompyuter
+O’rnatilgan tizimlar bu kompyuter tizimlari bo’lib, boshqa kompyuter turlariga nisbatan ...  
+yaxshi sifat va ishonchlikni talab etadi
+o’rtacha sifat va ishonchlikni talab etadi
+yomon sifat va ishonchlikni talab etadi
+qisman ishonchlilikni talab etadi
+O’rnatilgan tizimlarni loyihalashninig sharsharali modeli, ...
+bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari keyingisi uchun kiruvchi hisoblanadi 
+bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari keyingisi uchun kiruvchi bo’lib hisoblanmaydi 
+bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari oldingisi uchun kiruvchi bo’lib hisoblanmaydi 
+bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari hech nimaga ta’sir qilmaydi
+O’rnatilgan tizimlarni loyihalash modellari
+sharshara, spiral
+spiaral, prujina
+sharshara, chuqqi
+spiral, struktura
+O’rnatilgan tizimlarni loyihalashtirish va ishlab chiqish jarayonlarini to’g’ri bosqichlarini ko’rsating.
+arxitekturasini yaratish, arxitekturasini bajarish, tizimni testlash, tizimni qullab quvvatlash.
+arxitekturasini yaratish, arxitekturasini bajarish, tizimni qullab quvvatlash.
+arxitekturasini yaratish, arxitekturasini bajarish, tizimni testlash.
+arxitekturasini yaratish, arxitekturasini bajarish, tizimni testlash, testlash tizimni qullab quvvatlash.
+O’rnatilgan tizimlarni loyihalashtirish nechta bosqichdan iborat.
+4
+3
+5
+6
+O’rnatilgan tizimlarni "arxitekturasini yaratish" bosqichlari nechta pog’onadan iborat
+6
+5
+4
+3
+O’rnatilgan tizimlarni "arxitekturasini yaratish" bosqichi to’g’ri ko’rsatilgan pog’onasini ko’rsating.
+kuchli texnik asos(1), arxitekturali biznes tsiklni tushunish(2), arxitekturali namuna va modellarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish (5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6).
+kuchli texnik asos(1), biznes tsikl bozorini tushunish(2), arxitekturali namuna va modellarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish (5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6).
+kuchli texnik asos(1), arxitekturali biznes tsiklni tushunish(2), sotuvchi va yetqazib beruvchilarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish(5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6).
+kuchli texnik asos(1), arxitekturali biznes tsiklni tushunish(2), arxitekturali namuna va modellarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish(5), arxitekturani tahlil qilish va sotish(6).
+O’rnatilgan tizimlar "arxitekturasni yaratish" bosqichi to’g’ri pog’onalarini ko’rsating. arxitekturali biznes tsiklni tushunish(1), kuchli texnik asos(2), arxtekturni xujjatlashtirish(3), arxitekturali tuzulishni aniqlash(4),  arxitekturali namuna va modellarni aniqlash(5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6)
+2,1,5,4,3,6
+1,2,3,4,5,6
+1,2,5,4,3,6
+2,1,5,4,6,3
+O’rnatilgan tizimlar arxitekturasi - bu …
+axborotni mayda qismlarga bo’lingan holda bajarilishini ko’rsatmaydigan, o’rnatilgan qurilmalar abstraktsiyasidir.
+axborotni mayda qismlarga bo’lingan holda bajarilishini ko’rsatadigan, o’rnatilgan qurilmalar abstraktsiyasidir.
+dasturiy vositani mayda qismlarga bo’lingan holda bajarilishini ko’rsatadigan, o’rnatilgan qurilmalar abstraktsisidir.
+dasturiy komplekslar yig’indisidir
+O’rnatilgan tizimlar modeli nechta qatlamlardan tashkil topgan?
+3
+4
+5
+6
+O’rnatilgan tizimlar mumkin bo’lgan modellari to’g’ri ketma-ketligida sanang.
+Application Software Layer, System Software Layer, Hardware Layer
+Application Software Layer, Hardware Layer
+o’rnatilgan tizimlar modeli mavjud emas.
+Applied software Layer, Implementing Software Layer, Finding hardware Layer
+Real vaqt o’rnatilgan tizimi - …
+hodisalarga reaktsiyasi vaqt bilan kafolatlangan hisoblash tizimi.
+o’rnatilgan tizimlar ichidagi hisoblash tizimi
+bu o’rnatilgan operatsion tizim
+bu tizimli dasturiy ta’minot
+Real vaqt tizimlari nechta guruhlari mavjud?
+2
+3
+4
+5
+To’g’ri ko’rsatilgan real vaqt tizimlarini ko’rsating.
+yumshoq(qat’iy bo’lmagan) real vaqt tizimlari, qattiq(qat’iy) real vaqt tizimlari
+qattiq real vaqt tizimlari, qat’iy real vaqt tizimlari
+yumshoq real vaqt tizimlari, mustaqil real vaqt tizimlari
+mustaqil real vaqt tizimlari, mustaqil bo’lmagan real vaqt tizimlar
+"Real vaqt tizimi ishi maqsadi munosabatiga ko’ra real vaqt talablariga rioya etish katastrofik xisoblanmaydi" so’z qaysi real vaqt tizimlari haqida borayapti?
+yumshoq(qat’iy bo’lmagan) real vaqt tizimlari
+qattiq real vaqt tizimlari
+mustahkam real vaqt tizimlari
+mustaqil real vaqt tizimlari
+"Real vaqt talablariga rioya etmaslik tizim maqsadli funktsiyasini bajarilmasligiga olib keladi" so’z qaysi real vaqt tizimlari haqida borayapti?
+qattiq(qat’iy) real vaqt tizimlari
+yumshoq real vaqt tizimlari
+mustaqil real vaqt tizimlari
+mustahkam real vaqt tizimlari
+Axborot-boshqaruv tizimi nima?
+odatda boshqaruv ob’ekti deb nomlanuvchi ba’zi bir real ob’ektlarni boshqaruv yoki nazorat raqamli tizimidir
+tizimga ruxsatni boshqaruvchi raqamli tizimdir
+ba’zi bir real ob’ektlar holatini boshqarish va nazorat qilish jarayoni
+ba’zi bir real ob’ektlarni xotira holatini boshqaruv va nazorat raqamli tizimidir.
+Axborot-boshqaruv tizimiga kiruvchi axborot nima orqali yetkaziladi?
+datchik
+protsessor
+xotira
+operativ xotira
+O’rnatilgan tizim va real vaqt tizimi sinonimmi?
+yo’q
+ha
+ba’zan
+qachondir
+Nima real vaqt tizimlari uchun talab qilinmaydi ?
+boshqaruvchi tashkil qiluvchilar
+protsessor
+opertiv xotira
+protsessor va operativ xotira
+Quyidagilardan qaysi biri real vaqt tizmida ishlaydi?
+aviabiletlarni rezerv qilish tizmlari
+barcha xisoblash tizmlari
+mobil xisoblash tizimlari
+smartfonlar
+Axborot-boshqaruv tizmlarini qurishning nechta varianti bor?
+2
+3
+4
+5
+Yo’naltirilgan axborot-boshqaruv tizimlari - bu…
+obektni boshqairsh bevosita yaqin qurilgan, aloqasi to’g’ri konstruksiyalangan, jamlangan qurilmalar
+bo’laklarga bo’lingan va bir-biri bilan aloqa kanallari oraqli bog’langan bir nechta qurilmalar.
+obektni boshqairsh uchun to’g’ridan-to’g’ri  qurilgan, aloqasi konstruksiyalanganmagan, jamlangan qurilmalar
+bo’laklarga bo’lingan va bir-biri bilan aloqa kanallari oraqli bog’lanmagan bir nechta qurilmalar.
+Axborot-boshqaruv tizimi bo’linishi  - …
+bir nechta qurilmalarga bo’linishi, bir-birdan uzoqda joylashib, aloqa kanallari orqali bog’lanishi
+bir nechta qurilmalarga bo’linishi, bir-birdan uzoqda joylashib, aloqa kanallari orqali bog’lanmasligi
+obektni boshqairsh bevosita yaqin qurilgan, aloqasi to’g’ri konstruksiyalangan, jamlangan qurilmalar
+obektni boshqairsh uchun to’g’ridan-to’g’ri  qurilgan, aloqasi konstruksiyalanganmagan, jamlangan qurilmalar
+Axborot-boshqaruv tizimi aparat va daturiy elementlari tarkibi:
+kiritish/chiqarish qurilmasi, obektlarni biriktirish qurilmasi, hisoblash bloki, tarmoq bloki, kontroller, tizimli dasturiy ta’minot, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot
+kiritis/chiqarish qurilmasi, ta’minot bloki, isoblash bloki, tarmoq bloki, kontroller, tizimli dasturiy ta’minot, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot
+boshqaruv qurilmasi, ta’minot bloki, isoblash bloki, tarmoq bloki, kontroller, tizimli dasturiy ta’minot, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot
+boshqaruv qurilmasi, ta’minot bloki, isoblash bloki, tarmoq bloki, kontroller, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot
+O’rnatilgan hisoblash tizimi (embedded system) – …
+aniqlangan funksiyalar jamlanmasini bajaruvchi ixtisoslashtirilgan axborot-boshqaruv tizimi
+ixtisoslashtirilmagan axborot-boshqaruv tizimi
+aniqlangan funksiyalar jamlanmasini bajaruvchi ixtisoslashtirilmagan axborot-boshqaruv tizimi
+aniqlanmagan funksiyalar jamlanmasini bajaruvchi ixtisoslashtirilmagan axborot-boshqaruv tizimi
+Har qanday hisoblash tizimini o’zida o’rnatilga tizim deb hisoblash mumkin, qaysindaki…
+shaxsiy kompyuter emas, portativ yoki undan kattaroq universal kompyuterda
+shaxsiy kompyuter, portativ yoki undan kattaroq universal kompyuterda
+shaxsiy kompyuter, portativ kompyuter yemas balki undan kattaroq universal kompyuterda
+shaxsiy , portativ kompyuterda lekin undan kattaroq universal kompyuterda yemas
+Taqsimlangan o’rnatilgan tizimi - …
+bu maydon jihatidan taqsimlangan o’rnatilgan tizim
+bu maydon jihatidan taqsimlanmagan o’rnatilgan tizim
+taqsimlanmagan o’rnatilgan tizim
+bu taqsimlanmagan o’rnatilgan tizim
+Taqsimlangan o’rnatilgan tizimlar qanday xarakterga ega?
+komponentalar orasida aloqaning kuchsizligi
+obektlar orasida aloqaning mavjudligi
+tarmoq komponentalari orasidagi aloqning kuchsizligi
+tarmoq komponentalari orasidagi aloqning mavjudligi
+O’rnatilgan hisoblash tizimlarinig o’ziga xos xususiyatini belgilang.
+katta bo’lmagan aparat resurslari; real vaqt shkalasi; yuqori ishonchlilik va xavfsizlik talablariga rioya qilish;
+katta bo’lmagan aparat resurslari; real vaqt shkalasi; yerganomika talablariga rioya qilish;
+katta  aparat resurslari; real vaqt shkalasi; yuqori ishonchlilik va xavfsizlik talablariga rioya qilish;
+katta  aparat resurslari; real bo’lmagan vaqt shkalasi; yuqori ishonchlilik va xavfsizlik talablariga rioya qilish;
+O’rnatilgan tizimlar barpo qilingan asosiy komponentani ko’rsating
+kontrollerlar
+operativ xotira
+kesh xotira
+boshqaruv qurilmasi
+Kontroller quyidagilarni boshqarishi mumkin-…
+fuksional bloklar va kompyuter tashqi qurilmalarini
+funksional bloklar va o’zini
+oz’ini va komp. tashqi qurilmalarini
+funksional bloklar, tashqi qurilmalar va inson omilini
+Taqsimlangan axborot-boshqaruv tizimlarida kontrollerlar…
+kontrollerlar tizimida birlashtiriladi
+kontrollerlar tzimida birlashtirilmaydi
+hech qanday vazifa bajarmaydi
+qandaydir vazifa bajaradi
+Sanoat va bortovoy kontrollerlarga qo’yiladigan talablar?
+Ishonchli va xavfsiz
+resurslar bilan
+texik savollar bilan tashkillashtirilgan
+hech qanday talab qo’yilmaydi
+Bajarilish joyiga qarab kontroller turlari?
+integrallashgan sanoat, instrumental, bort kontrollerlar, mikrokontrollerlar
+sanoat, instrumental, bort kontrollerlar,  aerokosmik mikrokontrollerlar
+sanoat, instrumental, bort kontrollerlar,  avtomobil mikrokontrollerlar
+sanoat, instrumental, bort kontrollerlar, uchish aparatlari kontrollerlari, mikrokontrollerlar
+Kontroller dasturlanishi darajasi bo’yicha quyidagilarga bo’linadi
+mantiqiy dasturlashtiriladigan, daturlashtiriladigan, maxsuslashtirilgan
+mantiqiy dasturlashtiriladigan, daturlashtirilmaydigan, maxsuslashtirilgan
+mantiqiy dasturlashtiriladigan, daturlashtirilmaydigan, maxsuslashtirilmaydigan
+mantiqiy dasturlashtiriladigan, dasturlashtiriladigan, umumiy
+Kontrollerlarni bevosita dasturlash mumkinmi?
+yo’q, apparat resurslar kamligi uchun
+ha, apparat resurslar ko’pligi uchun
+yo’q, dasturiy vositaar kamligi uchun
+ha, dasturiy vositalar ko’pligi uchun
+CHipdagi tizim (System on a Chip, SoS) - 
+umuman olganda bir chipdagi integrallashgan protsessorli tizim
+umuman olganda bir chipdagi integrallashgan kontrollerli tizim
+umuman olganda bir chipdagi integrallashgan boshqaruv qurilmali tizim
+umuman olganda bir chipdagi integrallashgan xotira modulli tizim
+DVB (Digital Video Broadcasting) nima?
+Java ga asoslangan raqamli TV ni loyihalashda qo’llaniladigan standart
+Java ga asoslangan ma’lumotlarni raqamli TV ga uzatishda qo’llaniladigan standart 
+Java ga asoslangan o’rnatilgan tizimni loyihalashda ishlatiladigan standart
+Java ga asoslangan raqamli TV ni baxolashda qo’llaniladigan standart
+OCAP (OpenCable Application Forum)  nima?
+dasturlarni o’tkazish interfeysini qo’llab quvvatlovchi tizimli dasturiy daraja
+ma’lumotlarni o’tkazish interfeysini qo’llab quvvatlovchi tizimli dasturiy daraja 
+ma’lumotlar ochiqliligini ta’minlovchi tizimli dasturiy daraja 
+ma’lumotlarni o’tkazishni ta’minlovchi notizimli dasturiy daraja  
+Registr bu - 
+Ikkilik sanoq sistemasidagi ma’lumotlar (mashina so’zi)ni  vaqtincha saqlovchi yelektron sxema 
+mashina operatsiyasida qatnashuvchi son yoki simvol
+bir necha sodda amallarni buyruqlar bo’yicha bajaruvchi qurilma
+bank elektron yacheykasi 
+Mantiqiy ko’paytirish amalini  … bajaradi 
+VA mantiqiy elementi
+YoKI mantiqiy elementi
+INKOR mantiqiy elementi
+YoKI YeMAS mantiqiy elementi
+Energiya uzatuvchi, kanalni ochish yoki yopishga mo’ljallangan qurilma … nomlanadi
+Deshifrator
+Kommutator
+Kalit elementi 
+Konsentrator
+Ikkilik sanoq sistemasidagi sonlarni qo’shish uchun mo’ljallangan qurilma …
+Summator
+Kommutator
+Multipleksor
+Deshifrator
+Qaysi qurilma rejimni o’rnatadi va protsessor boshqarish va rejimini tekshirish uchun foydalanilgan registrlarni tekshiradi?
+Kiritish/chiqarish kontrolleri
+Xotirani boshqarish qurilmasi
+Tezkor xotira
+Qurilmalar drayveri
+Bus protocol nechta funksiyani o’z ichiga oladi?
+10
+8
+6
+4
+Qurilma drayverining qanday funksiyasi boshqa aparat ta’minotini dasturiy ta’minot orqali boshqarishga imkon beradi?
+Hardware Enable
+Hardware Startup
+Hardware Release
+Hardware Acquire
+Uzilishlarni qayta ishlash jarayonining qaysi biri qayta ishlashni kodlashtiradi?  
+Interrupt-Handler Servicing
+Interrupt-Handling Startup
+Interrupt-Handling Shutdown
+Interrupt-Handling Enable
+Qanday rejimda bir qancha ma’lumot tiplari aktiv holatda bo’ladi va ishlatiladi?
+bandlik holatida
+tugallanmagan holatda
+aktiv bolmagan holatda
+aktiv holatda
+Apparat vositalar necha xil rejimda bo’lishi mumkin?
+3
+2
+1
+4
+Qurilma drayverining quyida keltirilgan qaysi funksiyasi dasturiy ta’minotga istisno tarzida boshqa  aparat ta’minotini boshqarishga imkon beradi?
+Hardware Acquire
+Hardware Enable
+Hardware Release
+Hardware Startup
+Apparat ta’minoti va operatsion tizim o’rtasida o’rta pog’onada va dastur po’g’onasida aloqa qiluvchi qurilma qanday nomlanadi?
+qurilma drayveri
+kiritish/chiqarish qurilmasi
+protsessor
+modem
+Qaysi biri o’rnatilgan tizimning asosiy komponentasi hisoblanadi?
+Kontrollerlar
+Shinalar
+Mikroprotsessor
+mikrokontroller
+Kontrollerning asosiy maqsadi nima? 
+real obektlarni boshqarish
+uzluksiz ta’monitni ta’minlab berish
+aloqa kanallarini boshqarish
+simsiz aloqa liniyalarini boshqarish
+Kontroller turlari
+ishlab chiqarish kontrollerlari, qurilmalar kontrolleri, bortovoy kontroller, integratsiyalangan bajarilishni boshqarish konrollerlari, dasturlash mantiqiy kontrollerlari, maxsus kontrollerlar
+tarmoq kontrolleri, ishlab chiqarish kontrolleri
+ma’lumotlat bazasini boshqarish kontrolleri
+intellektual tizimlarni boshqarish kontrolleri
+Kontrollerlar qanday xususiyatlarga ega? 
+Nisbatan kichik aparat resursi, to’g’ridan-to’g’ri dasturlash imkoniyati yo’qligi, (ko’p hollarda) foydalanuvchi uchun interfeys yo’qligi, o’ziga xos foydalanilishi
+boshqarish uchun qulay va funksional interfeysi, real obektlarni boshqarish uchun katta funksional imkoniyati
+moslashuvchan, ishonchli, imkoniyat, yaxlitlik
+barcha javoblar to’g’ri
+Mikrokontroller bu-
+mikroprotsessor elementlar bazasida ishlovchi kontroller
+analog-raqamli o’zgartiruvchi qurilma
+demodulyator
+Raqamli-analog o’zgartiruvchi qurilma
+Kristaldagi tizim nima?
+protsessor bilan integrallashgan yagona kristaldagi tizim
+operativ xotira bilan integrallashgan yaqona kristaldagi tizim 
+xotira hajmi bilan integrallashgan yagona kristaldagi tizim
+qattiq disk bilan integrallshgan yagona kristaldagi tizim
+Quyidagi qaysi 3 ta tizimli blok  kristaldagi tizimni tashkil qiladi?
+protsessor, xotira, mantiq
+protsessor, mantiq, OZU 
+protsessor, OZU , shina
+protsessor, shina, analog-raqamli o’zgartirgich
+Markaziy protsessor nima?
+tizimni boshqarishning yeng asosiy elementlaridan biri.
+ma’lumotlarni boshqarishning yeng asosiy elementlaridan biri.
+Tizim bo’laklarining yeng asosiy elementlaridan biri
+kengeshittirish tamoqlarining yeng asosiy elementlaridan biri
+Markaziy protsessor nimaga yo’naltirilgan
+boshqaruvga
+tizimning ma’lim elementlariga ruxsatni ta’minlashga
+hisoblashlarni samaradorligini ta’minlashga
+uzluksiz ta’minotni ta’minlashga
+Protsessor yadrosi qanday sxema asosida qurilishi kerak?
+triggerlar bazasida qilingna saqlovchi yacheykalarga asoslangan  statik sxema asosida 
+j-k triggerlari bazasida qilingan saqlovchi yacheykalarga asoslangan statik sxema asosida
+R-S triggerlari bazasida qilingan saqlovchi yacheykalarga asoslangan statik sxema asosida
+T triggeri bazasida qilingan saqlovchi yacheykalarga asoslangan statik sxema asosida
+Ta’minotni boshqarish tizimi nima?
+harqanday elektr sxema asosi
+zaxirani ta’minlash
+uzluksizlikni ta’minlash
+barcha javoblar to’g’ri
+Ta’minot yoqilgandan so’ng platada qanday jarayonlar ro’y beradi?
+o’tish jarayonlari
+statistik jarayonlar
+dinamik jarayonlar
+ma’lumot uzatish jarayonlari
+Ta’minotni boshqarish tizimi t ishlash jarayonida nimani tekshiradi?
+ta’minot zanjiridagi kuchlanish darajasini
+butun tizimdagi kuchanish darajasini
+chastota bo’laklaridagi kuchlanish darajasini
+demodulyator kuchlanish darajasini
+Nima sababdan katta hajmdagi operativ xotira va flesh xotira kontrollerga bog’lanadi?
+platadagi mikrosxemalar sonini kamaytirish uchun
+samaradorlikni oshirish va mikrokontroller ishlashini stabillashtirish uchun 
+bajarilayotgan topshiriqlar sonini oshirish uchun 
+barcha javoblar to’g’ri
+CHastotani fazaviy avtosozlash nima? 
+avtomatik boshqarish tizimi
+boshqaruvni nazorat qilish tizimi
+ta’minotni nazorat qilish tizmi
+xavfsizlikni nazorat qilish tizimi
+Energiya iste’molini kamaytirish zaruriy vositalari nima?
+Ayni vaqtda ishlamayotga bloklarni o’chirish
+ta’minotni muntazamlashtirish
+energiya sarfini boshqarish tizimlarini soddalshtirish
+elektr ta’minotidagi sarfni kamaytirish
+O’rnatilgan Flash-xotira vazifasi nima?
+dasturlarni  va nisbatan katta hajmdagi ma’lumotlarni saqlash
+har qnday kerakli ma’lumotni saqlash
+ma’lumotlarni saqlash va tizimni boshqarish
+klient-server tizimini tashkil qiluish
+O’rnatilgan energiyaga bog’liq bo’lmagan konfiguratsion xotira nimaga mo’ljallangan?
+nisabatan katta bo’lmagan axborotlarni saqlash
+katta hajmdagi axborotlarni saqlash
+katta va kichik hajmdagi axborotlarni saqlash
+barcha javoblar to’g’ri
+Vaqt nazoratchisi nima?
+tizim muvaffaqqiyatsizliklariga qarshi himoya tizimi
+Ruxsatsiz kirishlardan himoya tizimi
+fizik tahdidlardan himoya tizmi
+DOS-hujumlardan himoya tizimi
+CAN (Control area network)
+sanoat tarmoqlari texnologiyasi
+lokal hisoblash tarmoqlari texnologiyasi
+kengeishittirish termolari texnologiyasi
+global ma’lumot uzatish texnologiyasi
+LCD Controller maqsadi nima?
+segment displeylari bilan ishlashni soddalashtirish uchun mo’ljallangan
+tizimni boshqarish bilan ishlash uchun mo’ljallangan
+sanoat tarmoqlari bilan ishlashni soddalashtirish uchun mo’ljallangan
+MBBT bilan ishlash uchun mo’ljallangan
+Hisoblash modeli bu-
+hisoblash tizimlari elementlari o’rtasidagi qoidalar to’plami
+arifmetik logik tizim elementlari o’rtasidagi qoidalar to’plami
+dinamik tizimlar yordamida hiosblash elementlari o’rtasidagi qoidalar to’plami
+barcha javoblar to’g’ri
+dastlabki dasturni natija beruvchi dasturga shu hisoblash modeli doirasida tarjima qiluvchi Translyator bu-…
+kompilyator
+interpretator
+tester
+debugger
+C tilidan foydalanish davomida yuzaga keladigan asosiy muammolardan biri (ortiqchasini tanlang)
+Meros olishdagi noaniq xulq-atvor
+Mavjud bo’lmagan massiv elementiga murojaat
+Ko’rsatkichlar bilan bog’liq bo’lgan xatoliklar
+Initsializatsiya qilinmagan avtomatik o’zgaruvchilar
+Konstantali massiv operativ xotiraga ko’chirilmasiligi uchun qaysi kalit so’zdan foydalanish kerak (C tilida)
+const
+var
+temp
+nonv
+22 soni 2lik sanoq tizimida qanday ifodalanadi?
+10110
+10111
+11110
+110
+Qaysi kengaytmalar C tilining mikrokontrollerlar uchun nostandart kengaytmaslariga kirmaydi
+GPU yadrosini ishga tushiruvchi spetsifikatorlari
+overlay lar
+absolyut adreslash
+semafora
+«void *» tipidagi ifodalardan foydalanish uchun qaysi operatr ishlatilishi kerak
+goto
+move
+call
+override
+Qaysi kalit so’z ifoda tipini nomlash uchun ishlatiladi?
+typedef
+typeof
+define
+struct
+C51 kompilyatori qaysi ma’lumot tipini qo’llab quvvatlamaydi?
+string
+sbit
+enum
+sfr16
+Resurslarni taqsimlash va birgalikda ishlashini ta’minlashni boshqarish mexanizmi, bu-
+overlay
+patok
+semafora
+absolyut adreslash
+Tashqi murojaatlarga ruxsat yetilmagan mashina tilidagi dastur, bu-
+obekt moduli
+komponovshik
+moc-fayl
+plagin
+Obekt faylda qaysi qism bo’lmaydi
+sarlavha qismi
+ma’lumot
+bajariluvchi kod
+e’lon qilinmagan ma’lumotlar
+Qaysi maxsus format WindowsNT va yeskiroq OT kutubxonalarida foydalaniladi
+Portable Executable
+Intel HEX
+Common Objective File Format
+Executable and Linkable Format
+Taqsimlangan kutubxonalardagi qaysi format faqat xotira obrazini saqlashga xizmat qiladi
+Intel HEX
+Portable Executable
+Common Objective File Format
+Executable and Linkable Format
+HEX fayl qatorlari qanday nomlanadi?
+zapis
+stek
+qator
+xatboshi
+Qaysi bazaviy operatsiyalar C tilidagi fayllarda amal qilmaydi?
+Nusxalash
+O’qish
+Yaratish
+Yozish
+Eng mos javobni tanlang. "xatolikni topishga yordam beruvchi instrumental vosita, bu-"
+interpretator
+otladchik
+simulyator
+chegarali o’qish mexanizmi
+Dastur ishlashini baxolash – bu …
+Profilirovanie
+Otladka
+Testirovanie
+Kompilyatsiya
+Berilgan vazifalar uchu tizmni tekshirish  – bu … 
+Testlash
+Sayqallash
+Qo’llab quvvatlash
+Yaratish
+Vaqtinchalik harakterga yega bo’lgan defekt - bu..
+muvaffaqiyatsizlik( Sboy)
+rad yetish(Otkaz)
+vaqtinchalik tahlil
+tahlil
+Xatolikni topishga urinish, dasturni testlash uchun bajarish - bu
+verifikatsiya
+validatsiya
+simulyatsiya
+emulyatsiya
+Qaysi vosita oddiy dasturlash uchun testlash imkonini beradi?
+simulyator
+instrumental mashina
+JTAG
+Iqlimli o’rnatish
+"Muloqot oynasidagi testlash afzalliklari:  "(ortiqchasini belgilang)
+test natijalariga ta’sir qiluvchi inson omili mavjudligi
+amalga oshirish uchun qulaylik
+arzon narxlarda amalga oshirish
+moslashuvchan yechimlar
+Arduino asosan qaysi dasturlash tiliga asoslangan?
+C/C++,Wiring
+Python,Java
+Assembler
+Visual Basic
+Arduino da izoh yozish uchun qaysi blokdan foydalaniladi?
+//
+*
+#
+/**/
+Arduinoda kutubxonalardan foydalanish to‘g‘ri berilgan qatorni aniqlang.
+#include …
+#decide …
+#liblary…
+#lib…
+LED lampalarida uchun mos qatorni aniqlang
+Uzun tomoni anod va u plyusga
+Uzun tomoni katod va u minusga
+Qisqa tomoni katod va u plyusga
+Qisqa tomoni anod va u plyusga
+Arduino da pinlar bilan ishlash operatorini ko‘rsating.
+PinMode()
+DigitalPin
+ReadlnPin
+DigitalWrite()
+Void setup() protsedurasi … bajaradi
+Bir martalik jarayonni
+Doimiy jarayonni
+Tasodiy jarayonni
+Protsedura xech narsa bajarmaydi
+Potensiometrda nechta oyoqchalari mavjud?
+3
+4
+5
+6
+Anolog signallarni o‘qib olish uchun qaysi funksiya ishlatamiz?
+AnalogRead()
+AnalogPrint
+ScanAnalog()
+AnalogWrite()
+Qaysi qatorni noto‘g‘ri kod yozilgan.(Arduino)
+If(a=1):DigitalWrite(5,HIGH);
+If(a==1) push=8;
+if (a>500) digitalWrite(4,HIGH)
+digitalRead(13)
+Konstantali massiv operativ xotiraga ko‘chirilmasiligi uchun qaysi kalit so‘zdan foydalanish kerak (C tilida)
+const
+var
+temp
+nonv
+22 soni 2lik sanoq tizimida qanday ifodalanadi?
+10110
+10111
+11110
+110
+Qarshilikni asosiy birligni nima?
+Om
+Amper
+farad
+Rg
+Delay buyrug‘ida vaqt qanday hisoblanadi.
+millisekund
+mikrosekund
+soniyalar
+mikrodaqiqalar
+5 sekundlik pauza hosil qilish uchun to‘g‘ri javobni tanlang
+Delay(5000)
+Delay=5
+delay(500)
+delay(5/60)
+Arduino UNO da nechta GND pinlari mavjud
+3 ta
+2 ta
+4 ta
+2 ta
+Arduino UNO ning taktik chastotasi qancha?
+16KHz
+8KHz
+10KHz
+22,5KHz
+Arduino UNO da necha turli pinlar bor?
+7
+4
+2
+3
+Arduino UNO da Anolog pinlar soni nechta?
+6
+5
+4
+3
+Knopka bilan ishlaganda unda nechta oyoqchalari bor
+4
+2
+3
+7
+Void loop() protsedurasi … bajaradi
+Doimiy jarayonni
+Tasodiy jarayonni
+Protsedura xech narsa bajarmaydi
+Bir martalik jarayonni
+Dasturiy ta`minоt quyidagi bo'limlardan ibоrat
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt
+tizimli dasturiy ta`minоt
+asоs dasturiy ta minоt
+Amaliy dasturiy ta`minоt …..
+ma`lum  ish  jоyida aniq masalalarni yechishga yordam beradigan dastur
+qurilmalarni ishlatuvchi
+hisоblash tizimini nazоrat qiluvchi
+stastikani оlib beradi
+Tizimli dasturiy taminоt nechtaga bo'linadi
+3
+4
+5
+2
+Drayverlar bu shunday dasturlarki ……
+tashqi qurilmalar o'rtasida ma`lumоt almashish amallarni bajarish uchun mоslashtirilgan maxsus dasturlar
+bоshqaruvchi deb ataluvchi dasturlar
+tashqi qurilmalarni nazоrat qiluvchi dastrular
+kuzatuvchi dasturlar
+Dastur …..
+buyruqlarning tartiblangan ketma-ketligi
+buyruqlar to'plami
+qurilmalar
+mashina kоdi
+Tizimli dasturiy ta`minоt bu …..
+kоmpyuter  tizimining dasturlari va bevоsita apparat ta`minоti  bilan o'zarо  bоglanishini ta`minlaydi
+kоmpyuter qurilmalarini ishlashini ta`minlaydi
+amaliy masalalarni yechimini ta`minlaydi
+kоmpyuter  ishini nazоrat qiladi
+Tizimli dasturiy taminоt bo'limlari qaysi javobda to'gri ko'rsatilgan
+оperatsiоn tizim,  servis tizim,  instrumental qurilmalar
+оperatsiоn tizim, servis tizim, uchkunaviy qurilmalar
+оperatsiоn tizim, utilitalar, instrumenlat qurilmalar
+оperatsiоn tizim, servis tizim, utilitalar
+Dastur versiyasi bu …..
+printsip jihatidan yangi funktsiya qo'shilgan, ma`lumоtlar o'zgacha tashkil etilan, fоydalanuvchi bilan mulоqоtning yangi usuli qo'llanadigan dastur
+kichik xatоlari tuzatilgan dastur, kichik o'zgarishlar kiritilgan dastur
+funktsiyalari jixatidan yangidan tuzilgan dastur
+bоshqa apparat platfоrmaga mo'ljallangan dastur
+Tizimli  dasturiy  ta'minоt bu  …..
+оperatsiоn tizim va drayverlar, utilitalar
+mikrоsxemaga tikilgan  datsurlar
+utilitalar
+analizatоrlar
+Amaliy dasturiy ta`minоt  bu ….
+aniq sоxa masalalarini yechishni ta`minlоvchi dasturlardir
+interfeysni ta`minlоvchi dasturlar
+tizimni sоzlоvchi dasturlar
+tizimga xizmat qiluvchi dasturlar
+Kоrrektоr bu…..
+ixtiyoriy matn, xujjat va hisоbоtlarda imlо qоidalarini tekshirishni ta`minlоvchi dasturlar
+grafik rejimda ishlоvchi dastur
+interfeys yaratib beruvchi vоsita
+bir tildan ikkinchi tilga tarjima qiluvchi tizim
+Оperatsiоn tizim bu ….
+tizimli dasturiy ta`minоtga kiradi
+xizmatchi dasturiy ta`minоtga kiradi
+amaliy dasturiy ta`minоtga kiradi
+asоs dasturiy ta`minоtga kiradi
+Temir yoki mis sim ichida elektr zaryadlangan zarrachalarning harakati nima deb ataladi
+Elektr toki
+Zaryad
+Diod
+Electron lampa
+Tok kuchini o‘lchash qanday amalga oshiriladi
+elektr simidan bir sekundda qancha elektr zaryadlarini yoki elektronlar sonini o‘tishini sanash orqali amalga oshiriladi
+elektr simidan bir sekunddagi elektr zaryadlarining kvadratlari soni sanash orqali amalga oshiriladi
+Elektr kuchini o`lchash nazariy jihatdan mumkin emas
+Elektron zarralarning Om qonuniga asoslangan holda kvadratga ko`tarish orqali
+Sxemalarni yig’ishda biz qanday tokdan foydalanamiz.
+O’zgarmas tok
+O’zgaruvchan tok
+Adaptivniy 
+integratsionniy
+O‘zgaruvchan tok –
+Bu vaqt bo‘yicha davriy o‘zgaradi
+Bu vaqt bo‘yicha davriy o‘zgarmaydi
+Ampilituda boyicha ozgarmas
+Doimo bir tarafga oqadi.
+Kuchlanishni o‘lchov birligi
+Volt
+Amper
+Om
+Res
+Elektr toki o`lchov birligi
+Amper 
+Volt
+Om
+Res
+Elektr quvvati o`lchov birligi
+Watt
+Volt
+Amper
+Om
+Chastotaning o‘lchov birligi sifatida
+Hertz
+Watt
+Nyuton
+M/s
+Qarshilik … 
+bu komponent zanjirdagi tokni kamaytiradi
+elektr lampochkasi kabidir
+qutubi mavjud va uni teskari ulansa u holda u yoqilmaydi
+Tokni almashtiradi
+Termoqarshiliklar-…
+Bu qarshiliklarning solishtirma qarshiligi haroratga chiziqli shaklda bog‘liq
+Bu qarshiliklarning solishtirma qarshiligi haroratga bog‘liq emas
+Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq
+Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq emas
+Fotoqarshiliklar - …
+Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq
+Bu qarshiliklarning solishtirma qarshiligi haroratga bog‘liq emas
+Bu qarshiliklarning solishtirma qarshiligi haroratga chiziqli shaklda bog‘liq
+Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq emas
+Tovushni hosil qilishning elektroakustik qurilmasi
+pezonurlatgichlar
+Mikrafon
+Ovoz kuchaytirgich
+qarshiliklar
+Elektr yordamida boshqariluvchi mexanik o‘chirib/yoquvchi nima deyiladi
+Rele
+potonsiometr
+Qarshilik
+kuchlanish
+Arduino IDE da shart amalini hosil qiluvchi operatorni belgilang
+If,else
+For
+Int
+float
+Arduino IDE da sikl amalini hosil qiluvchi operatorni belgilang
+For
+If,else
+Int
+Float
+Arduino Uno platasi qaysi mikrokontroller asosiga qurilgan.
+Atmega328
+Atmega156
+Atmega127
+intel
+Arduino Mega platasi qaysi mikrokontroller asosiga qurilgan.
+Atmega2560
+Atmega554
+Atmega127
+Intel
+Arduino Uno platasi ishchi kuchlanishi qanday.
+5V
+3V
+9V
+12V
+Led lampani yoqish uchun qaysi buyruqni ishlatiladi.
+DigitalWrite
+DigitalRead
+AnalogRead
+Cout
+Analog ma’lumotlarni o`qib olish uchun qaysi buyruq ishlatiladi.
+AnalogRead
+AnalogWrite
+DigitalRead
+DigitalWrite
+Raqamli ma’lumotlarni o`qib olish uchun qaysi buyruq ishlatiladi?
+DigitalRead
+DigitalWrite
+AnalogWrite
+Cout
+Mantiqiy ma`lumot turini belgilang
+Boolen
+Int
+Float
+Double
+Ketma-ket monitorga ma`lumotlarni chiqarish buyrug‘i
+Serial.println()
+Readln()
+Median()
+Written()
+Led lampalarni manbaga ulash uchun nechta oyoqchlari mavjud
+2
+3
+4
+5
+Arduino platasida katod qaysi razyomga ulanadi
+GND
+VCC
+Rx
+Tx
+…………. universal qurilma bo‘lib, amalda har doim alohida qurilma sifatida ishlatilmaydi, balkim ancha murakkab qurilmalar tarkibida  qo‘llaniladi, shu jumladan kontrollerlar tarkibida ham.
+Mikrokontroller
+Datchik
+Indikator
+Tog’ri javob yo’q
+……………. odatda qandaydir alohida masalani yechishga yoki ularga yaqin  masalalar guruhini yechish uchun yaratiladi
+Kontroller
+Datchik
+Indikator
+Tog’ri javob yo’q
+………….da bajariladigan dasturlar doimiy xotirada saqlanadi va o’zgarmaydi
+Mikrokontroller 
+Doimiy xotira
+Arifmetik mantiqiy qurilma
+Indikator
+Mikroprotsessorli tizmlarda tashqi qurilmalar bilan aloqani ta’minlaydigan qurilma qanday?
+Kiritish-chiqarish
+RAM
+Arifmetik mantiqiy qurilma
+Kesh xotira
+Mikroprotsessorli tizimning barcha qurilmalari umumiy …………… orqali birlashtiriladi.
+Tizimli shina(tizimli magistral,kanal)
+Manzil shinasi
+Axborotlar shinasi
+Boshqarish shinasi
+………… ayni shu vaqtda protsessor axborot almashadigan qurilma manzilini  aniqlash uchun hizmat qiladi.
+Manzil shinasi 
+Tizimli shina(tizimli magistral,kanal)
+Axborotlar shinasi
+Boshqarish shinasi
+………….. bu asosiy shina bo‘lib, uni mikroprotsessor tizimining barcha qurilmalari o‘rtasida axborot kodlarini uzatish uchun ishlatiladi.
+Axborotlar shinasi
+Manzil shinasi 
+Tizimli shina(tizimli magistral,kanal)
+Boshqarish shinasi
+…………….  alohida boshqarish signallaridan tashkil topgan bo‘ladi.
+Boshqarish shinasi
+Axborotlar shinasi
+Manzil shinasi 
+Tizimli shina(tizimli magistral,kanal)
+……….. axborotni uzatish uchun emas, tizimni elektr energiyasi  bilan taminlash uchun mo‘ljallangandir.
+Manba shinasi 
+Boshqarish shinasi
+Axborotlar shinasi
+Tizim shinasi
+Mikroprotsessor nechta asosiy blokdan tashkil topgan?
+2
+3
+4
+5
+Mikroprotsessor ikkita asosiy blokdan tashkil topgan: ular …………
+boshqaruvchi va operatsion.
+RAM va ROM
+Mikrokontoller va controller
+Mikroprotsessor va protsessor
+…………….– mahsuslashtirilgan protsessorlar, grafiklarni aks ettirish (vizualizatsiya) uchun talab qilinadigan  hisoblashlarni  bajarishga  mo‘ljallab loyihalashtirilgan
+Grafik protsessorlar (GPU)
+Mikroprotsessor
+Mikrokontroller
+To’gri javob yo’q
+……..vazifasi, tizimlihotiradagi axborotni vaqtincha saqlash uchun ya’ni uning maqsadi saqlangan axborotga ega bo‘lishni osonlashtirish hamda protsessor bilan tizimli hotira o‘rtasidagi axborot almashuv vaqtini tejashdan iborat.
+Kesh xotira
+Doimiy xotira 
+Dasturlash xotirasi
+To’g’ri javob yo’q
+Elektr tokini bir tarafga o‘tkazuvchi va teskari taraftga o‘tkazmaydigan element bu nima?
+Diod
+Qarshilik
+Resistor
+reostat
+Diod qutblari nechata
+2
+3
+4
+1
+Diod qutblarini belgilang.
+Anod,katod
+Anod,uniod
+Biod,katod
+Katod,anod,biod
+Uncha katta bo‘lmagan nazoratchi tok yordamida asosiy tok oqimini boshqarish xususiyatli komponent nima deb ataladi?
+Transistor
+Uditor
+Monitor
+reostat
+Qarshilikni topish formulasi
+R=U/I
+R=U*I
+R=U/I2
+R=R+U/R
+Mikrokontrollerlar odatda necha voltda ishlaydi
+5V
+9V
+2V
+20V
+Tabiatda signallar  qanday bo`ladi
+Analog
+Raqamli
+Diskret
+Signallar mavjud emas
+Signallarning asosiy turlari keltirilgan qatorni toping 
+Analog raqamli
+Raqamli
+Diskret
+kvantlangan
+Tovush to‘lqinlarining mexanik energiyasini elektr energiyasiga o‘zgartiradigan qurilma
+Mikrafon
+Kalonka
+Kuchaytirgich
+qarshilik
+Komponent signallarni qoshish qurilmasi
+Summator
+Konvertor
+Sindikator
+indikator
+Bluetooth ishlashining ikkita asosiy holatini sanab o'ting.
+Kutish holati, ulanish holati
+Kutish holati, boshqaruv
+Boshqaruv, ulanish holati
+To’g’ri javob yo’q
+USB nima?
+bu tizimni o'zaro ulash uchun ketma-ket bog’langan shinalar to’plami
+bu malumotlarni boshqarish tizimi
+boshqaruv paneli
+signallarga raqamli ishlov beruvchi qurilma
+RTOS nima?
+bu javob vaqti va hodisalar bilan boshqariladigan jarayon uchun ko'p vazifali operatsion tizim bo'lib, uni hal qilish uchun real vaqtda dasturlash hisoblanadi.
+Kutish vaqtini muammo bilan bog’laydigan operatsion tizim
+Real vaqtda ishlay olmaydigan dastur
+To’g’ri javob yo’q
+Multitaskingga to’g’ri ta’rif brilgan qatorni toping.
+protsessorni bir nechta vazifalar o'rtasida rejalashtirish va almashtirish jarayoni. Bitta protsessor o'z e'tiborini bir nechta ketma-ket vazifalar o'rtasida almashtiradi.
+Masalalarni tog’riligini tekshiruvchi dasturlar to’plami
+Ma’lumotlar bazasi bilan ishlaydigan dastur
+Tizim komponentasi bo’lib 
+O‘rnatilgan tizimlarda qo‘llaniladigan protsessorlar nomlari keltirilgan qatorni ko‘rsating
+Barcha javoblar to’g’ri
+Texas instruments
+Tiger SHARC
+Analog devices
+Quyidagilarning qaysi biri protsessorni tanlashda e'tiborga olinadigan muhim parametrlardan biri hisoblanadi
+Barchasi to’g’ri
+Buyruqlar to’plami
+Chastotasi
+Protsessor qobiliyati
+O‘rnatilgan tizimlarning apparat qismlari qaysi qatorda to’g’ri ko’rsatilgan?
+Quvvat manbai, Taymerlar, LCD va LED displeylar
+LCD va LED displeylar,I2C,RS232
+RS232,RS485
+RTOS,QNX
+O'rnatilgan tizimlarda xotiraning qanday turlari mavjud?
+barcha javoblar to’g’ri
+Operativ xotira
+EEPROM
+Kesh xotira
+Ma'lumotlar xotirasi nima?
+Dastur bajarilayotganda o'zgaruvchi va dastur stekini saqlash uchun ushbu turdagi xotiradan foydalaniladi
+dastur kodini saqlash mumkin bo’lgan xotira.
+Bu boshqa joylarga tegmasdan kirish mumkin bo'lgan xotira joyidir
+To’g’ri javob yo’q
+Xotira funktsiyalari qaysi qatorda to’g’ri ta’rif berilgan.
+Barcha javoblar to’g’ri
+dasturiy ta'minotni saqlash uchun
+Dastur o'zgaruvchilari va oraliq natijalarni saqlash uchun
+Axborotni saqlash uchun ishlatiladi
+802.3 standartining fizik qatlami bajaradigan funksiya qaysi qatorda to’g’ri berilgan?
+Ma'lumotlarni kodlash/dekodlash (Sinxronizatsiya va signalni vosita orqali samarali uzatishni osonlashtirish uchun).
+Ma’lumotlarni o’g’irlash uchun
+Manbadan uzish uchun
+Tizim ishini to’xtatish uchun
+Hisoblash modeli nima?
+Ob'ektlar to'plamini, ushbu ob'ektlarni yaratish qoidalarini va tuzilgan ob'ektning bajarilishi semantikasini taqdim etish orqali tizimning harakatini tavsiflovchi model.
+Manbaga ulanishni tekshirish modeli
+Ma’lumotlar bazasini boshqarish modeli
+Relatsion modellar tarkibiga kiruvchi tizimosti modeli
+Amaliy pog‘ona, qurilmalar pog‘onasi hamda operatsion tizimlar o‘rtasidagi aloqani hosil qiluvchi oraliq dasturiy ta’minot nima deb ataladi?
+Qurilma drayveri
+Amaliy dasturlar
+Tizimli dasturiy
+Filtr dasturlar
+Samaradorlikni kompyuter tizimlarining nechta pog’onasida amalga oshirish mumkin?
+2
+4
+5
+7
+Kompyuter tizimlari pog`onalarini ko`rsating.
+Apparat va dasturiy
+Tizimli va amaliy
+Dasturiy va tizimli
+Drayverlar,utilitalar
+Samaradorlikni oshirishning qonunlari to`g`ri keltirilgan qatorni belgilang.
+Amdal,Gustafson
+Amdal,Nyuton
+Gustafson,Klepeyron
+Philips,Adamar
+O‘rnatilgan tizim arxitekturasini yaratish asosan nechta pog‘onadan tashkil topgan.
+6
+5
+4
+3
+O‘rnatilgan tizim arxitekturasini yaratish asosan pog‘onalarini belgilang.
+1 – pog‘ona. Qat’iy texnik asosga ega bo‘lish.2 – pog‘ona. Arxitekturani ish(ishlash) siklani tushunish.3 – pog‘ona. Arxitekturaviy namanalar modelini aniqlash.4 – pog‘ona. Arxitekturaviy struktura(tuzilishni) yaratib olish.5 – pog‘ona. Arxitekturani xujjatlashtirish. 6 – pog‘ona. Arxitekturani tahlil qilish va baholash.
+1 – pog‘ona. Qat’iy texnik asosga ega bo‘lish.2 – pog‘ona. Arxitekturaviy namanalar modelini aniqlash.3 – pog‘ona. Arxitekturani ish(ishlash) siklani tushunish.4 – pog‘ona. Arxitekturaviy struktura(tuzilishni) yaratib olish.5 – pog‘ona. Arxitekturani xujjatlashtirish. 6 – pog‘ona. Arxitekturani tahlil qilish va baholash.
+1 – pog‘ona. Qat’iy texnik asosga ega bo‘lish.2 – pog‘ona. Arxitekturani ish(ishlash) siklani tushunish.3 – pog‘ona. Arxitekturaviy struktura(tuzilishni) yaratib.4 – pog‘ona. olish Arxitekturaviy namanalar modelini aniqlash.5 – pog‘ona. Arxitekturani xujjatlashtirish. 6 – pog‘ona. Arxitekturani tahlil qilish va baholash.
+To`gri javob yo`q
+OSI modeli nechta pog’onadan iborat
+7
+4
+6
+5
+OSI modelining 2-chi po`gonasi nima deb ataladi?
+kanal
+Fizik 
+Amaliy
+seans

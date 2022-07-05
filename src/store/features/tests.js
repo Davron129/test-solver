@@ -2,7 +2,8 @@ import { createSlice } from "@reduxjs/toolkit";
 // const tests = require('../../utils/test.json')
 // const macro = require('../../utils/macroeconomics.json')
 // const econometrika = require('../../utils/econometrika.json')
-const legalcase = require('../../utils/legalcase.json')
+// const legalcase = require('../../utils/legalcase.json')
+const otizimlar = require('../../utils/otizimlar.json')
 
 const getRandAnswers = (answers) => {
     const result = []
@@ -41,7 +42,7 @@ const getRandomOrder = (arr) => {
 }
 
 const initialState = {
-    data: getRandomOrder(legalcase),
+    data: getRandomOrder(otizimlar),
     finishedCount: 0,
 }
 

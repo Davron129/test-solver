@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-fs.readFile('legalcase.txt', 'utf-8', (err, data) => {
+fs.readFile('otizimlar.txt', 'utf-8', (err, data) => {
     if(err) {
         console.log(err)
         return 
@@ -34,7 +34,7 @@ fs.readFile('legalcase.txt', 'utf-8', (err, data) => {
         result.push(obj)
     }
 
-    fs.writeFile('legalcase.json', JSON.stringify(result, null, 2), (err) => {
+    fs.writeFile('otizimlar.json', JSON.stringify(result, null, 2), (err) => {
         console.log(JSON.stringify(result, null, 2))
         if(err) {
             console.log(err)

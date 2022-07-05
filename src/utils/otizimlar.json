@@ -1,0 +1,4202 @@
+[
+  {
+    "question": "O’rnatilgan tizimlar apparat tashkil etuvchilari personal yoki superkompyuterlarga nisbatan ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ko’proq cheklangan"
+      },
+      {
+        "isTrue": false,
+        "answer": "ko’proq cheklanmagan"
+      },
+      {
+        "isTrue": false,
+        "answer": "nisbatan quvvatilroq"
+      },
+      {
+        "isTrue": false,
+        "answer": "juda tezroq"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar dasturiy tashkil etuvchilari personal yoki superkompyuterlarga nisbatan ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ko’proq cheklangan"
+      },
+      {
+        "isTrue": false,
+        "answer": "nisbatan quvvatilroq"
+      },
+      {
+        "isTrue": false,
+        "answer": "ko’proq cheklanmagan"
+      },
+      {
+        "isTrue": false,
+        "answer": "juda tezroq"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar ... bajarish uchun loyihalashtiriladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tayinlangan funktsiyalarni "
+      },
+      {
+        "isTrue": false,
+        "answer": "tayinlanmagan funktsiyalarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "ixtiyoriy vazifalarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "umumiy vazifalarni"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizim namunasini ko’rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "smartfon"
+      },
+      {
+        "isTrue": false,
+        "answer": "noutbuk"
+      },
+      {
+        "isTrue": false,
+        "answer": "netbuk"
+      },
+      {
+        "isTrue": false,
+        "answer": "personal kompyuter"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar bu kompyuter tizimlari bo’lib, boshqa kompyuter turlariga nisbatan ...  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yaxshi sifat va ishonchlikni talab etadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’rtacha sifat va ishonchlikni talab etadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "yomon sifat va ishonchlikni talab etadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qisman ishonchlilikni talab etadi"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlarni loyihalashninig sharsharali modeli, ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari keyingisi uchun kiruvchi hisoblanadi "
+      },
+      {
+        "isTrue": false,
+        "answer": "bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari keyingisi uchun kiruvchi bo’lib hisoblanmaydi "
+      },
+      {
+        "isTrue": false,
+        "answer": "bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari oldingisi uchun kiruvchi bo’lib hisoblanmaydi "
+      },
+      {
+        "isTrue": false,
+        "answer": "bunda tizimlarni ishlab chiqish bosqichida bir oqim natijalari hech nimaga ta’sir qilmaydi"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlarni loyihalash modellari",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sharshara, spiral"
+      },
+      {
+        "isTrue": false,
+        "answer": "spiaral, prujina"
+      },
+      {
+        "isTrue": false,
+        "answer": "sharshara, chuqqi"
+      },
+      {
+        "isTrue": false,
+        "answer": "spiral, struktura"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlarni loyihalashtirish va ishlab chiqish jarayonlarini to’g’ri bosqichlarini ko’rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "arxitekturasini yaratish, arxitekturasini bajarish, tizimni testlash, tizimni qullab quvvatlash."
+      },
+      {
+        "isTrue": false,
+        "answer": "arxitekturasini yaratish, arxitekturasini bajarish, tizimni qullab quvvatlash."
+      },
+      {
+        "isTrue": false,
+        "answer": "arxitekturasini yaratish, arxitekturasini bajarish, tizimni testlash."
+      },
+      {
+        "isTrue": false,
+        "answer": "arxitekturasini yaratish, arxitekturasini bajarish, tizimni testlash, testlash tizimni qullab quvvatlash."
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlarni loyihalashtirish nechta bosqichdan iborat.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "6"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlarni \"arxitekturasini yaratish\" bosqichlari nechta pog’onadan iborat",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "6"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlarni \"arxitekturasini yaratish\" bosqichi to’g’ri ko’rsatilgan pog’onasini ko’rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kuchli texnik asos(1), arxitekturali biznes tsiklni tushunish(2), arxitekturali namuna va modellarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish (5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6)."
+      },
+      {
+        "isTrue": false,
+        "answer": "kuchli texnik asos(1), biznes tsikl bozorini tushunish(2), arxitekturali namuna va modellarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish (5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6)."
+      },
+      {
+        "isTrue": false,
+        "answer": "kuchli texnik asos(1), arxitekturali biznes tsiklni tushunish(2), sotuvchi va yetqazib beruvchilarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish(5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6)."
+      },
+      {
+        "isTrue": false,
+        "answer": "kuchli texnik asos(1), arxitekturali biznes tsiklni tushunish(2), arxitekturali namuna va modellarni aniqlash(3), arxitekturali tuzulishni aniqlash(4), arxtekturni xujjatlashtirish(5), arxitekturani tahlil qilish va sotish(6)."
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar \"arxitekturasni yaratish\" bosqichi to’g’ri pog’onalarini ko’rsating. arxitekturali biznes tsiklni tushunish(1), kuchli texnik asos(2), arxtekturni xujjatlashtirish(3), arxitekturali tuzulishni aniqlash(4),  arxitekturali namuna va modellarni aniqlash(5), arxitekturni tahlil qilish va qayta ko’rib chiqish(6)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2,1,5,4,3,6"
+      },
+      {
+        "isTrue": false,
+        "answer": "1,2,3,4,5,6"
+      },
+      {
+        "isTrue": false,
+        "answer": "1,2,5,4,3,6"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,1,5,4,6,3"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar arxitekturasi - bu …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "axborotni mayda qismlarga bo’lingan holda bajarilishini ko’rsatmaydigan, o’rnatilgan qurilmalar abstraktsiyasidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "axborotni mayda qismlarga bo’lingan holda bajarilishini ko’rsatadigan, o’rnatilgan qurilmalar abstraktsiyasidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "dasturiy vositani mayda qismlarga bo’lingan holda bajarilishini ko’rsatadigan, o’rnatilgan qurilmalar abstraktsisidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "dasturiy komplekslar yig’indisidir"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar modeli nechta qatlamlardan tashkil topgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "6"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar mumkin bo’lgan modellari to’g’ri ketma-ketligida sanang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Application Software Layer, System Software Layer, Hardware Layer"
+      },
+      {
+        "isTrue": false,
+        "answer": "Application Software Layer, Hardware Layer"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’rnatilgan tizimlar modeli mavjud emas."
+      },
+      {
+        "isTrue": false,
+        "answer": "Applied software Layer, Implementing Software Layer, Finding hardware Layer"
+      }
+    ]
+  },
+  {
+    "question": "Real vaqt o’rnatilgan tizimi - …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "hodisalarga reaktsiyasi vaqt bilan kafolatlangan hisoblash tizimi."
+      },
+      {
+        "isTrue": false,
+        "answer": "o’rnatilgan tizimlar ichidagi hisoblash tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu o’rnatilgan operatsion tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu tizimli dasturiy ta’minot"
+      }
+    ]
+  },
+  {
+    "question": "Real vaqt tizimlari nechta guruhlari mavjud?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "question": "To’g’ri ko’rsatilgan real vaqt tizimlarini ko’rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yumshoq(qat’iy bo’lmagan) real vaqt tizimlari, qattiq(qat’iy) real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "qattiq real vaqt tizimlari, qat’iy real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "yumshoq real vaqt tizimlari, mustaqil real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "mustaqil real vaqt tizimlari, mustaqil bo’lmagan real vaqt tizimlar"
+      }
+    ]
+  },
+  {
+    "question": "\"Real vaqt tizimi ishi maqsadi munosabatiga ko’ra real vaqt talablariga rioya etish katastrofik xisoblanmaydi\" so’z qaysi real vaqt tizimlari haqida borayapti?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yumshoq(qat’iy bo’lmagan) real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "qattiq real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "mustahkam real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "mustaqil real vaqt tizimlari"
+      }
+    ]
+  },
+  {
+    "question": "\"Real vaqt talablariga rioya etmaslik tizim maqsadli funktsiyasini bajarilmasligiga olib keladi\" so’z qaysi real vaqt tizimlari haqida borayapti?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "qattiq(qat’iy) real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "yumshoq real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "mustaqil real vaqt tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "mustahkam real vaqt tizimlari"
+      }
+    ]
+  },
+  {
+    "question": "Axborot-boshqaruv tizimi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "odatda boshqaruv ob’ekti deb nomlanuvchi ba’zi bir real ob’ektlarni boshqaruv yoki nazorat raqamli tizimidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "tizimga ruxsatni boshqaruvchi raqamli tizimdir"
+      },
+      {
+        "isTrue": false,
+        "answer": "ba’zi bir real ob’ektlar holatini boshqarish va nazorat qilish jarayoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "ba’zi bir real ob’ektlarni xotira holatini boshqaruv va nazorat raqamli tizimidir."
+      }
+    ]
+  },
+  {
+    "question": "Axborot-boshqaruv tizimiga kiruvchi axborot nima orqali yetkaziladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "datchik"
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor"
+      },
+      {
+        "isTrue": false,
+        "answer": "xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "operativ xotira"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizim va real vaqt tizimi sinonimmi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yo’q"
+      },
+      {
+        "isTrue": false,
+        "answer": "ha"
+      },
+      {
+        "isTrue": false,
+        "answer": "ba’zan"
+      },
+      {
+        "isTrue": false,
+        "answer": "qachondir"
+      }
+    ]
+  },
+  {
+    "question": "Nima real vaqt tizimlari uchun talab qilinmaydi ?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "boshqaruvchi tashkil qiluvchilar"
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor"
+      },
+      {
+        "isTrue": false,
+        "answer": "opertiv xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor va operativ xotira"
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilardan qaysi biri real vaqt tizmida ishlaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "aviabiletlarni rezerv qilish tizmlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha xisoblash tizmlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "mobil xisoblash tizimlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "smartfonlar"
+      }
+    ]
+  },
+  {
+    "question": "Axborot-boshqaruv tizmlarini qurishning nechta varianti bor?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "question": "Yo’naltirilgan axborot-boshqaruv tizimlari - bu…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "obektni boshqairsh bevosita yaqin qurilgan, aloqasi to’g’ri konstruksiyalangan, jamlangan qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "bo’laklarga bo’lingan va bir-biri bilan aloqa kanallari oraqli bog’langan bir nechta qurilmalar."
+      },
+      {
+        "isTrue": false,
+        "answer": "obektni boshqairsh uchun to’g’ridan-to’g’ri  qurilgan, aloqasi konstruksiyalanganmagan, jamlangan qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "bo’laklarga bo’lingan va bir-biri bilan aloqa kanallari oraqli bog’lanmagan bir nechta qurilmalar."
+      }
+    ]
+  },
+  {
+    "question": "Axborot-boshqaruv tizimi bo’linishi  - …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bir nechta qurilmalarga bo’linishi, bir-birdan uzoqda joylashib, aloqa kanallari orqali bog’lanishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir nechta qurilmalarga bo’linishi, bir-birdan uzoqda joylashib, aloqa kanallari orqali bog’lanmasligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "obektni boshqairsh bevosita yaqin qurilgan, aloqasi to’g’ri konstruksiyalangan, jamlangan qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "obektni boshqairsh uchun to’g’ridan-to’g’ri  qurilgan, aloqasi konstruksiyalanganmagan, jamlangan qurilmalar"
+      }
+    ]
+  },
+  {
+    "question": "Axborot-boshqaruv tizimi aparat va daturiy elementlari tarkibi:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kiritish/chiqarish qurilmasi, obektlarni biriktirish qurilmasi, hisoblash bloki, tarmoq bloki, kontroller, tizimli dasturiy ta’minot, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot"
+      },
+      {
+        "isTrue": false,
+        "answer": "kiritis/chiqarish qurilmasi, ta’minot bloki, isoblash bloki, tarmoq bloki, kontroller, tizimli dasturiy ta’minot, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqaruv qurilmasi, ta’minot bloki, isoblash bloki, tarmoq bloki, kontroller, tizimli dasturiy ta’minot, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqaruv qurilmasi, ta’minot bloki, isoblash bloki, tarmoq bloki, kontroller, instrumental dasturiy ta’minot, amaliy dasturiy ta’minot"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan hisoblash tizimi (embedded system) – …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "aniqlangan funksiyalar jamlanmasini bajaruvchi ixtisoslashtirilgan axborot-boshqaruv tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ixtisoslashtirilmagan axborot-boshqaruv tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "aniqlangan funksiyalar jamlanmasini bajaruvchi ixtisoslashtirilmagan axborot-boshqaruv tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "aniqlanmagan funksiyalar jamlanmasini bajaruvchi ixtisoslashtirilmagan axborot-boshqaruv tizimi"
+      }
+    ]
+  },
+  {
+    "question": "Har qanday hisoblash tizimini o’zida o’rnatilga tizim deb hisoblash mumkin, qaysindaki…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "shaxsiy kompyuter emas, portativ yoki undan kattaroq universal kompyuterda"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsiy kompyuter, portativ yoki undan kattaroq universal kompyuterda"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsiy kompyuter, portativ kompyuter yemas balki undan kattaroq universal kompyuterda"
+      },
+      {
+        "isTrue": false,
+        "answer": "shaxsiy , portativ kompyuterda lekin undan kattaroq universal kompyuterda yemas"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimlangan o’rnatilgan tizimi - …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu maydon jihatidan taqsimlangan o’rnatilgan tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu maydon jihatidan taqsimlanmagan o’rnatilgan tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimlanmagan o’rnatilgan tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu taqsimlanmagan o’rnatilgan tizim"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimlangan o’rnatilgan tizimlar qanday xarakterga ega?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "komponentalar orasida aloqaning kuchsizligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "obektlar orasida aloqaning mavjudligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tarmoq komponentalari orasidagi aloqning kuchsizligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tarmoq komponentalari orasidagi aloqning mavjudligi"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan hisoblash tizimlarinig o’ziga xos xususiyatini belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "katta bo’lmagan aparat resurslari; real vaqt shkalasi; yuqori ishonchlilik va xavfsizlik talablariga rioya qilish;"
+      },
+      {
+        "isTrue": false,
+        "answer": "katta bo’lmagan aparat resurslari; real vaqt shkalasi; yerganomika talablariga rioya qilish;"
+      },
+      {
+        "isTrue": false,
+        "answer": "katta  aparat resurslari; real vaqt shkalasi; yuqori ishonchlilik va xavfsizlik talablariga rioya qilish;"
+      },
+      {
+        "isTrue": false,
+        "answer": "katta  aparat resurslari; real bo’lmagan vaqt shkalasi; yuqori ishonchlilik va xavfsizlik talablariga rioya qilish;"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan tizimlar barpo qilingan asosiy komponentani ko’rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kontrollerlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "operativ xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "kesh xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqaruv qurilmasi"
+      }
+    ]
+  },
+  {
+    "question": "Kontroller quyidagilarni boshqarishi mumkin-…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "fuksional bloklar va kompyuter tashqi qurilmalarini"
+      },
+      {
+        "isTrue": false,
+        "answer": "funksional bloklar va o’zini"
+      },
+      {
+        "isTrue": false,
+        "answer": "oz’ini va komp. tashqi qurilmalarini"
+      },
+      {
+        "isTrue": false,
+        "answer": "funksional bloklar, tashqi qurilmalar va inson omilini"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimlangan axborot-boshqaruv tizimlarida kontrollerlar…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kontrollerlar tizimida birlashtiriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "kontrollerlar tzimida birlashtirilmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "hech qanday vazifa bajarmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qandaydir vazifa bajaradi"
+      }
+    ]
+  },
+  {
+    "question": "Sanoat va bortovoy kontrollerlarga qo’yiladigan talablar?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ishonchli va xavfsiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "resurslar bilan"
+      },
+      {
+        "isTrue": false,
+        "answer": "texik savollar bilan tashkillashtirilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "hech qanday talab qo’yilmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Bajarilish joyiga qarab kontroller turlari?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "integrallashgan sanoat, instrumental, bort kontrollerlar, mikrokontrollerlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoat, instrumental, bort kontrollerlar,  aerokosmik mikrokontrollerlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoat, instrumental, bort kontrollerlar,  avtomobil mikrokontrollerlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoat, instrumental, bort kontrollerlar, uchish aparatlari kontrollerlari, mikrokontrollerlar"
+      }
+    ]
+  },
+  {
+    "question": "Kontroller dasturlanishi darajasi bo’yicha quyidagilarga bo’linadi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "mantiqiy dasturlashtiriladigan, daturlashtiriladigan, maxsuslashtirilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "mantiqiy dasturlashtiriladigan, daturlashtirilmaydigan, maxsuslashtirilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "mantiqiy dasturlashtiriladigan, daturlashtirilmaydigan, maxsuslashtirilmaydigan"
+      },
+      {
+        "isTrue": false,
+        "answer": "mantiqiy dasturlashtiriladigan, dasturlashtiriladigan, umumiy"
+      }
+    ]
+  },
+  {
+    "question": "Kontrollerlarni bevosita dasturlash mumkinmi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yo’q, apparat resurslar kamligi uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "ha, apparat resurslar ko’pligi uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "yo’q, dasturiy vositaar kamligi uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "ha, dasturiy vositalar ko’pligi uchun"
+      }
+    ]
+  },
+  {
+    "question": "CHipdagi tizim (System on a Chip, SoS) - ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "umuman olganda bir chipdagi integrallashgan protsessorli tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "umuman olganda bir chipdagi integrallashgan kontrollerli tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "umuman olganda bir chipdagi integrallashgan boshqaruv qurilmali tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "umuman olganda bir chipdagi integrallashgan xotira modulli tizim"
+      }
+    ]
+  },
+  {
+    "question": "DVB (Digital Video Broadcasting) nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Java ga asoslangan raqamli TV ni loyihalashda qo’llaniladigan standart"
+      },
+      {
+        "isTrue": false,
+        "answer": "Java ga asoslangan ma’lumotlarni raqamli TV ga uzatishda qo’llaniladigan standart "
+      },
+      {
+        "isTrue": false,
+        "answer": "Java ga asoslangan o’rnatilgan tizimni loyihalashda ishlatiladigan standart"
+      },
+      {
+        "isTrue": false,
+        "answer": "Java ga asoslangan raqamli TV ni baxolashda qo’llaniladigan standart"
+      }
+    ]
+  },
+  {
+    "question": "OCAP (OpenCable Application Forum)  nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "dasturlarni o’tkazish interfeysini qo’llab quvvatlovchi tizimli dasturiy daraja"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlarni o’tkazish interfeysini qo’llab quvvatlovchi tizimli dasturiy daraja "
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlar ochiqliligini ta’minlovchi tizimli dasturiy daraja "
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlarni o’tkazishni ta’minlovchi notizimli dasturiy daraja  "
+      }
+    ]
+  },
+  {
+    "question": "Registr bu - ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ikkilik sanoq sistemasidagi ma’lumotlar (mashina so’zi)ni  vaqtincha saqlovchi yelektron sxema "
+      },
+      {
+        "isTrue": false,
+        "answer": "mashina operatsiyasida qatnashuvchi son yoki simvol"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir necha sodda amallarni buyruqlar bo’yicha bajaruvchi qurilma"
+      },
+      {
+        "isTrue": false,
+        "answer": "bank elektron yacheykasi "
+      }
+    ]
+  },
+  {
+    "question": "Mantiqiy ko’paytirish amalini  … bajaradi ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "VA mantiqiy elementi"
+      },
+      {
+        "isTrue": false,
+        "answer": "YoKI mantiqiy elementi"
+      },
+      {
+        "isTrue": false,
+        "answer": "INKOR mantiqiy elementi"
+      },
+      {
+        "isTrue": false,
+        "answer": "YoKI YeMAS mantiqiy elementi"
+      }
+    ]
+  },
+  {
+    "question": "Energiya uzatuvchi, kanalni ochish yoki yopishga mo’ljallangan qurilma … nomlanadi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Deshifrator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kommutator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kalit elementi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konsentrator"
+      }
+    ]
+  },
+  {
+    "question": "Ikkilik sanoq sistemasidagi sonlarni qo’shish uchun mo’ljallangan qurilma …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Summator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kommutator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Multipleksor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Deshifrator"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi qurilma rejimni o’rnatadi va protsessor boshqarish va rejimini tekshirish uchun foydalanilgan registrlarni tekshiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kiritish/chiqarish kontrolleri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xotirani boshqarish qurilmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tezkor xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qurilmalar drayveri"
+      }
+    ]
+  },
+  {
+    "question": "Bus protocol nechta funksiyani o’z ichiga oladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "10"
+      },
+      {
+        "isTrue": false,
+        "answer": "8"
+      },
+      {
+        "isTrue": false,
+        "answer": "6"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      }
+    ]
+  },
+  {
+    "question": "Qurilma drayverining qanday funksiyasi boshqa aparat ta’minotini dasturiy ta’minot orqali boshqarishga imkon beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hardware Enable"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hardware Startup"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hardware Release"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hardware Acquire"
+      }
+    ]
+  },
+  {
+    "question": "Uzilishlarni qayta ishlash jarayonining qaysi biri qayta ishlashni kodlashtiradi?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Interrupt-Handler Servicing"
+      },
+      {
+        "isTrue": false,
+        "answer": "Interrupt-Handling Startup"
+      },
+      {
+        "isTrue": false,
+        "answer": "Interrupt-Handling Shutdown"
+      },
+      {
+        "isTrue": false,
+        "answer": "Interrupt-Handling Enable"
+      }
+    ]
+  },
+  {
+    "question": "Qanday rejimda bir qancha ma’lumot tiplari aktiv holatda bo’ladi va ishlatiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bandlik holatida"
+      },
+      {
+        "isTrue": false,
+        "answer": "tugallanmagan holatda"
+      },
+      {
+        "isTrue": false,
+        "answer": "aktiv bolmagan holatda"
+      },
+      {
+        "isTrue": false,
+        "answer": "aktiv holatda"
+      }
+    ]
+  },
+  {
+    "question": "Apparat vositalar necha xil rejimda bo’lishi mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "1"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      }
+    ]
+  },
+  {
+    "question": "Qurilma drayverining quyida keltirilgan qaysi funksiyasi dasturiy ta’minotga istisno tarzida boshqa  aparat ta’minotini boshqarishga imkon beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hardware Acquire"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hardware Enable"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hardware Release"
+      },
+      {
+        "isTrue": false,
+        "answer": "Hardware Startup"
+      }
+    ]
+  },
+  {
+    "question": "Apparat ta’minoti va operatsion tizim o’rtasida o’rta pog’onada va dastur po’g’onasida aloqa qiluvchi qurilma qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "qurilma drayveri"
+      },
+      {
+        "isTrue": false,
+        "answer": "kiritish/chiqarish qurilmasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor"
+      },
+      {
+        "isTrue": false,
+        "answer": "modem"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi biri o’rnatilgan tizimning asosiy komponentasi hisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kontrollerlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Shinalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikroprotsessor"
+      },
+      {
+        "isTrue": false,
+        "answer": "mikrokontroller"
+      }
+    ]
+  },
+  {
+    "question": "Kontrollerning asosiy maqsadi nima? ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "real obektlarni boshqarish"
+      },
+      {
+        "isTrue": false,
+        "answer": "uzluksiz ta’monitni ta’minlab berish"
+      },
+      {
+        "isTrue": false,
+        "answer": "aloqa kanallarini boshqarish"
+      },
+      {
+        "isTrue": false,
+        "answer": "simsiz aloqa liniyalarini boshqarish"
+      }
+    ]
+  },
+  {
+    "question": "Kontroller turlari",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ishlab chiqarish kontrollerlari, qurilmalar kontrolleri, bortovoy kontroller, integratsiyalangan bajarilishni boshqarish konrollerlari, dasturlash mantiqiy kontrollerlari, maxsus kontrollerlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "tarmoq kontrolleri, ishlab chiqarish kontrolleri"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlat bazasini boshqarish kontrolleri"
+      },
+      {
+        "isTrue": false,
+        "answer": "intellektual tizimlarni boshqarish kontrolleri"
+      }
+    ]
+  },
+  {
+    "question": "Kontrollerlar qanday xususiyatlarga ega? ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Nisbatan kichik aparat resursi, to’g’ridan-to’g’ri dasturlash imkoniyati yo’qligi, (ko’p hollarda) foydalanuvchi uchun interfeys yo’qligi, o’ziga xos foydalanilishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqarish uchun qulay va funksional interfeysi, real obektlarni boshqarish uchun katta funksional imkoniyati"
+      },
+      {
+        "isTrue": false,
+        "answer": "moslashuvchan, ishonchli, imkoniyat, yaxlitlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to’g’ri"
+      }
+    ]
+  },
+  {
+    "question": "Mikrokontroller bu-",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "mikroprotsessor elementlar bazasida ishlovchi kontroller"
+      },
+      {
+        "isTrue": false,
+        "answer": "analog-raqamli o’zgartiruvchi qurilma"
+      },
+      {
+        "isTrue": false,
+        "answer": "demodulyator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Raqamli-analog o’zgartiruvchi qurilma"
+      }
+    ]
+  },
+  {
+    "question": "Kristaldagi tizim nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "protsessor bilan integrallashgan yagona kristaldagi tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "operativ xotira bilan integrallashgan yaqona kristaldagi tizim "
+      },
+      {
+        "isTrue": false,
+        "answer": "xotira hajmi bilan integrallashgan yagona kristaldagi tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "qattiq disk bilan integrallshgan yagona kristaldagi tizim"
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi qaysi 3 ta tizimli blok  kristaldagi tizimni tashkil qiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "protsessor, xotira, mantiq"
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor, mantiq, OZU "
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor, OZU , shina"
+      },
+      {
+        "isTrue": false,
+        "answer": "protsessor, shina, analog-raqamli o’zgartirgich"
+      }
+    ]
+  },
+  {
+    "question": "Markaziy protsessor nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tizimni boshqarishning yeng asosiy elementlaridan biri."
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlarni boshqarishning yeng asosiy elementlaridan biri."
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizim bo’laklarining yeng asosiy elementlaridan biri"
+      },
+      {
+        "isTrue": false,
+        "answer": "kengeshittirish tamoqlarining yeng asosiy elementlaridan biri"
+      }
+    ]
+  },
+  {
+    "question": "Markaziy protsessor nimaga yo’naltirilgan",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "boshqaruvga"
+      },
+      {
+        "isTrue": false,
+        "answer": "tizimning ma’lim elementlariga ruxsatni ta’minlashga"
+      },
+      {
+        "isTrue": false,
+        "answer": "hisoblashlarni samaradorligini ta’minlashga"
+      },
+      {
+        "isTrue": false,
+        "answer": "uzluksiz ta’minotni ta’minlashga"
+      }
+    ]
+  },
+  {
+    "question": "Protsessor yadrosi qanday sxema asosida qurilishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "triggerlar bazasida qilingna saqlovchi yacheykalarga asoslangan  statik sxema asosida "
+      },
+      {
+        "isTrue": false,
+        "answer": "j-k triggerlari bazasida qilingan saqlovchi yacheykalarga asoslangan statik sxema asosida"
+      },
+      {
+        "isTrue": false,
+        "answer": "R-S triggerlari bazasida qilingan saqlovchi yacheykalarga asoslangan statik sxema asosida"
+      },
+      {
+        "isTrue": false,
+        "answer": "T triggeri bazasida qilingan saqlovchi yacheykalarga asoslangan statik sxema asosida"
+      }
+    ]
+  },
+  {
+    "question": "Ta’minotni boshqarish tizimi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "harqanday elektr sxema asosi"
+      },
+      {
+        "isTrue": false,
+        "answer": "zaxirani ta’minlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "uzluksizlikni ta’minlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to’g’ri"
+      }
+    ]
+  },
+  {
+    "question": "Ta’minot yoqilgandan so’ng platada qanday jarayonlar ro’y beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "o’tish jarayonlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "statistik jarayonlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "dinamik jarayonlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumot uzatish jarayonlari"
+      }
+    ]
+  },
+  {
+    "question": "Ta’minotni boshqarish tizimi t ishlash jarayonida nimani tekshiradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ta’minot zanjiridagi kuchlanish darajasini"
+      },
+      {
+        "isTrue": false,
+        "answer": "butun tizimdagi kuchanish darajasini"
+      },
+      {
+        "isTrue": false,
+        "answer": "chastota bo’laklaridagi kuchlanish darajasini"
+      },
+      {
+        "isTrue": false,
+        "answer": "demodulyator kuchlanish darajasini"
+      }
+    ]
+  },
+  {
+    "question": "Nima sababdan katta hajmdagi operativ xotira va flesh xotira kontrollerga bog’lanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "platadagi mikrosxemalar sonini kamaytirish uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "samaradorlikni oshirish va mikrokontroller ishlashini stabillashtirish uchun "
+      },
+      {
+        "isTrue": false,
+        "answer": "bajarilayotgan topshiriqlar sonini oshirish uchun "
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to’g’ri"
+      }
+    ]
+  },
+  {
+    "question": "CHastotani fazaviy avtosozlash nima? ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "avtomatik boshqarish tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqaruvni nazorat qilish tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ta’minotni nazorat qilish tizmi"
+      },
+      {
+        "isTrue": false,
+        "answer": "xavfsizlikni nazorat qilish tizimi"
+      }
+    ]
+  },
+  {
+    "question": "Energiya iste’molini kamaytirish zaruriy vositalari nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ayni vaqtda ishlamayotga bloklarni o’chirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "ta’minotni muntazamlashtirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "energiya sarfini boshqarish tizimlarini soddalshtirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "elektr ta’minotidagi sarfni kamaytirish"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan Flash-xotira vazifasi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "dasturlarni  va nisbatan katta hajmdagi ma’lumotlarni saqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "har qnday kerakli ma’lumotni saqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlarni saqlash va tizimni boshqarish"
+      },
+      {
+        "isTrue": false,
+        "answer": "klient-server tizimini tashkil qiluish"
+      }
+    ]
+  },
+  {
+    "question": "O’rnatilgan energiyaga bog’liq bo’lmagan konfiguratsion xotira nimaga mo’ljallangan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "nisabatan katta bo’lmagan axborotlarni saqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "katta hajmdagi axborotlarni saqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "katta va kichik hajmdagi axborotlarni saqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to’g’ri"
+      }
+    ]
+  },
+  {
+    "question": "Vaqt nazoratchisi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tizim muvaffaqqiyatsizliklariga qarshi himoya tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ruxsatsiz kirishlardan himoya tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "fizik tahdidlardan himoya tizmi"
+      },
+      {
+        "isTrue": false,
+        "answer": "DOS-hujumlardan himoya tizimi"
+      }
+    ]
+  },
+  {
+    "question": "CAN (Control area network)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sanoat tarmoqlari texnologiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "lokal hisoblash tarmoqlari texnologiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "kengeishittirish termolari texnologiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "global ma’lumot uzatish texnologiyasi"
+      }
+    ]
+  },
+  {
+    "question": "LCD Controller maqsadi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "segment displeylari bilan ishlashni soddalashtirish uchun mo’ljallangan"
+      },
+      {
+        "isTrue": false,
+        "answer": "tizimni boshqarish bilan ishlash uchun mo’ljallangan"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoat tarmoqlari bilan ishlashni soddalashtirish uchun mo’ljallangan"
+      },
+      {
+        "isTrue": false,
+        "answer": "MBBT bilan ishlash uchun mo’ljallangan"
+      }
+    ]
+  },
+  {
+    "question": "Hisoblash modeli bu-",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "hisoblash tizimlari elementlari o’rtasidagi qoidalar to’plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "arifmetik logik tizim elementlari o’rtasidagi qoidalar to’plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "dinamik tizimlar yordamida hiosblash elementlari o’rtasidagi qoidalar to’plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha javoblar to’g’ri"
+      }
+    ]
+  },
+  {
+    "question": "dastlabki dasturni natija beruvchi dasturga shu hisoblash modeli doirasida tarjima qiluvchi Translyator bu-…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kompilyator"
+      },
+      {
+        "isTrue": false,
+        "answer": "interpretator"
+      },
+      {
+        "isTrue": false,
+        "answer": "tester"
+      },
+      {
+        "isTrue": false,
+        "answer": "debugger"
+      }
+    ]
+  },
+  {
+    "question": "C tilidan foydalanish davomida yuzaga keladigan asosiy muammolardan biri (ortiqchasini tanlang)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Meros olishdagi noaniq xulq-atvor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mavjud bo’lmagan massiv elementiga murojaat"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko’rsatkichlar bilan bog’liq bo’lgan xatoliklar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Initsializatsiya qilinmagan avtomatik o’zgaruvchilar"
+      }
+    ]
+  },
+  {
+    "question": "Konstantali massiv operativ xotiraga ko’chirilmasiligi uchun qaysi kalit so’zdan foydalanish kerak (C tilida)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "const"
+      },
+      {
+        "isTrue": false,
+        "answer": "var"
+      },
+      {
+        "isTrue": false,
+        "answer": "temp"
+      },
+      {
+        "isTrue": false,
+        "answer": "nonv"
+      }
+    ]
+  },
+  {
+    "question": "22 soni 2lik sanoq tizimida qanday ifodalanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "10110"
+      },
+      {
+        "isTrue": false,
+        "answer": "10111"
+      },
+      {
+        "isTrue": false,
+        "answer": "11110"
+      },
+      {
+        "isTrue": false,
+        "answer": "110"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi kengaytmalar C tilining mikrokontrollerlar uchun nostandart kengaytmaslariga kirmaydi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "GPU yadrosini ishga tushiruvchi spetsifikatorlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "overlay lar"
+      },
+      {
+        "isTrue": false,
+        "answer": "absolyut adreslash"
+      },
+      {
+        "isTrue": false,
+        "answer": "semafora"
+      }
+    ]
+  },
+  {
+    "question": "«void *» tipidagi ifodalardan foydalanish uchun qaysi operatr ishlatilishi kerak",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "goto"
+      },
+      {
+        "isTrue": false,
+        "answer": "move"
+      },
+      {
+        "isTrue": false,
+        "answer": "call"
+      },
+      {
+        "isTrue": false,
+        "answer": "override"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi kalit so’z ifoda tipini nomlash uchun ishlatiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "typedef"
+      },
+      {
+        "isTrue": false,
+        "answer": "typeof"
+      },
+      {
+        "isTrue": false,
+        "answer": "define"
+      },
+      {
+        "isTrue": false,
+        "answer": "struct"
+      }
+    ]
+  },
+  {
+    "question": "C51 kompilyatori qaysi ma’lumot tipini qo’llab quvvatlamaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "string"
+      },
+      {
+        "isTrue": false,
+        "answer": "sbit"
+      },
+      {
+        "isTrue": false,
+        "answer": "enum"
+      },
+      {
+        "isTrue": false,
+        "answer": "sfr16"
+      }
+    ]
+  },
+  {
+    "question": "Resurslarni taqsimlash va birgalikda ishlashini ta’minlashni boshqarish mexanizmi, bu-",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "overlay"
+      },
+      {
+        "isTrue": false,
+        "answer": "patok"
+      },
+      {
+        "isTrue": false,
+        "answer": "semafora"
+      },
+      {
+        "isTrue": false,
+        "answer": "absolyut adreslash"
+      }
+    ]
+  },
+  {
+    "question": "Tashqi murojaatlarga ruxsat yetilmagan mashina tilidagi dastur, bu-",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "obekt moduli"
+      },
+      {
+        "isTrue": false,
+        "answer": "komponovshik"
+      },
+      {
+        "isTrue": false,
+        "answer": "moc-fayl"
+      },
+      {
+        "isTrue": false,
+        "answer": "plagin"
+      }
+    ]
+  },
+  {
+    "question": "Obekt faylda qaysi qism bo’lmaydi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sarlavha qismi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumot"
+      },
+      {
+        "isTrue": false,
+        "answer": "bajariluvchi kod"
+      },
+      {
+        "isTrue": false,
+        "answer": "e’lon qilinmagan ma’lumotlar"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi maxsus format WindowsNT va yeskiroq OT kutubxonalarida foydalaniladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Portable Executable"
+      },
+      {
+        "isTrue": false,
+        "answer": "Intel HEX"
+      },
+      {
+        "isTrue": false,
+        "answer": "Common Objective File Format"
+      },
+      {
+        "isTrue": false,
+        "answer": "Executable and Linkable Format"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimlangan kutubxonalardagi qaysi format faqat xotira obrazini saqlashga xizmat qiladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Intel HEX"
+      },
+      {
+        "isTrue": false,
+        "answer": "Portable Executable"
+      },
+      {
+        "isTrue": false,
+        "answer": "Common Objective File Format"
+      },
+      {
+        "isTrue": false,
+        "answer": "Executable and Linkable Format"
+      }
+    ]
+  },
+  {
+    "question": "HEX fayl qatorlari qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "zapis"
+      },
+      {
+        "isTrue": false,
+        "answer": "stek"
+      },
+      {
+        "isTrue": false,
+        "answer": "qator"
+      },
+      {
+        "isTrue": false,
+        "answer": "xatboshi"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi bazaviy operatsiyalar C tilidagi fayllarda amal qilmaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Nusxalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "O’qish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yaratish"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yozish"
+      }
+    ]
+  },
+  {
+    "question": "Eng mos javobni tanlang. \"xatolikni topishga yordam beruvchi instrumental vosita, bu-\"",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "interpretator"
+      },
+      {
+        "isTrue": false,
+        "answer": "otladchik"
+      },
+      {
+        "isTrue": false,
+        "answer": "simulyator"
+      },
+      {
+        "isTrue": false,
+        "answer": "chegarali o’qish mexanizmi"
+      }
+    ]
+  },
+  {
+    "question": "Dastur ishlashini baxolash – bu …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Profilirovanie"
+      },
+      {
+        "isTrue": false,
+        "answer": "Otladka"
+      },
+      {
+        "isTrue": false,
+        "answer": "Testirovanie"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kompilyatsiya"
+      }
+    ]
+  },
+  {
+    "question": "Berilgan vazifalar uchu tizmni tekshirish  – bu … ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Testlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sayqallash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qo’llab quvvatlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "Yaratish"
+      }
+    ]
+  },
+  {
+    "question": "Vaqtinchalik harakterga yega bo’lgan defekt - bu..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "muvaffaqiyatsizlik( Sboy)"
+      },
+      {
+        "isTrue": false,
+        "answer": "rad yetish(Otkaz)"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtinchalik tahlil"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil"
+      }
+    ]
+  },
+  {
+    "question": "Xatolikni topishga urinish, dasturni testlash uchun bajarish - bu",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "verifikatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "validatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "simulyatsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "emulyatsiya"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi vosita oddiy dasturlash uchun testlash imkonini beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "simulyator"
+      },
+      {
+        "isTrue": false,
+        "answer": "instrumental mashina"
+      },
+      {
+        "isTrue": false,
+        "answer": "JTAG"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iqlimli o’rnatish"
+      }
+    ]
+  },
+  {
+    "question": "\"Muloqot oynasidagi testlash afzalliklari:  \"(ortiqchasini belgilang)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "test natijalariga ta’sir qiluvchi inson omili mavjudligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "amalga oshirish uchun qulaylik"
+      },
+      {
+        "isTrue": false,
+        "answer": "arzon narxlarda amalga oshirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "moslashuvchan yechimlar"
+      }
+    ]
+  },
+  {
+    "question": "Arduino asosan qaysi dasturlash tiliga asoslangan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "C/C++,Wiring"
+      },
+      {
+        "isTrue": false,
+        "answer": "Python,Java"
+      },
+      {
+        "isTrue": false,
+        "answer": "Assembler"
+      },
+      {
+        "isTrue": false,
+        "answer": "Visual Basic"
+      }
+    ]
+  },
+  {
+    "question": "Arduino da izoh yozish uchun qaysi blokdan foydalaniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "//"
+      },
+      {
+        "isTrue": false,
+        "answer": "*"
+      },
+      {
+        "isTrue": false,
+        "answer": "#"
+      },
+      {
+        "isTrue": false,
+        "answer": "/**/"
+      }
+    ]
+  },
+  {
+    "question": "Arduinoda kutubxonalardan foydalanish to‘g‘ri berilgan qatorni aniqlang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "#include …"
+      },
+      {
+        "isTrue": false,
+        "answer": "#decide …"
+      },
+      {
+        "isTrue": false,
+        "answer": "#liblary…"
+      },
+      {
+        "isTrue": false,
+        "answer": "#lib…"
+      }
+    ]
+  },
+  {
+    "question": "LED lampalarida uchun mos qatorni aniqlang",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Uzun tomoni anod va u plyusga"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzun tomoni katod va u minusga"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qisqa tomoni katod va u plyusga"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qisqa tomoni anod va u plyusga"
+      }
+    ]
+  },
+  {
+    "question": "Arduino da pinlar bilan ishlash operatorini ko‘rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "PinMode()"
+      },
+      {
+        "isTrue": false,
+        "answer": "DigitalPin"
+      },
+      {
+        "isTrue": false,
+        "answer": "ReadlnPin"
+      },
+      {
+        "isTrue": false,
+        "answer": "DigitalWrite()"
+      }
+    ]
+  },
+  {
+    "question": "Void setup() protsedurasi … bajaradi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bir martalik jarayonni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy jarayonni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodiy jarayonni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Protsedura xech narsa bajarmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Potensiometrda nechta oyoqchalari mavjud?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "6"
+      }
+    ]
+  },
+  {
+    "question": "Anolog signallarni o‘qib olish uchun qaysi funksiya ishlatamiz?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "AnalogRead()"
+      },
+      {
+        "isTrue": false,
+        "answer": "AnalogPrint"
+      },
+      {
+        "isTrue": false,
+        "answer": "ScanAnalog()"
+      },
+      {
+        "isTrue": false,
+        "answer": "AnalogWrite()"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi qatorni noto‘g‘ri kod yozilgan.(Arduino)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "If(a=1):DigitalWrite(5,HIGH);"
+      },
+      {
+        "isTrue": false,
+        "answer": "If(a==1) push=8;"
+      },
+      {
+        "isTrue": false,
+        "answer": "if (a>500) digitalWrite(4,HIGH)"
+      },
+      {
+        "isTrue": false,
+        "answer": "digitalRead(13)"
+      }
+    ]
+  },
+  {
+    "question": "Konstantali massiv operativ xotiraga ko‘chirilmasiligi uchun qaysi kalit so‘zdan foydalanish kerak (C tilida)",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "const"
+      },
+      {
+        "isTrue": false,
+        "answer": "var"
+      },
+      {
+        "isTrue": false,
+        "answer": "temp"
+      },
+      {
+        "isTrue": false,
+        "answer": "nonv"
+      }
+    ]
+  },
+  {
+    "question": "22 soni 2lik sanoq tizimida qanday ifodalanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "10110"
+      },
+      {
+        "isTrue": false,
+        "answer": "10111"
+      },
+      {
+        "isTrue": false,
+        "answer": "11110"
+      },
+      {
+        "isTrue": false,
+        "answer": "110"
+      }
+    ]
+  },
+  {
+    "question": "Qarshilikni asosiy birligni nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Om"
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper"
+      },
+      {
+        "isTrue": false,
+        "answer": "farad"
+      },
+      {
+        "isTrue": false,
+        "answer": "Rg"
+      }
+    ]
+  },
+  {
+    "question": "Delay buyrug‘ida vaqt qanday hisoblanadi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "millisekund"
+      },
+      {
+        "isTrue": false,
+        "answer": "mikrosekund"
+      },
+      {
+        "isTrue": false,
+        "answer": "soniyalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "mikrodaqiqalar"
+      }
+    ]
+  },
+  {
+    "question": "5 sekundlik pauza hosil qilish uchun to‘g‘ri javobni tanlang",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Delay(5000)"
+      },
+      {
+        "isTrue": false,
+        "answer": "Delay=5"
+      },
+      {
+        "isTrue": false,
+        "answer": "delay(500)"
+      },
+      {
+        "isTrue": false,
+        "answer": "delay(5/60)"
+      }
+    ]
+  },
+  {
+    "question": "Arduino UNO da nechta GND pinlari mavjud",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "3 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "4 ta"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 ta"
+      }
+    ]
+  },
+  {
+    "question": "Arduino UNO ning taktik chastotasi qancha?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "16KHz"
+      },
+      {
+        "isTrue": false,
+        "answer": "8KHz"
+      },
+      {
+        "isTrue": false,
+        "answer": "10KHz"
+      },
+      {
+        "isTrue": false,
+        "answer": "22,5KHz"
+      }
+    ]
+  },
+  {
+    "question": "Arduino UNO da necha turli pinlar bor?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "7"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "Arduino UNO da Anolog pinlar soni nechta?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "6"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "Knopka bilan ishlaganda unda nechta oyoqchalari bor",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "7"
+      }
+    ]
+  },
+  {
+    "question": "Void loop() protsedurasi … bajaradi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Doimiy jarayonni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodiy jarayonni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Protsedura xech narsa bajarmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir martalik jarayonni"
+      }
+    ]
+  },
+  {
+    "question": "Dasturiy ta`minоt quyidagi bo'limlardan ibоrat",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt"
+      },
+      {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt"
+      },
+      {
+        "isTrue": false,
+        "answer": "tizimli dasturiy ta`minоt"
+      },
+      {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta minоt"
+      }
+    ]
+  },
+  {
+    "question": "Amaliy dasturiy ta`minоt …..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ma`lum  ish  jоyida aniq masalalarni yechishga yordam beradigan dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "qurilmalarni ishlatuvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "hisоblash tizimini nazоrat qiluvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "stastikani оlib beradi"
+      }
+    ]
+  },
+  {
+    "question": "Tizimli dasturiy taminоt nechtaga bo'linadi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "Drayverlar bu shunday dasturlarki ……",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tashqi qurilmalar o'rtasida ma`lumоt almashish amallarni bajarish uchun mоslashtirilgan maxsus dasturlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "bоshqaruvchi deb ataluvchi dasturlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "tashqi qurilmalarni nazоrat qiluvchi dastrular"
+      },
+      {
+        "isTrue": false,
+        "answer": "kuzatuvchi dasturlar"
+      }
+    ]
+  },
+  {
+    "question": "Dastur …..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "buyruqlarning tartiblangan ketma-ketligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "buyruqlar to'plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "mashina kоdi"
+      }
+    ]
+  },
+  {
+    "question": "Tizimli dasturiy ta`minоt bu …..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kоmpyuter  tizimining dasturlari va bevоsita apparat ta`minоti  bilan o'zarо  bоglanishini ta`minlaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "kоmpyuter qurilmalarini ishlashini ta`minlaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "amaliy masalalarni yechimini ta`minlaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "kоmpyuter  ishini nazоrat qiladi"
+      }
+    ]
+  },
+  {
+    "question": "Tizimli dasturiy taminоt bo'limlari qaysi javobda to'gri ko'rsatilgan",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "оperatsiоn tizim,  servis tizim,  instrumental qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "оperatsiоn tizim, servis tizim, uchkunaviy qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "оperatsiоn tizim, utilitalar, instrumenlat qurilmalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "оperatsiоn tizim, servis tizim, utilitalar"
+      }
+    ]
+  },
+  {
+    "question": "Dastur versiyasi bu …..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "printsip jihatidan yangi funktsiya qo'shilgan, ma`lumоtlar o'zgacha tashkil etilan, fоydalanuvchi bilan mulоqоtning yangi usuli qo'llanadigan dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "kichik xatоlari tuzatilgan dastur, kichik o'zgarishlar kiritilgan dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "funktsiyalari jixatidan yangidan tuzilgan dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "bоshqa apparat platfоrmaga mo'ljallangan dastur"
+      }
+    ]
+  },
+  {
+    "question": "Tizimli  dasturiy  ta'minоt bu  …..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "оperatsiоn tizim va drayverlar, utilitalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "mikrоsxemaga tikilgan  datsurlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "utilitalar"
+      },
+      {
+        "isTrue": false,
+        "answer": "analizatоrlar"
+      }
+    ]
+  },
+  {
+    "question": "Amaliy dasturiy ta`minоt  bu ….",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "aniq sоxa masalalarini yechishni ta`minlоvchi dasturlardir"
+      },
+      {
+        "isTrue": false,
+        "answer": "interfeysni ta`minlоvchi dasturlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "tizimni sоzlоvchi dasturlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "tizimga xizmat qiluvchi dasturlar"
+      }
+    ]
+  },
+  {
+    "question": "Kоrrektоr bu…..",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ixtiyoriy matn, xujjat va hisоbоtlarda imlо qоidalarini tekshirishni ta`minlоvchi dasturlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "grafik rejimda ishlоvchi dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "interfeys yaratib beruvchi vоsita"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir tildan ikkinchi tilga tarjima qiluvchi tizim"
+      }
+    ]
+  },
+  {
+    "question": "Оperatsiоn tizim bu ….",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tizimli dasturiy ta`minоtga kiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "xizmatchi dasturiy ta`minоtga kiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "amaliy dasturiy ta`minоtga kiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "asоs dasturiy ta`minоtga kiradi"
+      }
+    ]
+  },
+  {
+    "question": "Temir yoki mis sim ichida elektr zaryadlangan zarrachalarning harakati nima deb ataladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr toki"
+      },
+      {
+        "isTrue": false,
+        "answer": "Zaryad"
+      },
+      {
+        "isTrue": false,
+        "answer": "Diod"
+      },
+      {
+        "isTrue": false,
+        "answer": "Electron lampa"
+      }
+    ]
+  },
+  {
+    "question": "Tok kuchini o‘lchash qanday amalga oshiriladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elektr simidan bir sekundda qancha elektr zaryadlarini yoki elektronlar sonini o‘tishini sanash orqali amalga oshiriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "elektr simidan bir sekunddagi elektr zaryadlarining kvadratlari soni sanash orqali amalga oshiriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr kuchini o`lchash nazariy jihatdan mumkin emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektron zarralarning Om qonuniga asoslangan holda kvadratga ko`tarish orqali"
+      }
+    ]
+  },
+  {
+    "question": "Sxemalarni yig’ishda biz qanday tokdan foydalanamiz.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O’zgarmas tok"
+      },
+      {
+        "isTrue": false,
+        "answer": "O’zgaruvchan tok"
+      },
+      {
+        "isTrue": false,
+        "answer": "Adaptivniy "
+      },
+      {
+        "isTrue": false,
+        "answer": "integratsionniy"
+      }
+    ]
+  },
+  {
+    "question": "O‘zgaruvchan tok –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bu vaqt bo‘yicha davriy o‘zgaradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu vaqt bo‘yicha davriy o‘zgarmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ampilituda boyicha ozgarmas"
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimo bir tarafga oqadi."
+      }
+    ]
+  },
+  {
+    "question": "Kuchlanishni o‘lchov birligi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Volt"
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper"
+      },
+      {
+        "isTrue": false,
+        "answer": "Om"
+      },
+      {
+        "isTrue": false,
+        "answer": "Res"
+      }
+    ]
+  },
+  {
+    "question": "Elektr toki o`lchov birligi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Amper "
+      },
+      {
+        "isTrue": false,
+        "answer": "Volt"
+      },
+      {
+        "isTrue": false,
+        "answer": "Om"
+      },
+      {
+        "isTrue": false,
+        "answer": "Res"
+      }
+    ]
+  },
+  {
+    "question": "Elektr quvvati o`lchov birligi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Watt"
+      },
+      {
+        "isTrue": false,
+        "answer": "Volt"
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper"
+      },
+      {
+        "isTrue": false,
+        "answer": "Om"
+      }
+    ]
+  },
+  {
+    "question": "Chastotaning o‘lchov birligi sifatida",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Hertz"
+      },
+      {
+        "isTrue": false,
+        "answer": "Watt"
+      },
+      {
+        "isTrue": false,
+        "answer": "Nyuton"
+      },
+      {
+        "isTrue": false,
+        "answer": "M/s"
+      }
+    ]
+  },
+  {
+    "question": "Qarshilik … ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu komponent zanjirdagi tokni kamaytiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "elektr lampochkasi kabidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "qutubi mavjud va uni teskari ulansa u holda u yoqilmaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni almashtiradi"
+      }
+    ]
+  },
+  {
+    "question": "Termoqarshiliklar-…",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bu qarshiliklarning solishtirma qarshiligi haroratga chiziqli shaklda bog‘liq"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu qarshiliklarning solishtirma qarshiligi haroratga bog‘liq emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq emas"
+      }
+    ]
+  },
+  {
+    "question": "Fotoqarshiliklar - …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu qarshiliklarning solishtirma qarshiligi haroratga bog‘liq emas"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu qarshiliklarning solishtirma qarshiligi haroratga chiziqli shaklda bog‘liq"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu qarshiliklaning yorug`likka chiziqli shaklda bog’liq emas"
+      }
+    ]
+  },
+  {
+    "question": "Tovushni hosil qilishning elektroakustik qurilmasi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "pezonurlatgichlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikrafon"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ovoz kuchaytirgich"
+      },
+      {
+        "isTrue": false,
+        "answer": "qarshiliklar"
+      }
+    ]
+  },
+  {
+    "question": "Elektr yordamida boshqariluvchi mexanik o‘chirib/yoquvchi nima deyiladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Rele"
+      },
+      {
+        "isTrue": false,
+        "answer": "potonsiometr"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qarshilik"
+      },
+      {
+        "isTrue": false,
+        "answer": "kuchlanish"
+      }
+    ]
+  },
+  {
+    "question": "Arduino IDE da shart amalini hosil qiluvchi operatorni belgilang",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "If,else"
+      },
+      {
+        "isTrue": false,
+        "answer": "For"
+      },
+      {
+        "isTrue": false,
+        "answer": "Int"
+      },
+      {
+        "isTrue": false,
+        "answer": "float"
+      }
+    ]
+  },
+  {
+    "question": "Arduino IDE da sikl amalini hosil qiluvchi operatorni belgilang",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "For"
+      },
+      {
+        "isTrue": false,
+        "answer": "If,else"
+      },
+      {
+        "isTrue": false,
+        "answer": "Int"
+      },
+      {
+        "isTrue": false,
+        "answer": "Float"
+      }
+    ]
+  },
+  {
+    "question": "Arduino Uno platasi qaysi mikrokontroller asosiga qurilgan.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Atmega328"
+      },
+      {
+        "isTrue": false,
+        "answer": "Atmega156"
+      },
+      {
+        "isTrue": false,
+        "answer": "Atmega127"
+      },
+      {
+        "isTrue": false,
+        "answer": "intel"
+      }
+    ]
+  },
+  {
+    "question": "Arduino Mega platasi qaysi mikrokontroller asosiga qurilgan.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Atmega2560"
+      },
+      {
+        "isTrue": false,
+        "answer": "Atmega554"
+      },
+      {
+        "isTrue": false,
+        "answer": "Atmega127"
+      },
+      {
+        "isTrue": false,
+        "answer": "Intel"
+      }
+    ]
+  },
+  {
+    "question": "Arduino Uno platasi ishchi kuchlanishi qanday.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "5V"
+      },
+      {
+        "isTrue": false,
+        "answer": "3V"
+      },
+      {
+        "isTrue": false,
+        "answer": "9V"
+      },
+      {
+        "isTrue": false,
+        "answer": "12V"
+      }
+    ]
+  },
+  {
+    "question": "Led lampani yoqish uchun qaysi buyruqni ishlatiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "DigitalWrite"
+      },
+      {
+        "isTrue": false,
+        "answer": "DigitalRead"
+      },
+      {
+        "isTrue": false,
+        "answer": "AnalogRead"
+      },
+      {
+        "isTrue": false,
+        "answer": "Cout"
+      }
+    ]
+  },
+  {
+    "question": "Analog ma’lumotlarni o`qib olish uchun qaysi buyruq ishlatiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "AnalogRead"
+      },
+      {
+        "isTrue": false,
+        "answer": "AnalogWrite"
+      },
+      {
+        "isTrue": false,
+        "answer": "DigitalRead"
+      },
+      {
+        "isTrue": false,
+        "answer": "DigitalWrite"
+      }
+    ]
+  },
+  {
+    "question": "Raqamli ma’lumotlarni o`qib olish uchun qaysi buyruq ishlatiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "DigitalRead"
+      },
+      {
+        "isTrue": false,
+        "answer": "DigitalWrite"
+      },
+      {
+        "isTrue": false,
+        "answer": "AnalogWrite"
+      },
+      {
+        "isTrue": false,
+        "answer": "Cout"
+      }
+    ]
+  },
+  {
+    "question": "Mantiqiy ma`lumot turini belgilang",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Boolen"
+      },
+      {
+        "isTrue": false,
+        "answer": "Int"
+      },
+      {
+        "isTrue": false,
+        "answer": "Float"
+      },
+      {
+        "isTrue": false,
+        "answer": "Double"
+      }
+    ]
+  },
+  {
+    "question": "Ketma-ket monitorga ma`lumotlarni chiqarish buyrug‘i",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Serial.println()"
+      },
+      {
+        "isTrue": false,
+        "answer": "Readln()"
+      },
+      {
+        "isTrue": false,
+        "answer": "Median()"
+      },
+      {
+        "isTrue": false,
+        "answer": "Written()"
+      }
+    ]
+  },
+  {
+    "question": "Led lampalarni manbaga ulash uchun nechta oyoqchlari mavjud",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "question": "Arduino platasida katod qaysi razyomga ulanadi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "GND"
+      },
+      {
+        "isTrue": false,
+        "answer": "VCC"
+      },
+      {
+        "isTrue": false,
+        "answer": "Rx"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tx"
+      }
+    ]
+  },
+  {
+    "question": "…………. universal qurilma bo‘lib, amalda har doim alohida qurilma sifatida ishlatilmaydi, balkim ancha murakkab qurilmalar tarkibida  qo‘llaniladi, shu jumladan kontrollerlar tarkibida ham.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mikrokontroller"
+      },
+      {
+        "isTrue": false,
+        "answer": "Datchik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Indikator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tog’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "……………. odatda qandaydir alohida masalani yechishga yoki ularga yaqin  masalalar guruhini yechish uchun yaratiladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kontroller"
+      },
+      {
+        "isTrue": false,
+        "answer": "Datchik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Indikator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tog’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "………….da bajariladigan dasturlar doimiy xotirada saqlanadi va o’zgarmaydi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mikrokontroller "
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "Arifmetik mantiqiy qurilma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Indikator"
+      }
+    ]
+  },
+  {
+    "question": "Mikroprotsessorli tizmlarda tashqi qurilmalar bilan aloqani ta’minlaydigan qurilma qanday?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kiritish-chiqarish"
+      },
+      {
+        "isTrue": false,
+        "answer": "RAM"
+      },
+      {
+        "isTrue": false,
+        "answer": "Arifmetik mantiqiy qurilma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kesh xotira"
+      }
+    ]
+  },
+  {
+    "question": "Mikroprotsessorli tizimning barcha qurilmalari umumiy …………… orqali birlashtiriladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tizimli shina(tizimli magistral,kanal)"
+      },
+      {
+        "isTrue": false,
+        "answer": "Manzil shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotlar shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish shinasi"
+      }
+    ]
+  },
+  {
+    "question": "………… ayni shu vaqtda protsessor axborot almashadigan qurilma manzilini  aniqlash uchun hizmat qiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Manzil shinasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizimli shina(tizimli magistral,kanal)"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotlar shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish shinasi"
+      }
+    ]
+  },
+  {
+    "question": "………….. bu asosiy shina bo‘lib, uni mikroprotsessor tizimining barcha qurilmalari o‘rtasida axborot kodlarini uzatish uchun ishlatiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Axborotlar shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Manzil shinasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizimli shina(tizimli magistral,kanal)"
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish shinasi"
+      }
+    ]
+  },
+  {
+    "question": "…………….  alohida boshqarish signallaridan tashkil topgan bo‘ladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Boshqarish shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotlar shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Manzil shinasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizimli shina(tizimli magistral,kanal)"
+      }
+    ]
+  },
+  {
+    "question": "……….. axborotni uzatish uchun emas, tizimni elektr energiyasi  bilan taminlash uchun mo‘ljallangandir.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Manba shinasi "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotlar shinasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizim shinasi"
+      }
+    ]
+  },
+  {
+    "question": "Mikroprotsessor nechta asosiy blokdan tashkil topgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "question": "Mikroprotsessor ikkita asosiy blokdan tashkil topgan: ular …………",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "boshqaruvchi va operatsion."
+      },
+      {
+        "isTrue": false,
+        "answer": "RAM va ROM"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikrokontoller va controller"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikroprotsessor va protsessor"
+      }
+    ]
+  },
+  {
+    "question": "…………….– mahsuslashtirilgan protsessorlar, grafiklarni aks ettirish (vizualizatsiya) uchun talab qilinadigan  hisoblashlarni  bajarishga  mo‘ljallab loyihalashtirilgan",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Grafik protsessorlar (GPU)"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikroprotsessor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikrokontroller"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’gri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "……..vazifasi, tizimlihotiradagi axborotni vaqtincha saqlash uchun ya’ni uning maqsadi saqlangan axborotga ega bo‘lishni osonlashtirish hamda protsessor bilan tizimli hotira o‘rtasidagi axborot almashuv vaqtini tejashdan iborat.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kesh xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy xotira "
+      },
+      {
+        "isTrue": false,
+        "answer": "Dasturlash xotirasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "Elektr tokini bir tarafga o‘tkazuvchi va teskari taraftga o‘tkazmaydigan element bu nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Diod"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qarshilik"
+      },
+      {
+        "isTrue": false,
+        "answer": "Resistor"
+      },
+      {
+        "isTrue": false,
+        "answer": "reostat"
+      }
+    ]
+  },
+  {
+    "question": "Diod qutblari nechata",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "Diod qutblarini belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Anod,katod"
+      },
+      {
+        "isTrue": false,
+        "answer": "Anod,uniod"
+      },
+      {
+        "isTrue": false,
+        "answer": "Biod,katod"
+      },
+      {
+        "isTrue": false,
+        "answer": "Katod,anod,biod"
+      }
+    ]
+  },
+  {
+    "question": "Uncha katta bo‘lmagan nazoratchi tok yordamida asosiy tok oqimini boshqarish xususiyatli komponent nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Transistor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uditor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Monitor"
+      },
+      {
+        "isTrue": false,
+        "answer": "reostat"
+      }
+    ]
+  },
+  {
+    "question": "Qarshilikni topish formulasi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "R=U/I"
+      },
+      {
+        "isTrue": false,
+        "answer": "R=U*I"
+      },
+      {
+        "isTrue": false,
+        "answer": "R=U/I2"
+      },
+      {
+        "isTrue": false,
+        "answer": "R=R+U/R"
+      }
+    ]
+  },
+  {
+    "question": "Mikrokontrollerlar odatda necha voltda ishlaydi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "5V"
+      },
+      {
+        "isTrue": false,
+        "answer": "9V"
+      },
+      {
+        "isTrue": false,
+        "answer": "2V"
+      },
+      {
+        "isTrue": false,
+        "answer": "20V"
+      }
+    ]
+  },
+  {
+    "question": "Tabiatda signallar  qanday bo`ladi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Analog"
+      },
+      {
+        "isTrue": false,
+        "answer": "Raqamli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Diskret"
+      },
+      {
+        "isTrue": false,
+        "answer": "Signallar mavjud emas"
+      }
+    ]
+  },
+  {
+    "question": "Signallarning asosiy turlari keltirilgan qatorni toping ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Analog raqamli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Raqamli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Diskret"
+      },
+      {
+        "isTrue": false,
+        "answer": "kvantlangan"
+      }
+    ]
+  },
+  {
+    "question": "Tovush to‘lqinlarining mexanik energiyasini elektr energiyasiga o‘zgartiradigan qurilma",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mikrafon"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kalonka"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchaytirgich"
+      },
+      {
+        "isTrue": false,
+        "answer": "qarshilik"
+      }
+    ]
+  },
+  {
+    "question": "Komponent signallarni qoshish qurilmasi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Summator"
+      },
+      {
+        "isTrue": false,
+        "answer": "Konvertor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sindikator"
+      },
+      {
+        "isTrue": false,
+        "answer": "indikator"
+      }
+    ]
+  },
+  {
+    "question": "Bluetooth ishlashining ikkita asosiy holatini sanab o'ting.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kutish holati, ulanish holati"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kutish holati, boshqaruv"
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqaruv, ulanish holati"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "USB nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu tizimni o'zaro ulash uchun ketma-ket bog’langan shinalar to’plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu malumotlarni boshqarish tizimi"
+      },
+      {
+        "isTrue": false,
+        "answer": "boshqaruv paneli"
+      },
+      {
+        "isTrue": false,
+        "answer": "signallarga raqamli ishlov beruvchi qurilma"
+      }
+    ]
+  },
+  {
+    "question": "RTOS nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu javob vaqti va hodisalar bilan boshqariladigan jarayon uchun ko'p vazifali operatsion tizim bo'lib, uni hal qilish uchun real vaqtda dasturlash hisoblanadi."
+      },
+      {
+        "isTrue": false,
+        "answer": "Kutish vaqtini muammo bilan bog’laydigan operatsion tizim"
+      },
+      {
+        "isTrue": false,
+        "answer": "Real vaqtda ishlay olmaydigan dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "Multitaskingga to’g’ri ta’rif brilgan qatorni toping.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "protsessorni bir nechta vazifalar o'rtasida rejalashtirish va almashtirish jarayoni. Bitta protsessor o'z e'tiborini bir nechta ketma-ket vazifalar o'rtasida almashtiradi."
+      },
+      {
+        "isTrue": false,
+        "answer": "Masalalarni tog’riligini tekshiruvchi dasturlar to’plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ma’lumotlar bazasi bilan ishlaydigan dastur"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizim komponentasi bo’lib "
+      }
+    ]
+  },
+  {
+    "question": "O‘rnatilgan tizimlarda qo‘llaniladigan protsessorlar nomlari keltirilgan qatorni ko‘rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barcha javoblar to’g’ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Texas instruments"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiger SHARC"
+      },
+      {
+        "isTrue": false,
+        "answer": "Analog devices"
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilarning qaysi biri protsessorni tanlashda e'tiborga olinadigan muhim parametrlardan biri hisoblanadi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barchasi to’g’ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Buyruqlar to’plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "Chastotasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Protsessor qobiliyati"
+      }
+    ]
+  },
+  {
+    "question": "O‘rnatilgan tizimlarning apparat qismlari qaysi qatorda to’g’ri ko’rsatilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Quvvat manbai, Taymerlar, LCD va LED displeylar"
+      },
+      {
+        "isTrue": false,
+        "answer": "LCD va LED displeylar,I2C,RS232"
+      },
+      {
+        "isTrue": false,
+        "answer": "RS232,RS485"
+      },
+      {
+        "isTrue": false,
+        "answer": "RTOS,QNX"
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlarda xotiraning qanday turlari mavjud?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha javoblar to’g’ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Operativ xotira"
+      },
+      {
+        "isTrue": false,
+        "answer": "EEPROM"
+      },
+      {
+        "isTrue": false,
+        "answer": "Kesh xotira"
+      }
+    ]
+  },
+  {
+    "question": "Ma'lumotlar xotirasi nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dastur bajarilayotganda o'zgaruvchi va dastur stekini saqlash uchun ushbu turdagi xotiradan foydalaniladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "dastur kodini saqlash mumkin bo’lgan xotira."
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu boshqa joylarga tegmasdan kirish mumkin bo'lgan xotira joyidir"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri javob yo’q"
+      }
+    ]
+  },
+  {
+    "question": "Xotira funktsiyalari qaysi qatorda to’g’ri ta’rif berilgan.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barcha javoblar to’g’ri"
+      },
+      {
+        "isTrue": false,
+        "answer": "dasturiy ta'minotni saqlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dastur o'zgaruvchilari va oraliq natijalarni saqlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Axborotni saqlash uchun ishlatiladi"
+      }
+    ]
+  },
+  {
+    "question": "802.3 standartining fizik qatlami bajaradigan funksiya qaysi qatorda to’g’ri berilgan?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ma'lumotlarni kodlash/dekodlash (Sinxronizatsiya va signalni vosita orqali samarali uzatishni osonlashtirish uchun)."
+      },
+      {
+        "isTrue": false,
+        "answer": "Ma’lumotlarni o’g’irlash uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Manbadan uzish uchun"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizim ishini to’xtatish uchun"
+      }
+    ]
+  },
+  {
+    "question": "Hisoblash modeli nima?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ob'ektlar to'plamini, ushbu ob'ektlarni yaratish qoidalarini va tuzilgan ob'ektning bajarilishi semantikasini taqdim etish orqali tizimning harakatini tavsiflovchi model."
+      },
+      {
+        "isTrue": false,
+        "answer": "Manbaga ulanishni tekshirish modeli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ma’lumotlar bazasini boshqarish modeli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Relatsion modellar tarkibiga kiruvchi tizimosti modeli"
+      }
+    ]
+  },
+  {
+    "question": "Amaliy pog‘ona, qurilmalar pog‘onasi hamda operatsion tizimlar o‘rtasidagi aloqani hosil qiluvchi oraliq dasturiy ta’minot nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Qurilma drayveri"
+      },
+      {
+        "isTrue": false,
+        "answer": "Amaliy dasturlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizimli dasturiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtr dasturlar"
+      }
+    ]
+  },
+  {
+    "question": "Samaradorlikni kompyuter tizimlarining nechta pog’onasida amalga oshirish mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "7"
+      }
+    ]
+  },
+  {
+    "question": "Kompyuter tizimlari pog`onalarini ko`rsating.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Apparat va dasturiy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tizimli va amaliy"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dasturiy va tizimli"
+      },
+      {
+        "isTrue": false,
+        "answer": "Drayverlar,utilitalar"
+      }
+    ]
+  },
+  {
+    "question": "Samaradorlikni oshirishning qonunlari to`g`ri keltirilgan qatorni belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Amdal,Gustafson"
+      },
+      {
+        "isTrue": false,
+        "answer": "Amdal,Nyuton"
+      },
+      {
+        "isTrue": false,
+        "answer": "Gustafson,Klepeyron"
+      },
+      {
+        "isTrue": false,
+        "answer": "Philips,Adamar"
+      }
+    ]
+  },
+  {
+    "question": "O‘rnatilgan tizim arxitekturasini yaratish asosan nechta pog‘onadan tashkil topgan.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "6"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "O‘rnatilgan tizim arxitekturasini yaratish asosan pog‘onalarini belgilang.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1 – pog‘ona. Qat’iy texnik asosga ega bo‘lish.2 – pog‘ona. Arxitekturani ish(ishlash) siklani tushunish.3 – pog‘ona. Arxitekturaviy namanalar modelini aniqlash.4 – pog‘ona. Arxitekturaviy struktura(tuzilishni) yaratib olish.5 – pog‘ona. Arxitekturani xujjatlashtirish. 6 – pog‘ona. Arxitekturani tahlil qilish va baholash."
+      },
+      {
+        "isTrue": false,
+        "answer": "1 – pog‘ona. Qat’iy texnik asosga ega bo‘lish.2 – pog‘ona. Arxitekturaviy namanalar modelini aniqlash.3 – pog‘ona. Arxitekturani ish(ishlash) siklani tushunish.4 – pog‘ona. Arxitekturaviy struktura(tuzilishni) yaratib olish.5 – pog‘ona. Arxitekturani xujjatlashtirish. 6 – pog‘ona. Arxitekturani tahlil qilish va baholash."
+      },
+      {
+        "isTrue": false,
+        "answer": "1 – pog‘ona. Qat’iy texnik asosga ega bo‘lish.2 – pog‘ona. Arxitekturani ish(ishlash) siklani tushunish.3 – pog‘ona. Arxitekturaviy struktura(tuzilishni) yaratib.4 – pog‘ona. olish Arxitekturaviy namanalar modelini aniqlash.5 – pog‘ona. Arxitekturani xujjatlashtirish. 6 – pog‘ona. Arxitekturani tahlil qilish va baholash."
+      },
+      {
+        "isTrue": false,
+        "answer": "To`gri javob yo`q"
+      }
+    ]
+  },
+  {
+    "question": "OSI modeli nechta pog’onadan iborat",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "7"
+      },
+      {
+        "isTrue": false,
+        "answer": "4"
+      },
+      {
+        "isTrue": false,
+        "answer": "6"
+      },
+      {
+        "isTrue": false,
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "question": "OSI modelining 2-chi po`gonasi nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kanal"
+      },
+      {
+        "isTrue": false,
+        "answer": "Fizik "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amaliy"
+      },
+      {
+        "isTrue": false,
+        "answer": "seans"
+      }
+    ]
+  }
+]
