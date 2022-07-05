@@ -1,3 +1,7 @@
+.test__wrapper {
+    min-height: calc(100vh - 50px);
+}
+
 .test__header {
     display: flex;
     width: auto;
