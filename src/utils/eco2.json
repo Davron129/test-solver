@@ -1,0 +1,590 @@
+[
+  {
+    "question": "“Ekonometrika” tushunchasiga qaysi ta’rif mos keladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu iqtisodiy xodisalar va jarayonlar o’zaro bog’liqligining miqdoriy ifodasini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu joy va vaqtning muayyan sharoitida yalpi ijtimoiy-iqtisodiy xodisalar va jarayonlarning miqdoriy tomonini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu tasodifiy xodisalarning umumiy qonuniyatlari va tasodifiy omillarning ta’sirini miqdoriy baxolash usullarini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu iqtisodiyot va matematikaning birlshmasidan hosil bo’lgan fan"
+      }
+    ]
+  },
+  {
+    "question": "Quyida sanab o’tilgan modellar ichidan bir tenglamali regression modelni tanlang? 1) yetkazib berish xajmidan narx modeli; 2) talab va taklif modeli; 3) trend va mavsumiylik modeli; 4) ishlab chiqarish xajmining ishlab chitsarish omillariga bog’liqligi modeli",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1, va 4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 va 4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 va 3"
+      },
+      {
+        "isTrue": false,
+        "answer": "barchasi"
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi qiymatlardan qaysi biri korrelyatsiyaning juft koeffitsiyentini qabul qila olmaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1,111"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0,973"
+      },
+      {
+        "isTrue": false,
+        "answer": "0,005"
+      },
+      {
+        "isTrue": false,
+        "answer": "0,721"
+      }
+    ]
+  },
+  {
+    "question": "Korrelyatsiya chiziqli koeffitsiyentining qaysi qiymatida Y va X omillar o’rtasidagi bog’liqlikni jips (kuchli) deb xisoblash mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,657"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0,975"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0,111"
+      },
+      {
+        "isTrue": false,
+        "answer": "0,421"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya tenglamasi yx = 2,02 ± 0,78x ko’rinishga ega. Agar x o’zining bir o’lchov birligiga oshirilsa, u o’rtacha o’zining qancha o’lchov birligiga o’zgaradi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,78 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,02 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,80 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’zgarmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini qanday koeffitsiyent belgilab beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elastiklik koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "korrelyatsiya koeffitsiyenti"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarishning har bir darajasida doimiy va o'zgaruvchi xarajatlar yig'indisi qanday xarajatlarni tashkil qiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Umumiy xarajatlarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "xususiy xarajatlarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "ob'ektiv xarajatlarni"
+      },
+      {
+        "isTrue": false,
+        "answer": "sub'ektiv xarajatlarni"
+      }
+    ]
+  },
+  {
+    "question": "Ishchi kuchi 12,5 mln. kishini, ishsizlar 1,3 mln. kishini tashkil qilsa, ishsizlik darajasi necha foizni tashkil qiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "10,4 foiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "13,8 foiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "11,2 foiz"
+      },
+      {
+        "isTrue": false,
+        "answer": "9,6 foiz"
+      }
+    ]
+  },
+  {
+    "question": "Baho bilan talab o'rtasida bog'lanish",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Talab qonuni deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Taklif qonuni deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Qiymat qonuni deyiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Elastiklik koyeffitsiyenti qonuni deyiladi"
+      }
+    ]
+  },
+  {
+    "question": "Diskret tasodifiy o'zgaruvchi - ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu alohida, izolyatsiya qilingan qiymatlarni oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Sonli oraliqni to’ldiruvchi qiymatlar to'plami"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot zichligi bilan beriladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot ko'pburchagi bilan beriladi"
+      }
+    ]
+  },
+  {
+    "question": "Diskret tasodifiy miqdor ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "alohida, izolyatsiya qilingan qiymatlarni o'z ichiga oladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "qiymatlar to'plami raqamli bo'shliqni to'ldiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot koʻpburchagi bilan berilgan"
+      },
+      {
+        "isTrue": false,
+        "answer": "taqsimot zichligi bilan beriladi"
+      }
+    ]
+  },
+  {
+    "question": "Statistik munosabat ... .",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasodifiy omillar ta'sirini hisobga olmasdan o'zgaruvchilar munosabati"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarga tegishli aniq formula"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy omillar ta'sirida qo'shiladigan o'zgaruvchilar munosabati"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarning har qanday bog'lanishi"
+      }
+    ]
+  },
+  {
+    "question": "Statistik bogliqlik deb ... aytiladi.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tasodifiy omillar ta'sirini hisobga olmasdan o'zgaruvchilar munosabatiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarga tegishli aniq formula"
+      },
+      {
+        "isTrue": false,
+        "answer": "tasodifiy omillar ta'sirida qo'shiladigan o'zgaruvchilar munosabatiga"
+      },
+      {
+        "isTrue": false,
+        "answer": "o'zgaruvchilarning har qanday bog'lanishiga"
+      }
+    ]
+  },
+  {
+    "question": "Tasodifiy hadning normal taqsimlanishi haqidagi faraz ... uchun zarurdir.",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "regressiya parametrlarining ahamiyatini sinash va ularning intervalini baholash"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsientini hisoblash"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsientining ahamiyatini tekshirish"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya parametrlarini hisoblash"
+      }
+    ]
+  },
+  {
+    "question": "Agar mezonning kuzatilgan qiymati kritik qiymatdan katta bo'lsa, u holda gipoteza ...",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "H0 rad etiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "H1 rad qilinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "H1 qabul qilinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "H0 qabul qilinadi"
+      }
+    ]
+  },
+  {
+    "question": "Umumiy muvozanatlik bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "barcha bozorlarning o‘zaro bir-biriga ta’siri natijasida o‘rnatiladigan muvozanatlik. Barcha bozorlarni muvozanat holatda bo‘lishi. Bunda biror bozorda muvozanatlik buzulsa boshqa bozorlarda ham muvozanatlilik buziladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bozorda taklif miqdorining talab miqdoriga teng bo‘lgan hol"
+      },
+      {
+        "isTrue": false,
+        "answer": "ishlab chiqarishda foydalaniladigan resurslar miqdorini oshirish yoki texnologiyani takomillashtirish orqali jamiyatning ishlab chiqarish imkoniyatlarini kengaytiradi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu shunday to‘liqsiz bog‘lanishki, unda omillarning har bir qiymatiga turli zamon va makon sharoitlarida natijaning har xil qiymatlari mos keladi"
+      }
+    ]
+  },
+  {
+    "question": "Eng kichik kvadratlar usuli –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dinamik qatorlarni tekislash hamda tasodifiy miqdorlar o‘rtasida bog‘lanishning korrelyatsion shaklini aniqlash usulidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy belgiga ta’sir etuvchi omillarning samaradorligini aniqlab beruvchi usul."
+      },
+      {
+        "isTrue": false,
+        "answer": "keyingi darajalar bilan oldingilari o‘rtasidagi yoki haqiqiy darajalari bilan tegishli tekislangan qiymatlari o‘rtasidagi farqlar orasidagi korrelyatsiyadir."
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha o’zgaruvchilar o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      }
+    ]
+  },
+  {
+    "question": "Taqsimot qatorlari bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to‘plam birliklarini ma’lum belgilar asosida guruhlarga (qismlarga) bo‘linishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "to‘plamda kuzatish talab etiladigan elementlardan tuzilgan miqdorlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "qabul qiladigan cheksiz ko‘p qiymatlari sonlar o‘qidagi biror chekli yoki cheksiz oralikni tashkil qiluvchi miqdorlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu hodisani vaqt bo‘yicha o‘zgarishini ko‘rsatuvchi sonlar qatorlari"
+      }
+    ]
+  },
+  {
+    "question": "Sinov natijasida ro‘y berishi yoki ro‘y bermasligi mumkin bo‘lgan har qanday fakt –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tasodifiy hodisa"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tanlanma"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tajriba"
+      }
+    ]
+  },
+  {
+    "question": "Berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Talab"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ehtiyojlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Takliflar"
+      },
+      {
+        "isTrue": false,
+        "answer": "Xaridlar"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bo‘lgan tovarlar miqdori bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Taklif"
+      },
+      {
+        "isTrue": false,
+        "answer": "Talab funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Narx funksiyasi"
+      }
+    ]
+  },
+  {
+    "question": "Ishlab chiqarish funktsiyasi …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "ishlab chiqarilgan mahsulot miqdori bilan shu mahsulotni ishlab chiqarishdagi sarflangan ishlab chiqarish omillari miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik funktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Vaqt davomida ishlab chiqarilgan mahsulot hajmining o’zgarishini ifodalovchi matematik funktsiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish xarajatlarining o’zgarishini ifodalovchi matematik funksiya"
+      },
+      {
+        "isTrue": false,
+        "answer": "taklifga ta’sir qiluvchi omillar miqdori bilan taklif miqdori o‘rtasidagi bog‘liqlikni ifodalovchi matematik formula"
+      }
+    ]
+  },
+  {
+    "question": "Iqtisodiy obyektlarning soddalashtirilgan nusxasi nima deb ataladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iqtisodiy model"
+      },
+      {
+        "isTrue": false,
+        "answer": "Ishlab chiqarish funksiyasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Iqtisodiy jarayoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bozor munosabatlari"
+      }
+    ]
+  },
+  {
+    "question": "Determinatsiya koeffitsienti …",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "natijaviy belgi o‘zgaruvchanligining qaysi qismi X-omil ta’siri ostida vujudga kelishini ko‘rsatadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo‘llaniladigan shartli ko‘rsatkich"
+      },
+      {
+        "isTrue": false,
+        "answer": "Dinamik qatorlardagi o'rtacha qiymatlarni aniqlash uchun ishlatiladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Omillarning o'rtacha kvadrat chetlanishini aniqlash uchun foydalaniladi"
+      }
+    ]
+  },
+  {
+    "question": "Tasodifiy miqdor bu –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sinov natijasida, avvaldan e’tiborga olib bo‘lmaydigan tasodifga bog‘liq holda, o‘zining mumkin bo‘lgan qiymatlaridan birini qabul qiladigan o‘zgaruvchi tushuniladi"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu o‘rganilayotgan to‘plamdan saylab olingan birliklar majmuasidir, ularning har biri ushbu to‘plamning tarkibiy elementidir."
+      },
+      {
+        "isTrue": false,
+        "answer": "sinov natijasida ro‘y berishi yoki ro‘y bermasligi mumkin bo‘lgan har qanday fakt"
+      },
+      {
+        "isTrue": false,
+        "answer": "o‘rganiladigan ko‘p hajmli birliklar majmuasi"
+      }
+    ]
+  },
+  {
+    "question": "To‘plam ko‘rsatkichlarini topishda qatnashadigan hech qanday bog‘lovchi shartlarga ega bo‘lmagan erkin miqdorlar soni –",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Erkinlik darajalar soni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Korrelyatsiya sonining miqdori"
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzluksiz tasodifiy miqdor"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tasodifiy miqdor"
+      }
+    ]
+  },
+  {
+    "question": "Qaysi omil aholi iste'moli va pul jamg'armalari darajasini belgilaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "milliy daromad"
+      },
+      {
+        "isTrue": false,
+        "answer": "soliqlar darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "foiz stavkasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ish haqi"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modellashtirish bosqichlaridan birinchi bosqichni aniqlang:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iqtisodiy jarayon har tomonlama nazariy, sifat jihatdan tahlil qilinadi va uning parametrlari, ichki va tashqi informatsion aloqalar, ishlab chiqarish resurslari, rejalashtirish davri kabi ko'rsatkichlar aniqlanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Bosqichda izlanayotgan noma'lum o'zgaruvchilar nima, qanday maqsadni ko'zda tutadi, natija nimalarga olib keladi kabi savollar aniqlangan bo'lishi kerak"
+      },
+      {
+        "isTrue": false,
+        "answer": "Modellashtirilayotgan jarayonning iqtisodiy-matematik modeli tenglamalari va tengsizliklar tizimi shaklida ifodalanadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "Tuzilgan iqtisodiy-matematik modelning miqdoriy yechimini aniqlaydigan usul tanlanadi"
+      }
+    ]
+  }
+]

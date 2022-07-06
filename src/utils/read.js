@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-fs.readFile('otizimlar.txt', 'utf-8', (err, data) => {
+fs.readFile('econ2.txt', 'utf-8', (err, data) => {
     if(err) {
         console.log(err)
         return 
@@ -8,7 +8,7 @@ fs.readFile('otizimlar.txt', 'utf-8', (err, data) => {
     const dataArr = data.split('\n')
     const result = []
 
-    for(let i = 0; i < 200; i++) {
+    for(let i = 0; i < 28; i++) {
         let obj = {
             "question": dataArr[i*5 + 0],
             "answers": [
@@ -34,7 +34,7 @@ fs.readFile('otizimlar.txt', 'utf-8', (err, data) => {
         result.push(obj)
     }
 
-    fs.writeFile('otizimlar.json', JSON.stringify(result, null, 2), (err) => {
+    fs.writeFile('eco2.json', JSON.stringify(result, null, 2), (err) => {
         console.log(JSON.stringify(result, null, 2))
         if(err) {
             console.log(err)

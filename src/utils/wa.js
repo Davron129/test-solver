@@ -1,5 +1,5 @@
 const fs = require('fs')
-const data = require('./macroeconomics.json')
+const data = require('./econometrika.json')
 
 const result = []
 
@@ -12,7 +12,7 @@ for(let i = 0; i < 200; i++) {
 }
 // navigator.clipboard.write(result)
 
-fs.writeFile('ready.json', JSON.stringify(result), (err) => {
+fs.writeFile('ready.json', JSON.stringify(result, null, 4), (err) => {
     console.log(JSON.stringify(result, null, 2))
     if(err) {
         console.log(err)
