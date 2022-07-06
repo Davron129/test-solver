@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-fs.readFile('econ2.txt', 'utf-8', (err, data) => {
+fs.readFile('base.txt', 'utf-8', (err, data) => {
     if(err) {
         console.log(err)
         return 
@@ -34,7 +34,7 @@ fs.readFile('econ2.txt', 'utf-8', (err, data) => {
         result.push(obj)
     }
 
-    fs.writeFile('eco2.json', JSON.stringify(result, null, 2), (err) => {
+    fs.writeFile('eco3.json', JSON.stringify(result, null, 2), (err) => {
         console.log(JSON.stringify(result, null, 2))
         if(err) {
             console.log(err)

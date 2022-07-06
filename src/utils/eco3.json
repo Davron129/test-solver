@@ -1,0 +1,590 @@
+[
+  {
+    "question": "“Ekonometrika” tushunchasiga qaysi ta’rif mos keladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bu iqtisodiy xodisalar va jarayonlar o’zaro bog’liqligining miqdoriy ifodasini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu joy va vaqtning muayyan sharoitida yalpi ijtimoiy-iqtisodiy xodisalar va jarayonlarning miqdoriy tomonini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu tasodifiy xodisalarning umumiy qonuniyatlari va tasodifiy omillarning ta’sirini miqdoriy baxolash usullarini o’rganuvchi fan"
+      },
+      {
+        "isTrue": false,
+        "answer": "bu iqtisodiyot va matematikaning birlshmasidan hosil bo’lgan fan"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning maqsadi nimadan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "real iqtisodiy ob’ektlarni modellashtirish va miqdoriy taxlil qilish usullarini ishlab chiqish"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy ma’lumotlarni yaqqol ko’rinishda ifodalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "statistik ma’lumotlarni to’plash va guruxlash usullarini belgilash"
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy xodisalarning sifatiy jixatlarini o’rganish"
+      }
+    ]
+  },
+  {
+    "question": "Modelni tasniflash - bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "empirik taxlil qilish maqsadida ekonometrik modellarni tuzish."
+      },
+      {
+        "isTrue": false,
+        "answer": "tadqiqot maqsadini belgilash va iqtisodiy o’zgaruvchi modellarni tanlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelni statistik taxlil qilish va parametrlarining sifatini baxolash"
+      },
+      {
+        "isTrue": false,
+        "answer": "zarur statistik axborotni to’plash"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrikaning qaysi vazifasi modelni parametrlash vazifasi xisoblanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "model parametrlarining va umuman modelning o’zini sifatini tekshirish vazifasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ekonometrik modellashtirish natijalariga ko’ra muayyan iqtisodiy xodisalar uchun prognozni tuzish va tavsiyalarni ishlab chiqish"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelni tuzish parametrlarini baxolash"
+      },
+      {
+        "isTrue": false,
+        "answer": "empirik taxlil qilish uchun ekonometrik modellarni tuzish"
+      }
+    ]
+  },
+  {
+    "question": "Model sifatini aniqlash - bu:",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "model parametrlarining va umuman modelning sifatini tekshirish."
+      },
+      {
+        "isTrue": false,
+        "answer": "iqtisodiy modelning turini aniqlash, uning o’zgaruvchilari o’rtasidagi o’zaro bog’liqlikni matematik shaklda ifodalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "modelning dastlabki shart-sharoitlari va cheklovlarini aniqlash"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’rganilayotgan iqtisodiy xodisalarni taxlil qilish"
+      }
+    ]
+  },
+  {
+    "question": "Quyida sanab o’tilgan modellar ichidan bir tenglamali regression modelni tanlang? 1) yetkazib berish xajmidan narx modeli; 2) talab va taklif modeli; 3) trend va mavsumiylik modeli; 4) ishlab chiqarish xajmining ishlab chitsarish omillariga bog’liqligi modeli",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1, va 4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 va 4"
+      },
+      {
+        "isTrue": false,
+        "answer": "2 va 3"
+      },
+      {
+        "isTrue": false,
+        "answer": "barchasi"
+      }
+    ]
+  },
+  {
+    "question": "Turli obyektlar xaqida bir davr (vaqt) uchun olingan ma’lumotlar to’plami qanday nomlanadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "makonga ko’ra ma’lumotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqtga ko’ra ma’lumotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "davriy ma’lumotlar"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’zgarmas ma’lumotlar"
+      }
+    ]
+  },
+  {
+    "question": "“Mustaqil o’zgaruvchi” tushunchasining o’xshashini tanlang?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "omil."
+      },
+      {
+        "isTrue": false,
+        "answer": "endogen o’zgaruvchi"
+      },
+      {
+        "isTrue": false,
+        "answer": "natija"
+      },
+      {
+        "isTrue": false,
+        "answer": "ekzogen o’zgaruvchi"
+      }
+    ]
+  },
+  {
+    "question": "Ovqatlanish xarajatlari umumiy miqdorining tasarrufdagi shaxsiy daromadga (x) va oziq-ovqat maxsulotlarining narxiga (r) bog’liqligi modelini ko’rib chiqing: u=a0+a1x+a2r+s. Model sinfini va modelning o’zgaruvchilari turini aniqlang?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bir tenglamali regression model; endogen o’zgaruvchi - ovqatlanish xarajatlari, ekzogen o’zgaruvchi - tasarrufdagi shaxsiy daromad va oziq-ovqat maxsulotlarining narxlari"
+      },
+      {
+        "isTrue": false,
+        "answer": "bir tenglamali regression model; endogen o’zgaruvchi - ovqatlanish xarajatlari, ekzogen o’zgaruvchi - tasarrufdagi shaxsiy daromad, oldindan belgilangan o’zgaruvchi - oziq-ovqat maxsulotlarining narxi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori modeli; endogen o’zgaruvchi - ovqatlanish xarajatlari, lag o’zgaruvchi - tasarrufdagi shaxsiy daromad va oziq-ovqat maxsulotlarining narxi"
+      },
+      {
+        "isTrue": false,
+        "answer": "To’g’ri javob keltirilmagan"
+      }
+    ]
+  },
+  {
+    "question": "Ekonometrik modellashtirish bosqichlarining to’g’ri ketma-ketligini toping?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "masalani qo’yish, aprior, parametrlash, identifikatsiyalash, verifikatsiyalash, axborot"
+      },
+      {
+        "isTrue": false,
+        "answer": "masalani qo’yish, aprior, axborot, parametrlash, identifikatsiyalash, verifikatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "axborot, masalani qo’yish, aprior, parametrlash, verifikatsiyalash, identifikatsiyalash"
+      },
+      {
+        "isTrue": false,
+        "answer": "ma’lumotlani to’plash,"
+      }
+    ]
+  },
+  {
+    "question": "Qanday xolatda bog’liqlik korrelyatsion deb aytiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar omilning har bir qiymatiga natijali belgining ko’plab qiymatlari, ya’ni muayyan statistik taqsimot mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omilning muayyan tasodifiy qiymati mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omil qiymatlarining butun bir taqsimoti mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilli belgining har bir qiymatiga natijali belgining muayyan belgilangan qiymati mos kelsa"
+      }
+    ]
+  },
+  {
+    "question": "Qanday xolatda bog’liqlik korrelyatsion deb aytiladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar omilning har bir qiymatiga natijali belgining ko’plab qiymatlari, ya’ni muayyan statistik taqsimot mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omilning muayyan tasodifiy qiymati mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilning har bir qiymatiga natijaviy omil qiymatlarining butun bir taqsimoti mos kelsa"
+      },
+      {
+        "isTrue": false,
+        "answer": "agar omilli belgining har bir qiymatiga natijali belgining muayyan belgilangan qiymati mos kelsa"
+      }
+    ]
+  },
+  {
+    "question": "Regression tahlil nimani aniqlashdan iborat?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "bog’liqlikning taxliliy shaklini, unda natijaviy omilning o’zgarishi bir yoki bir necha omillarning ta’siri bilan shartlangan, natijaviy omilga ta’sir ko’rsatuvchi barcha boshqa omillar ko’pligi esa doimiy va o’rtacha qiymatlar sifatida qabul qilinadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita omil o’rtasidagi (juft bog’liqlikda) xamda natijaviy omil bilan omillar ko’pligi o’rtasidagi (ko’p omilli bog’liqlikda) bog’liqlikning jipsligini"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita tasodifiy o’zgaruvchi o’zaro ta’sirining statistik o’lchovini"
+      },
+      {
+        "isTrue": false,
+        "answer": "tartibli o’zgaruvchilar o’rtasidagi statistik bog’liqlik darajasini"
+      }
+    ]
+  },
+  {
+    "question": "Alohida korrelyatsiya deganda nima tushuniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "boshqa omillar qiymati qat’iy belgilangan hollarda natijaviy omil va bitta omil o’rtasidagi alohida bog’liqlanish"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy omil hamda tadqiqotga kiritilgan ikki yoki undan ko’p omillar o'rtasidagi bog’liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita omil (natijaviy va omillar yoki ikkita omil) o’rtasidagi bog’liqlik"
+      },
+      {
+        "isTrue": false,
+        "answer": "sifatiy omillar o’rtasidagi bog’liqlik"
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi qiymatlardan qaysi biri korrelyatsiyaning juft koeffitsiyentini qabul qila olmaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1.111"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0.973"
+      },
+      {
+        "isTrue": false,
+        "answer": "0.005"
+      },
+      {
+        "isTrue": false,
+        "answer": "0.721"
+      }
+    ]
+  },
+  {
+    "question": "Korrelyatsiya chiziqli koeffitsiyentining qaysi qiymatida Y va X omillar o’rtasidagi bog’liqlikni jips (kuchli) deb xisoblash mumkin?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0.657"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0.975"
+      },
+      {
+        "isTrue": false,
+        "answer": "-0.111"
+      },
+      {
+        "isTrue": false,
+        "answer": "0.421"
+      }
+    ]
+  },
+  {
+    "question": "Agar Y va X omillar o’rtasidagi korrelyatsiya juft koeffitsiyenti 1 ga teng bo’lsa, u nimani anglatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "to’g’ri funksional bog’liqlikning mavjudligini"
+      },
+      {
+        "isTrue": false,
+        "answer": "bog’liqlikning yo’qligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "teskari korrelyatsion bog’liqlikning mavjudligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "teskari funksional bog’liqlikning mavjudligi"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya parametrlarining baholari (eng kichik kvadratlar usuli baholarining xususiyatlari) qanday bo’lishi kerak?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "siljimagan."
+      },
+      {
+        "isTrue": false,
+        "answer": "geteroskedatik"
+      },
+      {
+        "isTrue": false,
+        "answer": "samarali"
+      },
+      {
+        "isTrue": false,
+        "answer": "asoslangan"
+      }
+    ]
+  },
+  {
+    "question": "Chiziqli juft regressiya tenglamasida a1 parametr nimani anglatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "agar x o’zgaruvchi bir o’lchov birligiga oshirilsa, u natijaviy omilni o’rtacha qancha miqdorga o’zgarayotganligi"
+      },
+      {
+        "isTrue": false,
+        "answer": "natijaviy omil hisobga olinmagan (tadqiqot uchun ajratilmagan) omillarning o’rtacha holatga keltirilgan ta’sirini"
+      },
+      {
+        "isTrue": false,
+        "answer": "omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini"
+      },
+      {
+        "isTrue": false,
+        "answer": "u natijaviy omil belgi variatsiyasining qanday ulushi modelda hisobga olinganligini va u x o’zgaruvchining ta’siri bilan shartlanganligini"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya tenglamasi yx = 2,02 ± 0,78x ko’rinishga ega. Agar x o’zining bir o’lchov birligiga oshirilsa, u o’rtacha o’zining qancha o’lchov birligiga o’zgaradi",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,78 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,02 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "2,80 ga oshadi"
+      },
+      {
+        "isTrue": false,
+        "answer": "o’zgarmaydi"
+      }
+    ]
+  },
+  {
+    "question": "Regressiya tenglamasining ahamiyatliligini baholash uchun qanday mezondan foydalaniladi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Fisherning F-mezonidan"
+      },
+      {
+        "isTrue": false,
+        "answer": "Styudentning t mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Pirson mezoni"
+      },
+      {
+        "isTrue": false,
+        "answer": "Darbin-Uotsonning J-mezoni"
+      }
+    ]
+  },
+  {
+    "question": "Omil 1 foizga o’zgarganda natijaviy omilning o’rtacha o’zgarishini qanday koeffitsiyent belgilab beradi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "elastiklik koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "determinatsiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "korrelyatsiya koeffitsiyenti"
+      }
+    ]
+  },
+  {
+    "question": "Xususiy korrelyatsiya koeffitsiyenti nimani baholaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "qolgan omillarning qat’iy belgilangan qiymatida ikkita o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "ikkita o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "uchta o’zgaruvchi o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      },
+      {
+        "isTrue": false,
+        "answer": "barcha o’zgaruvchilar o’rtasidagi bog’liqlikning jipsligini baholaydi"
+      }
+    ]
+  },
+  {
+    "question": "x argument (erkin o’zgaruvchi) 1 foizga oshirilganda u natijaviy omil o’zgarishining foizini o’rtacha darajada qaysi koeffitsiyent ko’rsatadi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "determinatsiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "regressiya koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "elastiklik koeffitsiyenti"
+      },
+      {
+        "isTrue": false,
+        "answer": "beta-koeffitsiyenti"
+      }
+    ]
+  },
+  {
+    "question": "a0 chiziqli trend parametrining to’g’ri tavsifini ko’rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilganligining darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan xodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      }
+    ]
+  },
+  {
+    "question": "eksponentsial trend parametrining to’g’ri tavsifini ko’rsating",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilishi"
+      }
+    ]
+  },
+  {
+    "question": "a2 parabolik trend koeffitsiyentini nima tavsiflaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoq boshi sifatida belgilangan vaqt davri uchun qatorning o’rtacha tenglashtirilgan darajasi"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’ati"
+      }
+    ]
+  },
+  {
+    "question": "a1 chiziqli trend koeffitsiyentini nima tavsiflaydi?",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’rtacha o’zgarishi"
+      },
+      {
+        "isTrue": false,
+        "answer": "tahlil qilinayotgan hodisaning davrdan (lahzadan) davrga (lahzaga) o’zgarishining o’rtacha tezlashishini"
+      },
+      {
+        "isTrue": false,
+        "answer": "sanoq boshi sifatida qabul qilingan vaqt davri (lahzasi) uchun qatorning o’rtacha tenglashtirilgan darajasini"
+      },
+      {
+        "isTrue": false,
+        "answer": "vaqt qatori darajalari o’zgarishining doimiy zanjirli sur’atini"
+      }
+    ]
+  }
+]
