@@ -1,0 +1,1155 @@
+QUYOSH NURLANISHINI TOʼGʼRIDAN-TOʼGʼRI OʼZGARTIRISH UCHUN ____?_____ DAN FOYDALANILADI.  
+yarim oʼtkazgichli materiallar;  
+quyosh batareyalari;  
+tranzistor;  
+yoruqlik diodi;  
+CHASTOTAMETR &hellip;&hellip;&hellip; O'LCHASHGA MO'LJALLANGAN.  
+Gertsni;  
+Tokni;  
+Quvvatni;  
+Kuchlanishni;  
+QUYOSH VA SHAMOL ENERGIYASI QAYSI ENERGIYA TURIGA KIRADI?  
+Noan'anaviy energiya manbalari;  
+An'anaviy energiya manbalari;  
+Qayta tiklanmaydigan energiya manbalari;  
+Qayta tiklanadigan energiya manbalari;  
+O'ZGARUVCHAN KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  
+LS-kontur;  
+Tranzistor;  
+Stabilitron;  
+Tiristor;  
+O'TKAZUVCHANLIKNING O'LCHOV BIRLIGI NIMA?  
+Simens;  
+Om;  
+Genri;  
+Joul;  
+ISHONCHLI VA UZLUKSIZ ELEKTR TA'MINOTI NUQTAI NAZARIDAN ELEKTR ENERGIYASINI QABUL QILUVCHILAR TOIFASI NECHTA.  
+Uch toifaga.  
+To'rt toifaga  
+Oltita toifaga  
+Ikki toifaga  
+ELEKTR ENERGIYASINI .................... UZATISH ENERGIYA ISROFINI KAMAYTIRADI.  
+Katta kuchlanishda.  
+Kichik kuchlanishda  
+Barcha javoblar mos keladi  
+Pulslanuvchi kuchlanishda  
+FILTRLARDA KETMA-KET ELEMENTLAR SIFATIDA &hellip;&hellip;.. ISHLATILADI.  
+Kondensatorlar  
+Induktivlik, rezistorlar  
+Mikrosxemalar  
+Tranzistorlar  
+AVTOTRANSFORMATOR .................... IBORAT BO'LADI.  
+Bitta cho'lg'amdan (birlamchi va ikkilamchi cho'lg'am)  
+Ikkita cho'lg'amdan (birlamchi va ikkilamchi cho'lg'am)  
+Uchta cho'lg'amdan (birinchi, ikkinchi va uchinchi cho'lg'amlar)  
+To'rtta cho'lg'amdan (ikkkita birlamchi va ikkilamchi cho'lg'amlar)  
+DIYOD ........ XUSUSIYATIGA EGA.  
+Bir tomonlama o'tkazuvchanlik  
+Teskari o'tkazuvchanlik  
+Elektron o'tkazuvchanlik  
+Ikki tomonlama o'tkazuvchanlik  
+INDUKTIVLIKNING O'LCHOV BIRLIGI  
+Genri  
+Farada  
+Vatt  
+Volt  
+ELEKTR ENERGIYASINI YIGʼISHGA VA KERAK BOʼLGANDA BU ENERGIYADAN FOYDALANISHGA IMKON BERADIGAN ASBOBLAR __?__DEYILADI.  
+Akkumulyator  
+Kondensator  
+Qoʼsh elektr qatlami kondensator  
+Zaryadlagich  
+VOLTMETR &hellip;&hellip;&hellip; O'LCHASHGA MO'LJALLANGAN.  
+Kuchlanishni  
+Tokni  
+Quvvatni  
+Energiyani  
+IKKILAMCHI ELEKTR TA'MINOTI MANBALARIGA QANADAY QURILMALAR KIRADI?  
+Transformatorlar, to'g'rilagichlar, o'zgartirgichlar va h.k..  
+Kuchaytirgichlar, cheklagichlar, detektorlar va h.k.  
+Generatorlar, akkumulatorlar, quyosh elementlari va h.k.  
+Uzatkichlar, qabullagichlar, chastota o'zgartirgichlari va h.k.  
+O'ZGARMAS KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  
+Stabilitron.  
+LS-kontur  
+Tiristor  
+Diod  
+TRANSFORMATORDA MAGNIT O'ZAK NIMA UCHUN KERAK  
+Magnit qarshilikni kamaytirish uchun.  
+Magnit oqimni qosil qilish uchun  
+Cho'lg&lsquo;amlarini o'rnatish uchun  
+Magnit yurituvchi kuch qosil qilish uchun  
+ELEKTR TA'MINOTI TIZIMI NIMA?  
+Iste'molchilarni elektr energiyasi bilan ta'minlash uchun mo'ljallangan elektr qurilmalari to'plami.  
+Iste'molchilarni elektr energiyasi bilan ta'minlash uchun mo'ljallangan qurilmalar to'plami  
+Elektr energiyasini ta'minlash uchun mo'ljallangan elektr inshootlari to'plami  
+Iste'molchilarni elektr energiyasi bilan ta'minlashga mo'ljallangan elektr inshootlarining ishlashi  
+TRANSFORMATORNING ISHLASH PRINSIPI .................... ASOSLANGAN.  
+Elektromagnit induksiya qonuniga.  
+Kirxgof qonuniga  
+Amper qonuniga  
+Om qonuniga  
+......... STABILIZATSIYA KOEFFITSENTI DEYILADI.  
+Stabilizatorning kirishidagi kuchlanish o'zgarishini chiqishda kuchlanish o'zgarishiga nisbati  
+Stabilizatorning kirishidagi tok kuchining o'zgarishi va chiqishidagi tok kuchining o'zgarishiga nisbati  
+Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishining o'zgarishi  
+Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishi va tokining o'zgarishi  
+O'ZGARUVCHAN TOK DROSSELINING ASOSIY PARAMETRI -  
+Induktivligi  
+Sig'imi  
+Qarshiligi  
+Chiqish kuchlanishi  
+DIYODDA QANCHA (p-n) O'TKAZUVCHANLIK BOR?  
+1 ta  
+2 ta  
+3 ta  
+7&nbsp;ta  
+AN'ANAVIY ELEKTR ENERGIYA MANBALARIGA .......... KIRADI:  
+Issiqlik, gidro, atom energiyalari  
+Shamol,&nbsp;suv oqimi,&nbsp;quyosh energiyalari  
+Issiqlik,&nbsp;atom,&nbsp;suv oqimi&nbsp;energiyalari  
+Shamol,&nbsp;quyosh, suv oqimi&nbsp;energiyalari  
+АKKUMULYATORLARNI QOʼLLANISH SOHALARIGA QARAB, UNI XAR XIL USULLARDA ZARYADLASH MUMKIN:  
+Tezkor va davriy zaryadlash  
+Davriy zaryadlash  
+Tezkor zaryadlash  
+Toʼgʼri javob yoʼq  
+VARMETR &hellip;&hellip;&hellip;.. O'LCHASHGA MO'LJALLANGAN.  
+Reaktiv quvvatni  
+Tokni  
+Kuchlanishni  
+Energiyani  
+BIRLAMCHI ELEKTR TA'MINOTI MANBALARIGA QANADAY QURILMALAR KIRADI?  
+Generatorlar, akkumulatorlar, quyosh elementlari va h.k..  
+Kuchaytirgichlar, cheklagichlar, detektorlar va h.k.  
+Transformatorlar, to'g'rilagichlar, o'zgartirgichlar va h.k.  
+Uzatkichlar, qabullagichlar chastota o'zgartirgichlari va h.k.  
+PARAMETRIK STABILIZATORLARDA QANDAY ELEMENTLAR XOSSALARIDAN FOYDALANILADI?  
+Nochiziqli elementlar.  
+Chiziqli elementlar  
+Raqamli elementlar  
+Mantiqiy elementlar  
+QANDAY ELEMENT INDUKTIV ELEMENT DEB ATALADI  
+Magnit maydon energiyasini jamlash xususiyatiga ega bo'lgan.  
+Issiqlik energiyasiga aylantirish xususiyatiga ega bo'lgan  
+Elektr maydon energiyasini jamlash xususiyatiga ega bo'lgan  
+Elektromagnit energiyani boshqa tur energiyaga aylantirish xususiyatiga ega bo'lgan  
+ELEKTR TA'MINOTI - ..................... DEYILADI.  
+Iste'molchilarni elektr energiyasi bilan ta'minlash.  
+Elektr energiyasini mexanika energiyaga aylantirish  
+Mexanik energiyani elektr energiyasiga aylantirish  
+Iste'molchilar uchun elektr ta'minoti  
+TRNASFORMATORNING MAGNIT O'TKAZGICHINI .................. MATERIALIDAN TAYYORLANADI.  
+Elektrotexnik po'lat.  
+Alyumindan  
+Misdan  
+Temirdan  
+.......... FILTRLASH KOEFFITSIENTI DEYILADI.  
+Filtr kirishidagi pulsatsiya koeffitsientining filtr chiqishidagi pulsatsiya koeffitsientiga nisbati  
+Filtr chiqishidagi pulsatsiya koeffitsienti va filtr kirishidagi pulsatsiya koeffitsientining yig'indisi  
+Filtrning kirish va chiqishidagi pulsatsiya koeffitsientlari o'rtasidagi farq  
+Filtrning kirish va chiqishidagi pulsatsiya koeffitsientlarining ko'paytmasi  
+AVTOTRANSFORMATORLARDA ........... UNING KAMCHILIGI HISOBLANADI.  
+Tarmoq va yuklama o'rtasida elektr aloqasining mavjudligi  
+Tarmoq va yuklama o'rtasida elektr aloqasining mavjud emasligi  
+Tarmoq va yuklama o'rtasidagi mexanik aloqaning etishmasligi  
+Tarmoq va yuklama o'rtasidagi fizik aloqaning etishmasligi  
+TESKARI ULANGAN DIOD -  
+Tok&nbsp; o'tkazmaydi  
+O'z yo'nalishini o'zgartiradi  
+Tokni boshqaradi  
+Tok o'tkazadi  
+QAYTA TIKLANMAYDIGAN ELEKTR ENERGIYA MANBALARI QAYSI JAVOBDA KELTIRILGAN:  
+Shamol,&nbsp; suv&nbsp; oqimi&nbsp; va&nbsp; quyosh&nbsp; energiyasi  
+Issiqlik, gidroelektr, atom energiyasi  
+Issiqlik, atom va suv oqimi energiyasi  
+Shamol, quyosh va gidroelektr  
+PASAYTIRUVCHI TRANSFORMATORNING QAYSI CHOʼLGʼAMIDA TOK KATTA BOʼLADI?  
+Ikkinchisida;  
+Birinchisida.  
+Yuklama xarakteriga bogʼliq.  
+Toʼgʼri javob yoʼq.  
+ELEKTR SCHETCHIK &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. O'LCHOVIGA MO'LJALLANGAN.  
+Energiyani;  
+Tokni.  
+Kuchlanishni.  
+Quvvatni.  
+ENERGIYANING QANDAY TURLARI QAYTA TIKLANUVCHI ENERGIYALARGA KIRADI?  
+Quyosh&nbsp; energiyasi, geotermal energiya, gidravlik energiya, shamol&nbsp; energiyasi  
+Quyosh energiyasi, atom energiyasi, shamol energiyasi, priliv energiyasi  
+Quyosh energiyasi, gidravlik energiya, shamol energiyasi, vodorod energiyasi  
+Quyosh energiyasi, biogaz energiyasi, shamol energiyasi, termoyadro energiyasi  
+AKTIV FILTRLARDA FILTRLASH VAZIFASINI QANDAY ASBOBLAR BAJARADI?  
+Tranzistorlar&nbsp; va&nbsp; mikrosxemalar  
+Diodlar va tiristorlar  
+Drossellar va kondensatorlar  
+Rezistorlar va kondensatorlar  
+KIRXGOFNING BIRINCHI QONUNI QAYSI JAVOBDA TO'G'RI KELTIRILGAN  
+Tugundagi&nbsp; toklarning algebraik yiqindisi nolga&nbsp; teng  
+Konturdagi toklarning algebraik yiqindisi nolga teng  
+Konturdagi kuchlanishlarning algebraik yiqindisi nolga teng  
+Tugundagi kuchlanishlarning algebraik yiqindisi nolga teng  
+ELEKTR ENERGIYA TIZIMINING ELEKTR QISMI &hellip;&hellip;&hellip; HISOBLANADI.  
+Elektr&nbsp; stantsiyalari qurilmalari va elektr energiya tizimining elektr tarmoqlari&nbsp; to'plami  
+Elektr stantsiyalari va elektr energiya tizimining elektr tarmoqlarining qurilmalari to'plami  
+Elektr energiya tizimining stansiyalari va elektr tarmoqlari elektr inshootlari to'plami  
+Energiya tizimining elektr stantsiyalari va elektr tarmoqlari to'plami  
+ENERGIYA RESURSI ......... .  
+Inson&nbsp; tomonidan foydalanish mumkin bo'lgan energiyali moddiy&nbsp; ob'ekt  
+Birlamchi energiyani o'zgartirish natijasida paydo bo'luvchi energiya  
+Biror ishni bajarishda foydlaniladigan energiya  
+Jismning ish bajarish qobiliyati  
+IMPULSLI STABILIZATORLARDA ROSTLOVCHI TRANZISTOR QAYSI REJIMDA ISHLAYDI?  
+Kalit&nbsp; rejimida  
+Chiziqli rejimda  
+Kalit va chiziqli rejimda  
+To'g'ri javob yo'q  
+Г SHAKLIDAGI LC FILTRI SIG'IM VA KONDENSATORDAN IBORAT BO'LIB, BIRINCHI (KIRISH) ELEMENT QAYSI ELEMENTDAN BOSHLANADI?  
+Induktivlik;  
+Sig'im.  
+Qarshilik.  
+Yuklama.  
+........ MAGNIT MAYDON INTENSIVLIGI HISOBLANADI.  
+Magnit induksiya  
+Tortishish kuchi  
+Havo oqimi  
+Elekt yurituvchi kuch  
+AN'ANAVIY ENERGIYA ............... ENERGIYA RESURSLARIGA ASOSLANGAN.  
+Ko'mir,&nbsp; neft&nbsp; va gaz  
+Shamol va atom  
+Ko'mir, neft, gaz va quyosh  
+Ko'mir, neft, gaz va suv oqimi  
+АGAR TAʼMINLASH MANBAIDAGI CHASTOTA 2 MARTA OSHSA, TRANSFORMATOR CHIQISHIDAGI EYUK QANDAY OʼZGARADI?  
+2&nbsp; marta ortadi  
+2 marta kamayadi  
+Oʼzgarmaydi  
+Toʼgʼri javob yoʼq  
+SFORMATORNING MAGNIT O'TKAZGICHINI QAYSI MATERIALDAN TAYYORLASH AFZALROQ?  
+Elektrotexnik&nbsp; po'latdan  
+Alyuminiydan  
+Misdan  
+Temirdan  
+QUYIDA KELTIRILGAN ELEMENTLARNING QAYSILARI BOSHQARISH VOSITALARI HISOBLANMAYDI?  
+To'g'rilash&nbsp; gurilmasi  
+Releli himoya  
+Telemexanika vositalari  
+Rostlagichlar  
+PUL'SATSIYA KOEFFITSIENTI NIMA?  
+To'g'rilangan&nbsp; kuchlanish k-nchi garmonika amplitudasining to'g'rilaigan kuchlanish o'rta qiymatiga&nbsp; nisbati  
+Harorat o'zgarishi bilai chiqish kuchlanishi o'zgarishini hisobga oluvchi koeffitsient  
+Birlamchi va ikkilamchi cho'lg'amlardagi o'ramlar soni nisbati  
+Birlamchi va ikkilamchi cho'lg'amlardagi kuchlanishlar nisbati  
+KIRXGOFNING IKKINCHI QONUNI QAYSI JAVOBDA TO'G'RI KELTIRILGAN  
+Konturdagi&nbsp; kuchlanishlar algebraik yig&lsquo;indisi shu konturdagi EYUKlar algebraik yiqindisiga&nbsp; teng  
+Konturdagi toklar algebraik yiqindisi nolga teng  
+Konturdagi kuchlanishlar yiqindisi nolga  
+Tugundagi kuchlanishlarning algebraik yiqindisi nolga teng  
+TIRISTORNI QAYSI USLUB BILAN BOSHQARILADI?  
+Fazaviy;  
+Amplitudaviy.  
+Faza-impulsli.  
+To'g'ri javob yo'q.  
+EKVIVALENT TOK USULI NIMA UCHUN KERAK?  
+Moment;  
+Tok.  
+Qarshilik.  
+Quvvatni aniqlash uchun.  
+KENGLIK-IMPULSLI MODULYATSIYALI IMPULSLI STABILIZATORLARDA BOSHQARISH IMPULSINING .......... O'ZGARADI.  
+Impulsning&nbsp; kengligi  
+Impulsning davri  
+Pauzaning uzunligi  
+To'g'ri javob yo'q  
+Г SHAKLIDAGI LC FILTRLARDA KIRISH ELEMENTI QAYSI ELEMENTDAN BOSHLANADI?  
+Induktivlik;  
+Sig'im.  
+Transformator.  
+Yuklama.  
+QARSHILIKNING TESKARI KATTALIGINI KO'RSATING, YA'NI&nbsp; 1/R ga&nbsp; TENG BO'LSA.  
+Elektr&nbsp; o'tkazuvchanligi  
+Elektr kuchlanishi  
+Absolyut dielektrik o'tkazuvchanlik  
+Elektr mustahkamlik  
+AN'ANAVIY ENERGETIKADAGI ASOSIY MUAMMOLARDAN BIRI ......  
+Issiqxona&nbsp; effekti  
+Arzon tannarxi  
+Yuqori samaradorlik  
+Tabiiy boylikni kamayishi  
+TRANSFORMATORNING SALT ISHLASH REJIMIDA VATTMETR NIMANI KOʼRSATADI?  
+Magnit&nbsp; oʼzakdagi yoʼqotishni  
+Choʼlgʼamlardagi yoʼqotishni  
+Ikkilamchi choʼlgʼamdagi yoʼqotishni  
+Toʼgʼri javob yoʼq  
+AMPERMETR &hellip;&hellip;&hellip;. O'LCHASHGA MO'LJALLANGAN.  
+Tokni;  
+Kuchlanishni.  
+Aktiv quvvatni.  
+Reaktiv quvvatni.  
+TRANSFORMATORNIG ISHLASH PRINSIPI QANDAY QONUNGA ASOSLANGAN?  
+Elektromagnit&nbsp; induksiyasi qonuni  
+Kulon qonuni  
+Bio-Savar qonuni  
+Energiyaning saqlanish qonuni  
+REZONANS FILTRLAR QAYSI QOLLARDA QO'LLANILADI?  
+Iste'molchi&nbsp; ma'lum bir garmonikaga sezgir bo'lganida  
+Katta kirish kuchlanishida  
+Yuklama toki katta bo'lganida  
+Yuklama toki kichik bo'lganida  
+TUGUN NIMA?  
+Elektr&nbsp; zanjirning kamida uch shoxobchasi birlashgan o'rni  
+Elektr zanjir kirish qismalari  
+Ikki element qismalari birlashgan nuqta  
+Shoxobcha toknning boshlanish nuqtasi  
+STABILLASH ANIQLIGI BO'YICHA STABILIZATORLAR ..................... SINFLARIGA BO'LINADI.  
+Kichik,&nbsp; o'rta, yuqori va o'ta yuqori stabillash.  
+Kichik va yuqori stabillash  
+Yuqori va o'ta yuqori stabillash  
+Kichik, o'rtacha va yuqori stabillash  
+KO'P CHO'LG'AMLI TRANSFORMATOR - ........ HISOBLANADI.  
+Bitta&nbsp; asosiy va bir nechta ikkilamchi cho'lg'amli transformator  
+Ikkita asosiy va bir nechta ikkilamchi cho'lg'amli transformator  
+Ikkita asosiy va bitta ikkilamchi cho'lg'amli transformator  
+Uchta asosiy va bitta ikkilamchi cho'lg'amli transformator  
+RELELI IMPULSLI STABILIZATORLARDA BOSHQARISH IMPULSINING ......... O'ZGARADI.  
+Impulsning&nbsp; davri  
+Impulsning kengligi  
+Pauzaning uzunligi  
+To'g'ri javob yo'q  
+SILLIQLOVCHI FILTRLAR &hellip;&hellip;&hellip;. ISHLATILADI.  
+Ta'minot&nbsp; kuchlanishida&nbsp; pulsatsiyani&nbsp; bostirish&nbsp; uchun  
+To'g'rilagichda (Uchiq) kuchlanishini stabillash uchun  
+To'g'rilagichda (Ichiq) tokini stabillash uchun  
+To'g'rilagichda (Ukir) kuchlanishini stabillash uchun  
+QANDAY TOK VAQT O'TISHI BILAN O'ZGARMAYDI, YA'NI YO'NALISHI VA KATTALIGI BO'YICHA DOIMIY HISOBLANADI?  
+Doimiy&nbsp; tok  
+O'zgaruvchan tok  
+Mutlaq tok  
+Induktiv tok  
+DUNYO BO'YICHA .......... ENG KATTA ATOM ELEKTR STANTSIYALARI JOYLASHGAN MAMLAKAT HISOBLANADI.  
+Amerika&nbsp; qo'shma&nbsp; shtatlari  
+Fransiya  
+Rossiya  
+Germaniya  
+TRANSFORMATORNING SALT ISHLASH REJIMIDA ISTEʼMOL QILADIGAN QUVVATI NIMAGA SARF BOʼLADI?  
+Oʼzakdagi&nbsp; yoʼqotishga  
+Choʼlgʼamdagi yoʼqotishga  
+Magnit oqimini hosil qilishga  
+Toʼgʼri javob yoʼq.  
+GENERATORLARNING UYG'OTISH TIZIMIGA JAVOBLARDAN BIRI KIRMAYDI?  
+Aylanish&nbsp; tizimining&nbsp; boshqaruv&nbsp; qurilmasi  
+O'zgarmas tok manbai  
+Generatorning uyg'otish cho'lgami  
+Generatorning uyg'otish boshqaruv qurilmasi  
+ENERGETIKA TIZIMI DEB NIMAGA AYTILADI?  
+Bir-biri&nbsp; bilan bog'langan, holatlari umumiy boshqariluvchi elektr stansiyalari, elektr va issiqlik tarmoqlari&nbsp; birlashmasi  
+Bitta markazdan turib boshqariluvchi stansiyalar, podstansiyalar va elektr uzatish liniyalari  
+Bu yagona boshqarish tizimi va yagona yuklama grafigiga ega bo'lgan ob'ekt  
+Elektr energiyani ishlab chiqarish va taqsimlash jarayoni bilan a'loqada bo'lgan elektr stansiyalari, podstansiyalari va liniyalari  
+SILLIQLOVCHI FILTRLARDA SIG'IM NIMA UCHUN YUKLAMAGA PARALLEL ULANADI?  
+Kondensator&nbsp; o'zgaruvchan tok bo'yicha kichik qarshilikka&nbsp; ega  
+Kondensator o'zgaruvchan tok bo'yicha katta qarshilikka ega  
+Aktiv-sig'im yuklama bo'lishi uchun  
+Aktiv-induktiv yuklama bo'lishi uchun  
+SHOXOBCHA NIMA?  
+Ikkita&nbsp; tugun orasida elektr zanjir elementlarining ketma-ket ulangan&nbsp; qismi  
+Elektr zanjirning kirish qismalari  
+RLC dan iborat elektr zanjirning qismi  
+Elektr zanjirning tarmoqlangan qismi  
+ROSTLASH USLUBI BO'YICHA UZLUKSIZ ROSTLOVCHI KOMPENSATSION STABILIZATORLAR NECHA TURGA BO'LINADI?  
+Ketma - ket&nbsp; va&nbsp; parallelga  
+Uzlukli va uzluksizga  
+Parallelga  
+Ketma-ketga  
+TRANSFORMATOR CHO'LG'AMLARIDA PAYDO BO'LADIGAN <strong>EYUK</strong> KATTALIGI QUYIDAGILARGA BOG'LIQ?  
+Cho'lg'amning&nbsp; o'ramlar&nbsp; soni  
+Magnit oqimning o'zgarish tezligi  
+Tarmoq chastotasi  
+Sanab o'tilgan barcha omillar  
+INVERTORLARDA ........ JARAYONI AMALGA OSHIRILADI.  
+Invertorlash;  
+Konvertorlash.  
+Kuchaytirish.  
+To'g'ri javob yo'q.  
+TA'MINOT KUCHLANISHIDA PULSATSIYANI BOSTIRISH UCHUN ...... ISHLATILADI.  
+Silliqlovchi&nbsp; filtr  
+Transformator  
+Stabilizator  
+Kuchlanish ko'paytirgichlari  
+....... TO'G'RILAGICH QURILMASI HISOBLANADI.  
+O'zgaruvchan&nbsp; tokni&nbsp; o'zgarmas&nbsp; tokka&nbsp; aylantiruvchi&nbsp; qurilma  
+O'zgarmas tokni o'zgaruvchan tokka aylantiruvchi qurilma  
+Doimiy energiyani o'zgaruvchan energiyaga aylantiruvchi qurilma  
+O'zgaruvchan tokni o'zgarmas tokka rostlovchi qurilma  
+EKOLOGIK TOZA UGLEVODOROD MANBAI .......... HISOBLANADI.  
+Gaz;  
+Yog'.  
+Atom.  
+Suv.  
+TRANSFORMATOR CHOʼLGʼAMLARIDAGI KIRISH QARSHILIGINI QAYSI REJIMDA ANIQLASH MUMKIN?  
+Salt&nbsp; ishlash&nbsp; rejimida  
+Qisqa tutashuv rejimida  
+Yuklama rejimida  
+Toʼgʼri javob yoʼq.  
+ELEKTR STANSIYALARI NIMA UCHUN XIZMAT QILADI?  
+Elektr&nbsp; energiya&nbsp; ishlab&nbsp; chiqarish&nbsp; uchun  
+Bug' ishlab chiqarish uchun  
+Suvni energiyasini foydali energiyaga aylantrish uchun  
+Bug'ni energiyasi mexanik energiyaga aylantirish uchun  
+KUCH TRANSFORMATORINING VAZIFASI NIMADAN IBORAT?  
+Kuchlanishni&nbsp; o'zgartirish  
+Quvvatni o'zgartirish  
+Tokni rostlash  
+Quvvatni rostlash  
+TO'G'RILAGICH DEB NIMAGA AYTILADI?  
+O'zgaruvchan&nbsp; tokni o'zgarmas tokka aylantirib beruvchi&nbsp; qurilma  
+O'zgarmas tokni o'zgaruvchan tokka aylantirib beruvchi qurilma  
+O'zgaruvchan tok energiyasini o'zgartirib beruvchi qurilma  
+O'zgarmas tok energiyasini o'zgartirib beruvchi qurilma  
+ELEKTR POTENSIALNING O'LCHOV BIRLIGI QAYSI JAVOBDA TO'G'RI KELTIRILGAN  
+Volt;  
+Amper.  
+Vatt.  
+Genri.  
+PARAMETRIK STABILIZATORLARDA QANDAY ELEMENTLAR XOSSALARIDAN FOYDALANILADI?  
+Nochiziqli&nbsp; elementlar  
+Chiziqli elementlar  
+Nochiziqli va chiziqli elementlar  
+To'g'ri javob yo'q  
+TOK TRANSFORMATORLARI QUYIDAGI TURDAGI TRANSFORMATORLARGA TEGISHLI:  
+Maxsus&nbsp; mo'ljallangan  
+Muvofiqlashtiruvchi  
+Kuch  
+Ko'paytirish  
+O'LCHOVCHI ELEMENTDA QO'SHIMCHA DIOD NIMA UCHUN QO'YILADI?  
+Termokompensatsiyani&nbsp; ta'minlash&nbsp; uchun  
+Chiqish tokini oshirish uchun  
+Chiqish kuchlanishini oshirish uchun  
+To'g'ri javob yo'q  
+............. SILLIQLOVCHI Г SHAKLIDAGI RC FILTRI ISHLATILADI.  
+Katta&nbsp; yuklama&nbsp; toklarida&nbsp; (I<sub>yu</sub>)  
+Kichik yuklama toklarida (I<sub>yu</sub>)  
+~U<sub>s</sub> ning katta o'zgarishlarida  
+Kuchlanishning kichik o'zgarishlarida  
+TO'G'RILAGICHLAR &hellip;&hellip;&hellip;. BO'LADI.  
+Bir&nbsp; fazali va ko'p&nbsp; fazali  
+Ikki fazali  
+Uch fazali  
+Ikki va uch fazali  
+ELEKTR DVIGATELLARINING KUCHLANISHI ........ BIRLIKLARIDA O'LCHANADI.  
+Volt;  
+Amper.  
+Ghertz.  
+Watt.  
+STABILLASH ANIQLIGI BOʼYICHA STABILIZATORLAR NECHTA SINFGA BOʼLINADI?  
+kichik,&nbsp; oʼrta, yuqori va oʼta yuqori&nbsp; stabillash  
+kichik va yuqori stabillash  
+yuqori va oʼta yuqori stabillash  
+kichik, oʼrtacha va yuqori stabillash  
+TRANSFORMATORLARDA OʼZGARADIGAN PARAMETRLAR QAYSI JAVOBDA TOʼGʼRI KELTIRILGAN?  
+Tok,&nbsp; kuchlanish, fazalar soni,&nbsp; chastota  
+Kuchlanish va chastota  
+Tok, fazalar soni, chastota  
+Toʼgʼri javob yoʼq.  
+TRANSFORMATORNING ISHLASH PRINSIPI QANDAY QONUNGA ASOSLANGAN?  
+Elektromagnit&nbsp; induksiya&nbsp; qonuni  
+Kirxgof qonuni  
+Amper qonuni  
+Nyuton qonuni  
+TOKLI O'TKAZGICH ATROFIDA PAYDO BO'LUVCHI MAGNIT OQIMI KUCH CHIZIQLARI YO'NALISHI QAYSI QONUN YOKI QOIDA BO'YICHA ANIQLANADI?  
+Parma&nbsp; qoidasi  
+O'ng qo'l qoidasi  
+Elektromagnit induksiyasi qonuni  
+Lens prinsipi  
+SILLIQLOVCHI FILTRLARDA INDUKTIVLIK NIMA UCHUN YUKLAMAGA KETMA-KET ULANADI?  
+Drossel&nbsp; o'zgaruvchan tok bo'yicha katta qarshilikka&nbsp; ega  
+Drossel o'zgaruvchan tok bo'yicha kichik qarshilikka ega  
+Aktiv-induktiv yuklama bo'lishi uchun  
+Aktiv-sig'im yuklama bo'lishi uchun  
+ELEKTR TOKI BU:  
+Generator&nbsp; EYUK ta'sirida elektr zaryadlarning tartibli&nbsp; xarakati  
+Elektronlarning betartib xarakati  
+So'nuvchi tebranish jarayon  
+Elektronlar xarakati  
+ISHLASH PRINSIPIGA KO'RA STABILIZATORLAR ............ TURLARIGA AJRATILADI.  
+Prametrik,&nbsp; kompensatsion va impulsli&nbsp; stabilizatorlar  
+Paremetrik stabilizatorlar, impulsli stabilizatorlar  
+Ferrorezonansli va parametrik stabilizatorlar  
+Ferrarezonansli, prametrik, kompensatsion va impulsli stabilizatorlar  
+TRANSFORMATOR &hellip;&hellip;&hellip;&hellip;.. O'ZGARTIRISH UCHUN MO'LJALLANGAN.  
+O'zgaruvchan&nbsp; kuchlanishni o'zgaruvchan&nbsp; kuchlanishga  
+Yuqoridagi barcha o'zgartirishlar  
+O'zgaruvchan kuchlanishni doimiy kuchlanishga  
+O'zgaruvchan kuchlanishni o'zgarmas kuchlanishga  
+O'ZGARMAS KUCHLANISHNI UZLUKSIZ ROSTLOVCHI STABILIZATORLARIDA ROSTLOVCHI ELEMENT SIFATIDA QANDAY ASBOBLAR ISHLATILADI?  
+Tranzistorlar&nbsp; va&nbsp; tiristorlar  
+Drossellar  
+Stabilitronlar  
+Tiristorlar  
+BIRINCHI BO'LIB 3 FAZALI O'ZGARUVCHAN TOK ELEKTR TA'MINOTI QACHON O'RNATILGAN?  
+1893&nbsp; yilda  
+1903 yilda  
+1877 yilda  
+1898 yilda  
+QAYSI FILTRLARDA MASSASI VA TAN NARXI KAMROQ?  
+RC&nbsp; FILTRLARDA  
+LRC&nbsp;FILTRLARDA  
+LR&nbsp;FILTRLARDA  
+LC&nbsp;FILTRLARDA  
+GENERATOR ISHLAB CHIQARGAN ELEKTR TOKI ....... .  
+Elektronlarning&nbsp; yo'naltirilgan&nbsp; harakati  
+Daryodagi suv oqimi  
+Elektr kuchlanishi va toki  
+Atomlarning elektronlar, protonlar va neytronlarga bo'linishi  
+ELEKTR ENERGIYASINI QANDAY KUCHLANISHDA UZATISH ENERGIYA ISROFINI KAMAYTIRADI?  
+Katta&nbsp; kuchlanishda  
+Kichik kuchlanishda  
+Kuchlanishga bog'liq emas  
+Pulslanuvchi kuchlanishda  
+IKKILAMCHI ENERGIYA NIMA?  
+Maxsus&nbsp; qurilmada o'zgartirish natijasida paydo bo'luvchi&nbsp; energiya  
+Tabiatda bevosita olinuvchi energiya  
+Moddiy ob'ektlar tarkibidagi energiya  
+Organik yoqilg'i tarkibidagi energiya  
+ELEKTR MASHINALARDA QANDAY ENERGIYA ELEKTR ENERGIYASIGA O'ZGARTIRILADI?  
+Mexanik;  
+Kinetik.  
+Kimyoviy.  
+Issiqlik.  
+ELEKTR ZANJIRI BU:  
+Elektr&nbsp; energiya manba va ist'emolchilar o'zaro o'tkazgichlar yordamida ulanib, elektr tok uchun berk zanjir tashkil qilgan qurilmalar&nbsp; majmuasi  
+Elektr energiya ist'emolchilaridan tashkil topgan qurilmalar majmuasi  
+Elektr energiya o'tkazgichlaridan tashkil topgan qurilmalar majmuasi  
+Elektr energiya manbalaridan tashkil topgan qurilmalar majmuasi  
+SILLIQLOVCHI FILTRINING FILTRLASH KOEFFITSIENTI QUYIDAGILARGA BOG'LIQ:  
+Yuqorida&nbsp; sanab&nbsp; o'tilgan&nbsp; barchasiga  
+Kondensator sig'imi  
+Filtrning induktivligi  
+To'g'rilangan kuchlanish chastotasi  
+O'ZGARMAS TOK PARAMETRIK STABILIZATORLARIDA ASOSIY ELEMENT SIFATIIDA QANDAY ASBOB ISHLATILADI?  
+Maydoniy&nbsp; tranzistorlar  
+Drossellar  
+Tiristor  
+Stabistorlar  
+TO'G'RILASH SXEMALARINING ASOSIY PARAMETRLARI:  
+Transformatordan&nbsp; foydalanish&nbsp; koeffitsienti  
+Yuqoridagi ko'rsatkichlarning barchasi  
+Pulsatsiya keffitsienti va asosiy garmonika chastotasi  
+Teskari kuchlanish va diyoddagi to'g'ri tok  
+AGAR TRANSFORMATORNING IKKILAMCHI CHO'LG'AMLAR SONINI OSHIRSAK, TRANSFORMATORDA NIMA KUZATILADI?  
+Transformatorning&nbsp; ikkilamchi cho'lg'amlarida kuchlanishini oshishi&nbsp; kuzatiladi  
+Transformatorning birlamchi cho'lg'amlarida tok oqimi kamayishi kuzatiladi  
+Transformatorning akustik shovqinining oshishi kuzatiladi  
+Transformatorning ikkilamchi cho'lg'amlarida kuchlanishini kamayishi kuzatiladi  
+TO'G'RILANGAN TOK QIYMATI KATTA BO'LGAN TO'G'RILAGICH KO'RSATILGAN JAVOBNI TOPING.  
+Uch&nbsp; fazali&nbsp; to'g'rilagich  
+Ikki yarim davrli to'g'rilagich  
+Ko'priksimon to'g'rilagich  
+Bir yarim davrli to'g'rilagich  
+ELEKTR DVIGATELLARINING ELEKTR TOKINI O'LCHASH UCHUN ......... O'LCHASH QURILMASI ISHLATILADI.  
+Ampermetr;  
+Voltmetr.  
+Vattmetr.  
+Faza o'lchagich.  
+OʼZGARMAS KUCHLANISHNI UZLUKSIZ ROSTLOVCHI STABILIZATORLARIDA ROSTLOVCHI ELEMENT SIFATIDA QANDAY ASBOBLAR ISHLATILADI?  
+Tranzistorlar&nbsp; va&nbsp; tiristorlar  
+Drossellar  
+Stabilitronlar  
+Tiristorlar  
+KUCHLANISH ISROFI NIMA?  
+Elektr&nbsp; ta'minoti tizim elementi boshi va oxiridagi kuchlanishlarning arifmetik&nbsp; farqi  
+Elektr ta'minoti tizim elementi boshi va oxiridagi kuchlanish o'zgarishi  
+Elektr ta'minoti tizim elementi boshi va oxiridagi kuchlanish pasayishi  
+Elektr ta'minoti tizim elementi boshi va oxiridagi kuchlanish boshqarilishi  
+QAYTA TIKLANUVCHI ENERGIYA RESURSI NIMA?  
+Tabiat&nbsp; tomonidan uzluksiz ravishda tiklanib turuvchi energiya&nbsp; r esursi  
+Barcha turdagi organik yoqilg'ilar  
+Neft va neft maxsuloti  
+Sun'iy ravishda qayta tiklanuvchi energiya resursi  
+PASSIV FILTRLAR QANDAY ELEMENTLARDAN TASHKIL TOPADI?  
+Drossellar, kondensatorlar&nbsp; va&nbsp; rezistorlar  
+Tranzistorlar, mikrosxemalar  
+Diodlar  
+Tiristorlar  
+QANDAY ELEMENT KONDENSATOR DEB ATALADI?  
+Elektr maydon energiyasini jamlash xususiyatiga&nbsp; ega&nbsp; bo'lgan  
+Magnit maydon energiyasini jamlash xususiyatiga ega bo'lgan  
+Issiqlik energiyasiga aylantirish xususiyatiga ega bo'lgan  
+Boshqa tur energiyaga aylantirish xususiyatiga ega bo'lgan  
+O'ZGARUVCHAN KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  
+LC - kontur  
+Stabilitron  
+Tiristor  
+Tranzistor  
+..................&nbsp;&nbsp; O'ZGARUVCHI KUCHLANISHNI O'ZGARMAS KUCHLANISHGA O'ZGARTIRISHNI TA'MINLAYDI.  
+To'g'rilagich;  
+Transformator.  
+Stabilizator.  
+Silliqlsh filtri.  
+KOMPENSATSION STABILIZATORLAR ...... ELEMENTLARIDAN YIG'ILADI.  
+Tranzistorlarda&nbsp; va&nbsp; integral&nbsp; mikrosxemalarda  
+Drossellarda  
+Stabilitronlarda  
+Tiristorlarda  
+TOK TRANSFORMATORLARI ................. REJIMDA ISHLAYDI.  
+Qisqa&nbsp; tutashuv  
+Yuklama  
+Salt ishlash  
+Avariyaviy  
+......... AVTOTRANSFORMATORNING ASOSIY KAMCHILIKGI HISOBLANADI.  
+W<sub>1</sub>&nbsp; cho'lg'amining W<sub>2</sub>&nbsp; ho'lg'ami&nbsp; bilan&nbsp; galvanik&nbsp; aloqasi  
+Gabarit o'lchamlarining kattaligi  
+Chiqish kuchlanish U<sub>2</sub> ni kichik oraliqda tartibga solish  
+Chiqish kuchlanish U<sub>2</sub> ning past barqarorligi  
+TRANSFORMATOR KIRISH CHO'LG'AMLARIGA FAQAT ....... TOK BERILISHI MUMKIN.  
+O'zgaruvchan;  
+Doimiy.  
+O'zgaruvchan va doimiy.  
+Barch javob to'g'ri.  
+KOMPENSATSION STABILIZATORLAR QAYSI ELEMENTLARDA YIGʼILADI?  
+Tranzistorlarda va integral&nbsp; mikrosxemalarda  
+Drossellarda  
+Stabilitronlarda  
+Tiristorlarda  
+INVERTORLARDA O'ZGARTIRISH ELEMENTLARI SIFATIDA &hellip;&hellip;&hellip;. QO'LLANILADI.  
+Tiristorlar;  
+Rezistorlar.  
+Diodlar.  
+Tranzistorlar.  
+TUZILISHI BO'YICHA AVTOTRANSFORMATORNING TRANSFORMATORDAN FARQI NIMADAN IBORAT?  
+Chulg'amlar&nbsp; orasida&nbsp; elektr&nbsp; aloqaning&nbsp; mavjudligi  
+Kuchlanishni rostlash imkoni mavjudligi  
+Tok kuchini rostlash imkoni mavjudligi  
+Parchalangan cho'lg'amning mavjudligi  
+AKTIV YUKLAMADA ISHLAYOTGAN IKKI YARIM DAVRLI TO'G'RILASH SXEMASIDAGI BOSHQARILADIGAN TO'G'RILAGICHDA TESKARI ULANGAN DIOD QANDAY VAZIFANI BAJARADI?  
+Drossel energiyasini tiristor yopiq bo'lganida&nbsp; yuklamaga&nbsp; uzatish  
+Qaytar toklardan himoyalash  
+Boshqarish  
+Kommutatsiyalash  
+CHIZIQLI ELEMENT DEB&nbsp; ......... .  
+VAX&nbsp; chiziqli&nbsp; bo'lgan&nbsp; elementga&nbsp; aytiladi  
+VAX sinusoidal bo'lgan elementga aytiladi  
+VAX nosinusoidal bo'lgan elementga aytiladi  
+VAX nochiziq bo'lgan elementga aytiladi  
+O'ZGARMAS KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  
+Stabilitron;  
+Drossel.  
+LC-kontur.  
+Tiristor.  
+ELEKTR TA'MINOTIDAGI KO'PRIKSIMON TO'G'RILAGICH ............... TA'MINLAYDI.  
+O'zgaruvchi kuchlanishni o'zgarmas&nbsp; kuchlanishga&nbsp; o'zgartirishni  
+O'zgaruvchi kuchlanishni doimiy kuchlanishga o'zgartirishni  
+O'zgarmas kuchlanishni o'zgaruvchi kuchlanishga o'zgartirishni  
+Doimiy kuchlanishni o'zgaruvchi kuchlanishga o'zgartirishni  
+ROSTLOVCHI ELEMENTLARINING ULANISHI BO'YICHA STABILIZATORLAR NECHA TURGA BO'LINADI?  
+Ketma-ket&nbsp; va&nbsp; parallel  
+Ketma- ket  
+Parallel  
+Uzluksiz  
+INVERTORLARDA KALIT ELEMENTI SIFATIDA QANDAY ELEMENTLAR ISHLATILADI?  
+Tranzistorlar&nbsp; va&nbsp; tiristorlar  
+Diodlar va stabilitronlar  
+Mikrosxemalar  
+Filtrlar  
+DROSSEL BU -  
+O'zgaruvchan tok zanjirida sozlanadigan va sozlanmaydigan induktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik&nbsp; elektromagnit&nbsp; qurilma  
+O'zgaruvchan tok zanjirida sozlanadigan va sozlanmaydigan aktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik elektromagnit qurilma  
+O'zgarmas tok zanjirida sozlanadigan va sozlanmaydigan induktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik elektromagnit qurilma  
+O'zgarmas tok zanjirida sozlanadigan va sozlanmaydigan aktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik elektromagnit qurilma  
+ELEKTR BO'LMAGAN KATTALIKNI ELEKTRGA AYLANTIRADIGAN HAR QANDAY ELEKTR STANTSIYASINING ELEMENTI NIMA?  
+Generator;  
+Dvigatel.  
+Transformator.  
+To'g'rilash qurilmalari.  
+QOʼYIDAGI SXEMADA VD1 DIOD NIMA UCHUN QOʼYILGAN? img src="https://lms.tuit.uz/storage/ITET/QOYIDAGI SXEMADA VD1 DIOD NIMA UCHUN QOYILGAN.png" alt="" width="537" height="224" />  
+Sxemada akkumulyator batareyasini quyosh elementidan zaryadlanishini oldini olish uchun&nbsp; VD1&nbsp; diod&nbsp; qoʼyilgan  
+Sxemada toʼgʼirlash uchun VD1 diod qoʼyilgan  
+Sxemada akkumulyator batareyasini quyosh elementidan zaryad olish uchun VD1 diod qoʼyilgan  
+Toʼgʼri javob yoʼq  
+O&lsquo;zgaruvchan toklar va kuchlanishlar o&lsquo;lchash chegaralarini kengaytirish va yuqori kuchlanishdan o&lsquo;lchash asboblarini izolyatsiyalash uchun tok va kuchlanish transformatorlari mavjud. Kuchlanish transformatori keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png" alt="" width="240" height="215" />;  
+<img src="https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png" alt="" width="351" height="299" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Orttiruvchi.png" alt="" width="279" height="253" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Tok transformatori.png" alt="" width="265" height="217" />.  
+O&lsquo;zgaruvchan toklar va kuchlanishlar o&lsquo;lchash chegaralarini kengaytirish va yuqori kuchlanishdan o&lsquo;lchash asboblarini izolyatsiyalash uchun tok va kuchlanish transformatorlari mavjud. Tok transformatori keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/Tok transformatori.png" alt="" width="265" height="217" />;  
+<img src="https://lms.tuit.uz/storage/ITET/Orttiruvchi.png" alt="" width="279" height="253" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png" alt="" width="240" height="215" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png" alt="" width="351" height="299" />.  
+O'ZGARMAS KUCHLANISHNI O'ZGARUVCHAN KUCHLANISHGA AYLANTIRISHNI &hellip;&hellip;&hellip;.. TA'MINLAYDI.  
+Konvertor;  
+Inverter.  
+Transformator.  
+To'g'rilagich.  
+PO'LATALUMINIY O'TKAZGICHLARDA PO'LAT SIMLAR QANDAY VAZIFANI BAJARADI?  
+Mexanik&nbsp; mustaxkamlikni&nbsp; ta'minlaydi  
+O'tkazuvchanlikni oshiradi  
+Quvvat isrofini kamaytiradi  
+Liniyaning quvvat uzatish qobiliyatini oshiradi  
+AMPER KUCHINING YO'NALISHI QAYSI ................... QOIDAGA KO'RA ANIQLANADI.  
+Chap&nbsp; qo'l&nbsp; qoidasi  
+O'ng qo'l qoidasi  
+Parma qoidasi  
+Lens qoidasi  
+TOKLI O'TKAZGICH MAGNIT MAYDONI KUCH CHIZIQLARINING YO'NALISHI QAYSI QOIDAGA KO'RA ANIQLANADI?  
+Parma&nbsp; qoidasi  
+O'ng qo'l qoidasi  
+Chap qo'l qoidasi  
+Lens qoidasi  
+NOCHIZIQLI ELEMENTLAR SIFATIDA O'ZGARMAS KUCHLANISH (TOK) STABILIZATORLARIDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOBLAR ISHLATILADI?  
+Stabilitron, stabistor va&nbsp; maydoniy&nbsp; tranzistorlar  
+Stabilitron, stabistor va drossellar  
+Tiristor va maydoniy tranzistorlar  
+Drossel, tiristor va stabistorlar  
+TO'G'RILAGICH ZANJIRIDAGI DIODLAR QUYIDAGICHA TANLANADI:  
+Teskari kuchlanish va&nbsp; to'g'ri&nbsp; tok  
+To'g'ri tok va to'g'ridan-to'g'ri kuchlanish  
+Teskari kuchlanish  
+To'g'ridan-to'g'ri kuchlanish  
+RADIOELEKTRON APPARATURALAR O'ZGARTIRGICHLARIDA QO'SHIMCHA QUVVAT KUCHAYTIRGICHLARI NIMA UCHUN ISHLATILADI?  
+Kichik&nbsp; quvvatli mikrosxemaning boshqarish sigalini kuchaytirish&nbsp; uchun  
+Boshqarish sxemasini invertor bilan moslashtirish uchun  
+Radioelektron apparaturani ishonchli ishlashi uchun  
+To'g'ri javob yo'q.  
+ELEKTR TA'MINOTI MANBALARINING ELEKTR TA'MINOTI TIZIMI BILAN ELEKTROMAGNIT MOSLASHUVINI YAXSHILASH UCHUN NIMALAR ISHLATILADI?  
+Kuchlanishlarning nosimmetrikligini kamaytirish va iste'mol tokining egriligini yaxshilash uchun reaktiv quvvat zahirasini ta'minlaydigan tuzatuvchi&nbsp; qurilmalar&nbsp; ishlatiladi  
+Halaqitlarni so'ndirish filtrlar ishlatiladi  
+Past chastotali filtrlar ishlatiladi  
+Tranzistorlar va tiristorlar  
+O'ZGARUVCHAN TOKNI O'ZGARMAS TOKKA AYLANTIRISH UCHUN ...... QURILMALARI ISHLATILADI.  
+To'g'rilash;  
+Konvertor.  
+Generatorlar.  
+Stabilizator.  
+SANOAT CHASTOTASI KUCHLANISHINI KO'TARISH VA TUSHIRISH UCHUN QAYSI O'ZGARTIRGICH ISHLATILADI?  
+Transformator;  
+Rektifikator.  
+Sinxron motor.  
+Kondensator.  
+АKKUMULYATORLARNI KETMA-KET ULASHDA VA ULARNI JAMLASHDA KERAK BOʼLADIGAN AKKUMULYATORLARNI SONINI ANIQLASHDA QOʼYIDAGI IFODA YORDAMIDA ANIQLANADI:  
+<img src="https://lms.tuit.uz/storage/ITET/D.png" alt="" width="159" height="83" />;  
+<img src="https://lms.tuit.uz/storage/ITET/B.png" alt="" width="195" height="69" />.  
+<img src="https://lms.tuit.uz/storage/ITET/C.png" alt="" width="174" height="62" />.  
+<img src="https://lms.tuit.uz/storage/ITET/А.png" alt="" width="148" height="60" />.  
+Bir fazali tokni ikki fazali tokka o&lsquo;zgartirish sxemasi keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/Bir fazali tokni ikki fazali tokka o&lsquo;zgartirish sxemasi.png" alt="" width="191" height="143" />;  
+<img src="https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png" alt="" width="351" height="299" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png" alt="" width="240" height="215" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Tok transformatori.png" alt="" width="265" height="217" />.  
+Transformatorda faqat elektromagnit aloqaga ega bo&lsquo;lgan kamida ikki cho&lsquo;lg&lsquo;am mavjud.&nbsp; Avtotransformator esa bitta cho&lsquo;lg&lsquo;amdan iborat bo&lsquo;lib, u bir vaqtning o&lsquo;zida ham birlamchi, ham ikkilamchi tarmoqqa tegishli bo&lsquo;ladi. Orttiruvchi avtotransformator keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/Orttiruvchi.png" alt="" width="279" height="253" />;  
+<img src="https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png" alt="" width="351" height="299" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png" alt="" width="240" height="215" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Tok transformatori.png" alt="" width="265" height="217" />.  
+KONVERTOR CHIQISHIDA O'ZGARMAS KUCHLANISH OLISH UCHUN QAYSI ELEMENT QO'LLANILADI?  
+Diodlar;  
+Kondensator.  
+Tiristorlar.  
+Transformator.  
+NIMA SABABDAN LINIYA O'TKAZGICHLARI KICHIK DIAMETRLI SIMLARDAN BURALIB TAYYORLANADI?  
+Mexanik&nbsp; mustaxkamlikni&nbsp; oshirish&nbsp; maqsadida  
+Aktiv qarshilikni kamaytirish maqsadida  
+Induktiv qarshilikni kamaytirish maqsadida  
+Liniyaning quvvat uzatish qobiliyatini oshirish maqsadida  
+O'LCHOVCHI TOK TRANSFORMATORLARI QAYSI REJIMDA ISHLAYDI?  
+Qisqa&nbsp; tutashuvga yaqin&nbsp; rejimda  
+Salt ishlashga yaqin rejimda  
+Transformatorning ishlash shartiga bog'liq  
+Yuklama xarakteriga bog'liq  
+TRANSFORMATORNING SALT ISHLASH REJIMIDA ISTE'MOL QILADIGAN QUVVATI NIMAGA SARF BO'LADI?  
+O'zakdagi&nbsp; yo'qotishga  
+Cho'lg'amdagi yo'qotishga  
+Magnit oqimini hosil qilishga  
+Transformatordagi umumiy yo'qotishlarga  
+NOCHIZIQLI ELEMENTLAR SIFATIDA O'ZGARUVCHAN KUCHLANISh (TOK) STABILIZATORLARIDA ASOSIY ELEMENT SIFATIDA QANDAY&nbsp; ASBOBLAR ISHLATILADI?  
+Drossel;  
+Tiristor.  
+Stabilitron.  
+Stabistor.  
+MITKEVICHNING O'ZGARUVCHAN KUCHLANISHINI TO'G'RILASH SXEMASI KO'RSATILGAN JAVOBNI KO'RSATING?  
+Bir fazali&nbsp; nolinchi chiqish chiqarilgan ikki taktli to'g'rilash&nbsp; sxemasi  
+Uch fazali nolinchi chiqish chiqarilgan ikki taktli to'g'rilash sxemasi  
+Bir fazali nolinchi chiqish chiqarilgan bir taktli to'g'rilash sxemasi  
+Bir fazali ko'priksimon to'g'rilagich  
+PULSATSIYANI SIG'IMLI FILTR BILAN SILLIQLASHNI AMALGA UCHUN &hellip;&hellip;&hellip; ZARUR.  
+Kondensatorning sig'im qarshiligi yuklama qarshiligidan sezilarli darajada kam&nbsp; bo'lishi  
+Kondensatorning sig'im qarshiligi yuklamaning qarshiligiga teng bo'lishi  
+Kondensatorning sig'im qarshiligi yuk qarshiligidan bir oz kamroq bo'lishi  
+Kondensatorning sig'im qarshiligi yuk qarshiligidan biroz kattaroq bo'lishi  
+ELEKTR ENERGIYASI TIZIMLARIGA YUQORI GARMONIKALARNING TA'SIRI QUYIDAGICHA NOMOYON BO'LADI:  
+Barcha javoblar&nbsp; to'g'ri  
+Apparatura izolyatsiyasining eskirishi, buning natijasida xizmat muddatini kamayishi va apparaturaning xato ishlashi  
+Elektr energiyasini generatsiyalash, uzatish va undan foydalanish protsesslari samaralarining kamayishi  
+Elektr energiyasi tizimlariga yuqori garmonikalarning ta'siri ketma-ket va parallel rezonanslar natijasida toklar va kuchlanishlar garmonikalarining ortishi  
+SIG'IMLI SAQLASH MOSLAMALARI QAYSI MAQSADLARDA ISHLATILADI?  
+Elektr energiyasini cheklangan miqdorda&nbsp; saqlash&nbsp; uchun  
+Elektr energiyasini qisqa muddatli saqlash uchun  
+Kimyoviy energiyani uzoq muddatli saqlash uchun  
+Elektr energiyasini cheksiz muddat saqlash uchun  
+ISHLAB CHIQARISH VA MAISHIY ISTE'MOLIGA MOS KELADIGAN KUCHLANISHGA AYLANTIRISH UCHUN QANDAY TRANSFORMATOR QO'LLANILADI?  
+Pasaytiruvchi&nbsp; transformatorlar  
+Avtotransformatorlar  
+Moylangan transformatorlar  
+Quruq transformatorlar  
+АKTIV YUKLAMADA ISHLAYOTGAN BIR FAZALI KOʼPRIKSIMON TOʼGʼRILASH SXEMASIDAGI TOKNING TOʼGʼRILANGAN QIYMATI QANDAY ANIQLANADI?  
+I<sub>0&nbsp;</sub>= 2 / &pi; ∙ I<sub>2m</sub>  
+I<sub>0</sub>=&pi;/2<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>2</mn></msqrt></math>∙I<sub>2m</sub>  
+I<sub>0</sub>=&pi;/2<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>2</mn></msqrt></math>∙I<sub>2m</sub>/n  
+I<sub>0</sub>=I<sub>2m</sub>/n  
+Transformatorda faqat elektromagnit aloqaga ega bo&lsquo;lgan kamida ikki cho&lsquo;lg&lsquo;am mavjud.&nbsp; Avtotransformator esa bitta cho&lsquo;lg&lsquo;amdan iborat bo&lsquo;lib, u bir vaqtning o&lsquo;zida ham birlamchi, ham ikkilamchi tarmoqqa tegishli bo&lsquo;ladi. Kamaytiruvchi avtotransformator keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png" alt="" width="351" height="299" />;  
+<img src="https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png" alt="" width="240" height="215" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Orttiruvchi.png" alt="" width="279" height="253" />.  
+<img src="https://lms.tuit.uz/storage/ITET/Tok transformatori.png" alt="" width="265" height="217" />.  
+KUCHLANISH STABILIZATORI &hellip;&hellip;&hellip;&hellip;&hellip; TA'MINLAYDI:  
+Yuklamdagi kuchlanishning&nbsp; barqarorligini  
+O'zgaruvchan kuchlanishni to'g'rilashni  
+Tog'rilangan kuchlanishning pulsatsiyasini kamayishini  
+Sanab o'tilgan barcha fikrlar  
+QISQA TUTASHTIRGICHLAR NIMA UCHUN XIZMAT QILADI?  
+Shikastlangan transformatorni uzish uchun sun'iy qisqa tutashuvni hosil&nbsp; qiladi  
+Podstansiya jixozlarini o'ta kuchlanishdan ximoyalash uchun sun'iy qisqa tutashuvni xosil qilish  
+Liniyani o'ta kuchla-nishdan ximoyalash uchun sun'iy qisqa tutashuvni xosil qialadi  
+Liniyani ta'mirlashda uni yerga ulash uchun  
+KUCHLANISH TRANSFORMATORLARI QAYSI REJIMDA ISHLAYDI?  
+Salt ishiga yaqin&nbsp; rejimda  
+Qisqa tutashuvga yaqin rejimda  
+Transformatorning ishlash shartiga bog'liq  
+Yuklamaga yaqin rejimda  
+PASAYTIRUVCHI TRANSFORMATORNING QAYSI CHO'LG'AMIDA TOK KATTA BO'LADI?  
+Ikkinchisida;  
+Birinchisida.  
+Yuklama xarakteriga bog'liq.  
+Transformatorning ishlash shartiga bog'liq.  
+PARAMETRIK STABILIZATORLAR DEB NIMAGA AYTILADI?  
+Nochiziqli elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan&nbsp; stabilizatorlar  
+Chiziqli elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan stabilizatorlar  
+Kirish elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan stabilizatorlar  
+Chiqish elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan stabilizatorlar  
+LARIONOVNING O'ZGARUVCHAN KUCHLANISHINI TO'G'RILASH SXEMASI KO'RSATILGAN JAVOBNI KO'RSATING?  
+Uch fazali ko'priksimon&nbsp; to'g'rilagich  
+Bir fazali nolinchi chiqish chiqarilgan bir taktli to'g'rilash sxemasi  
+Bir fazali nolinchi chiqish chiqarilgan ikki taktli to'g'rilash sxemasi  
+Uch fazali nolinchi chiqish chiqarilgan ikki taktli to'g'rilash sxemasi  
+STABILIZATORNI XARAKTERLOVCHI ASOSIY PARAMETRLAR KO'RSATILJAN JAVOBNI TOPING?  
+Stabilizatsiya koeffitsienti, chiqish qarshiligi, foydali ish koeffitsienti, chiqish kuchlanishining&nbsp; o'zgarishi  
+Stabilizatsiya koeffitsienti, chiqish qarshiligi, chiqish kuchlanishining o'zgarishi  
+Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishining o'zgarishi  
+Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishi va tokining o'zgarishi  
+PERSONAL KOMPYUTER ELEKTR TA'MINOTI CHIQISH TO'G'RILAGICHLARIDA SHOTTKI DIODLARI NIMA UCHUN QO'LLANILADI?  
+Dinamik yo'qotishlarni kamaytirishg&nbsp; uchun  
+Statik yo'qotishlarni kamaytirishg uchun  
+Personal kompyuter elektr ta'minoti o'lchamlarini kamaytirish uchun  
+Elektr energiyasini generatsiyalash, uzatish va undan foydalanish protsesslari samaralarining kamayishi&nbsp;uchun  
+ELEKTR ENERGIYASINI AKKUMULYATSIYALAYDIGAN QANDAY MODDALARNI BILASIZ?  
+Havo, suv, kimyoviy moddalar,&nbsp; vodorod  
+Suv, tuproq, tosh, kerosin, kislorod, havo, vodorod  
+Suv, tuproq, tosh, kerosin, gidratlar, vodorod  
+Havo, suv, kimyoviy moddalar, tosh, kerosin, vodorod  
+AGAR PASAYTIRUVCH PODSTANSIYAGA 10 KV O'RNIGA 100 KV KUCHLANISH BILAN TA'MINLANSA, XUDDI SHU QUVVAT UZATILISHI SHARTI BILAN, ELEKTR UZATISH LINIYASIDAGI ENERGIYA YO'QOTISHLARI NECHA MARTAGA O'ZGARADI?  
+100 martaga&nbsp; kamayadi  
+100 baravar ko'payadi  
+10 baravar ko'payadi  
+O'zgarmayd  
+TOʼGʼRILASH QURILMALARINI TOʼGʼRILASH SXEMASI BOʼYICHA QUYIDAGICHA SINFLARGA AJRATISH MUMKIN:  
+Barchasi;  
+Bir fazali va koʼp fazali.  
+Bitta yarim davrli (bir taktli).  
+Ikkita yarim davrli (ikki taktli).  
+Bir fazali transformatorning qisqa tutashuv rejimidagi ekvivalent sxemasi keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/4.png" alt="" width="303" height="203" />;  
+<img src="https://lms.tuit.uz/storage/ITET/2.png" alt="" width="211" height="203" />.  
+<img src="https://lms.tuit.uz/storage/ITET/3.png" alt="" width="359" height="203" />.  
+<img src="https://lms.tuit.uz/storage/ITET/5.png" alt="" width="337" height="247" />.  
+STABILIZATOR PARAMETRIK STABILIZATOR DEB ATALADI, AGAR UNING SXEMASIDA QUYIDAGILARDAN BIRI BO'LSA:  
+Tayanch&nbsp; kuchlanish manbai  
+Teskari aloqa zanjiri  
+Boshqarish elementi  
+Barcha ro'yxatdagilar  
+MAGNIT MAYDONIDAGI TOKLI O'TKAZGICHGA TA'SIR ETUVCHI ELEKTROMAGINT KUCHNING YO'NALISHI QAYSI QOIDA YOKI QONUN BO'YICHA ANIQLANADI?  
+Chap qo'l&nbsp; qoidasi&nbsp;  
+O'ng qo'l qoidasi  
+Elektromagnit induksiya qonuni  
+Lens prinsipi  
+TRANSFORMATOR YUKLAMA REJIMIDA UNING QAYSI PARAMETRI ANIQLANADI?  
+Turli&nbsp; yuklamalardagi tashqi xarakteristikasi  
+Rostlash xarakteristikasi  
+Po'lat o'zakdagi yo'qotishlar  
+Cho'lg'amlardagi yo'qotishlar  
+UCH FAZALI TOK TARMOG'INI IKKI FAZALI TOK TARMOG'IGA O'ZGARTIRISH UCHUN QANDAY SXEMA QO'LLANILADI?  
+Skott&nbsp; sxemasi  
+Mitkeevich sxemasi  
+Larionov sxemasi  
+Gerts sxemasi  
+KOMPENSATSION STABILIZATORLARDA O'LCHOVCHI KUCHAYTIRUVCHI SIFATIDA QAYSI ELEMENT YOKI QURILMALARDAN FOYDALANILADI?  
+Tranzistorlar yoki operatsion&nbsp; kuchaytirgichlar  
+Tranzistorlar yoki invertorlardan  
+Stabilitronlar yoki integral stabilizatorlar  
+To'g'ri javob yo'q  
+UCH FAZALI KUCHLANISHNI IKKI YARIM DAVRLI TO'GRILASH &hellip;&hellip;&hellip; SXEMA BO'YICHA AMALGA OSHIRILADI.  
+Larionov;  
+Mitkevich.  
+Transformatorning ikkilamchi cho'lg'amidan nol nuqta chiqish.  
+Yuqoridagi barcha sxemalar bo'yicha.  
+........... CHIQISH KUCHLANISHINING HAQIQIY QIYMATINI BERILGAN QIYMAT BILAN TAQQOSLASHNI AMALGA OSHIRADI.  
+Kompensatsion&nbsp; stabilizatorlar  
+Parametrik stabilizatorlar  
+Tok stabilizatorlar  
+Kuchlanish stabilizatorlar  
+PERSONAL KOMPYUTER ELEKTR TA'MINOTI O'ZGARTIRGICHLARIDA QO'SHIMCHA TA'MINOT MANBAI NIMA UCHUN ISHLATILADI?  
+Boshqarish sxemasi va quvvat kuchaytirgichini yordamchi kuchlanish bilan ta'minlash&nbsp; uchun  
+Invertorni yordamchi ta'minot kuchlanishi bilan ta'minlash uchun  
+Elektr ta'minoti manbaini himoyalash uchun  
+Personal kompyuter elektr ta'minoti o'lchamlarini kamaytirish uchun  
+ELEKTR TA'MINOTI TIZIMIDA ELEKTR KONDENSATORLARI ........ UCHUN ISHLATILADI.  
+Elektr energiyasini qisqa muddatli saqlash&nbsp; uchun  
+Elektr energiyasini uzoq muddatli saqlash uchun  
+Issiqlik energiyasini uzoq muddatli saqlash uchun  
+Elektr energiyasini katta hajmda saqlash uchun  
+TRANSFORMATORNING ISHLASHI PRINTSIPI QANDAY FIZIK HODISAGA ASOSLANGAN?  
+Elektromagnit&nbsp; induksiya  
+Oqimning issiqlik effekti  
+Oqimning magnit harakati  
+Kimyoviy hodisa  
+SILLIQLOVCHI FILЬTRLARDA SIGʼIM NIMA UCHUN YUKLAMAGA PARALLEL ULANADI?  
+Kondensator oʼzgaruvchan tok boʼyicha kichik qarshilikka&nbsp; ega  
+Kondensator oʼzgaruvchan tok boʼyicha katta qarshilikka ega.  
+Аktiv-sigʼim yuklama boʼlishi uchun  
+Toʼgʼri javob yoʼq.  
+Bir fazali transformatorning yuklama ish rejimidagi ekvivalent sxemasi keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/3.png" alt="" width="359" height="203" />;  
+<img src="https://lms.tuit.uz/storage/ITET/2.png" alt="" width="211" height="203" />.  
+<img src="https://lms.tuit.uz/storage/ITET/4.png" alt="" width="303" height="203" />.  
+<img src="https://lms.tuit.uz/storage/ITET/5.png" alt="" width="337" height="247" />.  
+STABILIZATOR KOMPENSATSION STABILIZATOR DEB ATALADI, AGAR UNING SXEMASI QUYIDAGILARDAN YIG'ILGAN BO'LSA:  
+Barcha&nbsp; ro'yxatdagilar  
+Boshqarish elementi  
+Teskari aloqa zanjiri  
+Tayanch kuchlanish manbai  
+AGAR YOPIQ KONTURNING QISMINI TASHKIL ETUVCHI O'TKAZICH MAGNIT MAYDONIDA MAGNIT OQIMI KUCH CHIZIQLARIGA NISBATAN PERPENDIKULYAR RAVISHDA XARAKAT QILAYOTGAN BO'LSA, UNGA TA'SIR ETUVCHI ELEKTROMAGNIT KUCH QAYSI TOMONGA YO'NALADI?  
+O'tkazgichning xarakat yo'nalishiga qarshi&nbsp; tomonga  
+O'tkazgichning xarakat yo'nalishi bo'yicha  
+Kuch chiziqlari yo'nalishiga qarshi tomonga  
+Kuch chiziqlari yo'nalishi bo'yicha  
+QAYSI MAQSADGA KO'RA TOK TRANSFORMATORINING IKKILAMCHI CHO'LG'AMI YERGA ULANADI?  
+Ishlovchi xodimlarning xavfsizligini ta'minlash&nbsp; uchun  
+Berilgan ish tartibini ta'minlash uchun  
+Aniqlik ko'rsatkichlarini oshirish uchun  
+Transformatorni himoyalash uchun  
+TRANSFORMATOR QANDAY TOK TURI APPARATI HISOBLANADI?  
+O'zgaruvchan&nbsp; tok  
+O'zgarmas tok  
+O'zgaruvchan va o'zgarmas tok  
+Tok turiga bog'liq emas  
+TAYANCH KUCHLANISH MANBAI QO'YIDAGI ELEMENTLARDAN YIG'ILADI.  
+Stabilitronlar&nbsp; va integral stabilizatorlarda  
+Diodlar va kodensatorlar  
+Tranzistorlar va tiristorlar  
+To'g'ri javob yo'q  
+YUKLAMADAGI KUCHLANISHNI TO'G'RILASH VA STABILLASH UCHUN TO'G'RILASH SXEMALARIDA QUYIDAGI ELEMENTLAR QO'LLANILADI.  
+Barchasi&nbsp; qo'llaniladi  
+Tiristorlar  
+Diodlar  
+Tranzistorlar  
+ELEKTR TA'MINOTIDA TRANSFORMATOR QUYIDAGILARNI TA'MINLAYDI:  
+Yuklama&nbsp; va ta'minot tarmog'ining galvanik bog'lanishini ta'minlaydi  
+Tarmoq chastotasi va kuchlanishning o'zgarish uchun xizmat qiladi  
+Kuchlanishni stabillashtirishni ta'minlaydi  
+O'zgaruvchan kuchlanishni to'g'rilash uchun xizmat qiladi  
+O'ZGARTIRGICH TRANSFORMATORI QAYSI CHASTOTALARDA ISHLAYDI?  
+Yuqori&nbsp; chastotatalarda  
+50-60Gs chastotalarda  
+50Gs dan past chastotalarda  
+10-20Gs chastotalarda  
+INDUKTIV FILTR BILAN PULSATSIYANI YAXSHIROQ SILLIQLASH UCHUN .............. ZARUR.  
+Drosselning&nbsp; induktiv qarshiligi yuklama qarshiligidan sezilarli darajada katta bo'lishi  
+Drosselning induktiv qarshiligi yuklama qarshiligidan ancha past bo'lishi  
+Yuklamaning induktiv qarshiligi drosselning qarshiligiga teng bo'lishi  
+Drosselning qarshiligini ikki baravar oshirish  
+AGAR IKKILAMCHI TRANSFORMATORNING CHO'LG'AMLARI SONI BIRLAMCHISIGA NISBATAN OSHSA, UNDA TRANSFORMATOR NIMA DEB ATALADI?  
+Ko'paytiruvchi&nbsp; transformator  
+Pasaytiruvchi transformator  
+Tushunarsiz transformator  
+Yuqori voltli transformator  
+REZONANS FILTRLAR QAYSI HOLLARDA QOʼLLANILADI?  
+Isteʼmolchi&nbsp; maʼlum bir garmonikaga sezgir boʼlganida;  
+Katta kirish kuchlanishida.  
+Yuklama toki katta boʼlganida.  
+Toʼgʼri javob yoʼq.  
+Bir fazali transformatorning salt ishlash rejimidagi ekvivalent sxemasi keltirilgan javobni toping?  
+<img src="https://lms.tuit.uz/storage/ITET/2.png" alt="https://lms.tuit.uz/storage/ITET/2.png" width="211" height="203" />;  
+<img src="https://lms.tuit.uz/storage/ITET/3.png" alt="" width="359" height="203" />.  
+<img src="https://lms.tuit.uz/storage/ITET/4.png" alt="" width="303" height="203" />.  
+<img src="https://lms.tuit.uz/storage/ITET/5.png" alt="" width="337" height="247" />.  
+O'ZGARUVCHAN KUCHLANISH PARAMETRIK STABILIZATORLARIDA CHIZIQLI BO'LMAGAN ELEMENTLAR SIFATIDA QAYSI ELEMENT ISHLATILADI?  
+Drossel;  
+Stabilitron.  
+Tiristorlar.  
+Tranzistorlar.  
+<em><strong>IES</strong></em>DA ENERGIYANING O'ZGARISH SXEMASI (KETMA-KETLIGI) QANDAY?  
+Yoqilgi, issiqlik, mexanik,&nbsp; elektr  
+Mexanik, issiqlik, elektr  
+Yoqilgi, mexanik, issiqlik, elektr  
+Yoqilgi, issiqlik, elektr, mexanik  
+QUYOSH ENERGIYASINI ELEKTR ENERGIYASIGA O'ZGARTIRISH JARAYONI QAYSI EFFEKT BILAN BORADI?  
+Fotoelektrik;  
+Yadroviy.  
+Kimyoviy.  
+Issiqlik.  
+TRANSFORMATORNING ISHLASH PRINSIPI QAYSI QONUNGA ASOSLANGAN?  
+Elektromagnit&nbsp; induksiya&nbsp; qonuniga  
+Kulon qonuniga  
+Amper qonuniga  
+Lens qonuniga  
+KUCHAYTIRUVCHI ELEMENT OPERATSION KUCHAYTIRGICHDA YIG'ILGANDA STABILIZATORNING QAYSI PARAMETRLARI ORTADI?  
+Stabilizatsiyalash&nbsp; tezligi.  
+Chiqish toki.  
+Chiqish kuchlanishi.  
+To'g'ri javob yo'q.  
+O'ZGARUVCHAN KUCHLANISHNI O'ZGARMAS KUCHLANISHGA TO'G'RILASH UCHUN &hellip;&hellip;&hellip; ELEMENTIDAN FOYDALANILADI.  
+Diod;  
+Tranzistor.  
+Tiristor.  
+Barchasi qo'llaniladi.  
+ELEKTR TA'MINOTIDA TRANSFORMATOR QUYIDAGILARNI TA'MINLAYDI:  
+O'zgaruvchan&nbsp; kuchlanish amplitudasining o'zgarishini;  
+Kuchlanishni stabillashtirishni.  
+O'zgaruvchan kuchlanishni to'g'rilash.  
+Chastota va kuchlanishning o'zgarishini.  
+PERSONAL KOMPYUTER ELEKTR TA'MINOTI MANBAI KIRISHIDA VA CHIQISHIDA HALAQITLARNI SO'NDIRISH FILTRLARI NIMA UCHUN QO'YILADI?  
+Yuqori&nbsp; chastotali halaqitlarni so'ndirish uchun;  
+O'zgartirgichni ta'minot manbaidan galvanik ajratish uchun.  
+Filtrlash uchun.  
+Statik yo'qotishlarni kamaytirishg uchun.  
+O'ZGARUVCHAN TOKNI TO'G'RILASH UCHUN UCHUN ...... ISHLATILADI.  
+Diodlar;  
+Kondensatorlar.  
+Stabilitronlar.  
+Tranzistorlar.  
+TRANSFORMATORNING ISHLASHI PRINSIPI .........&nbsp; HODISAGA ASOSLANGAN.  
+Elektromagnit&nbsp; induksiya;  
+Oqimning magnit harakati;  
+Oqimning issiqlik effekti;  
+Kimyoviy hodisa;  
+KUCHLANISH YOKI TOK STABILIZATORLARI DEB NIMAGA AYTILADI?  
+Taʼminot&nbsp; kuchlanishi&nbsp; va tok, tarmoq chastotasi, atrof-muhit temperaturasi va boshqalar oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi;  
+Taʼminot kuchlanishi va tok, atrof-muhit temperaturasi va boshqalar oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi.  
+Taʼminot kuchlanishi va tarmoq chastotasi oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi.  
+Taʼminot kuchlanishi va tok oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi.  
+Transformatorning asosiy qismlari berk po&lsquo;lat o&lsquo;zak (magnit o&lsquo;tkazgich) va unga o&lsquo;raladigan cho&lsquo;lg&lsquo;amlar hisoblanadi. O&lsquo;zaklar sterjenli, bronli, torreodal, tasmasimon kesimli bo&lsquo;lishi mumkin. Rasmda torreodal o&lsquo;zakni toping? <img src="https://lms.tuit.uz/storage/photo_2022-03-07 14.44.35.jpeg" alt="" width="496" height="293" />  
+3.  
+1.  
+2.  
+4.  
+Transformatorning asosiy qismlari berk po&lsquo;lat o&lsquo;zak (magnit o&lsquo;tkazgich) va unga o&lsquo;raladigan cho&lsquo;lg&lsquo;amlar hisoblanadi. O&lsquo;zaklar sterjenli, bronli, torreodal, tasmasimon kesimli bo&lsquo;lishi mumkin. Rasmda sterjenli o&lsquo;zakni toping? <img src="https://lms.tuit.uz/storage/photo_2022-03-07 14.44.35.jpeg" alt="" width="496" height="293" />  
+1.  
+2.  
+3.  
+4.  
+ELEKTR TA'MINOTIDAGI SILLIQLOVCHI FILTRLAR &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; TA'MINLAYDI.  
+To'g'rilangan&nbsp; kuchlanish pulsatsiyasining kamayishini;  
+O'zgaruvchan kuchlanishni to'g'rilash.  
+Yuklamadagi kuchlanishning barqarorligi.  
+To'grilangan kuchlanishning qutblarini o'zgartirish.  
+YUKLAMADAGI TO'G'RILANGAN KUCHLANISHNING BARQARORLIGI &hellip;&hellip;&hellip; TA'MINLAYDI.  
+Stabilizator;  
+Transformator.  
+To'g'rilagich.  
+Silliqlash filtri.  
+O'TA YUQORI STABILLAShDA KUCHLANISH VA TOKNING RUHSAT ETILADIGAN O'ZGARISHI NECHA % -GACHA?  
+0,1 %&nbsp; gacha  
+1-5%gacha  
+0,1-1%gacha.  
+1-50%gacha  
+O'RTA STABILLASHDA KUCHLANISH VA TOKNING RO'HSAT ETILADIGAN O'ZGARISHI NECHA % -GACHA?  
+1 - 5 % gacha  
+0.1 - 1 % gacha.  
+5% gacha  
+1-50% gacha  
+KUCHLANISH (TOK) STABILIZATORLARI DEB NIMAGA AYTILADI?  
+Ta'minot&nbsp; kuchlanishi va tok, tarmoq chastotasi, atrof-muhit temperaturasi va boshqalar o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi  
+Ta'minot kuchlanishi va tok, atrof-muhit temperaturasi va boshqalar o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi  
+Ta'minot kuchlanishi va tarmoq chastotasi o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi  
+Ta'minot kuchlanishi va tok o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi.  
+BOSHQARILMAYDIGAN TO'G'RILAGICH CHIQISH KUCHLANISHINI BOSHQARISH IMKONIYATINI BERMAYDI. U HAMISHA &hellip;&hellip;&hellip;&hellip; MUNOSABAT ORQALI ANIQLANADI:  
+U<sub>0&nbsp;</sub>= K &bull; U<sub>2</sub>  
+U<sub>1</sub>=K&bull;U<sub>2</sub>  
+U<sub>1</sub>=K&bull;U<sub>0</sub>  
+U<sub>2</sub>=K &bull; U<sub>1</sub>.  
+PULSATSIYA KOEFFITSIENTI К<sub>p</sub>=0.25 ga TENG BO'LSA QAYSI TO'G'RILAGICHGA TEGISHLI?  
+Uch&nbsp; fazali&nbsp; to'g'rilagichda  
+Ko'priksimon to'g'rilagichda  
+Ikki yarim davrli to'g'rilagichda.  
+Bir yarim davrli to'g'rilagichda  
+<em>OFF-LAYN</em> SINFIDAGI UZLUKSIZ ELEKTR TA'MINOTI AGREGATLARIDA ELEKTR ENERGIYASI ISTE'MOLCHIGA QANDAY UZATILADI?  
+Normal rejimda elektr energisi iste'molchi tarmog'iga to'g'ridan-to'g'ri uzatiladi va eletr tarmoqda avariya bo'lganida sinusoidal&nbsp; kuchlanish&nbsp; generatori&nbsp; ulanadi  
+Avariya rejimida elektr energisi iste'molchi tarmog'iga to'g'ridan-to'g'ri uzatiladi va normal rejimda sinusoidal kuchlanish generatori ulanadi  
+Har qanday rejimlarda sinusoidal kuchlanish generatoridan kuchlanish, chastota va sinusoidallik bo'yicha stabil elektr energiyasi yuklamaga uzatiladi.  
+Boshqarish sxemasi orqali, u ortqcha yuklanish haqida himoya rezistoridan signal oladi  
+FILTRNING CHQISHIDA PULSATSIYA KOEFFITSIENTI ...................... TENG.  
+K<sub>p.chiq.</sub> = U<sub>01m</sub>/U<sub>o</sub>  
+K<sub>p.chiq.</sub>=U<sub>01m</sub>/U<sub>н1m</sub>  
+K<sub>p.chiq.</sub>=U<sub>01m</sub>*U<sub>o</sub>  
+K<sub>p.chiq.</sub>=U0<sub>1m</sub>+U<sub>o</sub>.  
+TRANSFORMATORNING BIRLAMCHI CHO'LG'AMIDAGI O'RAMLAR SONI IKKILAMCHI CHO'LG'AMDAGI O'RAMLAR SONIDAN 2 BARAVAR KAM BO'LSA TRANSFORMATORNING IKKILAMCHI CHO'LG'AMIDAGI KUCHLANISH NIMAGA TENG?  
+U / 2  
+0  
+2U  
+1/3U.  
+ISHLASH PRINTSIPIGA KOʼRA STABILIZATORLAR NECHA TURGA AJRATILADI?  
+Prametrik,&nbsp; kompensatsion va impulsli stabilizatorlar  
+Paremetrik stabilizatorlar, impulьsli stabilizatorlar  
+Ferrorezonansli va parametrik stabilizatorlar  
+Ferrorezonansli, prametrik, kompensatsion va impulsli stabilizatorlar.  
+Transformatorning asosiy qismlari berk po&lsquo;lat o&lsquo;zak (magnit o&lsquo;tkazgich) va unga o&lsquo;raladigan cho&lsquo;lg&lsquo;amlar hisoblanadi. O&lsquo;zaklar sterjenli, bronli, torreodal, tasmasimon kesimli bo&lsquo;lishi mumkin. Rasmda tasmasimon kesimli o&lsquo;zakni toping? <img src="https://lms.tuit.uz/storage/photo_2022-03-07 14.44.35.jpeg" alt="" width="496" height="293" />  
+4  
+3  
+2  
+1  
+TO'GRILANGAN KUCHLANISH PULSATSIYA KOEFFITSIYENTI QUYIDAGI NISBATNI KO'RSATADI:  
+To'g'rilangan&nbsp; kuchlanishning o'zgaruvchan tashkil etuvchisini to'g'rilangan kuchlanishning doimiy tashkil etuvchisiga  
+To'g'rilangan kuchlanishning o'zgaruvchan tashkil etuvchisini to'g'rilangan kuchlanish amplitudasiga nisbati  
+To'g'rilangan kuchlanishning doimiy tashkil etuvchisini to'g'rilangan kuchlanish amplitudasiga nisbati.  
+To'g'rilangan kuchlanishning doimiy tashkil etuvchisini o'zgaruvchan tashkil etuvchisiga nisbati  
+STABILIZATOR O'ZGARUVCHAN KUCHLANISH STABILIZATORLARIGA TAALLUQLIDIR, AGAR U:  
+To'g'rilagichda&nbsp; oldin ulangan bo'lsa  
+To'g'rilagichda keyin ulangan bo'lsa  
+Filtrdan keyin ulangan bo'lsa  
+Stabilizatorlarni oldin yoki keyin ulab bo'lmaydi.  
+DVIGATEL - GENERATORLARI, TIRISTOR YOKI IONLI O'ZGARTIRGICHLAR &hellip;&hellip;&hellip; UCHUN ISHLATILADI.  
+Sanoat chastotasining o'zgaruvchan tokini (50 Hz) yuqori va yuqori chastotali tokka aylantirish  
+Sanoat chastotasining o'zgaruvchan tokini (60Hz) yuqori chastotali tokka aylantirish  
+Sanoat chastotasining o'zgaruvchan tokini (60Hz) yuqori chastotali oqimlarga aylantirish  
+Sanoat chastotasining o'zgaruvchan tokini (50Hz) chastotaning ko'paygan tokka o'tkazish.  
+YUQORI STABILLASHDA KUCHLANISH VA TOKNING RO'HSAT ETILADIGAN O'ZGARIShI NEChA % -GACHA?  
+0,1 - 1 % gacha  
+1-5% gacha.  
+5 % gacha.  
+1-50 % gacha  
+KICHIK STABILLASHDA KUCHLANISH VA TOKNING RO'HSAT ETILADIGAN O'ZGARIShI NECHA % -GACHA?  
+5 % gacha  
+67% gacha  
+50% gacha  
+1% gacha  
+&hellip;&hellip;&hellip;&hellip; DC/DC KONVERTORLARI IQTISODIY JIHATDAN SAMARALI VA IXCHAM MANBALAR SIFATIDA ISHLATILADI.  
+Yuqori&nbsp; kuchlanishlarda&nbsp;  
+Yuqori chastotalarda  
+Doimiy toklarda  
+Yuqori quvvatlarda  
+PULSATSIYA KOEFFITSIENTI К<sub>p</sub>=1,57 ga TENG BO'LSA QAYSI TO'G'RILAGICHGA TEGISHLI?  
+Bir yarim&nbsp; davrli&nbsp; to'g'rilagich  
+Ikki yarim davrli to'g'rilagich&nbsp;  
+Ko'priksimon to'g'rilagich  
+Tiristorli to'g'rilagich  
+RADIOELEKTRON APPARATURA ELEKTR TA'MINOTI MANBAI O'ZGARTIRGICHI TRANZISTORLARINI XIMOYALASH QANDAY AMALGA OSHIRILADI?  
+Boshqarish&nbsp; sxemasi orqali,&nbsp; u ortqcha yuklanish haqida himoya rezistoridan signal&nbsp; oladi  
+Chiqish&nbsp; LC&nbsp; filtri&nbsp; orqali  
+Kirish&nbsp; impulsli&nbsp; stabilizatori&nbsp; orqali  
+Generator&nbsp; orqali  
+TRANSFORMATSIYA KOEFFITSIENTI .............. GA TENG.  
+K<sub>t&nbsp;</sub>= E<sub>1&nbsp;</sub>/ E<sub>2&nbsp;</sub>= W<sub>1</sub>/W<sub>2</sub>  
+K<sub>t</sub>=E<sub>2</sub>/E<sub>1</sub>=W<sub>1</sub>/W<sub>2</sub>  
+K<sub>t</sub>=E<sub>1</sub>/E<sub>2</sub>=W<sub>2</sub>/W<sub>1</sub>  
+K<sub>t</sub>=E<sub>1</sub>*E<sub>2</sub>=W<sub>2</sub>*W<sub>1</sub>  
+TRANSFORMATORNING BIRLAMCHI CHO'LG'AMIDAGI O'RAMLAR SONI IKKILAMCHI CHO'LG'AMDAGI O'RAMLAR SONIDAN 2 BARAVAR KO'P BO'LSA TRANSFORMATORNING IKKINCHI CHO'LG'AMIDAGI KUCHLANISH NIMAGA TENG?  
+2 U;  
+U;  
+U/2;  
+2/3U;  

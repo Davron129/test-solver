@@ -1,0 +1,4853 @@
+[
+  {
+    "question": "QUYOSH NURLANISHINI TOʼGʼRIDAN-TOʼGʼRI OʼZGARTIRISH UCHUN ____?_____ DAN FOYDALANILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "yarim oʼtkazgichli materiallar;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "quyosh batareyalari;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "tranzistor;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "yoruqlik diodi;  "
+      }
+    ]
+  },
+  {
+    "question": "CHASTOTAMETR &hellip;&hellip;&hellip; O'LCHASHGA MO'LJALLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Gertsni;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvatni;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni;  "
+      }
+    ]
+  },
+  {
+    "question": "QUYOSH VA SHAMOL ENERGIYASI QAYSI ENERGIYA TURIGA KIRADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Noan'anaviy energiya manbalari;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "An'anaviy energiya manbalari;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qayta tiklanmaydigan energiya manbalari;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qayta tiklanadigan energiya manbalari;  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "LS-kontur;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistor;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitron;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor;  "
+      }
+    ]
+  },
+  {
+    "question": "O'TKAZUVCHANLIKNING O'LCHOV BIRLIGI NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Simens;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Om;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Genri;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Joul;  "
+      }
+    ]
+  },
+  {
+    "question": "ISHONCHLI VA UZLUKSIZ ELEKTR TA'MINOTI NUQTAI NAZARIDAN ELEKTR ENERGIYASINI QABUL QILUVCHILAR TOIFASI NECHTA.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Uch toifaga.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'rt toifaga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Oltita toifaga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki toifaga  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ENERGIYASINI .................... UZATISH ENERGIYA ISROFINI KAMAYTIRADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Katta kuchlanishda.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kichik kuchlanishda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Barcha javoblar mos keladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Pulslanuvchi kuchlanishda  "
+      }
+    ]
+  },
+  {
+    "question": "FILTRLARDA KETMA-KET ELEMENTLAR SIFATIDA &hellip;&hellip;.. ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kondensatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Induktivlik, rezistorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikrosxemalar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar  "
+      }
+    ]
+  },
+  {
+    "question": "AVTOTRANSFORMATOR .................... IBORAT BO'LADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bitta cho'lg'amdan (birlamchi va ikkilamchi cho'lg'am)  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkita cho'lg'amdan (birlamchi va ikkilamchi cho'lg'am)  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uchta cho'lg'amdan (birinchi, ikkinchi va uchinchi cho'lg'amlar)  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'rtta cho'lg'amdan (ikkkita birlamchi va ikkilamchi cho'lg'amlar)  "
+      }
+    ]
+  },
+  {
+    "question": "DIYOD ........ XUSUSIYATIGA EGA.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bir tomonlama o'tkazuvchanlik  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Teskari o'tkazuvchanlik  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektron o'tkazuvchanlik  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki tomonlama o'tkazuvchanlik  "
+      }
+    ]
+  },
+  {
+    "question": "INDUKTIVLIKNING O'LCHOV BIRLIGI  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Genri  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Farada  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Vatt  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Volt  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ENERGIYASINI YIGʼISHGA VA KERAK BOʼLGANDA BU ENERGIYADAN FOYDALANISHGA IMKON BERADIGAN ASBOBLAR __?__DEYILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Akkumulyator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qoʼsh elektr qatlami kondensator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Zaryadlagich  "
+      }
+    ]
+  },
+  {
+    "question": "VOLTMETR &hellip;&hellip;&hellip; O'LCHASHGA MO'LJALLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kuchlanishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvatni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Energiyani  "
+      }
+    ]
+  },
+  {
+    "question": "IKKILAMCHI ELEKTR TA'MINOTI MANBALARIGA QANADAY QURILMALAR KIRADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Transformatorlar, to'g'rilagichlar, o'zgartirgichlar va h.k..  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchaytirgichlar, cheklagichlar, detektorlar va h.k.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Generatorlar, akkumulatorlar, quyosh elementlari va h.k.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzatkichlar, qabullagichlar, chastota o'zgartirgichlari va h.k.  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARMAS KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilitron.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "LS-kontur  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diod  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORDA MAGNIT O'ZAK NIMA UCHUN KERAK  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Magnit qarshilikni kamaytirish uchun.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Magnit oqimni qosil qilish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Cho'lg&lsquo;amlarini o'rnatish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Magnit yurituvchi kuch qosil qilish uchun  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTI TIZIMI NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iste'molchilarni elektr energiyasi bilan ta'minlash uchun mo'ljallangan elektr qurilmalari to'plami.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Iste'molchilarni elektr energiyasi bilan ta'minlash uchun mo'ljallangan qurilmalar to'plami  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini ta'minlash uchun mo'ljallangan elektr inshootlari to'plami  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Iste'molchilarni elektr energiyasi bilan ta'minlashga mo'ljallangan elektr inshootlarining ishlashi  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING ISHLASH PRINSIPI .................... ASOSLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektromagnit induksiya qonuniga.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kirxgof qonuniga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper qonuniga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Om qonuniga  "
+      }
+    ]
+  },
+  {
+    "question": "......... STABILIZATSIYA KOEFFITSENTI DEYILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilizatorning kirishidagi kuchlanish o'zgarishini chiqishda kuchlanish o'zgarishiga nisbati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatorning kirishidagi tok kuchining o'zgarishi va chiqishidagi tok kuchining o'zgarishiga nisbati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishining o'zgarishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishi va tokining o'zgarishi  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN TOK DROSSELINING ASOSIY PARAMETRI -  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Induktivligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sig'imi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qarshiligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish kuchlanishi  "
+      }
+    ]
+  },
+  {
+    "question": "DIYODDA QANCHA (p-n) O'TKAZUVCHANLIK BOR?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1 ta  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2 ta  "
+      },
+      {
+        "isTrue": false,
+        "answer": "3 ta  "
+      },
+      {
+        "isTrue": false,
+        "answer": "7&nbsp;ta  "
+      }
+    ]
+  },
+  {
+    "question": "AN'ANAVIY ELEKTR ENERGIYA MANBALARIGA .......... KIRADI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Issiqlik, gidro, atom energiyalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Shamol,&nbsp;suv oqimi,&nbsp;quyosh energiyalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik,&nbsp;atom,&nbsp;suv oqimi&nbsp;energiyalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Shamol,&nbsp;quyosh, suv oqimi&nbsp;energiyalari  "
+      }
+    ]
+  },
+  {
+    "question": "АKKUMULYATORLARNI QOʼLLANISH SOHALARIGA QARAB, UNI XAR XIL USULLARDA ZARYADLASH MUMKIN:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tezkor va davriy zaryadlash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Davriy zaryadlash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tezkor zaryadlash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq  "
+      }
+    ]
+  },
+  {
+    "question": "VARMETR &hellip;&hellip;&hellip;.. O'LCHASHGA MO'LJALLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Reaktiv quvvatni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Energiyani  "
+      }
+    ]
+  },
+  {
+    "question": "BIRLAMCHI ELEKTR TA'MINOTI MANBALARIGA QANADAY QURILMALAR KIRADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Generatorlar, akkumulatorlar, quyosh elementlari va h.k..  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchaytirgichlar, cheklagichlar, detektorlar va h.k.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorlar, to'g'rilagichlar, o'zgartirgichlar va h.k.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzatkichlar, qabullagichlar chastota o'zgartirgichlari va h.k.  "
+      }
+    ]
+  },
+  {
+    "question": "PARAMETRIK STABILIZATORLARDA QANDAY ELEMENTLAR XOSSALARIDAN FOYDALANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Nochiziqli elementlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli elementlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Raqamli elementlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mantiqiy elementlar  "
+      }
+    ]
+  },
+  {
+    "question": "QANDAY ELEMENT INDUKTIV ELEMENT DEB ATALADI  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Magnit maydon energiyasini jamlash xususiyatiga ega bo'lgan.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik energiyasiga aylantirish xususiyatiga ega bo'lgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr maydon energiyasini jamlash xususiyatiga ega bo'lgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektromagnit energiyani boshqa tur energiyaga aylantirish xususiyatiga ega bo'lgan  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTI - ..................... DEYILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iste'molchilarni elektr energiyasi bilan ta'minlash.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini mexanika energiyaga aylantirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mexanik energiyani elektr energiyasiga aylantirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Iste'molchilar uchun elektr ta'minoti  "
+      }
+    ]
+  },
+  {
+    "question": "TRNASFORMATORNING MAGNIT O'TKAZGICHINI .................. MATERIALIDAN TAYYORLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektrotexnik po'lat.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Alyumindan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Misdan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Temirdan  "
+      }
+    ]
+  },
+  {
+    "question": ".......... FILTRLASH KOEFFITSIENTI DEYILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Filtr kirishidagi pulsatsiya koeffitsientining filtr chiqishidagi pulsatsiya koeffitsientiga nisbati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtr chiqishidagi pulsatsiya koeffitsienti va filtr kirishidagi pulsatsiya koeffitsientining yig'indisi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtrning kirish va chiqishidagi pulsatsiya koeffitsientlari o'rtasidagi farq  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtrning kirish va chiqishidagi pulsatsiya koeffitsientlarining ko'paytmasi  "
+      }
+    ]
+  },
+  {
+    "question": "AVTOTRANSFORMATORLARDA ........... UNING KAMCHILIGI HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tarmoq va yuklama o'rtasida elektr aloqasining mavjudligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tarmoq va yuklama o'rtasida elektr aloqasining mavjud emasligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tarmoq va yuklama o'rtasidagi mexanik aloqaning etishmasligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tarmoq va yuklama o'rtasidagi fizik aloqaning etishmasligi  "
+      }
+    ]
+  },
+  {
+    "question": "TESKARI ULANGAN DIOD -  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tok&nbsp; o'tkazmaydi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'z yo'nalishini o'zgartiradi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni boshqaradi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tok o'tkazadi  "
+      }
+    ]
+  },
+  {
+    "question": "QAYTA TIKLANMAYDIGAN ELEKTR ENERGIYA MANBALARI QAYSI JAVOBDA KELTIRILGAN:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Shamol,&nbsp; suv&nbsp; oqimi&nbsp; va&nbsp; quyosh&nbsp; energiyasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik, gidroelektr, atom energiyasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik, atom va suv oqimi energiyasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Shamol, quyosh va gidroelektr  "
+      }
+    ]
+  },
+  {
+    "question": "PASAYTIRUVCHI TRANSFORMATORNING QAYSI CHOʼLGʼAMIDA TOK KATTA BOʼLADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ikkinchisida;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Birinchisida.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama xarakteriga bogʼliq.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR SCHETCHIK &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. O'LCHOVIGA MO'LJALLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Energiyani;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvatni.  "
+      }
+    ]
+  },
+  {
+    "question": "ENERGIYANING QANDAY TURLARI QAYTA TIKLANUVCHI ENERGIYALARGA KIRADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Quyosh&nbsp; energiyasi, geotermal energiya, gidravlik energiya, shamol&nbsp; energiyasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quyosh energiyasi, atom energiyasi, shamol energiyasi, priliv energiyasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quyosh energiyasi, gidravlik energiya, shamol energiyasi, vodorod energiyasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quyosh energiyasi, biogaz energiyasi, shamol energiyasi, termoyadro energiyasi  "
+      }
+    ]
+  },
+  {
+    "question": "AKTIV FILTRLARDA FILTRLASH VAZIFASINI QANDAY ASBOBLAR BAJARADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlar&nbsp; va&nbsp; mikrosxemalar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diodlar va tiristorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossellar va kondensatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Rezistorlar va kondensatorlar  "
+      }
+    ]
+  },
+  {
+    "question": "KIRXGOFNING BIRINCHI QONUNI QAYSI JAVOBDA TO'G'RI KELTIRILGAN  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tugundagi&nbsp; toklarning algebraik yiqindisi nolga&nbsp; teng  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konturdagi toklarning algebraik yiqindisi nolga teng  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konturdagi kuchlanishlarning algebraik yiqindisi nolga teng  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tugundagi kuchlanishlarning algebraik yiqindisi nolga teng  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ENERGIYA TIZIMINING ELEKTR QISMI &hellip;&hellip;&hellip; HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr&nbsp; stantsiyalari qurilmalari va elektr energiya tizimining elektr tarmoqlari&nbsp; to'plami  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr stantsiyalari va elektr energiya tizimining elektr tarmoqlarining qurilmalari to'plami  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiya tizimining stansiyalari va elektr tarmoqlari elektr inshootlari to'plami  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Energiya tizimining elektr stantsiyalari va elektr tarmoqlari to'plami  "
+      }
+    ]
+  },
+  {
+    "question": "ENERGIYA RESURSI ......... .  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Inson&nbsp; tomonidan foydalanish mumkin bo'lgan energiyali moddiy&nbsp; ob'ekt  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Birlamchi energiyani o'zgartirish natijasida paydo bo'luvchi energiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Biror ishni bajarishda foydlaniladigan energiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Jismning ish bajarish qobiliyati  "
+      }
+    ]
+  },
+  {
+    "question": "IMPULSLI STABILIZATORLARDA ROSTLOVCHI TRANZISTOR QAYSI REJIMDA ISHLAYDI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kalit&nbsp; rejimida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli rejimda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kalit va chiziqli rejimda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "Г SHAKLIDAGI LC FILTRI SIG'IM VA KONDENSATORDAN IBORAT BO'LIB, BIRINCHI (KIRISH) ELEMENT QAYSI ELEMENTDAN BOSHLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Induktivlik;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sig'im.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qarshilik.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama.  "
+      }
+    ]
+  },
+  {
+    "question": "........ MAGNIT MAYDON INTENSIVLIGI HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Magnit induksiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tortishish kuchi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Havo oqimi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elekt yurituvchi kuch  "
+      }
+    ]
+  },
+  {
+    "question": "AN'ANAVIY ENERGIYA ............... ENERGIYA RESURSLARIGA ASOSLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ko'mir,&nbsp; neft&nbsp; va gaz  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Shamol va atom  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'mir, neft, gaz va quyosh  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'mir, neft, gaz va suv oqimi  "
+      }
+    ]
+  },
+  {
+    "question": "АGAR TAʼMINLASH MANBAIDAGI CHASTOTA 2 MARTA OSHSA, TRANSFORMATOR CHIQISHIDAGI EYUK QANDAY OʼZGARADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2&nbsp; marta ortadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2 marta kamayadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Oʼzgarmaydi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq  "
+      }
+    ]
+  },
+  {
+    "question": "SFORMATORNING MAGNIT O'TKAZGICHINI QAYSI MATERIALDAN TAYYORLASH AFZALROQ?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektrotexnik&nbsp; po'latdan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Alyuminiydan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Misdan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Temirdan  "
+      }
+    ]
+  },
+  {
+    "question": "QUYIDA KELTIRILGAN ELEMENTLARNING QAYSILARI BOSHQARISH VOSITALARI HISOBLANMAYDI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilash&nbsp; gurilmasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Releli himoya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Telemexanika vositalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Rostlagichlar  "
+      }
+    ]
+  },
+  {
+    "question": "PUL'SATSIYA KOEFFITSIENTI NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilangan&nbsp; kuchlanish k-nchi garmonika amplitudasining to'g'rilaigan kuchlanish o'rta qiymatiga&nbsp; nisbati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Harorat o'zgarishi bilai chiqish kuchlanishi o'zgarishini hisobga oluvchi koeffitsient  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Birlamchi va ikkilamchi cho'lg'amlardagi o'ramlar soni nisbati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Birlamchi va ikkilamchi cho'lg'amlardagi kuchlanishlar nisbati  "
+      }
+    ]
+  },
+  {
+    "question": "KIRXGOFNING IKKINCHI QONUNI QAYSI JAVOBDA TO'G'RI KELTIRILGAN  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Konturdagi&nbsp; kuchlanishlar algebraik yig&lsquo;indisi shu konturdagi EYUKlar algebraik yiqindisiga&nbsp; teng  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konturdagi toklar algebraik yiqindisi nolga teng  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konturdagi kuchlanishlar yiqindisi nolga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tugundagi kuchlanishlarning algebraik yiqindisi nolga teng  "
+      }
+    ]
+  },
+  {
+    "question": "TIRISTORNI QAYSI USLUB BILAN BOSHQARILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Fazaviy;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amplitudaviy.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Faza-impulsli.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q.  "
+      }
+    ]
+  },
+  {
+    "question": "EKVIVALENT TOK USULI NIMA UCHUN KERAK?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Moment;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tok.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qarshilik.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvatni aniqlash uchun.  "
+      }
+    ]
+  },
+  {
+    "question": "KENGLIK-IMPULSLI MODULYATSIYALI IMPULSLI STABILIZATORLARDA BOSHQARISH IMPULSINING .......... O'ZGARADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Impulsning&nbsp; kengligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Impulsning davri  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Pauzaning uzunligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "Г SHAKLIDAGI LC FILTRLARDA KIRISH ELEMENTI QAYSI ELEMENTDAN BOSHLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Induktivlik;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sig'im.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama.  "
+      }
+    ]
+  },
+  {
+    "question": "QARSHILIKNING TESKARI KATTALIGINI KO'RSATING, YA'NI&nbsp; 1/R ga&nbsp; TENG BO'LSA.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr&nbsp; o'tkazuvchanligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr kuchlanishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Absolyut dielektrik o'tkazuvchanlik  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr mustahkamlik  "
+      }
+    ]
+  },
+  {
+    "question": "AN'ANAVIY ENERGETIKADAGI ASOSIY MUAMMOLARDAN BIRI ......  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Issiqxona&nbsp; effekti  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Arzon tannarxi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqori samaradorlik  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tabiiy boylikni kamayishi  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING SALT ISHLASH REJIMIDA VATTMETR NIMANI KOʼRSATADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Magnit&nbsp; oʼzakdagi yoʼqotishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Choʼlgʼamlardagi yoʼqotishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkilamchi choʼlgʼamdagi yoʼqotishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq  "
+      }
+    ]
+  },
+  {
+    "question": "AMPERMETR &hellip;&hellip;&hellip;. O'LCHASHGA MO'LJALLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tokni;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aktiv quvvatni.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Reaktiv quvvatni.  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNIG ISHLASH PRINSIPI QANDAY QONUNGA ASOSLANGAN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektromagnit&nbsp; induksiyasi qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kulon qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bio-Savar qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Energiyaning saqlanish qonuni  "
+      }
+    ]
+  },
+  {
+    "question": "REZONANS FILTRLAR QAYSI QOLLARDA QO'LLANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Iste'molchi&nbsp; ma'lum bir garmonikaga sezgir bo'lganida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Katta kirish kuchlanishida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama toki katta bo'lganida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama toki kichik bo'lganida  "
+      }
+    ]
+  },
+  {
+    "question": "TUGUN NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr&nbsp; zanjirning kamida uch shoxobchasi birlashgan o'rni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr zanjir kirish qismalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki element qismalari birlashgan nuqta  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Shoxobcha toknning boshlanish nuqtasi  "
+      }
+    ]
+  },
+  {
+    "question": "STABILLASH ANIQLIGI BO'YICHA STABILIZATORLAR ..................... SINFLARIGA BO'LINADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kichik,&nbsp; o'rta, yuqori va o'ta yuqori stabillash.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kichik va yuqori stabillash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqori va o'ta yuqori stabillash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kichik, o'rtacha va yuqori stabillash  "
+      }
+    ]
+  },
+  {
+    "question": "KO'P CHO'LG'AMLI TRANSFORMATOR - ........ HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bitta&nbsp; asosiy va bir nechta ikkilamchi cho'lg'amli transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkita asosiy va bir nechta ikkilamchi cho'lg'amli transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkita asosiy va bitta ikkilamchi cho'lg'amli transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uchta asosiy va bitta ikkilamchi cho'lg'amli transformator  "
+      }
+    ]
+  },
+  {
+    "question": "RELELI IMPULSLI STABILIZATORLARDA BOSHQARISH IMPULSINING ......... O'ZGARADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Impulsning&nbsp; davri  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Impulsning kengligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Pauzaning uzunligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "SILLIQLOVCHI FILTRLAR &hellip;&hellip;&hellip;. ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ta'minot&nbsp; kuchlanishida&nbsp; pulsatsiyani&nbsp; bostirish&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilagichda (Uchiq) kuchlanishini stabillash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilagichda (Ichiq) tokini stabillash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilagichda (Ukir) kuchlanishini stabillash uchun  "
+      }
+    ]
+  },
+  {
+    "question": "QANDAY TOK VAQT O'TISHI BILAN O'ZGARMAYDI, YA'NI YO'NALISHI VA KATTALIGI BO'YICHA DOIMIY HISOBLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Doimiy&nbsp; tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mutlaq tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Induktiv tok  "
+      }
+    ]
+  },
+  {
+    "question": "DUNYO BO'YICHA .......... ENG KATTA ATOM ELEKTR STANTSIYALARI JOYLASHGAN MAMLAKAT HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Amerika&nbsp; qo'shma&nbsp; shtatlari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Fransiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Rossiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Germaniya  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING SALT ISHLASH REJIMIDA ISTEʼMOL QILADIGAN QUVVATI NIMAGA SARF BOʼLADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Oʼzakdagi&nbsp; yoʼqotishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Choʼlgʼamdagi yoʼqotishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Magnit oqimini hosil qilishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq.  "
+      }
+    ]
+  },
+  {
+    "question": "GENERATORLARNING UYG'OTISH TIZIMIGA JAVOBLARDAN BIRI KIRMAYDI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Aylanish&nbsp; tizimining&nbsp; boshqaruv&nbsp; qurilmasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tok manbai  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Generatorning uyg'otish cho'lgami  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Generatorning uyg'otish boshqaruv qurilmasi  "
+      }
+    ]
+  },
+  {
+    "question": "ENERGETIKA TIZIMI DEB NIMAGA AYTILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bir-biri&nbsp; bilan bog'langan, holatlari umumiy boshqariluvchi elektr stansiyalari, elektr va issiqlik tarmoqlari&nbsp; birlashmasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bitta markazdan turib boshqariluvchi stansiyalar, podstansiyalar va elektr uzatish liniyalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bu yagona boshqarish tizimi va yagona yuklama grafigiga ega bo'lgan ob'ekt  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyani ishlab chiqarish va taqsimlash jarayoni bilan a'loqada bo'lgan elektr stansiyalari, podstansiyalari va liniyalari  "
+      }
+    ]
+  },
+  {
+    "question": "SILLIQLOVCHI FILTRLARDA SIG'IM NIMA UCHUN YUKLAMAGA PARALLEL ULANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kondensator&nbsp; o'zgaruvchan tok bo'yicha kichik qarshilikka&nbsp; ega  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensator o'zgaruvchan tok bo'yicha katta qarshilikka ega  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aktiv-sig'im yuklama bo'lishi uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aktiv-induktiv yuklama bo'lishi uchun  "
+      }
+    ]
+  },
+  {
+    "question": "SHOXOBCHA NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ikkita&nbsp; tugun orasida elektr zanjir elementlarining ketma-ket ulangan&nbsp; qismi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr zanjirning kirish qismalari  "
+      },
+      {
+        "isTrue": false,
+        "answer": "RLC dan iborat elektr zanjirning qismi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr zanjirning tarmoqlangan qismi  "
+      }
+    ]
+  },
+  {
+    "question": "ROSTLASH USLUBI BO'YICHA UZLUKSIZ ROSTLOVCHI KOMPENSATSION STABILIZATORLAR NECHA TURGA BO'LINADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ketma - ket&nbsp; va&nbsp; parallelga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzlukli va uzluksizga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Parallelga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ketma-ketga  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATOR CHO'LG'AMLARIDA PAYDO BO'LADIGAN <strong>EYUK</strong> KATTALIGI QUYIDAGILARGA BOG'LIQ?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Cho'lg'amning&nbsp; o'ramlar&nbsp; soni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Magnit oqimning o'zgarish tezligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tarmoq chastotasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sanab o'tilgan barcha omillar  "
+      }
+    ]
+  },
+  {
+    "question": "INVERTORLARDA ........ JARAYONI AMALGA OSHIRILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Invertorlash;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konvertorlash.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchaytirish.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q.  "
+      }
+    ]
+  },
+  {
+    "question": "TA'MINOT KUCHLANISHIDA PULSATSIYANI BOSTIRISH UCHUN ...... ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Silliqlovchi&nbsp; filtr  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanish ko'paytirgichlari  "
+      }
+    ]
+  },
+  {
+    "question": "....... TO'G'RILAGICH QURILMASI HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan&nbsp; tokni&nbsp; o'zgarmas&nbsp; tokka&nbsp; aylantiruvchi&nbsp; qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tokni o'zgaruvchan tokka aylantiruvchi qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy energiyani o'zgaruvchan energiyaga aylantiruvchi qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan tokni o'zgarmas tokka rostlovchi qurilma  "
+      }
+    ]
+  },
+  {
+    "question": "EKOLOGIK TOZA UGLEVODOROD MANBAI .......... HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Gaz;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yog'.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Atom.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Suv.  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATOR CHOʼLGʼAMLARIDAGI KIRISH QARSHILIGINI QAYSI REJIMDA ANIQLASH MUMKIN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Salt&nbsp; ishlash&nbsp; rejimida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qisqa tutashuv rejimida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama rejimida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR STANSIYALARI NIMA UCHUN XIZMAT QILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr&nbsp; energiya&nbsp; ishlab&nbsp; chiqarish&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bug' ishlab chiqarish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Suvni energiyasini foydali energiyaga aylantrish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bug'ni energiyasi mexanik energiyaga aylantirish uchun  "
+      }
+    ]
+  },
+  {
+    "question": "KUCH TRANSFORMATORINING VAZIFASI NIMADAN IBORAT?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kuchlanishni&nbsp; o'zgartirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvatni o'zgartirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tokni rostlash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvatni rostlash  "
+      }
+    ]
+  },
+  {
+    "question": "TO'G'RILAGICH DEB NIMAGA AYTILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan&nbsp; tokni o'zgarmas tokka aylantirib beruvchi&nbsp; qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tokni o'zgaruvchan tokka aylantirib beruvchi qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan tok energiyasini o'zgartirib beruvchi qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tok energiyasini o'zgartirib beruvchi qurilma  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR POTENSIALNING O'LCHOV BIRLIGI QAYSI JAVOBDA TO'G'RI KELTIRILGAN  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Volt;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Vatt.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Genri.  "
+      }
+    ]
+  },
+  {
+    "question": "PARAMETRIK STABILIZATORLARDA QANDAY ELEMENTLAR XOSSALARIDAN FOYDALANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Nochiziqli&nbsp; elementlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli elementlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Nochiziqli va chiziqli elementlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "TOK TRANSFORMATORLARI QUYIDAGI TURDAGI TRANSFORMATORLARGA TEGISHLI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Maxsus&nbsp; mo'ljallangan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Muvofiqlashtiruvchi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuch  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'paytirish  "
+      }
+    ]
+  },
+  {
+    "question": "O'LCHOVCHI ELEMENTDA QO'SHIMCHA DIOD NIMA UCHUN QO'YILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Termokompensatsiyani&nbsp; ta'minlash&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish tokini oshirish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish kuchlanishini oshirish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "............. SILLIQLOVCHI Г SHAKLIDAGI RC FILTRI ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Katta&nbsp; yuklama&nbsp; toklarida&nbsp; (I<sub>yu</sub>)  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kichik yuklama toklarida (I<sub>yu</sub>)  "
+      },
+      {
+        "isTrue": false,
+        "answer": "~U<sub>s</sub> ning katta o'zgarishlarida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishning kichik o'zgarishlarida  "
+      }
+    ]
+  },
+  {
+    "question": "TO'G'RILAGICHLAR &hellip;&hellip;&hellip;. BO'LADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bir&nbsp; fazali va ko'p&nbsp; fazali  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki fazali  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uch fazali  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki va uch fazali  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR DVIGATELLARINING KUCHLANISHI ........ BIRLIKLARIDA O'LCHANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Volt;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ghertz.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Watt.  "
+      }
+    ]
+  },
+  {
+    "question": "STABILLASH ANIQLIGI BOʼYICHA STABILIZATORLAR NECHTA SINFGA BOʼLINADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "kichik,&nbsp; oʼrta, yuqori va oʼta yuqori&nbsp; stabillash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "kichik va yuqori stabillash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "yuqori va oʼta yuqori stabillash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "kichik, oʼrtacha va yuqori stabillash  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORLARDA OʼZGARADIGAN PARAMETRLAR QAYSI JAVOBDA TOʼGʼRI KELTIRILGAN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tok,&nbsp; kuchlanish, fazalar soni,&nbsp; chastota  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanish va chastota  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tok, fazalar soni, chastota  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq.  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING ISHLASH PRINSIPI QANDAY QONUNGA ASOSLANGAN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektromagnit&nbsp; induksiya&nbsp; qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kirxgof qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Nyuton qonuni  "
+      }
+    ]
+  },
+  {
+    "question": "TOKLI O'TKAZGICH ATROFIDA PAYDO BO'LUVCHI MAGNIT OQIMI KUCH CHIZIQLARI YO'NALISHI QAYSI QONUN YOKI QOIDA BO'YICHA ANIQLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Parma&nbsp; qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'ng qo'l qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektromagnit induksiyasi qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Lens prinsipi  "
+      }
+    ]
+  },
+  {
+    "question": "SILLIQLOVCHI FILTRLARDA INDUKTIVLIK NIMA UCHUN YUKLAMAGA KETMA-KET ULANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Drossel&nbsp; o'zgaruvchan tok bo'yicha katta qarshilikka&nbsp; ega  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossel o'zgaruvchan tok bo'yicha kichik qarshilikka ega  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aktiv-induktiv yuklama bo'lishi uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aktiv-sig'im yuklama bo'lishi uchun  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TOKI BU:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Generator&nbsp; EYUK ta'sirida elektr zaryadlarning tartibli&nbsp; xarakati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektronlarning betartib xarakati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "So'nuvchi tebranish jarayon  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektronlar xarakati  "
+      }
+    ]
+  },
+  {
+    "question": "ISHLASH PRINSIPIGA KO'RA STABILIZATORLAR ............ TURLARIGA AJRATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Prametrik,&nbsp; kompensatsion va impulsli&nbsp; stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Paremetrik stabilizatorlar, impulsli stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ferrorezonansli va parametrik stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ferrarezonansli, prametrik, kompensatsion va impulsli stabilizatorlar  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATOR &hellip;&hellip;&hellip;&hellip;.. O'ZGARTIRISH UCHUN MO'LJALLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan&nbsp; kuchlanishni o'zgaruvchan&nbsp; kuchlanishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqoridagi barcha o'zgartirishlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan kuchlanishni doimiy kuchlanishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan kuchlanishni o'zgarmas kuchlanishga  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARMAS KUCHLANISHNI UZLUKSIZ ROSTLOVCHI STABILIZATORLARIDA ROSTLOVCHI ELEMENT SIFATIDA QANDAY ASBOBLAR ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlar&nbsp; va&nbsp; tiristorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossellar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitronlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlar  "
+      }
+    ]
+  },
+  {
+    "question": "BIRINCHI BO'LIB 3 FAZALI O'ZGARUVCHAN TOK ELEKTR TA'MINOTI QACHON O'RNATILGAN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1893&nbsp; yilda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1903 yilda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1877 yilda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1898 yilda  "
+      }
+    ]
+  },
+  {
+    "question": "QAYSI FILTRLARDA MASSASI VA TAN NARXI KAMROQ?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "RC&nbsp; FILTRLARDA  "
+      },
+      {
+        "isTrue": false,
+        "answer": "LRC&nbsp;FILTRLARDA  "
+      },
+      {
+        "isTrue": false,
+        "answer": "LR&nbsp;FILTRLARDA  "
+      },
+      {
+        "isTrue": false,
+        "answer": "LC&nbsp;FILTRLARDA  "
+      }
+    ]
+  },
+  {
+    "question": "GENERATOR ISHLAB CHIQARGAN ELEKTR TOKI ....... .  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektronlarning&nbsp; yo'naltirilgan&nbsp; harakati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Daryodagi suv oqimi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr kuchlanishi va toki  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Atomlarning elektronlar, protonlar va neytronlarga bo'linishi  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ENERGIYASINI QANDAY KUCHLANISHDA UZATISH ENERGIYA ISROFINI KAMAYTIRADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Katta&nbsp; kuchlanishda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kichik kuchlanishda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishga bog'liq emas  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Pulslanuvchi kuchlanishda  "
+      }
+    ]
+  },
+  {
+    "question": "IKKILAMCHI ENERGIYA NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Maxsus&nbsp; qurilmada o'zgartirish natijasida paydo bo'luvchi&nbsp; energiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tabiatda bevosita olinuvchi energiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Moddiy ob'ektlar tarkibidagi energiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Organik yoqilg'i tarkibidagi energiya  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR MASHINALARDA QANDAY ENERGIYA ELEKTR ENERGIYASIGA O'ZGARTIRILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mexanik;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kinetik.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kimyoviy.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ZANJIRI BU:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr&nbsp; energiya manba va ist'emolchilar o'zaro o'tkazgichlar yordamida ulanib, elektr tok uchun berk zanjir tashkil qilgan qurilmalar&nbsp; majmuasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiya ist'emolchilaridan tashkil topgan qurilmalar majmuasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiya o'tkazgichlaridan tashkil topgan qurilmalar majmuasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiya manbalaridan tashkil topgan qurilmalar majmuasi  "
+      }
+    ]
+  },
+  {
+    "question": "SILLIQLOVCHI FILTRINING FILTRLASH KOEFFITSIENTI QUYIDAGILARGA BOG'LIQ:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yuqorida&nbsp; sanab&nbsp; o'tilgan&nbsp; barchasiga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensator sig'imi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtrning induktivligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilangan kuchlanish chastotasi  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARMAS TOK PARAMETRIK STABILIZATORLARIDA ASOSIY ELEMENT SIFATIIDA QANDAY ASBOB ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Maydoniy&nbsp; tranzistorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossellar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabistorlar  "
+      }
+    ]
+  },
+  {
+    "question": "TO'G'RILASH SXEMALARINING ASOSIY PARAMETRLARI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Transformatordan&nbsp; foydalanish&nbsp; koeffitsienti  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqoridagi ko'rsatkichlarning barchasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Pulsatsiya keffitsienti va asosiy garmonika chastotasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Teskari kuchlanish va diyoddagi to'g'ri tok  "
+      }
+    ]
+  },
+  {
+    "question": "AGAR TRANSFORMATORNING IKKILAMCHI CHO'LG'AMLAR SONINI OSHIRSAK, TRANSFORMATORDA NIMA KUZATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Transformatorning&nbsp; ikkilamchi cho'lg'amlarida kuchlanishini oshishi&nbsp; kuzatiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning birlamchi cho'lg'amlarida tok oqimi kamayishi kuzatiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning akustik shovqinining oshishi kuzatiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning ikkilamchi cho'lg'amlarida kuchlanishini kamayishi kuzatiladi  "
+      }
+    ]
+  },
+  {
+    "question": "TO'G'RILANGAN TOK QIYMATI KATTA BO'LGAN TO'G'RILAGICH KO'RSATILGAN JAVOBNI TOPING.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Uch&nbsp; fazali&nbsp; to'g'rilagich  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki yarim davrli to'g'rilagich  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'priksimon to'g'rilagich  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir yarim davrli to'g'rilagich  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR DVIGATELLARINING ELEKTR TOKINI O'LCHASH UCHUN ......... O'LCHASH QURILMASI ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ampermetr;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Voltmetr.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Vattmetr.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Faza o'lchagich.  "
+      }
+    ]
+  },
+  {
+    "question": "OʼZGARMAS KUCHLANISHNI UZLUKSIZ ROSTLOVCHI STABILIZATORLARIDA ROSTLOVCHI ELEMENT SIFATIDA QANDAY ASBOBLAR ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlar&nbsp; va&nbsp; tiristorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossellar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitronlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlar  "
+      }
+    ]
+  },
+  {
+    "question": "KUCHLANISH ISROFI NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr&nbsp; ta'minoti tizim elementi boshi va oxiridagi kuchlanishlarning arifmetik&nbsp; farqi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr ta'minoti tizim elementi boshi va oxiridagi kuchlanish o'zgarishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr ta'minoti tizim elementi boshi va oxiridagi kuchlanish pasayishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr ta'minoti tizim elementi boshi va oxiridagi kuchlanish boshqarilishi  "
+      }
+    ]
+  },
+  {
+    "question": "QAYTA TIKLANUVCHI ENERGIYA RESURSI NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tabiat&nbsp; tomonidan uzluksiz ravishda tiklanib turuvchi energiya&nbsp; r esursi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Barcha turdagi organik yoqilg'ilar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Neft va neft maxsuloti  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sun'iy ravishda qayta tiklanuvchi energiya resursi  "
+      }
+    ]
+  },
+  {
+    "question": "PASSIV FILTRLAR QANDAY ELEMENTLARDAN TASHKIL TOPADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Drossellar, kondensatorlar&nbsp; va&nbsp; rezistorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar, mikrosxemalar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diodlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlar  "
+      }
+    ]
+  },
+  {
+    "question": "QANDAY ELEMENT KONDENSATOR DEB ATALADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr maydon energiyasini jamlash xususiyatiga&nbsp; ega&nbsp; bo'lgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Magnit maydon energiyasini jamlash xususiyatiga ega bo'lgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik energiyasiga aylantirish xususiyatiga ega bo'lgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqa tur energiyaga aylantirish xususiyatiga ega bo'lgan  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "LC - kontur  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitron  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistor  "
+      }
+    ]
+  },
+  {
+    "question": "..................&nbsp;&nbsp; O'ZGARUVCHI KUCHLANISHNI O'ZGARMAS KUCHLANISHGA O'ZGARTIRISHNI TA'MINLAYDI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilagich;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Silliqlsh filtri.  "
+      }
+    ]
+  },
+  {
+    "question": "KOMPENSATSION STABILIZATORLAR ...... ELEMENTLARIDAN YIG'ILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlarda&nbsp; va&nbsp; integral&nbsp; mikrosxemalarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossellarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitronlarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlarda  "
+      }
+    ]
+  },
+  {
+    "question": "TOK TRANSFORMATORLARI ................. REJIMDA ISHLAYDI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Qisqa&nbsp; tutashuv  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Salt ishlash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Avariyaviy  "
+      }
+    ]
+  },
+  {
+    "question": "......... AVTOTRANSFORMATORNING ASOSIY KAMCHILIKGI HISOBLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "W<sub>1</sub>&nbsp; cho'lg'amining W<sub>2</sub>&nbsp; ho'lg'ami&nbsp; bilan&nbsp; galvanik&nbsp; aloqasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Gabarit o'lchamlarining kattaligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish kuchlanish U<sub>2</sub> ni kichik oraliqda tartibga solish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish kuchlanish U<sub>2</sub> ning past barqarorligi  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATOR KIRISH CHO'LG'AMLARIGA FAQAT ....... TOK BERILISHI MUMKIN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan va doimiy.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Barch javob to'g'ri.  "
+      }
+    ]
+  },
+  {
+    "question": "KOMPENSATSION STABILIZATORLAR QAYSI ELEMENTLARDA YIGʼILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlarda va integral&nbsp; mikrosxemalarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossellarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitronlarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlarda  "
+      }
+    ]
+  },
+  {
+    "question": "INVERTORLARDA O'ZGARTIRISH ELEMENTLARI SIFATIDA &hellip;&hellip;&hellip;. QO'LLANILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tiristorlar;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Rezistorlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diodlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar.  "
+      }
+    ]
+  },
+  {
+    "question": "TUZILISHI BO'YICHA AVTOTRANSFORMATORNING TRANSFORMATORDAN FARQI NIMADAN IBORAT?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Chulg'amlar&nbsp; orasida&nbsp; elektr&nbsp; aloqaning&nbsp; mavjudligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni rostlash imkoni mavjudligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tok kuchini rostlash imkoni mavjudligi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Parchalangan cho'lg'amning mavjudligi  "
+      }
+    ]
+  },
+  {
+    "question": "AKTIV YUKLAMADA ISHLAYOTGAN IKKI YARIM DAVRLI TO'G'RILASH SXEMASIDAGI BOSHQARILADIGAN TO'G'RILAGICHDA TESKARI ULANGAN DIOD QANDAY VAZIFANI BAJARADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Drossel energiyasini tiristor yopiq bo'lganida&nbsp; yuklamaga&nbsp; uzatish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qaytar toklardan himoyalash  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kommutatsiyalash  "
+      }
+    ]
+  },
+  {
+    "question": "CHIZIQLI ELEMENT DEB&nbsp; ......... .  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "VAX&nbsp; chiziqli&nbsp; bo'lgan&nbsp; elementga&nbsp; aytiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "VAX sinusoidal bo'lgan elementga aytiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "VAX nosinusoidal bo'lgan elementga aytiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "VAX nochiziq bo'lgan elementga aytiladi  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARMAS KUCHLANISH PARAMETRIK STABILIZATORLARDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOB ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilitron;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossel.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "LC-kontur.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTIDAGI KO'PRIKSIMON TO'G'RILAGICH ............... TA'MINLAYDI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchi kuchlanishni o'zgarmas&nbsp; kuchlanishga&nbsp; o'zgartirishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchi kuchlanishni doimiy kuchlanishga o'zgartirishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas kuchlanishni o'zgaruvchi kuchlanishga o'zgartirishni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy kuchlanishni o'zgaruvchi kuchlanishga o'zgartirishni  "
+      }
+    ]
+  },
+  {
+    "question": "ROSTLOVCHI ELEMENTLARINING ULANISHI BO'YICHA STABILIZATORLAR NECHA TURGA BO'LINADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ketma-ket&nbsp; va&nbsp; parallel  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ketma- ket  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Parallel  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uzluksiz  "
+      }
+    ]
+  },
+  {
+    "question": "INVERTORLARDA KALIT ELEMENTI SIFATIDA QANDAY ELEMENTLAR ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlar&nbsp; va&nbsp; tiristorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diodlar va stabilitronlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mikrosxemalar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtrlar  "
+      }
+    ]
+  },
+  {
+    "question": "DROSSEL BU -  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan tok zanjirida sozlanadigan va sozlanmaydigan induktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik&nbsp; elektromagnit&nbsp; qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan tok zanjirida sozlanadigan va sozlanmaydigan aktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik elektromagnit qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tok zanjirida sozlanadigan va sozlanmaydigan induktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik elektromagnit qurilma  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tok zanjirida sozlanadigan va sozlanmaydigan aktiv qarshilik sifatida foydalanish uchun mo'ljallangan statik elektromagnit qurilma  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR BO'LMAGAN KATTALIKNI ELEKTRGA AYLANTIRADIGAN HAR QANDAY ELEKTR STANTSIYASINING ELEMENTI NIMA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Generator;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Dvigatel.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilash qurilmalari.  "
+      }
+    ]
+  },
+  {
+    "question": "QOʼYIDAGI SXEMADA VD1 DIOD NIMA UCHUN QOʼYILGAN? img src=\"https://lms.tuit.uz/storage/ITET/QOYIDAGI SXEMADA VD1 DIOD NIMA UCHUN QOYILGAN.png\" alt=\"\" width=\"537\" height=\"224\" />  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Sxemada akkumulyator batareyasini quyosh elementidan zaryadlanishini oldini olish uchun&nbsp; VD1&nbsp; diod&nbsp; qoʼyilgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sxemada toʼgʼirlash uchun VD1 diod qoʼyilgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sxemada akkumulyator batareyasini quyosh elementidan zaryad olish uchun VD1 diod qoʼyilgan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq  "
+      }
+    ]
+  },
+  {
+    "question": "O&lsquo;zgaruvchan toklar va kuchlanishlar o&lsquo;lchash chegaralarini kengaytirish va yuqori kuchlanishdan o&lsquo;lchash asboblarini izolyatsiyalash uchun tok va kuchlanish transformatorlari mavjud. Kuchlanish transformatori keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png\" alt=\"\" width=\"240\" height=\"215\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png\" alt=\"\" width=\"351\" height=\"299\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Orttiruvchi.png\" alt=\"\" width=\"279\" height=\"253\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Tok transformatori.png\" alt=\"\" width=\"265\" height=\"217\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "O&lsquo;zgaruvchan toklar va kuchlanishlar o&lsquo;lchash chegaralarini kengaytirish va yuqori kuchlanishdan o&lsquo;lchash asboblarini izolyatsiyalash uchun tok va kuchlanish transformatorlari mavjud. Tok transformatori keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Tok transformatori.png\" alt=\"\" width=\"265\" height=\"217\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Orttiruvchi.png\" alt=\"\" width=\"279\" height=\"253\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png\" alt=\"\" width=\"240\" height=\"215\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png\" alt=\"\" width=\"351\" height=\"299\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARMAS KUCHLANISHNI O'ZGARUVCHAN KUCHLANISHGA AYLANTIRISHNI &hellip;&hellip;&hellip;.. TA'MINLAYDI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Konvertor;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Inverter.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilagich.  "
+      }
+    ]
+  },
+  {
+    "question": "PO'LATALUMINIY O'TKAZGICHLARDA PO'LAT SIMLAR QANDAY VAZIFANI BAJARADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mexanik&nbsp; mustaxkamlikni&nbsp; ta'minlaydi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'tkazuvchanlikni oshiradi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quvvat isrofini kamaytiradi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Liniyaning quvvat uzatish qobiliyatini oshiradi  "
+      }
+    ]
+  },
+  {
+    "question": "AMPER KUCHINING YO'NALISHI QAYSI ................... QOIDAGA KO'RA ANIQLANADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Chap&nbsp; qo'l&nbsp; qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'ng qo'l qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Parma qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Lens qoidasi  "
+      }
+    ]
+  },
+  {
+    "question": "TOKLI O'TKAZGICH MAGNIT MAYDONI KUCH CHIZIQLARINING YO'NALISHI QAYSI QOIDAGA KO'RA ANIQLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Parma&nbsp; qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'ng qo'l qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chap qo'l qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Lens qoidasi  "
+      }
+    ]
+  },
+  {
+    "question": "NOCHIZIQLI ELEMENTLAR SIFATIDA O'ZGARMAS KUCHLANISH (TOK) STABILIZATORLARIDA ASOSIY ELEMENT SIFATIDA QANDAY ASBOBLAR ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilitron, stabistor va&nbsp; maydoniy&nbsp; tranzistorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitron, stabistor va drossellar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor va maydoniy tranzistorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drossel, tiristor va stabistorlar  "
+      }
+    ]
+  },
+  {
+    "question": "TO'G'RILAGICH ZANJIRIDAGI DIODLAR QUYIDAGICHA TANLANADI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Teskari kuchlanish va&nbsp; to'g'ri&nbsp; tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri tok va to'g'ridan-to'g'ri kuchlanish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Teskari kuchlanish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ridan-to'g'ri kuchlanish  "
+      }
+    ]
+  },
+  {
+    "question": "RADIOELEKTRON APPARATURALAR O'ZGARTIRGICHLARIDA QO'SHIMCHA QUVVAT KUCHAYTIRGICHLARI NIMA UCHUN ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kichik&nbsp; quvvatli mikrosxemaning boshqarish sigalini kuchaytirish&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish sxemasini invertor bilan moslashtirish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Radioelektron apparaturani ishonchli ishlashi uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTI MANBALARINING ELEKTR TA'MINOTI TIZIMI BILAN ELEKTROMAGNIT MOSLASHUVINI YAXSHILASH UCHUN NIMALAR ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kuchlanishlarning nosimmetrikligini kamaytirish va iste'mol tokining egriligini yaxshilash uchun reaktiv quvvat zahirasini ta'minlaydigan tuzatuvchi&nbsp; qurilmalar&nbsp; ishlatiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Halaqitlarni so'ndirish filtrlar ishlatiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Past chastotali filtrlar ishlatiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar va tiristorlar  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN TOKNI O'ZGARMAS TOKKA AYLANTIRISH UCHUN ...... QURILMALARI ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilash;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Konvertor.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Generatorlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizator.  "
+      }
+    ]
+  },
+  {
+    "question": "SANOAT CHASTOTASI KUCHLANISHINI KO'TARISH VA TUSHIRISH UCHUN QAYSI O'ZGARTIRGICH ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Transformator;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Rektifikator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sinxron motor.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensator.  "
+      }
+    ]
+  },
+  {
+    "question": "АKKUMULYATORLARNI KETMA-KET ULASHDA VA ULARNI JAMLASHDA KERAK BOʼLADIGAN AKKUMULYATORLARNI SONINI ANIQLASHDA QOʼYIDAGI IFODA YORDAMIDA ANIQLANADI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/D.png\" alt=\"\" width=\"159\" height=\"83\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/B.png\" alt=\"\" width=\"195\" height=\"69\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/C.png\" alt=\"\" width=\"174\" height=\"62\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/А.png\" alt=\"\" width=\"148\" height=\"60\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "Bir fazali tokni ikki fazali tokka o&lsquo;zgartirish sxemasi keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Bir fazali tokni ikki fazali tokka o&lsquo;zgartirish sxemasi.png\" alt=\"\" width=\"191\" height=\"143\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png\" alt=\"\" width=\"351\" height=\"299\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png\" alt=\"\" width=\"240\" height=\"215\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Tok transformatori.png\" alt=\"\" width=\"265\" height=\"217\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "Transformatorda faqat elektromagnit aloqaga ega bo&lsquo;lgan kamida ikki cho&lsquo;lg&lsquo;am mavjud.&nbsp; Avtotransformator esa bitta cho&lsquo;lg&lsquo;amdan iborat bo&lsquo;lib, u bir vaqtning o&lsquo;zida ham birlamchi, ham ikkilamchi tarmoqqa tegishli bo&lsquo;ladi. Orttiruvchi avtotransformator keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Orttiruvchi.png\" alt=\"\" width=\"279\" height=\"253\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png\" alt=\"\" width=\"351\" height=\"299\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png\" alt=\"\" width=\"240\" height=\"215\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Tok transformatori.png\" alt=\"\" width=\"265\" height=\"217\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "KONVERTOR CHIQISHIDA O'ZGARMAS KUCHLANISH OLISH UCHUN QAYSI ELEMENT QO'LLANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Diodlar;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator.  "
+      }
+    ]
+  },
+  {
+    "question": "NIMA SABABDAN LINIYA O'TKAZGICHLARI KICHIK DIAMETRLI SIMLARDAN BURALIB TAYYORLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Mexanik&nbsp; mustaxkamlikni&nbsp; oshirish&nbsp; maqsadida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aktiv qarshilikni kamaytirish maqsadida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Induktiv qarshilikni kamaytirish maqsadida  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Liniyaning quvvat uzatish qobiliyatini oshirish maqsadida  "
+      }
+    ]
+  },
+  {
+    "question": "O'LCHOVCHI TOK TRANSFORMATORLARI QAYSI REJIMDA ISHLAYDI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Qisqa&nbsp; tutashuvga yaqin&nbsp; rejimda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Salt ishlashga yaqin rejimda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning ishlash shartiga bog'liq  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama xarakteriga bog'liq  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING SALT ISHLASH REJIMIDA ISTE'MOL QILADIGAN QUVVATI NIMAGA SARF BO'LADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zakdagi&nbsp; yo'qotishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Cho'lg'amdagi yo'qotishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Magnit oqimini hosil qilishga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatordagi umumiy yo'qotishlarga  "
+      }
+    ]
+  },
+  {
+    "question": "NOCHIZIQLI ELEMENTLAR SIFATIDA O'ZGARUVCHAN KUCHLANISh (TOK) STABILIZATORLARIDA ASOSIY ELEMENT SIFATIDA QANDAY&nbsp; ASBOBLAR ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Drossel;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitron.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabistor.  "
+      }
+    ]
+  },
+  {
+    "question": "MITKEVICHNING O'ZGARUVCHAN KUCHLANISHINI TO'G'RILASH SXEMASI KO'RSATILGAN JAVOBNI KO'RSATING?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bir fazali&nbsp; nolinchi chiqish chiqarilgan ikki taktli to'g'rilash&nbsp; sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uch fazali nolinchi chiqish chiqarilgan ikki taktli to'g'rilash sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir fazali nolinchi chiqish chiqarilgan bir taktli to'g'rilash sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir fazali ko'priksimon to'g'rilagich  "
+      }
+    ]
+  },
+  {
+    "question": "PULSATSIYANI SIG'IMLI FILTR BILAN SILLIQLASHNI AMALGA UCHUN &hellip;&hellip;&hellip; ZARUR.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kondensatorning sig'im qarshiligi yuklama qarshiligidan sezilarli darajada kam&nbsp; bo'lishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensatorning sig'im qarshiligi yuklamaning qarshiligiga teng bo'lishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensatorning sig'im qarshiligi yuk qarshiligidan bir oz kamroq bo'lishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensatorning sig'im qarshiligi yuk qarshiligidan biroz kattaroq bo'lishi  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ENERGIYASI TIZIMLARIGA YUQORI GARMONIKALARNING TA'SIRI QUYIDAGICHA NOMOYON BO'LADI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barcha javoblar&nbsp; to'g'ri  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Apparatura izolyatsiyasining eskirishi, buning natijasida xizmat muddatini kamayishi va apparaturaning xato ishlashi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini generatsiyalash, uzatish va undan foydalanish protsesslari samaralarining kamayishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasi tizimlariga yuqori garmonikalarning ta'siri ketma-ket va parallel rezonanslar natijasida toklar va kuchlanishlar garmonikalarining ortishi  "
+      }
+    ]
+  },
+  {
+    "question": "SIG'IMLI SAQLASH MOSLAMALARI QAYSI MAQSADLARDA ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr energiyasini cheklangan miqdorda&nbsp; saqlash&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini qisqa muddatli saqlash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kimyoviy energiyani uzoq muddatli saqlash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini cheksiz muddat saqlash uchun  "
+      }
+    ]
+  },
+  {
+    "question": "ISHLAB CHIQARISH VA MAISHIY ISTE'MOLIGA MOS KELADIGAN KUCHLANISHGA AYLANTIRISH UCHUN QANDAY TRANSFORMATOR QO'LLANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Pasaytiruvchi&nbsp; transformatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Avtotransformatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Moylangan transformatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Quruq transformatorlar  "
+      }
+    ]
+  },
+  {
+    "question": "АKTIV YUKLAMADA ISHLAYOTGAN BIR FAZALI KOʼPRIKSIMON TOʼGʼRILASH SXEMASIDAGI TOKNING TOʼGʼRILANGAN QIYMATI QANDAY ANIQLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "I<sub>0&nbsp;</sub>= 2 / &pi; ∙ I<sub>2m</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "I<sub>0</sub>=&pi;/2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt></math>∙I<sub>2m</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "I<sub>0</sub>=&pi;/2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt></math>∙I<sub>2m</sub>/n  "
+      },
+      {
+        "isTrue": false,
+        "answer": "I<sub>0</sub>=I<sub>2m</sub>/n  "
+      }
+    ]
+  },
+  {
+    "question": "Transformatorda faqat elektromagnit aloqaga ega bo&lsquo;lgan kamida ikki cho&lsquo;lg&lsquo;am mavjud.&nbsp; Avtotransformator esa bitta cho&lsquo;lg&lsquo;amdan iborat bo&lsquo;lib, u bir vaqtning o&lsquo;zida ham birlamchi, ham ikkilamchi tarmoqqa tegishli bo&lsquo;ladi. Kamaytiruvchi avtotransformator keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kamaytiruvchi.png\" alt=\"\" width=\"351\" height=\"299\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Kuchlanish transformatori.png\" alt=\"\" width=\"240\" height=\"215\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Orttiruvchi.png\" alt=\"\" width=\"279\" height=\"253\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/Tok transformatori.png\" alt=\"\" width=\"265\" height=\"217\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "KUCHLANISH STABILIZATORI &hellip;&hellip;&hellip;&hellip;&hellip; TA'MINLAYDI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yuklamdagi kuchlanishning&nbsp; barqarorligini  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan kuchlanishni to'g'rilashni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tog'rilangan kuchlanishning pulsatsiyasini kamayishini  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sanab o'tilgan barcha fikrlar  "
+      }
+    ]
+  },
+  {
+    "question": "QISQA TUTASHTIRGICHLAR NIMA UCHUN XIZMAT QILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Shikastlangan transformatorni uzish uchun sun'iy qisqa tutashuvni hosil&nbsp; qiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Podstansiya jixozlarini o'ta kuchlanishdan ximoyalash uchun sun'iy qisqa tutashuvni xosil qilish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Liniyani o'ta kuchla-nishdan ximoyalash uchun sun'iy qisqa tutashuvni xosil qialadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Liniyani ta'mirlashda uni yerga ulash uchun  "
+      }
+    ]
+  },
+  {
+    "question": "KUCHLANISH TRANSFORMATORLARI QAYSI REJIMDA ISHLAYDI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Salt ishiga yaqin&nbsp; rejimda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Qisqa tutashuvga yaqin rejimda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning ishlash shartiga bog'liq  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklamaga yaqin rejimda  "
+      }
+    ]
+  },
+  {
+    "question": "PASAYTIRUVCHI TRANSFORMATORNING QAYSI CHO'LG'AMIDA TOK KATTA BO'LADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ikkinchisida;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Birinchisida.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama xarakteriga bog'liq.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning ishlash shartiga bog'liq.  "
+      }
+    ]
+  },
+  {
+    "question": "PARAMETRIK STABILIZATORLAR DEB NIMAGA AYTILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Nochiziqli elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan&nbsp; stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiziqli elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kirish elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish elementlarning xossalaridan foydalanib kuchlanishni (tokni) stabillashni amalga oshiradigan stabilizatorlar  "
+      }
+    ]
+  },
+  {
+    "question": "LARIONOVNING O'ZGARUVCHAN KUCHLANISHINI TO'G'RILASH SXEMASI KO'RSATILGAN JAVOBNI KO'RSATING?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Uch fazali ko'priksimon&nbsp; to'g'rilagich  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir fazali nolinchi chiqish chiqarilgan bir taktli to'g'rilash sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir fazali nolinchi chiqish chiqarilgan ikki taktli to'g'rilash sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Uch fazali nolinchi chiqish chiqarilgan ikki taktli to'g'rilash sxemasi  "
+      }
+    ]
+  },
+  {
+    "question": "STABILIZATORNI XARAKTERLOVCHI ASOSIY PARAMETRLAR KO'RSATILJAN JAVOBNI TOPING?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilizatsiya koeffitsienti, chiqish qarshiligi, foydali ish koeffitsienti, chiqish kuchlanishining&nbsp; o'zgarishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatsiya koeffitsienti, chiqish qarshiligi, chiqish kuchlanishining o'zgarishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishining o'zgarishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatsiya koeffitsienti, chiqish qarshiligining o'zgarishi, foydali ish koeffitsienti, chiqish kuchlanishi va tokining o'zgarishi  "
+      }
+    ]
+  },
+  {
+    "question": "PERSONAL KOMPYUTER ELEKTR TA'MINOTI CHIQISH TO'G'RILAGICHLARIDA SHOTTKI DIODLARI NIMA UCHUN QO'LLANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Dinamik yo'qotishlarni kamaytirishg&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Statik yo'qotishlarni kamaytirishg uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Personal kompyuter elektr ta'minoti o'lchamlarini kamaytirish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini generatsiyalash, uzatish va undan foydalanish protsesslari samaralarining kamayishi&nbsp;uchun  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR ENERGIYASINI AKKUMULYATSIYALAYDIGAN QANDAY MODDALARNI BILASIZ?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Havo, suv, kimyoviy moddalar,&nbsp; vodorod  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Suv, tuproq, tosh, kerosin, kislorod, havo, vodorod  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Suv, tuproq, tosh, kerosin, gidratlar, vodorod  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Havo, suv, kimyoviy moddalar, tosh, kerosin, vodorod  "
+      }
+    ]
+  },
+  {
+    "question": "AGAR PASAYTIRUVCH PODSTANSIYAGA 10 KV O'RNIGA 100 KV KUCHLANISH BILAN TA'MINLANSA, XUDDI SHU QUVVAT UZATILISHI SHARTI BILAN, ELEKTR UZATISH LINIYASIDAGI ENERGIYA YO'QOTISHLARI NECHA MARTAGA O'ZGARADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "100 martaga&nbsp; kamayadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "100 baravar ko'payadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "10 baravar ko'payadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmayd  "
+      }
+    ]
+  },
+  {
+    "question": "TOʼGʼRILASH QURILMALARINI TOʼGʼRILASH SXEMASI BOʼYICHA QUYIDAGICHA SINFLARGA AJRATISH MUMKIN:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barchasi;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir fazali va koʼp fazali.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bitta yarim davrli (bir taktli).  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikkita yarim davrli (ikki taktli).  "
+      }
+    ]
+  },
+  {
+    "question": "Bir fazali transformatorning qisqa tutashuv rejimidagi ekvivalent sxemasi keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/4.png\" alt=\"\" width=\"303\" height=\"203\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/2.png\" alt=\"\" width=\"211\" height=\"203\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/3.png\" alt=\"\" width=\"359\" height=\"203\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/5.png\" alt=\"\" width=\"337\" height=\"247\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "STABILIZATOR PARAMETRIK STABILIZATOR DEB ATALADI, AGAR UNING SXEMASIDA QUYIDAGILARDAN BIRI BO'LSA:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tayanch&nbsp; kuchlanish manbai  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Teskari aloqa zanjiri  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish elementi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Barcha ro'yxatdagilar  "
+      }
+    ]
+  },
+  {
+    "question": "MAGNIT MAYDONIDAGI TOKLI O'TKAZGICHGA TA'SIR ETUVCHI ELEKTROMAGINT KUCHNING YO'NALISHI QAYSI QOIDA YOKI QONUN BO'YICHA ANIQLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Chap qo'l&nbsp; qoidasi&nbsp;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'ng qo'l qoidasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektromagnit induksiya qonuni  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Lens prinsipi  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATOR YUKLAMA REJIMIDA UNING QAYSI PARAMETRI ANIQLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Turli&nbsp; yuklamalardagi tashqi xarakteristikasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Rostlash xarakteristikasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Po'lat o'zakdagi yo'qotishlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Cho'lg'amlardagi yo'qotishlar  "
+      }
+    ]
+  },
+  {
+    "question": "UCH FAZALI TOK TARMOG'INI IKKI FAZALI TOK TARMOG'IGA O'ZGARTIRISH UCHUN QANDAY SXEMA QO'LLANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Skott&nbsp; sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mitkeevich sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Larionov sxemasi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Gerts sxemasi  "
+      }
+    ]
+  },
+  {
+    "question": "KOMPENSATSION STABILIZATORLARDA O'LCHOVCHI KUCHAYTIRUVCHI SIFATIDA QAYSI ELEMENT YOKI QURILMALARDAN FOYDALANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Tranzistorlar yoki operatsion&nbsp; kuchaytirgichlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar yoki invertorlardan  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitronlar yoki integral stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "UCH FAZALI KUCHLANISHNI IKKI YARIM DAVRLI TO'GRILASH &hellip;&hellip;&hellip; SXEMA BO'YICHA AMALGA OSHIRILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Larionov;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mitkevich.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorning ikkilamchi cho'lg'amidan nol nuqta chiqish.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqoridagi barcha sxemalar bo'yicha.  "
+      }
+    ]
+  },
+  {
+    "question": "........... CHIQISH KUCHLANISHINING HAQIQIY QIYMATINI BERILGAN QIYMAT BILAN TAQQOSLASHNI AMALGA OSHIRADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kompensatsion&nbsp; stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Parametrik stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tok stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanish stabilizatorlar  "
+      }
+    ]
+  },
+  {
+    "question": "PERSONAL KOMPYUTER ELEKTR TA'MINOTI O'ZGARTIRGICHLARIDA QO'SHIMCHA TA'MINOT MANBAI NIMA UCHUN ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Boshqarish sxemasi va quvvat kuchaytirgichini yordamchi kuchlanish bilan ta'minlash&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Invertorni yordamchi ta'minot kuchlanishi bilan ta'minlash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr ta'minoti manbaini himoyalash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Personal kompyuter elektr ta'minoti o'lchamlarini kamaytirish uchun  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTI TIZIMIDA ELEKTR KONDENSATORLARI ........ UCHUN ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektr energiyasini qisqa muddatli saqlash&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini uzoq muddatli saqlash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik energiyasini uzoq muddatli saqlash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Elektr energiyasini katta hajmda saqlash uchun  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING ISHLASHI PRINTSIPI QANDAY FIZIK HODISAGA ASOSLANGAN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektromagnit&nbsp; induksiya  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Oqimning issiqlik effekti  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Oqimning magnit harakati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kimyoviy hodisa  "
+      }
+    ]
+  },
+  {
+    "question": "SILLIQLOVCHI FILЬTRLARDA SIGʼIM NIMA UCHUN YUKLAMAGA PARALLEL ULANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Kondensator oʼzgaruvchan tok boʼyicha kichik qarshilikka&nbsp; ega  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensator oʼzgaruvchan tok boʼyicha katta qarshilikka ega.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Аktiv-sigʼim yuklama boʼlishi uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq.  "
+      }
+    ]
+  },
+  {
+    "question": "Bir fazali transformatorning yuklama ish rejimidagi ekvivalent sxemasi keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/3.png\" alt=\"\" width=\"359\" height=\"203\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/2.png\" alt=\"\" width=\"211\" height=\"203\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/4.png\" alt=\"\" width=\"303\" height=\"203\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/5.png\" alt=\"\" width=\"337\" height=\"247\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "STABILIZATOR KOMPENSATSION STABILIZATOR DEB ATALADI, AGAR UNING SXEMASI QUYIDAGILARDAN YIG'ILGAN BO'LSA:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barcha&nbsp; ro'yxatdagilar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish elementi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Teskari aloqa zanjiri  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tayanch kuchlanish manbai  "
+      }
+    ]
+  },
+  {
+    "question": "AGAR YOPIQ KONTURNING QISMINI TASHKIL ETUVCHI O'TKAZICH MAGNIT MAYDONIDA MAGNIT OQIMI KUCH CHIZIQLARIGA NISBATAN PERPENDIKULYAR RAVISHDA XARAKAT QILAYOTGAN BO'LSA, UNGA TA'SIR ETUVCHI ELEKTROMAGNIT KUCH QAYSI TOMONGA YO'NALADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'tkazgichning xarakat yo'nalishiga qarshi&nbsp; tomonga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'tkazgichning xarakat yo'nalishi bo'yicha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuch chiziqlari yo'nalishiga qarshi tomonga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuch chiziqlari yo'nalishi bo'yicha  "
+      }
+    ]
+  },
+  {
+    "question": "QAYSI MAQSADGA KO'RA TOK TRANSFORMATORINING IKKILAMCHI CHO'LG'AMI YERGA ULANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ishlovchi xodimlarning xavfsizligini ta'minlash&nbsp; uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Berilgan ish tartibini ta'minlash uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Aniqlik ko'rsatkichlarini oshirish uchun  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformatorni himoyalash uchun  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATOR QANDAY TOK TURI APPARATI HISOBLANADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan&nbsp; tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgarmas tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan va o'zgarmas tok  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tok turiga bog'liq emas  "
+      }
+    ]
+  },
+  {
+    "question": "TAYANCH KUCHLANISH MANBAI QO'YIDAGI ELEMENTLARDAN YIG'ILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilitronlar&nbsp; va integral stabilizatorlarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diodlar va kodensatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar va tiristorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q  "
+      }
+    ]
+  },
+  {
+    "question": "YUKLAMADAGI KUCHLANISHNI TO'G'RILASH VA STABILLASH UCHUN TO'G'RILASH SXEMALARIDA QUYIDAGI ELEMENTLAR QO'LLANILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Barchasi&nbsp; qo'llaniladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Diodlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTIDA TRANSFORMATOR QUYIDAGILARNI TA'MINLAYDI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yuklama&nbsp; va ta'minot tarmog'ining galvanik bog'lanishini ta'minlaydi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tarmoq chastotasi va kuchlanishning o'zgarish uchun xizmat qiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni stabillashtirishni ta'minlaydi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan kuchlanishni to'g'rilash uchun xizmat qiladi  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARTIRGICH TRANSFORMATORI QAYSI CHASTOTALARDA ISHLAYDI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yuqori&nbsp; chastotatalarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "50-60Gs chastotalarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "50Gs dan past chastotalarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "10-20Gs chastotalarda  "
+      }
+    ]
+  },
+  {
+    "question": "INDUKTIV FILTR BILAN PULSATSIYANI YAXSHIROQ SILLIQLASH UCHUN .............. ZARUR.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Drosselning&nbsp; induktiv qarshiligi yuklama qarshiligidan sezilarli darajada katta bo'lishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drosselning induktiv qarshiligi yuklama qarshiligidan ancha past bo'lishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklamaning induktiv qarshiligi drosselning qarshiligiga teng bo'lishi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Drosselning qarshiligini ikki baravar oshirish  "
+      }
+    ]
+  },
+  {
+    "question": "AGAR IKKILAMCHI TRANSFORMATORNING CHO'LG'AMLARI SONI BIRLAMCHISIGA NISBATAN OSHSA, UNDA TRANSFORMATOR NIMA DEB ATALADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ko'paytiruvchi&nbsp; transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Pasaytiruvchi transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tushunarsiz transformator  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqori voltli transformator  "
+      }
+    ]
+  },
+  {
+    "question": "REZONANS FILTRLAR QAYSI HOLLARDA QOʼLLANILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Isteʼmolchi&nbsp; maʼlum bir garmonikaga sezgir boʼlganida;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Katta kirish kuchlanishida.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklama toki katta boʼlganida.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Toʼgʼri javob yoʼq.  "
+      }
+    ]
+  },
+  {
+    "question": "Bir fazali transformatorning salt ishlash rejimidagi ekvivalent sxemasi keltirilgan javobni toping?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/2.png\" alt=\"https://lms.tuit.uz/storage/ITET/2.png\" width=\"211\" height=\"203\" />;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/3.png\" alt=\"\" width=\"359\" height=\"203\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/4.png\" alt=\"\" width=\"303\" height=\"203\" />.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "<img src=\"https://lms.tuit.uz/storage/ITET/5.png\" alt=\"\" width=\"337\" height=\"247\" />.  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN KUCHLANISH PARAMETRIK STABILIZATORLARIDA CHIZIQLI BO'LMAGAN ELEMENTLAR SIFATIDA QAYSI ELEMENT ISHLATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Drossel;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitron.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar.  "
+      }
+    ]
+  },
+  {
+    "question": "<em><strong>IES</strong></em>DA ENERGIYANING O'ZGARISH SXEMASI (KETMA-KETLIGI) QANDAY?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yoqilgi, issiqlik, mexanik,&nbsp; elektr  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Mexanik, issiqlik, elektr  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yoqilgi, mexanik, issiqlik, elektr  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yoqilgi, issiqlik, elektr, mexanik  "
+      }
+    ]
+  },
+  {
+    "question": "QUYOSH ENERGIYASINI ELEKTR ENERGIYASIGA O'ZGARTIRISH JARAYONI QAYSI EFFEKT BILAN BORADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Fotoelektrik;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yadroviy.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kimyoviy.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Issiqlik.  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING ISHLASH PRINSIPI QAYSI QONUNGA ASOSLANGAN?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektromagnit&nbsp; induksiya&nbsp; qonuniga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kulon qonuniga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Amper qonuniga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Lens qonuniga  "
+      }
+    ]
+  },
+  {
+    "question": "KUCHAYTIRUVCHI ELEMENT OPERATSION KUCHAYTIRGICHDA YIG'ILGANDA STABILIZATORNING QAYSI PARAMETRLARI ORTADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilizatsiyalash&nbsp; tezligi.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish toki.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish kuchlanishi.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'ri javob yo'q.  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN KUCHLANISHNI O'ZGARMAS KUCHLANISHGA TO'G'RILASH UCHUN &hellip;&hellip;&hellip; ELEMENTIDAN FOYDALANILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Diod;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistor.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristor.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Barchasi qo'llaniladi.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTIDA TRANSFORMATOR QUYIDAGILARNI TA'MINLAYDI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "O'zgaruvchan&nbsp; kuchlanish amplitudasining o'zgarishini;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kuchlanishni stabillashtirishni.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan kuchlanishni to'g'rilash.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chastota va kuchlanishning o'zgarishini.  "
+      }
+    ]
+  },
+  {
+    "question": "PERSONAL KOMPYUTER ELEKTR TA'MINOTI MANBAI KIRISHIDA VA CHIQISHIDA HALAQITLARNI SO'NDIRISH FILTRLARI NIMA UCHUN QO'YILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yuqori&nbsp; chastotali halaqitlarni so'ndirish uchun;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgartirgichni ta'minot manbaidan galvanik ajratish uchun.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtrlash uchun.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Statik yo'qotishlarni kamaytirishg uchun.  "
+      }
+    ]
+  },
+  {
+    "question": "O'ZGARUVCHAN TOKNI TO'G'RILASH UCHUN UCHUN ...... ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Diodlar;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kondensatorlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilitronlar.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tranzistorlar.  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING ISHLASHI PRINSIPI .........&nbsp; HODISAGA ASOSLANGAN.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Elektromagnit&nbsp; induksiya;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Oqimning magnit harakati;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Oqimning issiqlik effekti;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kimyoviy hodisa;  "
+      }
+    ]
+  },
+  {
+    "question": "KUCHLANISH YOKI TOK STABILIZATORLARI DEB NIMAGA AYTILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Taʼminot&nbsp; kuchlanishi&nbsp; va tok, tarmoq chastotasi, atrof-muhit temperaturasi va boshqalar oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Taʼminot kuchlanishi va tok, atrof-muhit temperaturasi va boshqalar oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Taʼminot kuchlanishi va tarmoq chastotasi oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Taʼminot kuchlanishi va tok oʼzgarganda yuklamadagi tok va kuchlanishni qiymat boʼyicha oʼzgarmas ushlab turuvchi qurilmaga aytiladi.  "
+      }
+    ]
+  },
+  {
+    "question": "Transformatorning asosiy qismlari berk po&lsquo;lat o&lsquo;zak (magnit o&lsquo;tkazgich) va unga o&lsquo;raladigan cho&lsquo;lg&lsquo;amlar hisoblanadi. O&lsquo;zaklar sterjenli, bronli, torreodal, tasmasimon kesimli bo&lsquo;lishi mumkin. Rasmda torreodal o&lsquo;zakni toping? <img src=\"https://lms.tuit.uz/storage/photo_2022-03-07 14.44.35.jpeg\" alt=\"\" width=\"496\" height=\"293\" />  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "3.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "4.  "
+      }
+    ]
+  },
+  {
+    "question": "Transformatorning asosiy qismlari berk po&lsquo;lat o&lsquo;zak (magnit o&lsquo;tkazgich) va unga o&lsquo;raladigan cho&lsquo;lg&lsquo;amlar hisoblanadi. O&lsquo;zaklar sterjenli, bronli, torreodal, tasmasimon kesimli bo&lsquo;lishi mumkin. Rasmda sterjenli o&lsquo;zakni toping? <img src=\"https://lms.tuit.uz/storage/photo_2022-03-07 14.44.35.jpeg\" alt=\"\" width=\"496\" height=\"293\" />  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "3.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "4.  "
+      }
+    ]
+  },
+  {
+    "question": "ELEKTR TA'MINOTIDAGI SILLIQLOVCHI FILTRLAR &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; TA'MINLAYDI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilangan&nbsp; kuchlanish pulsatsiyasining kamayishini;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "O'zgaruvchan kuchlanishni to'g'rilash.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuklamadagi kuchlanishning barqarorligi.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'grilangan kuchlanishning qutblarini o'zgartirish.  "
+      }
+    ]
+  },
+  {
+    "question": "YUKLAMADAGI TO'G'RILANGAN KUCHLANISHNING BARQARORLIGI &hellip;&hellip;&hellip; TA'MINLAYDI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Stabilizator;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Transformator.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilagich.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Silliqlash filtri.  "
+      }
+    ]
+  },
+  {
+    "question": "O'TA YUQORI STABILLAShDA KUCHLANISH VA TOKNING RUHSAT ETILADIGAN O'ZGARISHI NECHA % -GACHA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,1 %&nbsp; gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1-5%gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "0,1-1%gacha.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1-50%gacha  "
+      }
+    ]
+  },
+  {
+    "question": "O'RTA STABILLASHDA KUCHLANISH VA TOKNING RO'HSAT ETILADIGAN O'ZGARISHI NECHA % -GACHA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "1 - 5 % gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "0.1 - 1 % gacha.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "5% gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1-50% gacha  "
+      }
+    ]
+  },
+  {
+    "question": "KUCHLANISH (TOK) STABILIZATORLARI DEB NIMAGA AYTILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Ta'minot&nbsp; kuchlanishi va tok, tarmoq chastotasi, atrof-muhit temperaturasi va boshqalar o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ta'minot kuchlanishi va tok, atrof-muhit temperaturasi va boshqalar o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ta'minot kuchlanishi va tarmoq chastotasi o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ta'minot kuchlanishi va tok o'zgarganda yuklamadagi tok va kuchlanishni qiymat bo'yicha o'zgarmas ushlab turuvchi qurilmaga aytiladi.  "
+      }
+    ]
+  },
+  {
+    "question": "BOSHQARILMAYDIGAN TO'G'RILAGICH CHIQISH KUCHLANISHINI BOSHQARISH IMKONIYATINI BERMAYDI. U HAMISHA &hellip;&hellip;&hellip;&hellip; MUNOSABAT ORQALI ANIQLANADI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "U<sub>0&nbsp;</sub>= K &bull; U<sub>2</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "U<sub>1</sub>=K&bull;U<sub>2</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "U<sub>1</sub>=K&bull;U<sub>0</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "U<sub>2</sub>=K &bull; U<sub>1</sub>.  "
+      }
+    ]
+  },
+  {
+    "question": "PULSATSIYA KOEFFITSIENTI К<sub>p</sub>=0.25 ga TENG BO'LSA QAYSI TO'G'RILAGICHGA TEGISHLI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Uch&nbsp; fazali&nbsp; to'g'rilagichda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'priksimon to'g'rilagichda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki yarim davrli to'g'rilagichda.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Bir yarim davrli to'g'rilagichda  "
+      }
+    ]
+  },
+  {
+    "question": "<em>OFF-LAYN</em> SINFIDAGI UZLUKSIZ ELEKTR TA'MINOTI AGREGATLARIDA ELEKTR ENERGIYASI ISTE'MOLCHIGA QANDAY UZATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Normal rejimda elektr energisi iste'molchi tarmog'iga to'g'ridan-to'g'ri uzatiladi va eletr tarmoqda avariya bo'lganida sinusoidal&nbsp; kuchlanish&nbsp; generatori&nbsp; ulanadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Avariya rejimida elektr energisi iste'molchi tarmog'iga to'g'ridan-to'g'ri uzatiladi va normal rejimda sinusoidal kuchlanish generatori ulanadi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Har qanday rejimlarda sinusoidal kuchlanish generatoridan kuchlanish, chastota va sinusoidallik bo'yicha stabil elektr energiyasi yuklamaga uzatiladi.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Boshqarish sxemasi orqali, u ortqcha yuklanish haqida himoya rezistoridan signal oladi  "
+      }
+    ]
+  },
+  {
+    "question": "FILTRNING CHQISHIDA PULSATSIYA KOEFFITSIENTI ...................... TENG.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "K<sub>p.chiq.</sub> = U<sub>01m</sub>/U<sub>o</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "K<sub>p.chiq.</sub>=U<sub>01m</sub>/U<sub>н1m</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "K<sub>p.chiq.</sub>=U<sub>01m</sub>*U<sub>o</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "K<sub>p.chiq.</sub>=U0<sub>1m</sub>+U<sub>o</sub>.  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING BIRLAMCHI CHO'LG'AMIDAGI O'RAMLAR SONI IKKILAMCHI CHO'LG'AMDAGI O'RAMLAR SONIDAN 2 BARAVAR KAM BO'LSA TRANSFORMATORNING IKKILAMCHI CHO'LG'AMIDAGI KUCHLANISH NIMAGA TENG?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "U / 2  "
+      },
+      {
+        "isTrue": false,
+        "answer": "0  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2U  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1/3U.  "
+      }
+    ]
+  },
+  {
+    "question": "ISHLASH PRINTSIPIGA KOʼRA STABILIZATORLAR NECHA TURGA AJRATILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Prametrik,&nbsp; kompensatsion va impulsli stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Paremetrik stabilizatorlar, impulьsli stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ferrorezonansli va parametrik stabilizatorlar  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ferrorezonansli, prametrik, kompensatsion va impulsli stabilizatorlar.  "
+      }
+    ]
+  },
+  {
+    "question": "Transformatorning asosiy qismlari berk po&lsquo;lat o&lsquo;zak (magnit o&lsquo;tkazgich) va unga o&lsquo;raladigan cho&lsquo;lg&lsquo;amlar hisoblanadi. O&lsquo;zaklar sterjenli, bronli, torreodal, tasmasimon kesimli bo&lsquo;lishi mumkin. Rasmda tasmasimon kesimli o&lsquo;zakni toping? <img src=\"https://lms.tuit.uz/storage/photo_2022-03-07 14.44.35.jpeg\" alt=\"\" width=\"496\" height=\"293\" />  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "4  "
+      },
+      {
+        "isTrue": false,
+        "answer": "3  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1  "
+      }
+    ]
+  },
+  {
+    "question": "TO'GRILANGAN KUCHLANISH PULSATSIYA KOEFFITSIYENTI QUYIDAGI NISBATNI KO'RSATADI:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilangan&nbsp; kuchlanishning o'zgaruvchan tashkil etuvchisini to'g'rilangan kuchlanishning doimiy tashkil etuvchisiga  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilangan kuchlanishning o'zgaruvchan tashkil etuvchisini to'g'rilangan kuchlanish amplitudasiga nisbati  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilangan kuchlanishning doimiy tashkil etuvchisini to'g'rilangan kuchlanish amplitudasiga nisbati.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilangan kuchlanishning doimiy tashkil etuvchisini o'zgaruvchan tashkil etuvchisiga nisbati  "
+      }
+    ]
+  },
+  {
+    "question": "STABILIZATOR O'ZGARUVCHAN KUCHLANISH STABILIZATORLARIGA TAALLUQLIDIR, AGAR U:  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "To'g'rilagichda&nbsp; oldin ulangan bo'lsa  "
+      },
+      {
+        "isTrue": false,
+        "answer": "To'g'rilagichda keyin ulangan bo'lsa  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Filtrdan keyin ulangan bo'lsa  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Stabilizatorlarni oldin yoki keyin ulab bo'lmaydi.  "
+      }
+    ]
+  },
+  {
+    "question": "DVIGATEL - GENERATORLARI, TIRISTOR YOKI IONLI O'ZGARTIRGICHLAR &hellip;&hellip;&hellip; UCHUN ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Sanoat chastotasining o'zgaruvchan tokini (50 Hz) yuqori va yuqori chastotali tokka aylantirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sanoat chastotasining o'zgaruvchan tokini (60Hz) yuqori chastotali tokka aylantirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sanoat chastotasining o'zgaruvchan tokini (60Hz) yuqori chastotali oqimlarga aylantirish  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Sanoat chastotasining o'zgaruvchan tokini (50Hz) chastotaning ko'paygan tokka o'tkazish.  "
+      }
+    ]
+  },
+  {
+    "question": "YUQORI STABILLASHDA KUCHLANISH VA TOKNING RO'HSAT ETILADIGAN O'ZGARIShI NEChA % -GACHA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "0,1 - 1 % gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1-5% gacha.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "5 % gacha.  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1-50 % gacha  "
+      }
+    ]
+  },
+  {
+    "question": "KICHIK STABILLASHDA KUCHLANISH VA TOKNING RO'HSAT ETILADIGAN O'ZGARIShI NECHA % -GACHA?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "5 % gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "67% gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "50% gacha  "
+      },
+      {
+        "isTrue": false,
+        "answer": "1% gacha  "
+      }
+    ]
+  },
+  {
+    "question": "&hellip;&hellip;&hellip;&hellip; DC/DC KONVERTORLARI IQTISODIY JIHATDAN SAMARALI VA IXCHAM MANBALAR SIFATIDA ISHLATILADI.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Yuqori&nbsp; kuchlanishlarda&nbsp;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqori chastotalarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Doimiy toklarda  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Yuqori quvvatlarda  "
+      }
+    ]
+  },
+  {
+    "question": "PULSATSIYA KOEFFITSIENTI К<sub>p</sub>=1,57 ga TENG BO'LSA QAYSI TO'G'RILAGICHGA TEGISHLI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Bir yarim&nbsp; davrli&nbsp; to'g'rilagich  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ikki yarim davrli to'g'rilagich&nbsp;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Ko'priksimon to'g'rilagich  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Tiristorli to'g'rilagich  "
+      }
+    ]
+  },
+  {
+    "question": "RADIOELEKTRON APPARATURA ELEKTR TA'MINOTI MANBAI O'ZGARTIRGICHI TRANZISTORLARINI XIMOYALASH QANDAY AMALGA OSHIRILADI?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "Boshqarish&nbsp; sxemasi orqali,&nbsp; u ortqcha yuklanish haqida himoya rezistoridan signal&nbsp; oladi  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Chiqish&nbsp; LC&nbsp; filtri&nbsp; orqali  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Kirish&nbsp; impulsli&nbsp; stabilizatori&nbsp; orqali  "
+      },
+      {
+        "isTrue": false,
+        "answer": "Generator&nbsp; orqali  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATSIYA KOEFFITSIENTI .............. GA TENG.  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "K<sub>t&nbsp;</sub>= E<sub>1&nbsp;</sub>/ E<sub>2&nbsp;</sub>= W<sub>1</sub>/W<sub>2</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "K<sub>t</sub>=E<sub>2</sub>/E<sub>1</sub>=W<sub>1</sub>/W<sub>2</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "K<sub>t</sub>=E<sub>1</sub>/E<sub>2</sub>=W<sub>2</sub>/W<sub>1</sub>  "
+      },
+      {
+        "isTrue": false,
+        "answer": "K<sub>t</sub>=E<sub>1</sub>*E<sub>2</sub>=W<sub>2</sub>*W<sub>1</sub>  "
+      }
+    ]
+  },
+  {
+    "question": "TRANSFORMATORNING BIRLAMCHI CHO'LG'AMIDAGI O'RAMLAR SONI IKKILAMCHI CHO'LG'AMDAGI O'RAMLAR SONIDAN 2 BARAVAR KO'P BO'LSA TRANSFORMATORNING IKKINCHI CHO'LG'AMIDAGI KUCHLANISH NIMAGA TENG?  ",
+    "answers": [
+      {
+        "isTrue": true,
+        "answer": "2 U;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "U;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "U/2;  "
+      },
+      {
+        "isTrue": false,
+        "answer": "2/3U;  "
+      }
+    ]
+  }
+]

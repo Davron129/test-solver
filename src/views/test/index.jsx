@@ -16,7 +16,6 @@ const Test = () => {
 
     const handleNumberClick = (num) => {
         setTestNum(num)
-        console.log(questions[num])
     }
 
     const handleRefresh = () => {
@@ -26,7 +25,6 @@ const Test = () => {
     const handleSubmit = (e) => {
         e.preventDefault()
 
-        console.log(questions[testNum]);
         if(questions[testNum].isChecked === null) {
             dispatch(checkTest({ testNumber: testNum, answerNumber: checkAnswer }))
         }
@@ -86,7 +84,7 @@ const Test = () => {
                                 <div className={Styles.test__body}>
                                     <div className={Styles.question}>
                                         <span>
-                                            { testNum + 1 }.  { questions[testNum]?.question }
+                                            { testNum + 1 }.  <span dangerouslySetInnerHTML={{ __html: questions[testNum]?.question }}></span>
                                         </span>
                                     </div>
                                     <form className={Styles.answers} onSubmit={handleSubmit}>
@@ -94,7 +92,8 @@ const Test = () => {
                                             questions[testNum]?.answers.map((el, index) => (
                                                 <label 
                                                     className={`${Styles.answer} ${questions[testNum].isChecked === index ? Styles.checked : ''} ${(questions[testNum].isChecked !== null && questions[testNum].trueIndex === index) ? Styles.true : ''}  `} 
-                                                    key={el.answer}>
+                                                    key={el.answer}
+                                                    >
                                                     {
                                                         questions[testNum].isChecked === null && (
                                                             <input 
@@ -111,7 +110,7 @@ const Test = () => {
                                                             />
                                                         )
                                                     }
-                                                    <div>{ index + 1 }. { el.answer }</div>
+                                                    <div>{ index + 1 }. <span dangerouslySetInnerHTML={{ __html: el.answer }}></span> </div>
                                                 </label>
                                             ))
                                         }
